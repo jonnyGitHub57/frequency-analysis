@@ -10,7 +10,7 @@ Use 'cd' or other commands/methods to go to a user directory where the tool is t
 
 ### Blockquote
 
-> $ git clone 
+> $ git clone https://github.com/jonnyGitHub57/frequency-analysis.git
 
 
 
