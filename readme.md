@@ -18,6 +18,8 @@ Use 'cd' or other commands/methods to go to a user directory where the tool is t
 
 ![alt text](https://www.markdownguide.org/assets/images/tux.png)
 
+### A guide to the user interface
+
 
 
 
