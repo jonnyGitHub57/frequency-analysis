@@ -8,15 +8,17 @@ The tool has a simple user-interface that will be described in relative detail b
 
 Use 'cd' or other commands/methods to go to a user directory where the tool is to be installed:
 
-### Blockquote
+### Clone git repository
 
 > $ git clone https://github.com/jonnyGitHub57/frequency-analysis.git
 
-
+![img.png](img.png)
 
 ### Image
 
 ![alt text](https://www.markdownguide.org/assets/images/tux.png)
 
-## Extended Syntax
+
+
+
 
