@@ -1,0 +1,46 @@
+% !TeX spellcheck = en_US
+% Basic ESD by Jonny strandh
+\documentclass[titlepage] {book}
+\usepackage[paperwidth=7.5in, paperheight=9.25in,
+inner=35mm, outer=25mm,
+tmargin=25mm, bmargin=30mm]{geometry}
+\usepackage[T1]{fontenc}
+\usepackage[english]{babel}
+
+% Picture handling
+\usepackage{wrapfig}
+%\usepackage{graphicx}
+\usepackage[pdftex]{graphicx}
+\DeclareGraphicsExtensions{.pdf,.png,.jpg,.gif,.eps}
+\graphicspath{{./Bilder/}}
+\usepackage{eepic}
+%\usepackage[dvips]{graphicx}
+% Table formatting
+\usepackage{array}
+\usepackage{amsmath}
+\setlength{\extrarowheight}{3.0pt}
+% Front page information
+\author{Jonny Strandh}
+\title{ESD Cookbook}
+\usepackage{makeidx}
+\makeindex
+% Text document
+\begin{document}
+	% Create the front page
+	\maketitle
+	\newpage
+	\tableofcontents
+	\newpage
+	\chapter{Foreword}
+    The book that got me into the world of electronics was 'TTL Cookbook' by Don Lancaster - hence the name of this book 'ESD Cookbook'.
+    
+    % \input{./Zones.tex}    
+   
+    % Below are the appendices 
+	% \appendix
+    
+	%\input{./compliance_testing.tex}    
+	% Aplhabetic index; use 'index' in the 'Tools' meny to update it and re-compile
+	\printindex
+	
+\end{document}

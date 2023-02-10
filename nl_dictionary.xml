@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+    <word>
+		<lemma>hond</lemma>
+		<tag>NOUN</tag>
+		<gender>de</gender>
+		<swedish>hund</swedish>
+		<synonym />
+		<counter>1</counter>
+		<index>2021-12-28 17:26:46.346109</index>
+	</word>
+	<word>
+		<lemma>water</lemma>
+		<tag>NOUN</tag>
+		<gender>het</gender>
+		<swedish>vatten</swedish>
+		<synonym />
+		<counter>1</counter>
+		<index>2021-12-28 17:26:46.346142</index>
+	</word>
+</dictionary>

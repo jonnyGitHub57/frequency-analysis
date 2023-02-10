@@ -1,0 +1,213 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dictionary>
+	<verb_listing>
+		<list_items>sing_1 sing_2 sing_3 plur_1 plur_2 plur_3</list_items>
+	</verb_listing>
+	<gender_article>
+		<m>un</m>
+		<n>un</n>
+		<f>o</f>
+	</gender_article>
+	<transl_table>
+		<intab>ŞşŢţ</intab>
+		<outtab>ȘșȚț</outtab>
+	</transl_table>
+	<info_files>
+		<substantiv>file:///home/jonny/Documents/Studier/Lingvistik/Glos_program/Romanian/Substantiv_info.html</substantiv>
+		<verb>file:///home/jonny/Documents/Studier/Lingvistik/Glos_program/Romanian/Verb_exempel.html</verb>
+		<pronomen>file:///home/jonny/Documents/Studier/Lingvistik/Glos_program/Romanian/Pronomen_info.html</pronomen>
+		<adjektiv>file:///home/jonny/Documents/Studier/Lingvistik/Glos_program/Romanian/Adjektiv_info.html</adjektiv>
+		<yrken>file:///home/jonny/Documents/Studier/Lingvistik/Glos_program/Romanian/Yrken_info.html</yrken>
+		<prepositioner>file:///home/jonny/Documents/Studier/Lingvistik/Glos_program/Romanian/Prepositioner_info.html</prepositioner>
+		<hustermer>file:///home/jonny/Documents/Studier/Lingvistik/Glos_program/Romanian/Hustermer_info.html</hustermer>
+	</info_files>
+	<template>
+		<lemma>hond</lemma>
+		<tag>NOUN</tag>		
+		<gender>de</gender>
+		<definite />
+		<swedish>hund</swedish>
+		<explanation>(substantief)</explanation>
+		<plural />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2021-12-28 17:26:46.346109</index>
+	</template>
+	<template>
+		<tag>ADJ</tag>		
+		<lemma>goed</lemma>
+		<komparativ>beter</komparativ>
+		<superlativ>best</superlativ>
+		<cathegory>0</cathegory>
+		<swedish>bra</swedish>
+		<explanation>(bijvoeglijk naamwoord)</explanation>
+		<index>2021-12-28 16:52:30.245779</index>
+		<synonym />
+		<opposite />
+		<spare />
+		<counter>1</counter>
+	</template>
+	<template>
+		<tag>VERB</tag>		
+		<lemma>blijken</lemma>
+		<sing_1 />
+		<sing_2 />
+		<sing_3 />
+		<plur_1 />
+		<plur_2 />
+		<plur_3 />
+		<pret_sing>bleek</pret_sing>
+		<pret_plur>bleken</pret_plur>
+		<perfekt>gebleken</perfekt>
+		<supp_verb>is</supp_verb>
+		<cathegory>1</cathegory>
+		<swedish>förefalla/bevisa/visa</swedish>
+		<explanation>(werkwoord)</explanation>
+		<index>2021-12-28 16:41:32.272905</index>
+		<synonym />
+		<opposite />
+		<spare />
+		<counter>1</counter>
+	</template>
+	<template>
+		<lemma>spreken</lemma>
+		<tag>ADV</tag>		
+		<swedish>talar/pratar (flera)</swedish>
+		<explanation>(bijwoord)</explanation>
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2021-12-28 17:26:46.346198</index>
+	</template>
+	<template>
+		<lemma>spreken</lemma>
+		<tag>PRON</tag>		
+		<swedish>talar/pratar (flera)</swedish>
+		<explanation>(voornaamwoord)</explanation>
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2021-12-28 17:26:46.346198</index>
+	</template>
+	<template>
+		<lemma>spreken</lemma>
+		<tag>SCONJ</tag>		
+		<swedish>talar/pratar (flera)</swedish>
+		<explanation>(sub-ord conj)</explanation>
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2021-12-28 17:26:46.346198</index>
+	</template>
+	<template>
+		<lemma>spreken</lemma>
+		<tag>X</tag>		
+		<swedish>talar/pratar (flera)</swedish>
+		<explanation>(other)</explanation>
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2021-12-28 17:26:46.346198</index>
+	</template>
+	<template>
+		<lemma>spreken</lemma>
+		<tag>SYM</tag>		
+		<swedish>talar/pratar (flera)</swedish>
+		<explanation>(symbol)</explanation>
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2021-12-28 17:26:46.346198</index>
+	</template>
+	<template>
+		<lemma>spreken</lemma>
+		<tag>PUNCT</tag>		
+		<swedish>talar/pratar (flera)</swedish>
+		<explanation>(punctuation)</explanation>
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2021-12-28 17:26:46.346198</index>
+	</template>
+	<template>
+		<lemma>spreken</lemma>
+		<tag>PROPN</tag>
+		<swedish>talar/pratar (flera)</swedish>
+		<explanation>(proper noun)</explanation>
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2021-12-28 17:26:46.346198</index>
+	</template>
+	<template>
+		<lemma>spreken</lemma>
+		<tag>PART</tag>		
+		<swedish>talar/pratar (flera)</swedish>
+		<explanation>(particular)</explanation>
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2021-12-28 17:26:46.346198</index>
+	</template>
+	<template>
+		<lemma>spreken</lemma>
+		<tag>NUM</tag>		
+		<swedish>talar/pratar (flera)</swedish>
+		<explanation>(numeral)</explanation>
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2021-12-28 17:26:46.346198</index>
+	</template>
+	<template>
+		<lemma>spreken</lemma>
+		<tag>INTJ</tag>		
+		<swedish>talar/pratar (flera)</swedish>
+		<explanation>(interjection)</explanation>
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2021-12-28 17:26:46.346198</index>
+	</template>
+	<template>
+		<lemma>spreken</lemma>
+		<tag>DET</tag>		
+		<swedish>talar/pratar (flera)</swedish>
+		<explanation>(determin)</explanation>
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2021-12-28 17:26:46.346198</index>
+	</template>
+	<template>
+		<lemma>spreken</lemma>
+		<tag>AUX</tag>		
+		<swedish>talar/pratar (flera)</swedish>
+		<explanation>(auxiliary)</explanation>
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2021-12-28 17:26:46.346198</index>
+	</template>
+	<template>
+		<lemma>spreken</lemma>
+		<tag>CCONJ</tag>		
+		<swedish>talar/pratar (flera)</swedish>
+		<explanation>()</explanation>
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2021-12-28 17:26:46.346198</index>
+	</template>
+	<template>
+		<lemma>spreken</lemma>
+		<tag>ADP</tag>		
+		<swedish>talar/pratar (flera)</swedish>
+		<explanation>(prepoziție)</explanation>
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2021-12-28 17:26:46.346198</index>
+	</template>
+</dictionary>

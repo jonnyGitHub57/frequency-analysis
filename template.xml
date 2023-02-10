@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+    <template>
+		<lemma>hond</lemma>
+		<tag>NOUN</tag>
+		<gender>de</gender>
+		<swedish>hund</swedish>
+		<synonym />
+		<counter>1</counter>
+		<index>2021-12-28 17:26:46.346109</index>
+	</template>
+	<template>
+		<tag>ADJ</tag>
+		<lemma>goed</lemma>
+		<komparativ>beter</komparativ>
+		<superlativ>best</superlativ>
+		<cathegory>0</cathegory>
+		<swedish>bra</swedish>
+		<index>2021-12-28 16:52:30.245779</index>
+		<synonyms />
+		<spare />
+		<counter>1</counter>
+	</template>
+	<template>
+		<tag>VERB</tag>
+		<lemma>blijken</lemma>
+		<pret_sing>bleek</pret_sing>
+		<pret_plur>bleken</pret_plur>
+		<perfekt>gebleken</perfekt>
+		<supp_verb>is</supp_verb>
+		<cathegory>1</cathegory>
+		<swedish>förefalla/bevisa/visa</swedish>
+		<index>2021-12-28 16:41:32.272905</index>
+		<synonyms />
+		<spare />
+		<counter>1</counter>
+	</template>
+	<template>
+		<lemma>spreken</lemma>
+		<tag>MISC</tag>
+		<swedish>talar/pratar (flera)</swedish>
+		<synonym />
+		<counter>1</counter>
+		<index>2021-12-28 17:26:46.346198</index>
+	</template>
+</dictionary>
