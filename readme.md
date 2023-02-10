@@ -14,9 +14,12 @@ Use 'cd' or other commands/methods to go to a user directory where the tool is t
 
 ### Install Stanza NLP, Google Translate Python API and Pdfplumber
 
->pip install stanza
->pip install googletrans
->pip install pdfplumber
+> $ pip install stanza
+
+> $ pip install googletrans
+
+> $ pip install pdfplumber
+
 
 ![img.png](img.png)
 
