@@ -1,3 +1,18 @@
 *.jpeg
 *.jpg
+*.pdf
+*.pyc
+py-googletrans*
+Test1.txt
+*.old
+Example.pdf
+pdf_test.py
+*.png
+*.log
+*.idx
+*.toc
+*.gz
+*.aux
+*report.tex
+*pycache*
 
