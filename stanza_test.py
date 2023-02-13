@@ -152,7 +152,9 @@ class XML_statistics(object):
         else:
             found_elements = []
             for child in elements:
-                if file_name == child.find('filename').text:
+                used_file = child.find('filename').text
+                if used_file.find(file_name) != -1:
+                # if file_name == child.find('filename').text:
                     found_elements.append(child)
         
         return(found_elements)
@@ -240,13 +242,15 @@ if __name__=='__main__':
         file_in_use = True
         while file_in_use == True:
             source_file = easygui.fileopenbox()
-            found_files = this_language.find_file_in_tree(source_file)
+            file_name = re.split(r'[\/]', source_file)[-1]
+            found_files = this_language.find_file_in_tree(file_name)
+            # found_files = this_language.find_file_in_tree(source_file)
             if found_files == []:
                 file_in_use = False
             else:
                 file_in_use = (input('File in use. Use anyway Y/n: ') != 'Y')
         try:
-            print('Analyzing: ', source_file)
+            print('Analyzing: ', file_name)
             pdf_file = pdfplumber.open(source_file)
             totalpages = len(pdf_file.pages)
             print("Antal sidor i dokumentet", totalpages)
