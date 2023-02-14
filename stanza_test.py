@@ -242,6 +242,10 @@ if __name__=='__main__':
         file_in_use = True
         while file_in_use == True:
             source_file = easygui.fileopenbox()
+            """
+            Strip away the path and search the xml-file for previous use of
+            the selected file (name).
+            """
             file_name = re.split(r'[\/]', source_file)[-1]
             found_files = this_language.find_file_in_tree(file_name)
             # found_files = this_language.find_file_in_tree(source_file)

@@ -4600,4 +4600,124 @@
 		<counter>1</counter>
 		<index>2023-02-13 17:32:51.877035</index>
 	</word>
+	<word>
+		<tag>ADJ</tag>
+		<lemma>amabil</lemma>
+		<komparativ />
+		<superlativ />
+		<cathegory />
+		<swedish>vänlig, snäll</swedish>
+		<explanation />
+		<example_use>Ea este amabilă</example_use>
+		<index>2023-02-14 05:11:03.001368</index>
+		<synonym />
+		<opposite />
+		<spare />
+		<counter>1</counter>
+	</word>
+	<word>
+		<tag>ADJ</tag>
+		<lemma>corect</lemma>
+		<komparativ />
+		<superlativ />
+		<cathegory />
+		<swedish>korrekt</swedish>
+		<explanation />
+		<example_use />
+		<index>2023-02-14 05:13:11.153663</index>
+		<synonym />
+		<opposite />
+		<spare />
+		<counter>1</counter>
+	</word>
+	<word>
+		<tag>ADJ</tag>
+		<lemma>curat</lemma>
+		<komparativ />
+		<superlativ />
+		<cathegory />
+		<swedish>ren (inte smutsig)</swedish>
+		<explanation />
+		<example_use>Mașina este curată.</example_use>
+		<index>2023-02-14 05:14:34.545869</index>
+		<synonym />
+		<opposite />
+		<spare />
+		<counter>1</counter>
+	</word>
+	<word>
+		<tag>ADJ</tag>
+		<lemma>dificil</lemma>
+		<komparativ />
+		<superlativ />
+		<cathegory />
+		<swedish>svår, besvärlig</swedish>
+		<explanation>eng. 'difficult'</explanation>
+		<example_use />
+		<index>2023-02-14 05:16:26.099088</index>
+		<synonym />
+		<opposite />
+		<spare />
+		<counter>1</counter>
+	</word>
+	<word>
+		<tag>ADJ</tag>
+		<lemma>dinamic</lemma>
+		<komparativ />
+		<superlativ />
+		<cathegory />
+		<swedish>dynamisk</swedish>
+		<explanation />
+		<example_use>Celegii sunt dinamici.</example_use>
+		<index>2023-02-14 05:17:48.029363</index>
+		<synonym />
+		<opposite />
+		<spare />
+		<counter>1</counter>
+	</word>
+	<word>
+		<tag>ADJ</tag>
+		<lemma>disponibil</lemma>
+		<komparativ />
+		<superlativ />
+		<cathegory />
+		<swedish>tillgänglig, disponibel</swedish>
+		<explanation />
+		<example_use />
+		<index>2023-02-14 05:21:06.521702</index>
+		<synonym />
+		<opposite />
+		<spare />
+		<counter>1</counter>
+	</word>
+	<word>
+		<tag>ADJ</tag>
+		<lemma>inteligent</lemma>
+		<komparativ />
+		<superlativ />
+		<cathegory />
+		<swedish>intelligent</swedish>
+		<explanation />
+		<example_use />
+		<index>2023-02-14 05:21:48.005866</index>
+		<synonym />
+		<opposite />
+		<spare />
+		<counter>1</counter>
+	</word>
+	<word>
+		<tag>ADJ</tag>
+		<lemma>interesant</lemma>
+		<komparativ />
+		<superlativ />
+		<cathegory />
+		<swedish>intressant</swedish>
+		<explanation />
+		<example_use>Sunt foarte interesant!</example_use>
+		<index>2023-02-14 05:23:01.576771</index>
+		<synonym />
+		<opposite />
+		<spare />
+		<counter>1</counter>
+	</word>
 </dictionary>
