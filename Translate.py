@@ -84,7 +84,7 @@ class User_translate(object):
 Test code that only execute as 'main'
 """
 if __name__=='__main__':
-    print('Run class \'User_translate\' test code')
+    # print('Run class \'User_translate\' test code')
     #print(googletrans.LANGUAGES)
     
     translator = User_translate('Nederlands')
