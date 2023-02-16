@@ -14,9 +14,15 @@ Use 'cd' or other commands/methods to go to a user directory where the tool is t
 
 ### Install Stanza NLP, Google Translate Python API and Pdfplumber
 
+Install the stanza NLP (Natural Language Processor) with:
+
 > $ pip install stanza
 
-> $ pip install googletrans
+Install the Google translate Python API:
+
+> $ pip install googletransgoogletrans==3.1.0a0
+
+Install Pdfplumber Python package to convert the text in pdf files to plain text:
 
 > $ pip install pdfplumber
 
