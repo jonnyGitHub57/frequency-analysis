@@ -4720,4 +4720,194 @@
 		<spare />
 		<counter>1</counter>
 	</word>
+	<word>
+		<lemma>dată</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<definite>data</definite>
+		<swedish>datum(et)</swedish>
+		<explanation />
+		<example_use />
+		<plural>date</plural>
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-02-19 15:16:53.612553</index>
+	</word>
+	<word>
+		<lemma>examen</lemma>
+		<tag>NOUN</tag>
+		<gender>n</gender>
+		<definite />
+		<swedish>examen</swedish>
+		<explanation />
+		<example_use />
+		<plural>examene</plural>
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-02-19 15:18:23.330982</index>
+	</word>
+	<word>
+		<lemma>sâmbătă</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<definite />
+		<swedish>lördag(en)</swedish>
+		<explanation />
+		<example_use />
+		<plural>sâmbete</plural>
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-02-19 15:21:13.100908</index>
+	</word>
+	<word>
+		<lemma>zi</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<definite />
+		<swedish>dag(en)</swedish>
+		<explanation />
+		<example_use />
+		<plural>zile</plural>
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-02-19 15:23:23.004066</index>
+	</word>
+	<word>
+		<tag>VERB</tag>
+		<lemma>crede</lemma>
+		<sing_1>cred</sing_1>
+		<sing_2>crezi</sing_2>
+		<sing_3>crede</sing_3>
+		<plur_1>credem</plur_1>
+		<plur_2>credeți</plur_2>
+		<plur_3>cred</plur_3>
+		<pret_sing />
+		<pret_plur />
+		<perfekt />
+		<supp_verb />
+		<cathegory />
+		<swedish>tänka, tro</swedish>
+		<explanation />
+		<example_use />
+		<index>2023-02-19 15:28:18.618088</index>
+		<synonym />
+		<opposite />
+		<spare />
+		<counter>1</counter>
+	</word>
+	<word>
+		<lemma>personal</lemma>
+		<tag>ADV</tag>
+		<swedish>personligen</swedish>
+		<explanation />
+		<example_use>Personal, cred că...</example_use>
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-02-19 16:22:37.427840</index>
+	</word>
+	<word>
+		<lemma>opinie</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<definite>opinia</definite>
+		<swedish>uppfattning(en)</swedish>
+		<explanation>eng. 'opinion'</explanation>
+		<example_use>Opinia mea este...</example_use>
+		<plural>opinii</plural>
+		<synonym>părere</synonym>
+		<opposite />
+		<counter>1</counter>
+		<index>2023-02-19 16:24:46.538214</index>
+	</word>
+	<word>
+		<lemma>părere</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<definite>părerea</definite>
+		<swedish>uppfattning(en), opinion(en)</swedish>
+		<explanation>eng. 'opinion'</explanation>
+		<example_use>Părerea mea este...</example_use>
+		<plural>păreri</plural>
+		<synonym>opinie</synonym>
+		<opposite />
+		<counter>1</counter>
+		<index>2023-02-19 16:33:11.835280</index>
+	</word>
+	<word>
+		<lemma>lucru</lemma>
+		<tag>NOUN</tag>
+		<gender>n</gender>
+		<definite />
+		<swedish>sak(en), grej(en)</swedish>
+		<explanation>eng. 'thing'</explanation>
+		<example_use>Și eu văd lucrurile la fel.</example_use>
+		<plural>lucruri</plural>
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-02-19 16:40:55.036627</index>
+	</word>
+	<word>
+		<lemma>lună</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<definite>luna</definite>
+		<swedish>månad(en)</swedish>
+		<explanation />
+		<example_use>În fiecare lună.</example_use>
+		<plural>luni</plural>
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-02-19 16:54:22.604861</index>
+	</word>
+	<word>
+		<lemma>săptămână</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<definite>săptămâna</definite>
+		<swedish>vecka(n)</swedish>
+		<explanation />
+		<example_use>În fiecare săptămână</example_use>
+		<plural>săptămâni</plural>
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-02-19 16:59:17.808863</index>
+	</word>
+	<word>
+		<tag>ADJ</tag>
+		<lemma>următor</lemma>
+		<komparativ />
+		<superlativ />
+		<cathegory />
+		<swedish>nästa</swedish>
+		<explanation>eng. 'next'</explanation>
+		<example_use>Săptămâna următoare</example_use>
+		<index>2023-02-19 17:05:50.128871</index>
+		<synonym>viitor</synonym>
+		<opposite />
+		<spare />
+		<counter>1</counter>
+	</word>
+	<word>
+		<tag>ADJ</tag>
+		<lemma>viitor</lemma>
+		<komparativ />
+		<superlativ />
+		<cathegory />
+		<swedish>nästa</swedish>
+		<explanation>eng. 'next'</explanation>
+		<example_use>Săptămâna viitoare</example_use>
+		<index>2023-02-19 17:07:34.515108</index>
+		<synonym>următor</synonym>
+		<opposite />
+		<spare />
+		<counter>1</counter>
+	</word>
 </dictionary>
