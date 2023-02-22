@@ -3268,7 +3268,7 @@
 		<sing_2>cazi</sing_2>
 		<sing_3>cade</sing_3>
 		<plur_1>cădem</plur_1>
-		<plur_2>cadeți</plur_2>
+		<plur_2>cădeți</plur_2>
 		<plur_3>cad</plur_3>
 		<pret_sing />
 		<pret_plur />
@@ -4906,6 +4906,54 @@
 		<example_use>Săptămâna viitoare</example_use>
 		<index>2023-02-19 17:07:34.515108</index>
 		<synonym>următor</synonym>
+		<opposite />
+		<spare />
+		<counter>1</counter>
+	</word>
+	<word>
+		<lemma>profesor</lemma>
+		<tag>NOUN</tag>
+		<gender>m</gender>
+		<definite>profesorul</definite>
+		<swedish>lärare(en)</swedish>
+		<explanation />
+		<example_use />
+		<plural />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-02-19 17:13:33.587324</index>
+	</word>
+	<word>
+		<lemma>ce</lemma>
+		<tag>PRON</tag>
+		<swedish>vad(?)</swedish>
+		<explanation>eng. 'what'</explanation>
+		<example_use>Ce mai faci?</example_use>
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-02-19 17:17:14.976729</index>
+	</word>
+	<word>
+		<tag>VERB</tag>
+		<lemma>mânca</lemma>
+		<sing_1>mănânc</sing_1>
+		<sing_2>mănânci</sing_2>
+		<sing_3>mănâncă</sing_3>
+		<plur_1>măncăm</plur_1>
+		<plur_2>mâncați</plur_2>
+		<plur_3>mănuncă</plur_3>
+		<pret_sing />
+		<pret_plur />
+		<perfekt />
+		<supp_verb />
+		<cathegory />
+		<swedish>äta</swedish>
+		<explanation />
+		<example_use>Eu mănânc cartofii</example_use>
+		<index>2023-02-22 07:44:21.315171</index>
+		<synonym />
 		<opposite />
 		<spare />
 		<counter>1</counter>

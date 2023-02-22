@@ -422,8 +422,12 @@ if __name__=='__main__':
                     item_to_test = word_in_test.get(item, '')
                     if item_to_test != '':
                         answer = input('{}: '.format(item))
-                        if answer != item_to_test:
+                        if item == 'lemma' and answer =='?':
+                            print('Lemma: ', item_to_test)
+                        elif answer != item_to_test:
                             correct_answer = False
+                        else:
+                            pass
                 if correct_answer == True:
                     print('Rätt svar!')
                 else:
