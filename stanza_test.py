@@ -357,6 +357,44 @@ if __name__=='__main__':
         except:
             print('Felaktigt filnamn eller filen saknas')
         return(this_language)
+    
+    def Analyze_text_file(this_language):
+        """
+        Analyses a text file sentence by sentence using stanza NLP        
+
+        Parameters
+        ----------
+        this_language : TYPE
+            DESCRIPTION.
+
+        Returns
+        -------
+        this_language
+
+        """
+        
+        return(this_language)
+    
+    def Analyze_sentence(this_language):
+        """
+        Analyses a single sentence using stanza NLP        
+
+        Parameters
+        ----------
+        this_language : TYPE
+            DESCRIPTION.
+
+        Returns
+        -------
+        this_language
+
+        """
+        sentence_to_analyze = input('Input sentence: ')
+        
+        doc = nlp(sentence_to_analyze)
+        print(doc)
+        
+        return(this_language)
             
     def Change_language(this_language):
         """
@@ -470,7 +508,9 @@ if __name__=='__main__':
     funtions to call. The pointer to the functions are retrieved 
     with options.get(...) function call
     """
-    options = {"a": ['Analyze file', Analyze_pdf_file],
+    options = {"a": ['Analyze pdf file', Analyze_pdf_file],
+               "t": ['Analyze text file', Analyze_text_file],
+               "s": ['Analyze single sentence', Analyze_sentence],
                "f": ['List files', List_files],
                "c": ['Change language', Change_language],
                "p": ['Print alpha', Print_alphabetically],
