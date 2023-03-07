@@ -28,6 +28,7 @@
 		<gender>de</gender>
 		<definite />
 		<swedish>hund</swedish>
+		<english>dog</english>
 		<explanation>(substantief)</explanation>
 		<example_use />
 		<plural />
@@ -43,6 +44,7 @@
 		<superlativ>best</superlativ>
 		<cathegory>0</cathegory>
 		<swedish>bra</swedish>
+		<english>dog</english>
 		<explanation>(bijvoeglijk naamwoord)</explanation>
 		<example_use />
 		<index>2021-12-28 16:52:30.245779</index>
@@ -66,6 +68,7 @@
 		<supp_verb>is</supp_verb>
 		<cathegory>1</cathegory>
 		<swedish>förefalla/bevisa/visa</swedish>
+		<english>dog</english>
 		<explanation>(werkwoord)</explanation>
 		<example_use />
 		<index>2021-12-28 16:41:32.272905</index>
@@ -78,6 +81,7 @@
 		<lemma>spreken</lemma>
 		<tag>ADV</tag>		
 		<swedish>talar/pratar (flera)</swedish>
+		<english>dog</english>
 		<explanation>(bijwoord)</explanation>
 		<example_use />
 		<synonym />
@@ -89,6 +93,7 @@
 		<lemma>spreken</lemma>
 		<tag>PRON</tag>		
 		<swedish>talar/pratar (flera)</swedish>
+		<english>dog</english>
 		<explanation>(voornaamwoord)</explanation>
 		<example_use />
 		<synonym />
@@ -100,6 +105,7 @@
 		<lemma>spreken</lemma>
 		<tag>SCONJ</tag>		
 		<swedish>talar/pratar (flera)</swedish>
+		<english>dog</english>
 		<explanation>(sub-ord conj)</explanation>
 		<example_use />
 		<synonym />
@@ -111,6 +117,7 @@
 		<lemma>spreken</lemma>
 		<tag>X</tag>		
 		<swedish>talar/pratar (flera)</swedish>
+		<english>dog</english>
 		<explanation>(other)</explanation>
 		<example_use />
 		<synonym />
@@ -122,6 +129,7 @@
 		<lemma>spreken</lemma>
 		<tag>SYM</tag>		
 		<swedish>talar/pratar (flera)</swedish>
+		<english>dog</english>
 		<explanation>(symbol)</explanation>
 		<example_use />
 		<synonym />
@@ -133,6 +141,7 @@
 		<lemma>spreken</lemma>
 		<tag>PUNCT</tag>		
 		<swedish>talar/pratar (flera)</swedish>
+		<english>dog</english>
 		<explanation>(punctuation)</explanation>
 		<example_use />
 		<synonym />
@@ -144,6 +153,7 @@
 		<lemma>spreken</lemma>
 		<tag>PROPN</tag>
 		<swedish>talar/pratar (flera)</swedish>
+		<english>dog</english>
 		<explanation>(proper noun)</explanation>
 		<example_use />
 		<synonym />
@@ -155,6 +165,7 @@
 		<lemma>spreken</lemma>
 		<tag>PART</tag>		
 		<swedish>talar/pratar (flera)</swedish>
+		<english>dog</english>
 		<explanation>(particular)</explanation>
 		<example_use />
 		<synonym />
@@ -166,6 +177,7 @@
 		<lemma>spreken</lemma>
 		<tag>NUM</tag>		
 		<swedish>talar/pratar (flera)</swedish>
+		<english>dog</english>
 		<explanation>(numeral)</explanation>
 		<example_use />
 		<synonym />
@@ -177,6 +189,7 @@
 		<lemma>spreken</lemma>
 		<tag>INTJ</tag>		
 		<swedish>talar/pratar (flera)</swedish>
+		<english>dog</english>
 		<explanation>(interjection)</explanation>
 		<example_use />
 		<synonym />
@@ -188,6 +201,7 @@
 		<lemma>spreken</lemma>
 		<tag>DET</tag>		
 		<swedish>talar/pratar (flera)</swedish>
+		<english>dog</english>
 		<explanation>(determin)</explanation>
 		<example_use />
 		<synonym />
@@ -199,6 +213,7 @@
 		<lemma>spreken</lemma>
 		<tag>AUX</tag>		
 		<swedish>talar/pratar (flera)</swedish>
+		<english>dog</english>
 		<explanation>(auxiliary)</explanation>
 		<example_use />
 		<synonym />
@@ -210,6 +225,7 @@
 		<lemma>spreken</lemma>
 		<tag>CCONJ</tag>		
 		<swedish>talar/pratar (flera)</swedish>
+		<english>dog</english>
 		<explanation>()</explanation>
 		<example_use />
 		<synonym />
@@ -221,6 +237,7 @@
 		<lemma>spreken</lemma>
 		<tag>ADP</tag>		
 		<swedish>talar/pratar (flera)</swedish>
+		<english>dog</english>
 		<explanation>(prepoziție)</explanation>
 		<example_use />
 		<synonym />
@@ -1565,7 +1582,7 @@
 		<tag>ADV</tag>
 		<swedish>idag</swedish>
 		<explanation />
-		<synonym />
+		<synonym>astăzi</synonym>
 		<opposite />
 		<counter>1</counter>
 		<index>2022-10-12 05:38:52.081540</index>
@@ -4957,5 +4974,126 @@
 		<opposite />
 		<spare />
 		<counter>1</counter>
+	</word>
+	<word>
+		<lemma>acum</lemma>
+		<tag>ADV</tag>
+		<swedish>nu</swedish>
+		<explanation />
+		<example_use>Acum am de scris un e-mail.</example_use>
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-03-07 05:37:32.096460</index>
+	</word>
+	<word>
+		<lemma>aici</lemma>
+		<tag>ADV</tag>
+		<swedish>här</swedish>
+		<explanation />
+		<example_use>Eu sunt aici</example_use>
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-03-07 05:39:26.315881</index>
+	</word>
+	<word>
+		<lemma>acolo</lemma>
+		<tag>ADV</tag>
+		<swedish>där</swedish>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-03-07 05:45:20.427177</index>
+	</word>
+	<word>
+		<lemma>astăzi</lemma>
+		<tag>ADV</tag>
+		<swedish>idag</swedish>
+		<explanation />
+		<example_use />
+		<synonym>azi</synonym>
+		<opposite />
+		<counter>1</counter>
+		<index>2023-03-07 05:46:36.946805</index>
+	</word>
+	<word>
+		<lemma>mereu</lemma>
+		<tag>ADV</tag>
+		<swedish>alltid</swedish>
+		<explanation />
+		<example_use />
+		<synonym>întotdeauna</synonym>
+		<opposite />
+		<counter>1</counter>
+		<index>2023-03-07 05:50:21.687019</index>
+	</word>
+	<word>
+		<lemma>întotdeauna</lemma>
+		<tag>ADV</tag>
+		<swedish>alltid</swedish>
+		<explanation />
+		<example_use />
+		<synonym>mereu</synonym>
+		<opposite />
+		<counter>1</counter>
+		<index>2023-03-07 05:50:50.954029</index>
+	</word>
+	<word>
+		<lemma>niciodată</lemma>
+		<tag>ADV</tag>
+		<swedish>aldrig</swedish>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-03-07 05:52:46.048516</index>
+	</word>
+	<word>
+		<lemma>uneori</lemma>
+		<tag>ADV</tag>
+		<swedish>ibland</swedish>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-03-07 05:54:21.971577</index>
+	</word>
+	<word>
+		<lemma>adevărat</lemma>
+		<tag>ADV</tag>
+		<swedish>sant</swedish>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite>fals</opposite>
+		<counter>1</counter>
+		<index>2023-03-07 05:55:53.535959</index>
+	</word>
+	<word>
+		<lemma>plăcut</lemma>
+		<tag>ADV</tag>
+		<swedish>trevligt, angenämt</swedish>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite>neplăcut</opposite>
+		<counter>1</counter>
+		<index>2023-03-07 07:08:32.845876</index>
+	</word>
+	<word>
+		<lemma>neplăcut</lemma>
+		<tag>ADV</tag>
+		<swedish>otrevligt, oangenämt</swedish>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite>plăcut</opposite>
+		<counter>1</counter>
+		<index>2023-03-07 07:09:15.740324</index>
 	</word>
 </dictionary>

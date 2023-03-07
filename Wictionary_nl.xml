@@ -23,6 +23,7 @@
 		<gender>de</gender>
 		<definite />
 		<swedish>hund</swedish>
+		<english>dog</english>
 		<explanation>(substantief)</explanation>
 		<plural />
 		<synonym />
@@ -37,6 +38,7 @@
 		<superlativ>best</superlativ>
 		<cathegory>0</cathegory>
 		<swedish>bra</swedish>
+		<english>dog</english>
 		<explanation>(bijvoeglijk naamwoord)</explanation>
 		<index>2021-12-28 16:52:30.245779</index>
 		<synonym />
@@ -59,6 +61,7 @@
 		<supp_verb>is</supp_verb>
 		<cathegory>1</cathegory>
 		<swedish>förefalla/bevisa/visa</swedish>
+		<english>dog</english>
 		<explanation>(werkwoord)</explanation>
 		<index>2021-12-28 16:41:32.272905</index>
 		<synonym />
@@ -70,6 +73,7 @@
 		<lemma>spreken</lemma>
 		<tag>ADV</tag>		
 		<swedish>talar/pratar (flera)</swedish>
+		<english>dog</english>
 		<explanation>(bijwoord)</explanation>
 		<synonym />
 		<opposite />
@@ -80,6 +84,7 @@
 		<lemma>spreken</lemma>
 		<tag>PRON</tag>		
 		<swedish>talar/pratar (flera)</swedish>
+		<english>dog</english>
 		<explanation>(voornaamwoord)</explanation>
 		<synonym />
 		<opposite />
@@ -90,6 +95,7 @@
 		<lemma>spreken</lemma>
 		<tag>SCONJ</tag>		
 		<swedish>talar/pratar (flera)</swedish>
+		<english>dog</english>
 		<explanation>(sub-ord conj)</explanation>
 		<synonym />
 		<opposite />
@@ -100,6 +106,7 @@
 		<lemma>spreken</lemma>
 		<tag>X</tag>		
 		<swedish>talar/pratar (flera)</swedish>
+		<english>dog</english>
 		<explanation>(other)</explanation>
 		<synonym />
 		<opposite />
@@ -110,6 +117,7 @@
 		<lemma>spreken</lemma>
 		<tag>SYM</tag>		
 		<swedish>talar/pratar (flera)</swedish>
+		<english>dog</english>
 		<explanation>(symbol)</explanation>
 		<synonym />
 		<opposite />
@@ -130,6 +138,7 @@
 		<lemma>spreken</lemma>
 		<tag>PROPN</tag>
 		<swedish>talar/pratar (flera)</swedish>
+		<english>dog</english>
 		<explanation>(proper noun)</explanation>
 		<synonym />
 		<opposite />
@@ -140,6 +149,7 @@
 		<lemma>spreken</lemma>
 		<tag>PART</tag>		
 		<swedish>talar/pratar (flera)</swedish>
+		<english>dog</english>
 		<explanation>(particular)</explanation>
 		<synonym />
 		<opposite />
@@ -150,6 +160,7 @@
 		<lemma>spreken</lemma>
 		<tag>NUM</tag>		
 		<swedish>talar/pratar (flera)</swedish>
+		<english>dog</english>
 		<explanation>(numeral)</explanation>
 		<synonym />
 		<opposite />
@@ -160,6 +171,7 @@
 		<lemma>spreken</lemma>
 		<tag>INTJ</tag>		
 		<swedish>talar/pratar (flera)</swedish>
+		<english>dog</english>
 		<explanation>(interjection)</explanation>
 		<synonym />
 		<opposite />
@@ -170,6 +182,7 @@
 		<lemma>spreken</lemma>
 		<tag>DET</tag>		
 		<swedish>talar/pratar (flera)</swedish>
+		<english>dog</english>
 		<explanation>(determin)</explanation>
 		<synonym />
 		<opposite />
@@ -180,6 +193,7 @@
 		<lemma>spreken</lemma>
 		<tag>AUX</tag>		
 		<swedish>talar/pratar (flera)</swedish>
+		<english>dog</english>
 		<explanation>(auxiliary)</explanation>
 		<synonym />
 		<opposite />
@@ -190,6 +204,7 @@
 		<lemma>spreken</lemma>
 		<tag>CCONJ</tag>		
 		<swedish>talar/pratar (flera)</swedish>
+		<english>dog</english>
 		<explanation>()</explanation>
 		<synonym />
 		<opposite />
@@ -200,6 +215,7 @@
 		<lemma>spreken</lemma>
 		<tag>ADP</tag>		
 		<swedish>talar/pratar (flera)</swedish>
+		<english>dog</english>
 		<explanation>(prepoziție)</explanation>
 		<synonym />
 		<opposite />

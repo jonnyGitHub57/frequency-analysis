@@ -210,8 +210,8 @@ class XML_statistics(object):
         elements.sort(reverse=False, key=get_lemma)
         
         return(elements)
-
-
+    
+   
 if __name__=='__main__':
     """
     Beginning of main code for 
@@ -237,6 +237,71 @@ if __name__=='__main__':
     stanza.download(romanian.language) # download Romanian model
     nlp = stanza.Pipeline(romanian.language, logging_level='INFO')
     # nlp = stanza.Pipeline(lang='en', processors='tokenize,mwt,pos,lemma')
+    
+    def Pdf_file_to_text(this_language):
+        """
+        
+        Parameters
+        ----------
+        pdf_file_name : TYPE
+            DESCRIPTION.
+
+        Returns
+        -------
+        None.
+
+        """
+        file_in_use = True
+        while file_in_use == True:
+            source_file = easygui.fileopenbox()
+            """
+            Strip away the path and search the xml-file for previous use of
+            the selected file (name).
+            """
+            file_name = re.split(r'[\/]', source_file)[-1]
+            found_files = this_language.find_file_in_tree(file_name)
+            # found_files = this_language.find_file_in_tree(source_file)
+            if found_files == []:
+                file_in_use = False
+            else:
+                file_in_use = (input('File in use. Use anyway Y/n: ') != 'Y')
+        try:
+            print('Analyzing: ', file_name)
+            pdf_file = pdfplumber.open(source_file)
+            totalpages = len(pdf_file.pages)
+            print("Antal sidor i dokumentet", totalpages)
+            skip_pages = input('Skip pages in the document? Enter comma\
+                                                   separated list or <CR>: ')
+            if skip_pages != '':
+                skip_list = re.split(r"[,.?!]", skip_pages)
+                print('skippa sidorna: {}'.format(', '.join(skip_list)))
+                remove_pages = [(eval(i) -1) for i in skip_list]
+            else: 
+                remove_pages = []
+            # Remove characters that do not belong to words
+            remove_chars = ':,;[]0123456789'
+
+            with open('datafile.txt', 'w') as text_file:
+                for i in range(0 ,totalpages):
+                    if i in remove_pages:
+                        continue
+                    pageobj = pdf_file.pages[i]
+                    page_text = pageobj.extract_text()
+                    """
+                    Page-by-page: Replace or delete unwanted characters and 
+                    numericals and update the text file as a logging function
+                    """
+                    page_text = page_text.replace('(cid:239)', 'i')
+                    page_text = page_text.replace('(cid:21)', 'i')
+                    page_text = page_text.translate({ord(i): None for i in 
+                                                                  remove_chars})
+                    # page_text = page_text.replace({ord(i): None for i in remove_chars})            
+                    text_file.write(f'Page number: {i + 1} **************\r\n')
+                    text_file.write(page_text)
+
+        except:
+            print('Felaktigt filnamn eller filen saknas')
+        return(this_language)
     
     def Analyze_pdf_file(this_language):
         file_in_use = True
@@ -510,6 +575,7 @@ if __name__=='__main__':
     """
     options = {"a": ['Analyze pdf file', Analyze_pdf_file],
                "t": ['Analyze text file', Analyze_text_file],
+               "e": ['Extract pdf file to txt', Pdf_file_to_text],
                "s": ['Analyze single sentence', Analyze_sentence],
                "f": ['List files', List_files],
                "c": ['Change language', Change_language],
