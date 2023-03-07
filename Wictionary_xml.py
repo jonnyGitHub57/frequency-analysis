@@ -163,18 +163,13 @@ if __name__=='__main__':
                 print('Finns inte i listan!')
             
             for child in word_to_edit:
-                child_text = child.text
+                child_text = child.text if child.text != None else ''
                 child_tag = child.tag
                 if child_tag == 'index' or child_tag == 'counter':
                     pass
                 else:
-                    if child_text == None:
-                        child_text = ''
                     get_update = input(f'{child.tag} {child_text}: ')
-                    if get_update == '':
-                        child.text = child_text
-                    else:
-                        child.text = get_update
+                    child.text = get_update if get_update != '' else child_text
         
         print("Writing data to: ", this_language.xml_functions.data_file)
         this_language.xml_functions.xml_tree2file()

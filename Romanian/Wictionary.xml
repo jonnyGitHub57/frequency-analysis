@@ -439,7 +439,7 @@
 		<swedish>bra, väl</swedish>
 		<explanation />
 		<synonym />
-		<opposite />
+		<opposite>rău</opposite>
 		<counter>1</counter>
 		<index>2022-09-08 04:44:26.774368</index>
 	</word>
@@ -469,7 +469,7 @@
 		<swedish>sent</swedish>
 		<explanation>om tidpunkt</explanation>
 		<synonym />
-		<opposite />
+		<opposite>devreme</opposite>
 		<counter>1</counter>
 		<index>2022-09-08 04:53:24.413285</index>
 	</word>
@@ -5095,5 +5095,41 @@
 		<opposite>plăcut</opposite>
 		<counter>1</counter>
 		<index>2023-03-07 07:09:15.740324</index>
+	</word>
+	<word>
+		<lemma>devreme</lemma>
+		<tag>ADV</tag>
+		<swedish>tidigt</swedish>
+		<english>early</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite>târziu</opposite>
+		<counter>1</counter>
+		<index>2023-03-07 07:25:51.414981</index>
+	</word>
+	<word>
+		<lemma>încet</lemma>
+		<tag>ADV</tag>
+		<swedish>långsamt, sakta</swedish>
+		<english>slowly</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite>repede</opposite>
+		<counter>1</counter>
+		<index>2023-03-07 07:54:29.831196</index>
+	</word>
+	<word>
+		<lemma>repede</lemma>
+		<tag>ADV</tag>
+		<swedish>snabbt</swedish>
+		<english>fast</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite>încet</opposite>
+		<counter>1</counter>
+		<index>2023-03-07 07:55:30.087644</index>
 	</word>
 </dictionary>
