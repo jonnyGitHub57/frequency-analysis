@@ -2792,7 +2792,7 @@
 		<lemma>scaun</lemma>
 		<tag>NOUN</tag>
 		<gender>n</gender>
-		<definite />
+		<definite>scaunul</definite>
 		<swedish>stol(en)</swedish>
 		<explanation />
 		<plural>scaune</plural>
@@ -3999,7 +3999,7 @@
 		<sing_3>înșală</sing_3>
 		<plur_1>înșelăm</plur_1>
 		<plur_2>înșelați</plur_2>
-		<plur_3>înșelă</plur_3>
+		<plur_3>înșală</plur_3>
 		<pret_sing />
 		<pret_plur />
 		<perfekt />
@@ -4085,7 +4085,7 @@
 		<perfekt />
 		<supp_verb />
 		<cathegory />
-		<swedish>lära (sig)</swedish>
+		<swedish>studera, lära (sig)</swedish>
 		<explanation />
 		<index>2023-01-03 05:22:40.405100</index>
 		<synonym>a studia</synonym>
@@ -4860,7 +4860,7 @@
 		<tag>NOUN</tag>
 		<gender>n</gender>
 		<definite />
-		<swedish>sak(en), grej(en)</swedish>
+		<swedish>sak(en), jobb(et)</swedish>
 		<explanation>eng. 'thing'</explanation>
 		<example_use>Și eu văd lucrurile la fel.</example_use>
 		<plural>lucruri</plural>
@@ -4958,7 +4958,7 @@
 		<sing_1>mănânc</sing_1>
 		<sing_2>mănânci</sing_2>
 		<sing_3>mănâncă</sing_3>
-		<plur_1>măncăm</plur_1>
+		<plur_1>mâncăm</plur_1>
 		<plur_2>mâncați</plur_2>
 		<plur_3>mănuncă</plur_3>
 		<pret_sing />
@@ -5131,5 +5131,266 @@
 		<opposite>încet</opposite>
 		<counter>1</counter>
 		<index>2023-03-07 07:55:30.087644</index>
+	</word>
+	<word>
+		<lemma>după ce</lemma>
+		<tag>CCONJ</tag>
+		<swedish>efter att, sedan</swedish>
+		<english>after</english>
+		<explanation>tidskonjunktion</explanation>
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-03-08 05:20:29.154234</index>
+	</word>
+	<word>
+		<lemma>îndatâ ce</lemma>
+		<tag>CCONJ</tag>
+		<swedish>să snart som</swedish>
+		<english />
+		<explanation>tidskonjunktion</explanation>
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-03-08 05:31:21.760527</index>
+	</word>
+	<word>
+		<lemma>pe când</lemma>
+		<tag>CCONJ</tag>
+		<swedish>medan, under tiden</swedish>
+		<english />
+		<explanation>tidskonjunktion</explanation>
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-03-08 05:33:50.342913</index>
+	</word>
+	<word>
+		<lemma>monarhie</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<definite>monarhia</definite>
+		<swedish>monarki</swedish>
+		<english>monarchy</english>
+		<explanation />
+		<example_use />
+		<plural />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-03-09 04:58:44.260029</index>
+	</word>
+	<word>
+		<lemma>caiet</lemma>
+		<tag>NOUN</tag>
+		<gender>n</gender>
+		<definite>caietul</definite>
+		<swedish>anteckningsbok(en)</swedish>
+		<english>notebook</english>
+		<explanation />
+		<example_use />
+		<plural>caiete</plural>
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-03-09 05:03:13.096221</index>
+	</word>
+	<word>
+		<lemma>creion</lemma>
+		<tag>NOUN</tag>
+		<gender>n</gender>
+		<definite>creionul</definite>
+		<swedish>penna</swedish>
+		<english>pencil</english>
+		<explanation>eng. pencil</explanation>
+		<example_use />
+		<plural>creioane</plural>
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-03-09 05:06:00.080880</index>
+	</word>
+	<word>
+		<lemma>dicționar</lemma>
+		<tag>NOUN</tag>
+		<gender>n</gender>
+		<definite>dicționarul</definite>
+		<swedish>ordbok(en)</swedish>
+		<english>dictionary</english>
+		<explanation />
+		<example_use />
+		<plural>dicționare</plural>
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-03-09 05:09:33.661180</index>
+	</word>
+	<word>
+		<lemma>pix</lemma>
+		<tag>NOUN</tag>
+		<gender>n</gender>
+		<definite>pixul</definite>
+		<swedish>bläckpenna</swedish>
+		<english>push button pencil</english>
+		<explanation />
+		<example_use />
+		<plural>pixuri</plural>
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-03-09 05:12:28.024285</index>
+	</word>
+	<word>
+		<lemma>sticlă</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<definite>sticla</definite>
+		<swedish>flaska(n), glas (material)</swedish>
+		<english>bottle, glass (material)</english>
+		<explanation />
+		<example_use />
+		<plural>sticle</plural>
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-03-09 05:17:39.397389</index>
+	</word>
+	<word>
+		<tag>VERB</tag>
+		<lemma>începe</lemma>
+		<sing_1>încep</sing_1>
+		<sing_2>începi</sing_2>
+		<sing_3>începe</sing_3>
+		<plur_1>începem</plur_1>
+		<plur_2>începeți</plur_2>
+		<plur_3>încep</plur_3>
+		<pret_sing />
+		<pret_plur />
+		<perfekt />
+		<supp_verb />
+		<cathegory />
+		<swedish>börja</swedish>
+		<english>begin</english>
+		<explanation />
+		<example_use />
+		<index>2023-03-14 19:33:06.770447</index>
+		<synonym />
+		<opposite />
+		<spare />
+		<counter>1</counter>
+	</word>
+	<word>
+		<lemma>bravo</lemma>
+		<tag>ADV</tag>
+		<swedish>bravo</swedish>
+		<english>bravo</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-03-14 19:42:00.997172</index>
+	</word>
+	<word>
+		<lemma>clar</lemma>
+		<tag>ADV</tag>
+		<swedish>klar(t)</swedish>
+		<english>clear</english>
+		<explanation />
+		<example_use>Este clar!</example_use>
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-03-14 19:43:39.866615</index>
+	</word>
+	<word>
+		<lemma>exact</lemma>
+		<tag>ADV</tag>
+		<swedish>exakt</swedish>
+		<english>exactly</english>
+		<explanation />
+		<example_use>Exact!</example_use>
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-03-14 19:45:31.535611</index>
+	</word>
+	<word>
+		<lemma>fără</lemma>
+		<tag>CCONJ</tag>
+		<swedish>utan, förutan</swedish>
+		<english>without</english>
+		<explanation />
+		<example_use>Fără nicio îndoială!</example_use>
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-03-14 19:49:51.628161</index>
+	</word>
+	<word>
+		<lemma>îndoială</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<definite>îndoiala</definite>
+		<swedish>tvekan, tveksamhet</swedish>
+		<english>doubt</english>
+		<explanation />
+		<example_use>Fără nicio îndoială</example_use>
+		<plural>îndoiele</plural>
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-03-14 20:04:09.987262</index>
+	</word>
+	<word>
+		<lemma>perfect</lemma>
+		<tag>ADV</tag>
+		<swedish>perfekt</swedish>
+		<english>perfect</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-03-14 20:08:10.636593</index>
+	</word>
+	<word>
+		<lemma>sigur</lemma>
+		<tag>ADV</tag>
+		<swedish>säker(t)</swedish>
+		<english>sure</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-03-14 20:09:49.959400</index>
+	</word>
+	<word>
+		<tag>VERB</tag>
+		<lemma>suna</lemma>
+		<sing_1>sun</sing_1>
+		<sing_2>suni</sing_2>
+		<sing_3>sună</sing_3>
+		<plur_1>sunăm</plur_1>
+		<plur_2>sunați</plur_2>
+		<plur_3>sună</plur_3>
+		<pret_sing />
+		<pret_plur />
+		<perfekt />
+		<supp_verb />
+		<cathegory />
+		<swedish>låta, ringa, klinga</swedish>
+		<english>sound</english>
+		<explanation />
+		<example_use />
+		<index>2023-03-14 20:13:21.028295</index>
+		<synonym />
+		<opposite />
+		<spare />
+		<counter>1</counter>
 	</word>
 </dictionary>

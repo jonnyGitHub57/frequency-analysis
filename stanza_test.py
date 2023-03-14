@@ -241,15 +241,74 @@ if __name__=='__main__':
     def Pdf_file_to_text(this_language):
         """
         
+
         Parameters
         ----------
-        pdf_file_name : TYPE
+        this_language : TYPE
             DESCRIPTION.
 
         Returns
         -------
         None.
 
+        """
+        def tag_text_file(file_to_tag):
+            """
+            Run page-by-page through the Stanza pipeline for text analysis
+            The stanza 'doc format' is converted to a N-size list  
+            of dictionaries where N = number of sentences in the text, 
+
+            Parameters
+            ----------
+            file_to_tag : TYPE
+                DESCRIPTION.
+
+            Returns
+            -------
+            None.
+
+            """
+            print('Run POS tagging on file: ', file_to_tag)
+            
+            with open(file_to_tag, 'r') as text_file:
+                for line in text_file:
+                    doc = nlp(line)
+                    doc_dict = doc.to_dict()
+                    
+                    sent_index = 0
+                    nr_entries = 0
+                    for sent in doc.sentences:
+                        word_index = 0
+                        for word in sent.words:
+                            upos = word.upos
+                            lemma = word.lemma
+                            """
+                            Use the translation table to replace special
+                            characters such as T-cedilla to T-comma etc.
+                            """
+                            new_lemma = lemma.translate(this_language.transtab)
+                            element = this_language.find_in_tree(new_lemma, upos)
+                            if element == []:
+                                dict_to_add = doc_dict[sent_index][word_index]
+                                dict_to_add['lemma'] = new_lemma
+                                dict_to_add['counter'] = '1'
+                                dict_to_add['index'] = str(datetime.now())
+                                this_language.addElement(dict_to_add)
+                            else:
+                                """
+                                Assume that the list of found words only holds
+                                one hit
+                                """
+                                for child in element[0]:
+                                    if child.tag == 'counter':
+                                        child.text = str(int(child.text) + 1)
+                            
+                            word_index += 1
+                        nr_entries += word_index
+                        sent_index +=1        
+                        
+        """
+        Main code
         """
         file_in_use = True
         while file_in_use == True:
@@ -266,44 +325,66 @@ if __name__=='__main__':
             else:
                 file_in_use = (input('File in use. Use anyway Y/n: ') != 'Y')
         try:
-            print('Analyzing: ', file_name)
-            pdf_file = pdfplumber.open(source_file)
-            totalpages = len(pdf_file.pages)
-            print("Antal sidor i dokumentet", totalpages)
-            skip_pages = input('Skip pages in the document? Enter comma\
-                                                   separated list or <CR>: ')
-            if skip_pages != '':
-                skip_list = re.split(r"[,.?!]", skip_pages)
-                print('skippa sidorna: {}'.format(', '.join(skip_list)))
-                remove_pages = [(eval(i) -1) for i in skip_list]
-            else: 
-                remove_pages = []
-            # Remove characters that do not belong to words
-            remove_chars = ':,;[]0123456789'
-
-            with open('datafile.txt', 'w') as text_file:
-                for i in range(0 ,totalpages):
-                    if i in remove_pages:
-                        continue
-                    pageobj = pdf_file.pages[i]
-                    page_text = pageobj.extract_text()
-                    """
-                    Page-by-page: Replace or delete unwanted characters and 
-                    numericals and update the text file as a logging function
-                    """
-                    page_text = page_text.replace('(cid:239)', 'i')
-                    page_text = page_text.replace('(cid:21)', 'i')
-                    page_text = page_text.translate({ord(i): None for i in 
-                                                                  remove_chars})
-                    # page_text = page_text.replace({ord(i): None for i in remove_chars})            
-                    text_file.write(f'Page number: {i + 1} **************\r\n')
-                    text_file.write(page_text)
+            if file_name.lower().endswith('.pdf'):
+                print('Analyzing pdf-file: ', file_name)            
+                pdf_file = pdfplumber.open(source_file)
+                totalpages = len(pdf_file.pages)
+                print("Antal sidor i dokumentet", totalpages)
+                skip_pages = input('Skip pages in the document? Enter comma\
+                                                       separated list or <CR>: ')
+                if skip_pages != '':
+                    skip_list = re.split(r"[,.?!]", skip_pages)
+                    print('skippa sidorna: {}'.format(', '.join(skip_list)))
+                    remove_pages = [(eval(i) -1) for i in skip_list]
+                else: 
+                    remove_pages = []
+                # Remove characters that do not belong to words
+                remove_chars = ':,;[]0123456789'
+    
+                with open('datafile.txt', 'w') as text_file:
+                    for i in range(0 ,totalpages):
+                        if i in remove_pages:
+                            continue
+                        pageobj = pdf_file.pages[i]
+                        page_text = pageobj.extract_text()
+                        """
+                        Page-by-page: Replace or delete unwanted characters and 
+                        numericals and update the text file as a logging function
+                        """
+                        page_text = page_text.replace('(cid:239)', 'i')
+                        page_text = page_text.replace('(cid:21)', 'i')
+                        # page_text = page_text.translate({ord(i): None for i in 
+                                                                      # remove_chars})
+                        page_text = page_text.replace({ord(i): None for i in remove_chars})            
+                        text_file.write(f'Page number: {i + 1} **************\r\n')
+                        text_file.write(page_text)
+                tag_text_file('datafile.txt')
+                    
+            elif file_name.lower().endswith('.txt'):
+                print('Analyzing text-file', file_name)
+                tag_text_file(file_name)
+            else:
+                print('The file does not have an accepted format/extension.')
+                print('Please check and try again')
 
         except:
             print('Felaktigt filnamn eller filen saknas')
         return(this_language)
     
     def Analyze_pdf_file(this_language):
+        """
+        
+
+        Parameters
+        ----------
+        this_language : TYPE
+            DESCRIPTION.
+
+        Returns
+        -------
+        None.
+
+        """
         file_in_use = True
         while file_in_use == True:
             source_file = easygui.fileopenbox()
