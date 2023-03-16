@@ -238,7 +238,7 @@ if __name__=='__main__':
     nlp = stanza.Pipeline(romanian.language, logging_level='INFO')
     # nlp = stanza.Pipeline(lang='en', processors='tokenize,mwt,pos,lemma')
     
-    def Pdf_file_to_text(this_language):
+    def Analyze_file(this_language):
         """
         
 
@@ -278,6 +278,7 @@ if __name__=='__main__':
                     sent_index = 0
                     nr_entries = 0
                     for sent in doc.sentences:
+                        print('.', end='')
                         word_index = 0
                         for word in sent.words:
                             upos = word.upos
@@ -305,7 +306,8 @@ if __name__=='__main__':
                             
                             word_index += 1
                         nr_entries += word_index
-                        sent_index +=1        
+                        sent_index +=1  
+                print('\r\nFinished\r\n')
                         
         """
         Main code
@@ -322,6 +324,7 @@ if __name__=='__main__':
             # found_files = this_language.find_file_in_tree(source_file)
             if found_files == []:
                 file_in_use = False
+                
             else:
                 file_in_use = (input('File in use. Use anyway Y/n: ') != 'Y')
         try:
@@ -338,6 +341,13 @@ if __name__=='__main__':
                     remove_pages = [(eval(i) -1) for i in skip_list]
                 else: 
                     remove_pages = []
+                """
+                Create file information to add to the xml-file
+                """
+                print(f'Adding {file_name} to the xml-file')
+                source_file_dict = {'filename': source_file}
+                source_file_dict['No_pdf_pages'] = str(totalpages)
+                this_language.addElement(source_file_dict, header='source_file')
                 # Remove characters that do not belong to words
                 remove_chars = ':,;[]0123456789'
     
@@ -353,16 +363,23 @@ if __name__=='__main__':
                         """
                         page_text = page_text.replace('(cid:239)', 'i')
                         page_text = page_text.replace('(cid:21)', 'i')
-                        # page_text = page_text.translate({ord(i): None for i in 
-                                                                      # remove_chars})
-                        page_text = page_text.replace({ord(i): None for i in remove_chars})            
+                        page_text = page_text.translate({ord(i): None for i in 
+                                                                 remove_chars})
+                        # page_text = page_text.replace({ord(i): None for i in remove_chars})            
                         text_file.write(f'Page number: {i + 1} **************\r\n')
                         text_file.write(page_text)
+                        print(f'Page nr: {i + 1}\r\n')
+                text_file.close()
+                pdf_file.close()
                 tag_text_file('datafile.txt')
                     
             elif file_name.lower().endswith('.txt'):
                 print('Analyzing text-file', file_name)
-                tag_text_file(file_name)
+                print(f'Adding {file_name} to the xml-file')
+                source_file_dict = {'filename': source_file}
+                source_file_dict['No_pdf_pages'] = str(totalpages)
+                this_language.addElement(source_file_dict, header='source_file')
+                tag_text_file(source_file)
             else:
                 print('The file does not have an accepted format/extension.')
                 print('Please check and try again')
@@ -656,7 +673,7 @@ if __name__=='__main__':
     """
     options = {"a": ['Analyze pdf file', Analyze_pdf_file],
                "t": ['Analyze text file', Analyze_text_file],
-               "e": ['Extract pdf file to txt', Pdf_file_to_text],
+               "e": ['Extract pdf file to txt', Analyze_file],
                "s": ['Analyze single sentence', Analyze_sentence],
                "f": ['List files', List_files],
                "c": ['Change language', Change_language],

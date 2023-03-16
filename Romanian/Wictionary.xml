@@ -5359,7 +5359,7 @@
 	</word>
 	<word>
 		<lemma>sigur</lemma>
-		<tag>ADV</tag>
+		<tag>ADJ</tag>
 		<swedish>säker(t)</swedish>
 		<english>sure</english>
 		<explanation />
@@ -5392,5 +5392,47 @@
 		<opposite />
 		<spare />
 		<counter>1</counter>
+	</word>
+	<word>
+		<lemma>pauză</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<definite>pauza</definite>
+		<swedish>paus, rast</swedish>
+		<english>break, pause</english>
+		<explanation />
+		<example_use>La prânz avem o pauză.</example_use>
+		<plural>pauze</plural>
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-03-15 05:48:01.384113</index>
+	</word>
+	<word>
+		<lemma>vacanță</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<definite>vacanța</definite>
+		<swedish>semester</swedish>
+		<english>vacation</english>
+		<explanation />
+		<example_use>Sunt în vacanță.</example_use>
+		<plural />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-03-15 05:52:19.948615</index>
+	</word>
+	<word>
+		<lemma>desigur</lemma>
+		<tag>ADV</tag>
+		<swedish>säkert, naturligtvis, absolut</swedish>
+		<english>surely, naturally</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-03-15 07:18:59.008639</index>
 	</word>
 </dictionary>

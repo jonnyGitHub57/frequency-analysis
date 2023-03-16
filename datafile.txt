@@ -1,1061 +1,888 @@
-Page number: 1 **************
+Page number: 3 **************
+Introducere 
+Scopul lucrării 
  
-Lunds Universitet 
-Språk- och litteraturcentrum 
-IT-Rumänska K (-p) 
-Examenuppsats  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- Banatul Montan 
-Parcul Național Cheile Nerei-Beușnița 
- 
- 
-The Mountainous Banat 
-The National Park Nera gorge-Beu ni a 
-ș ț
- 
- 
- 
- 
-Alexandra Boboescu 
- 
- 
-alebo@student.liu.se 
- 
- 
- 
- 
- 
- 
-Handledare 
-Namn Coralia Ditvall 
-E-mail coralia.ditvall@rom.lu.se Page number: 2 **************
-Definiții 
- 
- 
-Taxoni   unitate  categorie  sistematică  în  clasificarea  regnului 
-vegetal și animal cuprinzând populații cu aceeași origine 
- 
-Faună cavernicolă  faună specifică peșterii care crește în peșteră 
- 
-Endemisme  specii biologice care trăiesc pe o anumită arie geografică 
-o arie mai restrânsă      
- 
- 
- 
-                                                 
- webdex.ro/taxoni 
- webdex.ro/cavernicola 
- webdex.ro/endemism 
- 
- Page number: 3 **************
-Rezumat 
- 
-Teză de licenţă la limba română  credite Facultatea de Ştiinţe Umaniste din cadrul 
-Universității din Lund primăvara anului  
-Autor Alexandra Boboescu 
-Profesor îndrumător Coralia Ditvall 
- 
-Titlu Banatul Montan – Parcul Național Cheile Nerei-Beușnița 
- 
-Alegerea temei și a problemei Deoarece este vorba despre niște locuri naturale minunate 
-mi s-a părut important să le pun în evidență și mai mult prin această lucrare mai ales că eu de 
-proveniență din acele locuri nu am vizitat niciodată în întregime Parcul Național Cheile Nerei-
-Beușnița. În aceeași situație ca și mine se află multa lume mulți tineri care aleg ca destinații 
-străinătatea.   
- 
-Scopul Lucrarea are ca scop oferirea unei imagini de ansamblu a turismului în Banatul 
-Montan a Parcului Național Cheile Nerei-Beușnița unul dintre principalele obiective turistice 
-din județul Caraș-Severin accent punându-se pe Cheile Nerei Lacul Dracului Lacul Ochiul 
-Beiului și Cascadele Beușniței.  
- 
-Metoda și analiza Cu ajutorul unei metode descriptive calitative se vor prezenta informații 
-despre Parcul Național Cheile Nerei-Beușnița. Pe lângă aceste informații culese din diferite 
-surse predominant de pe Internet se mai adaugă și un interviu făcut cu un localnic din zona 
-respectivă. Datele găsite împreună cu interviul vor fi mai apoi analizate pentru a ajunge la o 
-concluzie.   
- 
-Concluzii proprii Cu toate că știam multe despre frumusețile locului înainte de a începe să 
-scriu eseul pe parcursul scrierii m-am convins tot mai mult de faptul că aceste locuri trebuie 
-vizitate măcar o dată. Acest Parc nu este amenajat turistic ceea ce face ca unii să nu fie atât 
-de deschiși la a-l vizita dar părerea mea este că tocmai acest lucru neamenajarea turistică 
-duce la o păstrare cât mai intactă a frumuseţilor naturale. Prin a vizita Parcul National Cheile 
-Nerei-Beușnița nu avem nimic de pierdut ci doar de câștigat!  
- 
-Cuvinte cheie Cheile Nerei Lacul Dracului Lacul Ochiul Beiului Cascada Beușnița 
+Lucrarea cu tema Adaptarea profesorilor din România și din Suedia la învățământul 
+online pregimnazial (în sistemul educaţional suedez) își propune o analiză contrastivă a unei 
+părți din ce în ce mai importante din sistemul de învățământ și anume predarea online. De 
+asemenea lucrarea face o comparaţie între modul în care profesorii din România și din Suedia 
+s-au adaptat la noul sistem de predare online și cum este stimulat interesul elevilor într-un 
+mediu școlar din ce în ce mai digitalizat. Motivația pe baza căreia am ales această temă este în 
+primul rând că piedicile întâlnite în predarea online trebuiesc depășite iar cadrele didactice 
+trebuiesc să se adapteze noii tehnici de predare și stimulare ale elevilor. „Sprijinul pe care în 
+mod tradițional cadrele didactice îl ofereau elevilor cu nevoi speciale sau cu dificultăți de 
+învățare este greu de oferit online date fiind limitările tehnologice implicite.ˮ    
+În articolul său Labaree descrie meseria de professor ca fiind o meserie dificilă 
+bazându-se pe trei aspecte 
+-  provocările zilnic întâlnite în clasă.  
+-  documentarea continuă 
+-  stabilirea limitei dintre relația profesională și cea familială cu elevii. 
+Satisfacția oferită în urma practicării meseriei de profesor este savurată atunci când 
+elevul folosește în mod constructiv cunoștințele acumulate dar și atunci când intrând la oră 
+profesorul este așteptat și întâmpinat cu respect. 
+Acest  proiect  se  va  concentra  pe  faptul  cum  este  perceput  și  pus  în  practică 
+învățământul online în România și în Suedia va descrie provocările cu care se confruntă 
+cadrele didactice din ambele țări și va prezenta părerile cadrelor didactice participante la 
+studiu. 
+Abordarea  interdisciplinară  de  cercetare  care  urmează  a  fi  adoptată  în  această 
+disertație  va  include o analiză descriptivă efectuată prin compararea activității  educative 
+                                                             
+ Botnariuc P Cucoș C Glava C Iancu D Școala online – elemente pentru inovarea educației Raport de 
+cercetare evalutivă Editura Universității București Mai  p.. 
+ Labaree David F. ”On the nature of teaching and teacher education” în Journal of Teacher Education Vol.  
+No. May/June  p.. 
  
  Page number: 4 **************
-Abstract 
+dintre  cadrele  didactice  din  România  și  din  Suedia  care  reprezintă  o  valoare  adăugată 
+proiectului. 
+Raportul prezintă provocările la care este supus actualul sistem de educație și oferă 
+propuneri pentru o îmbunătățire a calității învățământului online pregimnazial pentru clasele   
+I - IX. Cu toate că programa de învățământ suedez a introdus digitalizarea din  atât 
+cadrele didactice din Suedia cât și din România se confruntă cu un volum mare de muncă care 
+împidică o mai mare  implicare a profesorul în sprijinul elevilor. De aceea voi încerca ca prin 
+intermediul acestei lucrări să prezint o parte din diferențele dar și asemămările dintre cele 
+două sisteme de învățământ.  
+Teza va avea șase capitole  (I) A fi profesor (II) Efectele învățământului online (III) 
+Studiu de caz (IV) Analiza (V) Concluzii (VI) Bibliografie / Webografie și (VII) Anexe. 
  
-Bachelor thesis in Romanian  credits Humanities Faculty at Lund University spring 
+ Metode de lucru. Materiale folosite 
  
-Author Alexandra Boboescu 
-Supervisor Coralia Ditvall 
+Metodele  de  lucru  folosite  în  efectuarea  lucrării  de  față  sunt  analiza 
+comparativă argumentarea și exemplificarea observații personale și ale colegilor studiu de 
+caz. La studiul de caz au participat din România  de profesori atât din mediul rural cât și 
+din mediul urban care predau diferite materii la clasele I – VIII. Din Suedia au participat  
+profesori care predau limba maternă la clasele I – IX la școli din mediul urban. 
+Pentru documentarea acestei lucrări am folosit materiale bibliografice atât ale 
+unor autori români precum Petre Botnariuc Bogdan Vaida Călin Iepure Nicoleta Prepeliță 
+cât și ale unor autori din Suedia Eva Insulanter Staffan Selander Annika Lilja. 
  
-Titel The Mountainous Banat – The National Park Nera gorge-Beușnița  
+Cuvinte-cheie didactică era digitală materiale digitale interes școlar educație a învăța 
+anglosaxisk  utvärderingstradition  skandinavisk  utvärderingstradition  digitala  vertyg 
+distansundervisning predarea online comunicare digitală. 
  
-The choice of topics and issues problems The essay is about some wonderfull natural 
-places and I felt like it was important for me to emphasize them even more through this work 
-especially that I´m coming from those places and unfortunately I never visited The National 
-Park Nera gorge-Beusnita in its entirety. In the same situation like me there are a lot of people 
-who choose other countries as destinations.   
- 
-Objective This paper aims to give an overview of tourism in the Mountainous Banat of the 
-Natioanal Park Cheile Nerei-Beușnița one of the main attractions in Caraș-Severin.  The 
-emphasis is on Nera gorge (Cheile Nerei) Devil´s Lake (Lacul Dracului) Bei Eyes´s Lake 
-(Lacul Ochiul Beiului) and Waterfalls of Beușnița (Cascadele Beușniței).  
- 
-Methodology  and  analysis  Using  a  descriptive  qualitatice  method  will  be  presented 
-informations about The National Park Nera gorge-Beușnița. In addition to the information 
-gathered from various sources mostly from Internet it will be presented an interview with an 
-inhabitant of the area. The informationes along with the interview will then be analyzed to 
-reach a conclusion.    
- 
-Own conclusions Although I knew a lot about the beauty of those places before I´ve started 
-to write the essay during the writing process I became more convinced that those places 
-should be visited at least once. The park is not travel arranged which makes some not beeing 
-so open to visit it. In my view this is precisely that which leads to the keeping of the natural 
-beauties. By visiting the National Park Nera gorge-Beusnita you have nothing to lose but win! 
- 
-Keywords Cheile Nerei Lacul Dracului Lacul Ochiul Beiului Cascada Beușnița 
+                                                             
+  Regeringen  Nationell  digitaliseringstrategi  fșr  skolvțsendet  Utbildningsdepertamentet  Bilaga  till 
+regeringsbeslut I .. 
  
  Page number: 5 **************
-Cuvânt înainte 
+A fi profesor 
  
-După  semestre în care am studiat Limba Română la Universitatea din Lund am început 
-cursul Rumänska Kandidat Limba Română  credite. Pentru a putea încheia șirul celor  
-semestre de Limba Română a trebuit să scriu o teză de licență aceasta având  credite. De-a 
-lungul a  luni am căutat informații și am încercat să ofer o imagine de ansamblu cât mai clară 
-și mai reală a obiectivului turistic Cheile Nerei-Beușnița.   
- 
-Ajunsă la sfârșit de drum aș vrea să mulțumesc doamnei profesoare Coralia Ditvall pentru tot 
-sprijinul acordat și pentru tot ajutorul oferit de-a lungul a  ani de zile. Aș mai vrea să 
-mulțumesc de asemenea doamnei profesoare Gabriela Budacă pentru timpul acordat cititului 
-lucrării și pentru părerile oferite. Nu în ultimul rând aș vrea să mulțumesc celui mai apropiat 
-critic Alina Boboescu care prin gândurile oferite m-a ajutat să îmbunătățesc lucrarea pe tot 
-parcursul scrierii ei.  
- 
- 
- 
-Universitatea din Lund -- 
- 
- 
- 
- 
- 
- Alexandra Boboescu 
-                                                 
- Am ales să scriu o lucrare de licenţă care să trateze un subiect de realia cu scopul de a oferi cititorului o 
-prezentare/descriere cât mai reală şi sugestivă a obiectivului turistic Cheile Nerei-Beuşniţa aproape necunoscut 
-în turismul românesc. 
+Problema comună a profesorilor din România cât și din Suedia este acapararea 
+atenției elevului folosind materialul digital în timpul orei astfel încât elevul să nu fie tentat să 
+acceseze mediile sociale TikTok Instagram Snapchat Twitter. În Suedia din ce în ce mai 
+multe școli optează pentru interzicerea mijloacelor de comunicare (telefoane mobile ceasuri 
+smart) în incinta școlii. Astfel elevul predă dispozitivul învățătorului sau dirigintelui înainte 
+de începerea primei ore și îl primește după terminarea orelor de curs evitându-se unele 
+probleme care influențează negativ concentrarea elevilor. 
+Câteodată este greu de înțeles lipsa de motivație a elevilor și cum un profesor ar 
+trebui să trateze perturbarea liniștii în clasă. Ce trebuie profesorul să prioriteze când în timpul 
+orei apar mai multe probleme dar nu are timpul necesar pentru a face față tuturor cerințelor? 
+Ce pot face eu ca profesor ca să tratez toți elevii la fel? Fiecare elev este diferit în sensul că 
+are  nevoi  diferite.  Dorința  profesorului  să  poată  face  ceea  ce  este  necesar  pentru  elevi 
+contribuie ca aceştia să fie tratați în feluri diferite dar arătându-li-se aceeași apreciere.  
+Un nou mod de a privi relația profesor-elev este prezentată de Labaree pe o 
+relație „vânzător- clientˮ unde profesorul este vânzătorul iar elevul este clientul. În primul 
+rând profesorul trebuie să aibă o relație bună cu elevii respectul reciproc având un rol 
+important. Întâlnim elevi care nu doresc să își continue studiile neavând motivarea necesară 
+sau bagajul de cunoștințe suficient de solid pentru continuarea sau aprofundarea studiilor. Una 
+din cauzele acestui lucru este că acești elevi privesc școala ca pe o arenă socială. Merg acolo 
+unde sunt prietenii lor doar ca să socializeze. Rolul profesorului este să știe cum să stârnească 
+și să capteze atenția elevului vânzându-și marfa. Predarea materiilor în școli nu trebuie să fie 
+neinteresantă și monotonă. 
+Aprecierea unui profesor survine în urma rezultatelor obținute de elevii săi de 
+aceea mi s-a părut relevantă expresia ”Teaching is a practice of human improvementˮ. 
+                                                             
+ Lilja Annika „Förtroendefulla relationer mellan lärare och elev” (Gothenburg studies in educational sciences 
+). Göteborg Acta universitatis Gothoburgensis  p. . 
+ Labaree David F. ”On the nature of teaching and teacher education” în Journal of Teacher Education Vol.  
+No. May/June  p.. 
+ Lilja Annika „Förtroendefulla relationer mellan lärare och elev” (Gothenburg studies in educational sciences 
+). Göteborg Acta universitatis Gothoburgensis  p.. 
+ Labaree David F. ”On the nature of teaching and teacher education” în Journal of Teacher Education Vol.  
+No. May/June  p.. 
  
  Page number: 6 **************
-Cuprins 
-.  Introducere .........................................................................................................................  
-. Generalități despre Banatul Montan .................................................................................  
-. Scopul lucrării ...................................................................................................................  
-. Delimitare .........................................................................................................................  
-.  Metoda ................................................................................................................................  
-. Alegerea temei ..................................................................................................................  
-. Studiu cantitativ sau calitativ? ..........................................................................................  
-. Proveniența informațiilor ................................................................................................  
-. Critică ..............................................................................................................................  
-.  Parcul Național Cheile Nerei-Beușnița ............................................................................  
-. Principalele obiective turistice în Parcul Național Cheile Nerei-Beușnița .....................  
-. Păstrarea acestor frumuseți prin ecoturism .....................................................................  
-.  Interviu cu localnic din Parcul Național Cheile Nerei-Beușnița ......................................  
-.  Analiza .............................................................................................................................  
-.  Concluzii ..........................................................................................................................  
-.  Observații proprii .............................................................................................................  
-.  Bibliografie .......................................................................................................................  
-. Literatură .........................................................................................................................  
-. Internet ............................................................................................................................  
-. Interviu ............................................................................................................................  
-ANEXA  .................................................................................................................................  
-ANEXA  .................................................................................................................................  
-ANEXA  .................................................................................................................................  
-ANEXA  .................................................................................................................................  
-ANEXA  .................................................................................................................................  
-ANEXA  .................................................................................................................................  
-ANEXA  .................................................................................................................................  
-ANEXA  .................................................................................................................................  
-ANEXA  .................................................................................................................................  
-ANEXA  ...............................................................................................................................  
+Ideologii 
  
+Din perspectiva nordică sistemul de învățământ se împarte în cel anglo-saxono-
+american și în cel germano-nordic.  
+Sistemul  anglo-saxono-american  se  concentrează  pe  întrebări  despre  scopul 
+predării posibilitățile organizarea și evaluarea rezultatelor. În Suedia planul de învățământ 
+are la bază tradiţia didactică de origine germano-nordică bazată pe o parte pe conceptul 
+educațional al germanului Bildung iar pe de altă parte pe ideile lui Kant despre faptul că omul 
+trebuie să  își  formeze educația  într-un  mod  independent asimilând cunoștinţe  şi  căutând 
+singur informații. Profesorul trebuie să aibă capacitatea de a privi din perspectiva elevului și 
+să își adapteze metodele în funcție de situație neîncărcând elevul cu tot felul de informații 
+colaterale. Elevului trebuie să i se ofere spațiul necesar pentru a se gândi și a creea oferindu-i-
+se o independență graduală. 
+În  sistemul  de  învățământ  românesc  pe  lângă  învățământul  formal  mai  sunt 
+prezente și alte forme educaționale cum ar fi Waldorf Montessori Step by step Freinet și 
+Jena-Petersen ”home schooling”. „Avantajele educaționale au o serie de dimensiuni comune 
+-  Dezvoltă grija față de copil 
+-  Promovează principiile pedagogice care pleacă de la nevoile copilului. Nu i se 
+impune nimic din afară el acționând din propria sa experiență 
+-  Vizează respectarea copilului valorificarea ritmului său de dezvoltare 
+-  Pun accent pe meditație reflecție pe o pedagogie centrată pe personalitatea celor 
+educați și mai puțin pe considerente teoretice pe aspecte informativeˮ.  
  
+Comunicare didactică digitală 
  
+Comunicarea este procesul prin care o persoană transmite informații unei alte 
+persoane sau unui grup de persoane. Pentru noi oamenii comunicarea este indispensabilă 
+pentru a ne putea desfășura activitățile zilnice. În ultimele decenii ființa umană a descoperit 
+noi metode de comunicare și de informare cum ar fi telefonul televizorul și internetul. Astfel 
+încât comunicarea a ajuns să atingă limite greu de imaginat cu  de ani în urmă. Acest lucru 
+                                                             
+ https//www.scribd.com/document//Kultur-Bildung-Geist-GEUSS 
+ https//www.scribd.com/document//Alternative-Educationale 
  
  Page number: 7 **************
-. Introducere 
-Pe  o  suprafață  de     km²  în  estul  Europei  se  află  România  o  țară  a  diversității 
-geografice.  Munții  Carpați  formează  un  arc  în  jurul  Podișului  Transilvaniei.  Pe  partea 
-exterioară a acestui arc se distinge Podișul Moldovei în est iar în sud Câmpia Română. 
-Munții Carpați se împart în Carpații Orientali Meridionali și Occidentali având o înălțime 
-medie  de    m  și  fiind  alcătuiți  ditr-o  diversitate  de  roci  sedimentare  metamorfice  și 
-vulcanice. Carpații Occidentali așa cum și numele lor spune se află în partea de vest a 
-României între Valea Dunării în sud și Valea Someșului în nord. Ei sunt caracterizați de 
-altitudini  mai  reduse  decât  ale  celorlalte  două  ramuri  carpatice  dar  și  printr-un  aspect 
-discontinuu fiind întrerupți de văile mai multor râuri cum ar fi Timișul sau Mureșul. Mureșul 
-este cel care împarte Carpații Occidentali în două mari grupe Munții Apuseni în partea de 
-nord și Munții Banatului în sud. 
-. Generalități despre Banatul Montan 
-Banatul Montan se întinde pe suprafața județului Caraș-Severin al treilea ca mărime din 
-România situat în partea de sud-vest a țării învecinându-se cu județele Timiș Hunedoara 
-Gorj și Mehedinți.  % din suprafața județului este reprezentată de zona muntoasă. Munții 
-Banatului au altitudini joase cel mai înalt fiind vârful Semenic  m. Aici predomină 
-rocile tari mai existând însă și arii cu roci sedimantare în special calcare unde se dezvoltă 
-fenomene carstice. 
+îl putem remarca și în sistemul de învățământ. Datorită situației apărute la nivel global cauzată 
+de apariția noului virus covid- sistemul de învățământ a trebuit să folosească avantajele 
+oferite de folosirea internetului în beneficiul său trecând de la predarea normală la predarea 
+digitală. 
+Comunicarea didactică digitală a schimbat modul de comunicare dintre elev și 
+profesor. Pe lângă posibilitățile oferite remarcăm și dificultățile acestei comunicări în cazul în 
+care conectarea la internet nu este stabilă sau în cazul în care internetul nu este accesibil 
+tuturor părților implicate în comunicare.  
+„Comunicarea dintre un cadru didactic și un elev nu se reduce doar la un schimb 
+verbal intelectual ea are şi o importanţă  afectiv- emoţională. Subtextul emotiv al vorbirii 
+calitatea gesticii şi a mimicii vin să sporească forţa de influenţare educativă a conţinuturilor 
+verbale. 
+Comunicarea didactică constituie baza pe care se desfăşoară procesul de predare 
+– învăţare – evaluare. În cadrul interacţiunii didactice se creează mai multe tipuri de relaţii 
+care facilitează sau pot să blocheze eficienţa comunicării. Dintre acestea enumerăm 
+  relaţia de schimb informaţional cu condiţia ca acesta să fie înţeles 
+  relaţia  de  influenţare  reciprocă  a  comportamentului  pe  baza  înţelegerii  şi 
+acceptării mesajului transmis şi receptat 
+  relaţii socio afective  între emiţător – profesor şi receptor – elev 
+  relaţii democratice de cooperare profesor – elevi şi de cooperare între eleviîn 
+cadrul comunicării didactice sau educaţionaleˮ. 
  
-Zona Banatului Montan oferă multe posibilități de turism agrement și petrecere a timpului 
-liber. Datorită zonelor împădurite de munte a  reliefului diversificat  dar și  a râurilor și 
-lacurilor  turismul  montan  oferă  oportunități  cum  ar  fi  Cicloturism  în  zona  Platoului 
-Semenic Motocilism în zona Muntelui Mic Alpinism pe Muntele Mic Cheile Nerei și 
-Cheile Carașului Snowboard pe Muntele Mic și Masivul Semenic dar și Rafting în zonele 
-valea Cernei și Cheile Nerei. 
  
-                                                 
- iloveromania.ro 
- travelworld.ro 
- turism.cjcs.ro 
- travelworld.ro 
-greensphera.ro 
+ 
+                                                             
+ Comunicarea didactică eficientă - premise a reușitei școlare 
+https//www.scribd.com/doc//Comunicarea-Didactica (accesat la data de  septembrie ). 
+ 
+ 
  
  Page number: 8 **************
-Perlele  Banatului  Montan  sunt  Masivul  Semenic  Muntele  Mic  Poiana  Mărului  Băile 
-Herculane Trei Ape Crivaia Parcuri naționale cum ar fi Parcul Național Semenic – Cheile 
-Carașului Parcul Național Cheile Nerei-Beușnița Parcul Național Domogled dar și Parcul 
-Național Porțile de Fier. 
-. Scopul lucrării 
-Lucrarea are ca scop oferirea unei imagini de ansamblu a obiectivului turistic din Banatul 
-Montan Parcul Național Cheile Nerei-Beușnița accent punându-se pe Cheile Nerei Lacul 
-Dracului Lacul Ochiul Beiului și Cascadele Beușniței.  
-. Delimitare  
-Ținând cont de dimensiunea lucrării am decis să delimitez acest studiu prezentând informații 
-generale despre Parcul Național Cheile Nerei-Beușnița iar apoi o mai îndeaproape desciere a 
-obiectivelor turistice Cheile Nerei Lacul Dracului Lacul Ochiul Beiului și Cascadele 
-Beușniței.   
+Resurse digitale 
  
+Din cauza situației actuale provocate de noul virus covid- sistemul școlar din 
+întreaga lume trece printr-o perioadă de tranziție de la predarea fizică în clasă la predarea on-
+line. Acest lucru a surprins unele țări mai pregătite  în acest sens decât altele. În timpul 
+semestrului de primăvară  când toate țările au ales  închiderea școlilor și înghețarea 
+anului școlar pentru toate ciclurile de învățământ Suedia a decis continuarea predării în sălile 
+de curs pentru elevii din clasele I- IX dar la nivel gimnazial și universitar a trecut la predarea 
+on-line.  Acest  fapt  se  datorează  sprijinului  Ministerului  Educației  pentru  digitalizarea 
+sistemului școlar cu mult înainte de apariția noului virus covid-.  
+Suedia și România au făcut eforturi mari în acest sens. În orașul Göteborg din 
+Suedia s-au organizat cursuri de formare pentru profesori în care li s-au prezentat diferite site-
+uri care pot fi utilizate în acest sens. Profesorii au fost împărțiți în grupuri de - persoane 
+pentru a se antrena și a face schimb de expriență.  
+Predarea on-line prezintă multe avantaje dar are și dezavantaje 
  
-. Metoda  
-Acest capitol oferă cititorului în primul rând câteva argumente în legătură cu alegerea temei 
-despre tipul de metodă de studiu ales și nu în ultimul rând câteva date despre sursele de 
-informare ale lucrării.  
-. Alegerea temei 
-Alegerea temei are o legatură strânsă cu “rădăcinile” mele din România. Aici mă refer la locul 
-de proveniență zona în care am copilărit și pe care o vizitez cu mare plăcere și astăzi. Fiind 
-din Banatul Montan am avut posibilitatea de a cunoaște zona Cheile Nerei dar și pădurile din 
-Munții Locvei. Având bunici în localitatiea Cărbunari situată pe Munții Locvei localitate 
-care face parte din Parcul Național Cheile Nerei-Beușnița am auzit multe despre frumusețile 
-zonei despre peșterile sau lacurile din apropiere.  
+Imaginea ne arată cum arată sălile de clasă  în învățământul online. Orele 
+online trebuie să fie o colaborare dintre participanți tehnologie și activități al căror „scop final 
+este educația oferită elevilorˮ. 
+                                                             
+ Imagine preluată de pe  Google – învățarea online 
+https//www.google.ro/search?q=invatarea+online&espv=&biw=&bih=&source=lnms&tbm=isch&sa=
+X&ved=ahUKEwjFZrC-bbMAhVsAZoKHdL_ATMQ_AUIBigB 
  
-Cu toate că am avut posibilitatea de a vizita întregul Parc Național Cheile Nerei-Beușnița nu 
-am profitat niciodată de ocazie să merg să vad aceste frumuseți naturale. Ce am vizitat sunt 
-doar locurile pe unde eram nevoită să merg pentru a ajunge în Cărbunari sau zonele din 
-apropiere unde mai mergeam cu prietenii vara.  
-                                                 
- greensphera.ro 
  
  Page number: 9 **************
+Avantaje 
+.  Păstrarea distanței limitându-se răspândirea virușilor 
+.  Varietatea de materiale folosite 
+.  Corectarea testelor și aflarea notei într-un timp mult mai scurt 
+.  Elevii pot lucra în grupuri mai mici favorizându-se colaborarea dintre elevi 
  
-Am ales să scriu această lucrare pentru a oferi o imagine de ansamblu a Parcului deoarece 
-sunt  foarte  multe  persoane  foarte  mulți  tineri  din  zona  Banatului  Montan  foarte  mulți 
-cunoscuți  care  nu  au  fost  niciodată  să  viziteze  aceste  minunății  în  schimb  alegând  ca 
-destinații străinătatea.   
+Dezavantaje 
+.  Lipsa comunicării fizice 
+.  Dificultăți în folosirea tehnologiei 
+.  Ușurința de distragere a atenției elevului  
+.  Statul prelungit în fața calculatorului poate dăuna sănatății 
  
-Înainte de a mă hotărî la această temă am început să caut informații despre Cheile Nerei 
-despre întreaga zonă și astfel am găsit foarte multe pagini web pe ale căror forumuri multe 
-persoane recunoșteau că nici nu știau că în România există astfel de locuri iar alte persone 
-chiar spuneau că pozele făcute în acele zone sunt trucate deoarece nu se poate să fie așa ceva 
-în România. Aceste comentarii m-au convins și mai mult că tema aceasta este cu siguranță cea 
-mai potrivită.  
-. Studiu cantitativ sau calitativ? 
-Metodele alese pentru acest studiu se bazează pe cercetarea cantitativă şi calitativă cunoscute 
-mai ales în ştiinţele sociale. 
+Instrumente digitale 
  
-Se spune că cercetarea calitativă se bazează pe cuvinte pe când cea cantitativă pe cifre. Există 
-o tendință de a asocia metoda calitativă cu studii  efectuate la scară mică pe când cele 
-cantitative sunt asociate cu o analiză mai amplă dar și cu studii la scară mare. Deoarece 
-studiul meu nu are în alcătuirea sa decât un singur interviu am ales să folosesc metoda 
-calitativă. Metoda calitativă pune accent pe factori care sunt izolați de alte variabile pentru ca 
-în acest fel să se poată observa atât funcțiile acestora cât și efectele. Această metodă este 
-potrivită pentru studiul meu deoarece aici se dorește prezența unei unități. Ceea ce face ca 
-metoda de studiu calitativă să fie unică este faptul că în centru se află descrierea caracteristicile 
-cuiva.  
+Fiecare profesor are posibilitatea de a accesa și a folosi instrumentele digitale care i se 
+potrivesc. În continuare voi prezenta câteva dintre ele 
+.   
+Whiteboard.fi - este o pagină de web în care profesorul se folosește de o mini whiteboard 
+pentru a da posibilitatea tuturor elevilor să răspundă la aceeași întrebare. Elevii își pot scrie 
+sau desena răspunsul iar toate răspunsurile voar apărea pe ecran. Nu este necesară creerea 
+unui cont accesul făcându-se prin introducerea unui cod primit de la pagina web. După o 
+inactivitate de  de  minute camera  creată se  închide  iar toată activitatea este ștearsă 
+definitiv.  
  
-Studiul este calitativ descriptiv accentual punându-se pe materialul adunat având ca scop 
-descrierea Parcului Național Cheile Nerei-Beușnița. Am ales acest tip de studiu pentru a 
-obține informații cât mai ample despre temă putând astfel oferi o imagine cât mai clară și mai 
-de ansamblu a obiectivului turistic.  
- 
-                                                 
- Denscombe  
- Ibid. 
- Ibid.  
+                                                                                                                                                                                              
+ Vaida Bogdan Iepure Călin Curcubătă Răzvan Captează-ți elevii în online mai ceva ca în clasă! Bogdan 
+Vaida  p.. 
+https//semneletimpului.ro/sanatate/la-ce-pericole-te-expui-daca-stai-prea-mult-timp-in-fata-
+calculatorului.html  
  
  Page number: 10 **************
-Deoarece am vrut să ofer cititorilor și părerea unei persoane din afara acestui studiu am ales 
-să intervievez un localnic recent stabilit într-o localitate din Parcul Național Cheile Nerei-
-Beușnița.  Am ales ca în lucrare să intervievez un localnic recent mutat în zonă deoarece unei 
-persoane care s-a născut și a trăit în acele locuri acestea i se par frumoase chiar dacă ele nu ar 
-fi ele fiind frumoase prin faptul că reprezintă locul natal al persoanei respective. M-am gândit 
-că alegând pentru un scurt interviu o persoană de proveniență din alte locuri și nu zona Cheile 
-Nerei aceasta va fi mult mai obiectivă atunci când îmi va povesti despre impresia pe care 
-zona și Parcul Cheile Nerei-Beușnița i-au lăsat-o. Sunt conștientă însă că există atât lucruri 
-pozitive cât și negative cu alegerea făcută. 
+.   
+Answergarden.ch - este o aplicație digitală pentru feedback în care răspunsurile elevilor apar 
+în timp real. Accesul se face pe baza unui link și poate fi utilizată în mai multe scopuri 
+educaționale cum ar fi evaluare formativă comunicare sincronă și asincronă sondaje. 
  
-Pentru  interviu  s-a  folosit  tipul  semistructurat.  Prin  această  metodă  de  intervievare  se 
-primesc răspunsurile la întrebările puse în același timp în care se lasă puțin spațiu persoanei 
-intervievate pentru a putea dezvolta și discuta mai îndeaproape părerile proprii.    
-. Proveniența informațiilor  
-Informațiile despre Parcul Național Cheile Nerei-Beușnița au fost adunate din mai multe surse 
-de pe Internet din unele experiențe personale dar și dintr-un interviu cu o persoană recent 
-stabilită într-o localitate ce se află pe suprafața Parcului.   
+.   
+Meeting words. Cu ajutorul acestui program elevii pot scrie împreună un document. 
+Fiecare elev primește o culoare pentru text scris. Programul poate fi folosit la materiile 
+unde se necesită scrierea de texte în urma discuțiilor avute de un grup. 
  
-Sursele luate de pe Internet pot fi de multe ori eronate. Din cauza aceasta și mai ales a 
-faptului că în acest studiu sunt folosite foarte multe informații culese de pe diferite pagini 
-web am încercat să verific credibilitatea acestora. Am facut acest lucru cu ajutorul a cinci 
-criterii și anume identificarea sursei criterii de simultaneitate criterii de tendință criterii de 
-dependență și criteriul de selecție. Astfel că am încercat să evaluez cine este autorul sursei 
-care au fost motivele publicării informațiilor respective dar și dacă sursa este autentică sau 
-nu.  Folosind  aceste  criterii  am  încercat  de  asemenea  să  evaluez  relația  dintre  autor  și 
-informația pe care o transmite dar și interesul autorului de a influența opiniile cititorilor. În 
-acest mod sper să ofer o imagine cât mai reală a obiectivului Parcul Național Cheile Nerei-
-Beușnița.  
-. Critică 
-Conform  indicațiilor  primite  lucrarea  trebuie  să  aibă  un  conținut  de  maxim    pagini 
-exclusiv bibliografie și anexe. Sunt conștientă de faptul că lucrarea mea a depășit acest număr 
-                                                 
- Întrebările pot fi citite în Anexa  
- Denscombe  
+.    . 
+Kahoot! – este un joc digital bazat pe alegerea răspunsului corect în cel mai scurt timp. 
+Câștigă elevul care acumulează cele mai multe puncte. Această aplicație este folosită de 
+profesori pentru a crește activitatea elevilor la oră dar în același timp se verifică gradul de 
+înțelegere și cunoștințele acumulate de către elevi. 
+ 
+.   
+Google Meet este o aplicație oferită de Google care permite profesorului să aibă contact în 
+timp real cu toți elevii în același timp.Aplicația facilitează prezentarea de documente 
+filme jocuri interactive. 
+ 
+ 
  
  Page number: 11 **************
-de pagini ceea ce ar putea fi un lucru negativ adică o încălcare a regulilor stabilite dar toate 
-informațiile prezentate mi se par importante ele reprezentând o unitate din care imi este greu 
-să îndepărtez vreo parte. De aceea am hotărât ca în ciuda încălcării unei reguli să păstrez 
-lucrarea în întregimea ei. Conținutul lucrării mele a depășit cu  pagini limita admisă. Primele 
- pagini ale lucrării cele ce reprezintă capitolele Definiții Rezumat Abstract Cuvânt înainte 
-și Cuprins nu întră în limita de  pagini admise ele fiind doar niște informații suplimentare.  
+.   
+Google Classroom este un serviciu web gratuit creat și dezvoltat de Google pentru școli. 
+Acest sistem este folosit în toate școlile din Suedia pentru că eficientizează procesul de 
+partajare a fișierelor dintre elevi și profesori. Se poate crea câte o clasă virtuală la majoritatea 
+obiectelor unde în fluxul clasei sunt stocate materiale informative fișe de lucru individuale 
+sau în grupp în clasă. Temele date de profesori sunt de asemenea stocate în fișiere iar elevii își 
+predau teme creând documente sau prezentări cu programul Google. Înainte de postarea 
+temei profesorul alege data de predare a lucrării astfel putând avea un control mai bun asupra 
+temelor elevilor. Temele predate pot fi corectate de profesori și retrimise elevilor pentru 
+revizuire înainte de predarea finală. La începutul anului școlar  -  Google a adăugat 
+o nouă funcție – controlul plagiatului.  
  
-  
-. Parcul Național Cheile Nerei-Beușnița 
-Parcul Național Cheile Nerei-Beușnița se numără printre cele  parcuri naționale existente în 
-România. Întins pe o suprafață de   hectare parcul reprezintă unul dintre principalele 
-obiective turistice din Banat. Aici găsim peisaje surprinzătoare cascade punți suspendate 
-tuneluri săpate în stâncă lacuri carstice peșteri dar și o faună rară. Parcul s-a constituit 
-pentru a conserva aceste fumuseți naturale unice multe dintre ele datorate climatului cu 
-influențe  submediteraneene.  Printre  acestea  amintim  plantele  ierboase  și  lemnoase.  Alte 
-lucruri unicate pe care le găsim în Parc sunt Cheile Nerei fiind cele mai lungi din Romania 
-Lacul Dracului sau pădurile seculare.  
+Efectele învățământul online 
  
-  
+Asupra elevilor 
  
- 
- 
- 
- 
- 
- 
- 
-Foto George Oprea Boaba Popescu și 
-Adrian Nicolae   
- 
-    ¨ 
- 
-Parcul Național Cheile Nerei-Beușnița se întinde pe suprafața județului Caraș-Severin între 
-localitățile  Sasca  Montană  Sasca  Română  Potoc  Socolari  Ilidia  Ciclova  Oravița  
-Bozovici  Anina  Lăpușnicu  Mare  Dalboșeț  Șopotu  Nou  și  Cărbunari.  Regiunea  se 
-                                                 
- comeinromania.com 
- infocheilenerei.ro/Localizare/ 
- travel.descopera.ro 
- comeinromania.com 
+Oricât de mult ne dorim ca predarea online să funcționeze la fel pentru toți elevii 
+trebuie să luăm în considerare diferitele metode prin care elevii pot acumula cel mai bine 
+cunoștințele.  
+În anii ´ Richard Badler și John Grinder au descoperit că oamenii au un sistem 
+dominant de reprezentare ceea ce înseamnă că pentru a reține o informație oamenii folosesc 
+unul dintre cele patru filtre vizual auditiv scris/ citit si kinestezic. În studiul său Nicoleta 
+Prepeliță ne prezintă cele patru „tipuri de eleviˮ  
+                                                             
+ Vaida Bogdan Captează-ți elevii în online mai ceva decât în clasă! Editura Vaida p.-. 
+ Prepeliță Nicoleta „Factori ai învățării eficiente” în „Studiu științific realizat în cadrul proiectului Erasmus + 
+KAˮ în Confluențe Nr.  ianuarie  p.. 
+ Prepeliță Nicoleta „Factori ai învățării eficiente. Studiu științific realizat în cadrul proiectului Erasmus + KA” 
+în Confluențe Nr.  ianuarie  p.. 
  
  Page number: 12 **************
-caracterizează prin platouri calcaroase ridicate de unde pornesc pantele unor văi ce străpung 
-aceste roci. Este vorba despre Cheile Minișului Cheile Nerei Valea Beiului Valea Ciclovei 
-Valea Oraviței și Valea Cremenița. 
+.  Elevii vizuali care învață folosind preponderent simțul văzului privind în jurul lor. 
+Acești elevi preferă imaginile culorile și diagramele pentu a recepționa și memora 
+informația 
+.  Elevii auditivi care învață cel mai bine prin ascultare și conversație. Interesul lor este 
+menținut prin discuții ascultarea lecturilor 
+.  Elevii  care citesc/ scriu sunt elevii care rețin informația prezentată sub formă de 
+cuvinte. Ei își aleg informațiile cele mai importante atunci când trebuie să invețe 
+pentru o lucrare sau un examen făcând notițe. 
+.  Elevii kinestezici care învață cel mai bine prin experiență. Ei ating obiectele din jurul 
+lor având nevoie să își folosească simțul tactil iar informațiile sunt reținute mai bine 
+atunci când sunt implicați în acțiuni.  
+Activitățile oferite elevilor sunt importante deoarece prin ele elevul își dezvoltă creativitatea 
+și își strucrurează mai bine ideile. În același timp le oferă ocazia să își dezvolte competențe 
+noi. 
  
-Clima temperat continentală cu influențe submediteraneene contribuie la o faună și o floră 
-unică. Fauna terestră este reprezentată de peste  taxoni și de fauna cavernicolă care 
-cuprinde    specii  și  subspecii  de  nevertebrate.  Dintre  acestea    specii  sunt  strict 
-protejate. Pe lângă toate aceste specii mai sunt prezente încă  de specii rare și  de 
-endemisme. Pricipalele specii de animale sunt ursul (Ursus arctos) râsul (Lynx lynx) 
-vulturul  alb  (Neophran  perenopterus)  lăstunul  mare  (Apus  melba)  lăstunul  de  stâncă 
-(Hirunda  rupestris)  rândunica  roșcată  (Hirunda  daurica)  pietrarul  bănățean  (Oenanthe 
-hispanica)  presura  bărboasă  (Emberiza  cirulus)  șarpele  orb  (Anguis  fragilis  colticus) 
-scorpionul (Euscarpius carpathicus) liliacul mediteranean (Rhinolopus luryale) și fâsa mare 
-(Cobitis elongata) care este un monument al naturii. În apele râurilor și a lacurilor se mai 
-găsesc  păstrăv  clean  (Leuciscus  cephalus)  mreană  (Barbus  barbus)  lipan  (Thymallus 
-thymallus) și caraș (Carassius carassius). Primăvara urcă în apele din zona muntoasă peștele 
-răpitor numit scobarul (Chondostroma nasus). Printre speciile de reptile se amintesc vipera cu 
-corn (Vipera amodytes) gușterul verde (Lacerta viridis) și vipera (Vipera berus).  
+Asupra părinților 
  
-  
+În România toate formele sistemului de învățământ au adoptat metoda predării 
+online în perioada  martie -  iunie  iar părinții elevilor din clasele I-VI au trebuit să 
+își asume rolul de asistent al profesorului. Părinții au început să primească mesaje cu ceea ce 
+elevul trebuie să facă de la profesori. O parte din părinți nu au cunoștințele necesare pentru a 
+îndruma și a controla elevul. „Până la urmă fiecare s-a descurcat cum a putut unii au învățat 
+să folosească platformele puse la dispoziție iar alții au folosit mijloacele de comunicare mai 
+simple cum ar fi aplicația Messenger sau WhatsAppˮ. 
+În Suedia învățământul pregimnazial nu a fost afectat de trecerea în totalitate la 
+predarea online. S-au înregistrat cazuri în care s-a optat pentru predarea online doar datorită 
+                                                                                                                                                                                              
  
- 
-Foto  George  Oprea  Boaba  Popescu  și  Adrian 
-Nicolae  
- 
- 
-Bogăția floristică a zonei este impresionantă deoarece aici se întâlnesc atât specii balcanice 
-cât și specii mediteraneene și submediteraneene în total aproximativ  de specii de plante. 
-În această zonă întâlnim cele mai frumoase exemplare de alun turcesc (Corylus colurna) ele 
-                                                 
- infocheilenerei.ro/Localizare/ 
- explicație a termenului în rubrica Definiții 
- explicație a termenului în rubrica Definiții 
- explicație a termenului în rubrica Definiții  
- infocheilenerei.ro/Localizare/ 
- infocheilenerei.ro/Localizare/arii-protejate 
- Ibid. 
- travel.descopera.ro 
+ https//www.edupedu.ro/breaking-scolile-vor-fi-inchise-o-saptamana-incepand-de-miercuri--martie-cu-
+posibilitatea-de-prelungire-a-masurii-surse/ (accesat la data de  octombrie ). 
+ Vaida Bogdan Iepure Călin Curcubătă Răzvan Captează-ți elevii în online mai ceva ca în clasă! Bogdan 
+Vaida  p. . 
  
  Page number: 13 **************
-având  peste    m  înălțime  și    cm  diametru.  În  bazinul  Beușnița  vegetează  făgetele 
-bănățene vestigii ale vegetației postglaciare. În această zonă regăsim și următoarele plante 
-vișinul turcesc (Podus mahaleb) nucul comun (Jugleus regia) măceșul de Beușnița (Rosa 
-stylosa var beucensis) tisa (Taxus baccata) mojdeanul (Fraxinus ornus) cărpinița (Carpinus 
-orientalix) ghimpele (Ruscuc aculeatus) cornișorul (Ruscuc hypoglosum) stânjenelul (Iris 
-graminea) bujorul de pădure (Peonia mascula var triternatifolia) săbiuța (Gladiolus illiricus) 
-garofița bănățeană (Dianthus banaticus) și bujorul bănățean (Peonia officinalis var banatica).   
+faptului că cadrul didactic se afla în zona de risc de îmbolnăvire cu COVID-. Învățământul 
+gimnazial și universitar a adoptat predarea online de pe data de  martie până la terminarea 
+anului școlar pe  iunie  după anunțul făcut de primul ministru Stefan Löfven. 
  
-Deoarece teritoriul pe care este situat Parcul Național Cheile Nerei-Beușnița este caracterizat 
-printr-un climat temperat continental cu influențe submediteraneene numărul zilelor cu cer 
-înnorat este de circa  pe an ceea ce duce la o cantitate de precipitații destul de ridicată ea 
-ajungând până la aproximativ  mm/m²/an. Zilele cu ceață sunt și ele prezente în zonă 
-destul de des cam  de zile pe an. 
-  
-În  zona  Parcului  Național  Cheile  Nerei-Beușnița  se  întâlnește  o  diversitate  de  obiective 
-turistice cultural-istorice de situri arheologice și de monumente de arhitectură și artă dar și 
-monumente industriale.   
+Asupra profesorilor 
  
-Siturile arheologice care au fost identificate cele mai multe dintre ele fiind situri subterane 
-sunt situate în  de peșteri din Cheile Nerei reprezentând urme de locuire umană. Au fost 
-găsite fragmente ceramice vetre de foc din neolitic până în prezent.  Cel mai important sit 
-este situat într-o peșteră din Cheile Minișului unde au fost identificate resturi scheletice 
-umane care conform datărilor sunt cele mai vechi din Europa. Pe lângă siturile subterane au 
-mai fost găsite și  situri de suprafață printre care se numără Cetatea Socolari Mănăstirea 
-Călugăra tunelele de la Sasca și Teatrul Vechi de la Oravița.   
- 
-În  localitatea  Ilidia  întâlnim  obiective  care  merită  vizitate  printre  acestea  amintim 
-monumente și situri arheologice. Aici se află Stânca pictată – Valea Mare Biserica Medievală 
-Dealul Cetate din secolele XIII-XIV și siturile Săliște – care datează din epoca medievală 
-epoca  migrațiilor  Dealul  Oblița  –  fiind  tot  din  epoca  medievală  secolul  XII  și  Moara 
-Gherghinii – din epoca romană. În imediata vecinătate a localității Ilidia găsim localizată 
-localitatea Socolari acolo unde putem vizita cetatea mediavală care poatră numele Cetatea 
-                                                 
- infocheilenerei.ro/Localizare/arii-protejate 
- infocheilenerei.ro/Localizare/ 
- Ibid. 
+Rolul profesorului în predarea online este semnificativ în ceea ce privește 
+- alegerea metodelor și intrumentelor potrivite pentru fiecare materie 
+- cum își alege să desfășoare activitatea de predare online  
+- instruirea elevilor în scopul însușirii și folosirii materialelor digitale 
+- regândirea și creearea unor noi metode de evaluare prin care elevul să aplice cunoștințele și 
+abilitățile dobândire. 
+Ușurința profesorilor în adaptarea la învățământul online depinde atât de factori 
+obiectivi (volumul natura semnificația gradul de structurare logică a materialului) cât și 
+subiectivi  (starea  funcțională  a  creierului  capacitatea  funcțională  motivația  vârsta 
+autosugestia).  A  reflecta  asupra  propriului  mod  de  predare  având  la  bază  o  cunoaștere 
+temeinică a cunoștințelor teoretice dar și cu ajutorul evaluărilor colegilor și a autoevaluărilor. 
+Înainte de întocmirea planificării profesorul trebuie să ia în considerare timpul 
+în care un elev este atent la oră favorizând calitatea învățării. În urma cercetărilor făcute s-a 
+ajuns  la  concluzia  că  elevul  în  primele    minute  prezintă  o  atenție  involuntară  apoi 
+capacitatea de concentrare începe să crească intrând în funcțiune atenția voluntară. Aceasta 
+are la bază efortul voluntar conștient și orientat asupra asimilării cunoștințelor. Locul atenției 
+voluntare este preluat de oboseala intelectuală după aproximativ  minute de activitate fiind 
+necesară introducerea unei pauze. 
+                                                             
+  SVT- NYHETER/ Inrikes Gymnasieskolor och högskolor rekommenderas distansundervisning publicat la data 
+de  martie . 
+ Prepeliță Nicoleta „Factori ai învățării eficiente” în „Studiu științific realizat în cadrul proiectului Erasmus + 
+KAˮ în Confluențe Nr.  ianuarie  p.. 
  
  Page number: 14 **************
-Beiului cu datare din epoca medievală secolele XIV-XV. În localitatea Cărbunari găsim situl 
-arheologic Peștera Urzicari unde se găsesc urme de locuire din paleolitic și neolitic aceasta 
-fiind o construcție romană din sec II-III a epocii romane. Tot în aceeași localitate se mai află 
-și situl Coțofeni cu urme de locuire din epoca bronzului. În localitatea învecinata Știnăpari se 
-află monumentul numit Dealul Chelu – mina romană de la Știnăpari care dateaza din epoca 
-romană. La Șopotul Nou se poate vizita locuirea preistorică Peștera Rolului.  
- 
-În localitatea Anina cele mai importante monumente industriale sunt Mașina de extracție cu 
-abur și Centrala termoelectrică cu turbine. La câțiva km de Anina se află localitatea Bozovici 
-acolo unde găsim un ansamblu de mori – Moara Namțului din  sau Moara de peste Râu 
-din  .  Biserici  cu  datări  din  secolul  XVIII  găsim  în  următoarele  localităti  Ciclova 
-Română – Biserica Sfânta Maria Biserica Mănăstirii Călugăra Ilidia – Biserica Pogorârea 
-Sfântului  Duh  Sasca  Montană  –  Biserica  Sfinții  Apostoli  Biserica  Nașterea  Maicii 
-Domnului Slatina Nera – Biserica Adormirea Maicii Domnului.   
- 
-Parcul Național Cheile Nerei Beușnița este divizat în  zone și anume Zona Cheile Nerei-
-Beușnița  Zona  Cheile  Șușarei  Zona  Valea  Ciclova-Ilidia  Zona  Ducin  și  Zona  Izvorul 
-Bigăr.  
-. Principalele obiective turistice în Parcul Național Cheile Nerei-Beușnița 
-Cele  obiective turistice care urmează se află localizate în Zona Cheile Nerei-Beușnița.   
- 
-Cheile Nerei sunt cele mai lungi și mai spectaculoase din țară. Întinzându-se pe o lungime de 
- km ele sunt situate la limita sud-vestică a țării în sudul munților Aninei la o diferență 
-de altitudine de  m.  Cheile se întind de-a lungul râului Nera între localitățile Sasca 
-Română și Șopotul Nou. Datorită unor formațiuni carstice spectaculoase Cheile Nerei sunt 
-de o frumuseșe natural unică. La toate acestea se adaugă numărul mare de specii rare întâlnite 
-aici de nevertebrate cum este scorpionul declarat monument al naturii și licuriciul bănățean 
-uneori foarte ambundent.  
- 
-                                                 
- infocheilenerei.ro/Localizare/ 
- infocheilenerei.ro/Istorie-locala/ 
-dsresitacs.ro 
- comeinromania.com 
- turistik.ro 
- comeinromania.com 
+Studiu de caz 
  
  Page number: 15 **************
-Ștefan  Negrea  doctor  în  speologie  spune  despre  Cheile  Nerei  faptul  că  “ele  întrunesc 
-sălbăticia Cheilor Carașului grandoarea Cheilor Bicazului și gingășia Cheilor Turzii”.  
- 
-Lacul Dracului a apărut prin prăbușirea bolții peșterii cu același nume și din această cauză o 
-parte a lacului se află sub bolta peșterii. Inițial acesta a fost un lac subteran. Lacul se întinde 
-pe o suprafață de aproximativ  m² având o adâncime maximă de  m. În anul  
-speologii scafandri au descoperit pe malul lacului o galerie care pătrundea în masivul fisurat. 
-După nu mai mult de  m scafandri au ieșit din apă într-o sală formată din calcar și silex. 
-Impresionant a fost cum culoarea albă a calcarului alterna cu straturile negre de silex. Printre 
-alte lucruri descoperite aici au fost forme ciudate de coroziune care puteau fi posibile numai 
-în mediul subacvatic trunchiuri de arbori și spongieri de apă dulce ultimii reprezentând 
-forme mai rare de viață. Apa lacului fiind foarte limpede cu reflexe verzi-albăstrui sau 
-violet-negre oferă turistului posibilitatea de a vedea o mulțime de pești înotând. 
- 
- 
-Lacul Ochiul Beiului lac de proveniență carstică și protejat de Munții Aninei și Locvei are 
-o suprafață de  m² și o adâncime de  m. Lacul este în formă de cuvă iar datorită 
-izvorului care se revarsă în el nu îngheață iarna. Acest lucru face ca multe păsări migratoare 
-să aleagă să rămână aici în timpul iernii temperatura apei fiind mai ridicată. Astfel de păsări 
-sunt stârcii cenușii sau rațele sălbatice.  
- 
-Pe raza localității Sasca Română acolo unde Beiul se varsă în Nera se termină Cheile Nerei. 
-Pe aici trecerea se face prin tunele săpate în stâncă abruptă. În vecinătatea lacului găsim cele 
- cascade ale Beușniței.  
- 
-Cascadele Beusnitei sunt situate în Munții Aninei pe Valea Beușniței. Beușnița este un 
-afluent al râului Bei care la rândul său este afluent al râului Nera. Pârâul Beușnița și-a săpat 
-valea  în  calcar  aceasta  fiind  căptușită  cu  tuf  calcaros  unde  apa  se  scurge  într-un  șir 
-neîntrerupt de cascade așezate în trepte cu dimensiuni variate care ajung până la  m 
-înâlțime. Tuful calcaros de pe fundul văii se formează și crește continuu printr-un process 
-neîntrerupt în care ceea ce se găsește în albie mușchi frunziș crengi pietre se încrustează 
-                                                 
- Ștefan Negrea  pag.  
- carpati.org/articol/lacul_dracului/ 
- meleaguri.ro 
-
- Ibid.  
  
  Page number: 16 **************
-încetul  cu  încetul.  Cascadele  Beușniței  se  impart  în  două  categorii  cele  din  porțiunea 
-inferioară și cele din porțiunea superioară. Diferența dintre cele două grupe este că unele cele 
-inferioare reprezentate de un șir neîntrerupt de căderi de apă sunt înguste pe când celelalte 
-cele superioare sunt cascade verticale și zgomotoase ale căror apă curge în dorne adânci. Apa 
-celei mai mari cascade care face parte din grupul superior cade ca o perdea transparentă de la 
-o înălțime de aproximativ  m peste abruptul de tuf plin de mușchi. Efectul fonic este 
-nemaipomenit atunci când debitul apei este ridicat. 
- 
-Împreună toate aceste obiective formează un ecosistem de mare valoare științifică.  
- 
- 
-“Deși  am  hoinărit  atâția  ani  prin  munții  noștri  excursia  din  Cheile  Nerei 
-rămane cea mai frumoasă din câte am făcut până acum. Mă despart de Nera ca 
-de o ființă dragă. Cine și-ar fi inchipuit că poate fi atât de sălbatică și măreață 
-natura în acest colțișor de țară? Nici n-ai bănuit că venind cu râul leneș din 
-despresiunea Almăjului vei parcurge vreo  km printre pereți înalți și golași 
-alternând  cu  curmături  îmbrăcate  de  păduri  neatinse  de  secure  că  te  vei 
-pomeni în decor montan la numai  m altitudine?” (Emilian Cristea)   
- 
- 
-. Păstrarea acestor frumuseți prin ecoturism 
-Pentru a păstra intacte aceste frumuseți ale naturii se folosește ecoturismul. De-a lungul 
-ultimelor decenii ecoturismul a cunoscut o expansiune rapida la nivel mondial. Ecoturismul 
-este definit de Societatea Internaționala de Ecoturism ca fiind ”calătoria responsabilă în ariile 
-naturale  care  contribuie  la  conservarea  mediului  natural  și  la  îmbunătațirea  bunăstării 
-populației locale”. Ecoturismul se bazează pe mai multe principii printre care se pot aminti 
-următoarele 
-  minimizarea impactului asupra mediului înconjurător și populației locale  
-  educarea turiștilor în spiritul conservării 
-  creșterea conștientizării și respectului pentru mediu și cultură 
- 
-                                                 
- carpati.org/articol/cascadele_beu 
- Emilian Cristea (-) un nume cunoscut în istoria alpinismului românesc 
- Ștefan Negrea  pag. 
- nera.exploratorii.ro/ecoturism 
  
  Page number: 17 **************
-Conform unui studiu ASER turiștii vin în România pentru a vedea natura neatinsă de om și 
-penru obiceiurile tradiționale românești.  
- 
-De aceea în Parcul Național Cheile Nerei-Beușnița sunt stabilite reguli de vizitare și anume 
-este interzis accesul autovehiculelor pe anumite arii parcarea acestora făcându-se în locuri 
-special  amenajate  camparea  în  rezervații  este  interzisă  excepție  făcându-se  în  locurile 
-amenajate turiștii sunt obligați să evacueze deșeurile pe care le generează pe timpul vizitării 
-Parcului este interzis orice tip de poluare fonică este interzisă distrugerea florei aprinderea 
-focului în padure și în Parc este permisă numai în locurile special amenajate se interzice 
-scrierea  pe  arbori  stânci  sau  peșteri  este  interzisă  practicarea  sporturilor  cu  motor  se 
-interzice pescuitul în apele de pe suprafața parcului.  
- 
- 
-. Interviu cu localnic din Parcul Național Cheile Nerei-Beușnița 
-Interviul  a  avut  loc  la  data  de    decembrie    în  localitatea  Cărbunari.  Persoana 
-intervievată se numește Georgeta Popescu și de aproximativ  ani de zile s-a hotărât să își 
-cumpere o casă de vacanță în localitatea mai sus amintită fiind impresionată de frumusețile 
-naturale ale locului. Din ceea ce mi-a povestit a ales să își cumpere o casă de vacanță pentru a 
-”scăpa” de gălăgia și praful din oraș măcar pentru o perioadă a anului. Deoarece în această 
-zonă condițiile de trăit iarna sunt foarte grele fiind zăpadă multă drumurile fiind greu 
-circulabile a ales să rămână în oraș pe parcursul lunilor reci și încărcate cu zăpadă. Georgeta 
-povestește că vara este foarte frumos. Când soarele arde se adăpostește la umbra copacilor 
-acolo unde numai cântecul păsărilor se mai aude.  
- 
-În cei  ani de când s-a mutat în Cărbunari a vizitat Cheile Nerei o singură dată dar s-ar mai 
-duce cu plăcere încă o dată să le mai vadă. Mărturisește însă că drumul este destul de obositor 
-dar cu mici popasuri se poate face. Zona nu este amenajată turistic adică nu sunt construite 
-drumuri ci se merge pe poteci prin pădure turiștii folosindu-se de marcajele de pe copaci. 
-Este frumos faptul că în unele locuri trecerea peste apă se face pe poduri suspendate de unde 
-se poate vedea întreaga panoramă. Ceea ce i-a plăcut mult a fost Lacul Ochiul Beiului 
-culoarea acestuia fiind impresionantă. La fel de impresionant era și atunci cănd nuanțele apei 
-                                                 
- Asociația Speologică Exploratorii Reșița 
-nera.exploratorii.ro/ecoturism 
- nera.exploratorii.ro/reguli 
  
  Page number: 18 **************
-lacului se schimbau în funcție de cum ajungeau razele soarelui să pătrundă printre copaci. Se 
-puteau vedea nuanțe de albastru cand cerul senin se oglindea iar în unele locuri se vedea apa 
-căpătând  nuanțe  închise  ajungând  chiar  și  până  la  negru  acolo  unde  soarele  nu  putea 
-pătrunde. Cascadele Beușniței sunt și ele frumoase și foarte apropae de lac ceea ce este bine 
-spune Georgeta deoarece nu trebuie să mai meargă pe jos un drum lung pentru a mai vizita 
-un obiectiv turistic.  
  
-În pădurile din apropierea satului merge foarte des la plimbare iar acolo prin păduri peste 
-dealuri oricine se poate relaxa. În plus prin aceste păduri din apropiere se află și mai multe 
-izvoare cu apă potabilă.  
- 
-Georgeta este foarte mulțumită de alegerea făcută și nu regretă deloc faptul că și-a cumpărat o 
-casă de vacanță în zona aceea.  
- 
- 
-. Analiza 
-Parcul Național Cheile Nerei-Beușnița se împarte în mai multe zone fiecare dintre acestea 
-cuprinzând diferite obiective turistice. Într-una din zone se află obiectivele turistice Cheile 
-Nerei Lacul Dracului Lacul Ochiul Beiului și Cascadele Beușniței.  
- 
-În conformitate cu studiul făcut de ASER turiștii străini vin în România pentru a vizita natura 
-neatinsă de om. Zona Cheile Nerei este un astfel de obiectiv turistic unde tocmai pentru 
-conservare se practică ecoturismul. Așa cum spune și alpinistul român Emilian Cristea pe 
-Cheile Nerei se află păduri seculare neatinse de secure.  
- 
-Peisajele sunt neasemuit de frumoase. Exemple de astfel de zone sunt Cheile Nerei deoarece 
-ele întrunesc așa cum afirmă si doctorul în speologie Negrea „sălbăticia Cheilor Carașului 
-grandoarea  Cheilor  Bicazului  și  gingășia  Cheilor  Turzii”  Lacul  Ochiul  Beiului  cu  o 
-culoare impresionantă acel albastru-verziu cu umbre de violet-negru înconjurat de o natură 
-spectaculoasă de păduri seculare de specii floristice rare. Peisajele sunt frumoase de vizitat 
-în orice anotimp însă este mai greu de pătruns în anumite zone pe timp de iarnă datorită 
-căilor  de  comunicație  nedezvoltate.  Primăvara  vara  și  toamna  sunt  cele  mai  potrivite 
-                                                 
- Ștefan Negrea  
  
  Page number: 19 **************
-momente din an pentru vizitat Lacul Dracului de exemplu care jumătate se află sub bolta 
-peșterii și jumătate în afara acesteia și datorită acestui fapt nuanța apei variază mult acolo 
-unde soarele neputând ajunge fiind foarte închisă.  
+Analiza 
  
-De  asemenea  pădurile  seculare  cu  o  floră  rară  unde  se  pot  întâlni  cele  mai  frumoase 
-exemplare de alun turcesc vișin turcesc măceș de Beușnița cornișorul săbiuța garofița 
-bănățeană printre altele sunt un loc minunat pentru iubitorii de natură.  
  
-Deoarece transportul în aceste zone nu este foarte dezvoltat zonele nu au fost vizitate de 
-foarte  mulți  turiști.  Efectul  a  fost  pozitiv  pentru  natură  care  a  rămas  aproape  intactă 
-nepoluată sau distrusă. Efectul a fost însă negativ pentru turism care nu s-a dezvoltat în prea 
-mare măsură. Numărul turiștilor ar putea fi ridicat în aceste zone și benefic atât pentru ei prin 
-vizitarea  zonelor  cât  și  pentru  dezvoltarea  turismului.  Este  necesară  stabilirea  unor 
-reglementări care să asigure păstrarea zonelor într-o stare frumoasă curate. De aceea s-a 
-început  practicarea  ecoturismului  în  Parcul  Național  Cheile  Nerei-Beușnița  stabilindu-se 
-reguli de vizitare astfel încât turistul să conștientizeze faptul că natura trebuie păstrată așa 
-cum este ea pentru generațiile următoare.   
+În România din cauza COVID- toate nivelele din sistemul de învățământ au 
+avut predare online în perioada aprilie-iunie . 
+În Suedia învățământul gimnazial a funcționat normal iar predarea online a fost 
+permisă doar cadrelor didactice aflate în zona de risc de îmbolnăvire cu COVID-. 
  
-Gerorgeta persona intervievată nu regretă că s-a mutat pentru a petrece o periodă a anului 
-într-o localitate din Parcul Național Cheile Nerei-Beușnița deoarece astfel a avut posibilitatea 
-de a vizita frumusețile naturale ale obiectivelor turistice Cheile Nerei-Beușnița pe care cu 
-plăcere le-ar mai vizita. Zona este frumoasă și de aceea trebuie păstrată. Când vorbim despre 
-această zonă vorbim despre o zonă sălbatică și măreață așa cum afirmă alpinistul Emilian 
-Cristea dar și o zonă în care decorul montan este prezent la numai  m altitudine. 
  
-Parcul Național Cheile Nerei-Beușnița nu este o atracție doar pentru iubitorii de natură ci aici 
-se pot vedea și vizita diferite monumente cultural-istorice monumente de arhitectură și artă și 
-monumente industriale. Astfel de zone sunt Cheile Nerei unde se găsesc situri arheologice 
-niște valori care merită vizitate localități situate pe suprafața Parcului acolo unde găsim 
-biserici vechi care datează din epoca romană cum sunt localitățile Sasca Montană Ilidia 
-Slatina Nera și Ciclova. Ceea ce nu trebuie uitate sunt peșterile din zonă având și ele o mare 
-valoare  într-una  dintre  ele  într-o  peșteră  din  Cheile  Minișului  fiind  identificate  resturi 
-scheletice care conform datărilor sunt cele mai vechi din Europa.  
+ 
+ 
  
  
  Page number: 20 **************
-. Concluzii 
-Parcul Național Cheile Nerei-Beușnița este un obiectiv turistic o valoare care merită vizitată 
-măcar o dată. Mulți dintre cei care au fost și au văzut aceste  frumuseți naturale rămân 
-impresionați și se întorc cu drag înapoi. Trebuie să învățăm să prețuim aceste locuri pentru ca 
-viitoarele generații să poată avea șansa de a trăi acele sentimente de bucurie pe care le trăim și 
-noi astăzi când ne minunăm de frumusețile naturale de o floră și o faună rară.  
-  
-Nu în ultimul rând trebuie să fim mândri că avem astfel de zone în România și să le facem 
-cunoscute pentru toată lumea.  
  
-.  Observații proprii 
-Pe parcursul scrierii lucrării am devenit tot mai fascinată de zona aceasta a Banatului Montan 
-fiind impresionată de frumusețile ei. Cu toate că știam de existența lacurilor și a zonei înainte 
-de a începe să scriu lucrarea unele dintre locuri chiar vizitându-le de multe ori imaginile m-
-au convins că merită să vizitez întregul Parc Național Cheile Nerei-Beușnița măcar o data. 
-Sunt sigură că multe persoane vazând sau auzind de aceste zone rămân impresionate și ele. Și 
-totuși rămâne întrebarea de ce nu sunt așa de vizitate aceste frumuseți ale naturii.  Sunt 
-conștientă că mulți ar spune că drumurile care duc spre acea zonă nu sunt adecvate că dintr-
-un anumit loc nu se mai poate merge cu autoturismul ci turistul trebuie să meargă pe jos pe 
-cărări prin pădure. Dar dacă mă gândesc mai bine acest lucru este pozitiv din mai multe 
-puncte de vedere. În primul rând accesul autoturismelor în zona Cheile Nerei-Beușnița ar 
-duce la degradarea zonei a faunei și a florei. Cum s-ar mai putea conserva aceste specii rare 
-dacă începem să distrugem totul construind drumuri? Părerea mea este că tocmai datorită 
-lipsei căilor de acces cât mai “comode” adică cu autoturismul putem să gasim în România 
-zone atât de spectaculoase cu frumuseți naturale ce trebuiesc ocrotite. Un alt lucru pozitiv 
-care se datorează mersului pe jos în zona Cheile Nerei-Beușnița este faptul că astfel turistul 
-are posibilitatea de a admira natura de a admira tot ceea ce îl înconjoară pe parcursul 
-traseului.  Acest  lucru  contribuie  şi  la  menţinerea  sănătăţii.  Mersul  pe  jos  prin  natură 
-inspirând aerul curat și ascultând ciripitul păsărilor și prin cele mai multe locuri auzind cursul 
-apelor este o trăire spectaculoasă.  
+-total nemulțumit(ă)        -foarte mulțumit(ă) 
  
-Eu recomand cu cea mai mare plăcere vizitarea acestor locuri minunate din România! Eu cel 
-puțin știu unde voi petrece o parte a concediului vara aceasta… 
+Dacă  în  România  observăm  o  rată  medie  a  profesorilor  mulțumiți  de 
+învățământul  online  în  Suedia  remarcăm  o  creștere  semnificativă  în  rândul  profesorilor 
+mulțumiți cu predarea online. 
+ 
  
  Page number: 21 **************
-. Bibliografie 
  
-. Literatură 
-Denscombe Martyn () Forskningshandboken – för småskaliga forskningsprojekt inom 
-samhällsvetenskaperna. Open University press Buckingham och Philadelphia (ISBN -
----) Tipărit Holmgrens Malmö 
  
-Negrea Ștefan () Cu Emilian Cristea prin Munții Banatului Institutul de Speologie 
-ianuarie  
  
-. Internet 
-carpati.org/articol/cascadele_beu  luat de pe 
-<<http//www.carpati.org/articol/cascadele_beu%C%Fni%C%Aei//>> (--) 
- 
-carpati.org/articol/lacul_dracului/ luat de pe 
-<<http//www.carpati.org/articol/lacul_dracului//>> (--) 
- 
-cheilenerei-beusnita.ro  luat de le <<http//www.cheilenerei-beusnita.ro/>> (--) 
- 
-cheilenerei-pensiuneadora.ro luat de pe <<http//www.cheilenerei-
-pensiuneadora.ro/images/harti/harta-parcul-national-cheile-nerei-beusnita.jpg>> (--) 
- 
-comeinromania.com  luat de pe <<http//www.comeinromania.com/vl--
-cheile_nerei.html>> (--) 
- 
-dsresitacs.ro  luat de pe <<http//www.dsresitacs.ro/parcuri%nationale.htm>>(--) 
- 
-greensphera.ro  luat de pe <<http//www.greensphera.ro/banatturism/turismmontan.html>> 
-(--) 
- 
-iloveromania.ro luat de pe <<http//www.iloveromania.ro/despre.html>> (--) 
- 
+Conform răspunsurilor primite atât din partea profesorilor România cât și a 
+celor din Suedia debutul orelor online nu a ridicat probleme. 
  
  Page number: 22 **************
-infocheilenerei.ro/Istorie-locala/ luat de pe <<http//www.infocheilenerei.ro/Istorie-
-locala/istorie-si-cultura.html>> (--) 
  
-infocheilenerei.ro/Localizare/ luat de pe 
-<<http//www.infocheilenerei.ro/Localizare/istoric.html>> (--) 
  
-infocheilenerei.ro/Localizare/arii-protejate  luat de pe 
-<<http//www.infocheilenerei.ro/Localizare/arii-protejate.html>> (--) 
  
-infocheilenerei.ro/Istorie-locala/legende luat de pe <<http//www.infocheilenerei.ro/Istorie-
-locala/legende-i-tradiii.html>> (--) 
- 
-meleaguri.ro luat de pe <<http//www.meleaguri.ro////ochiul-beiului-un-lac-din-
-povesti/>> (--) 
- 
-nera.exploratorii.ro/ecoturism  luat  de  pe  <<http//nera.exploratorii.ro/ecoturism.php>> 
-(--) 
- 
-nera.exploratorii.ro/reguli luat de pe <<http//nera.exploratorii.ro/reguli.php>> (--) 
- 
-travel.descopera.ro luat de pe <<http//travel.descopera.ro/-Cheile-Nerei-a-un-colt-
-de-paradis-romanesc-FOTO>> (--) 
- 
-travelworld.ro  luat de pe <<http//www.travelworld.ro/atractii_romanesti/occidentali.php>> 
-(--) 
- 
-turism.cjcs.ro  luat de pe <<http//turism.cjcs.ro/ro/>> (--) 
- 
-turismland.ro  luat de pe <<http//www.turismland.ro/lacul-ochiul-beiului-cheile-nerei/>> 
-(--) 
- 
-turistik.ro luat de pe <<http//www.turistik.ro/romania/cheile-nerei>> (--) 
- 
+Adaptarea activităților de predare în online a fost experimentată în același fel 
+atât în România cât și în Suedia. 
  
  Page number: 23 **************
-universulpadurii.ro luat de pe 
-<<http//www.universulpadurii.ro/index.php?name=News&file=article&sid=&theme=Pr
-inter>> (--) 
- 
-webdex.ro/taxoni luat de pe< <http//www.webdex.ro/online/dictionar/taxoni>>(--) 
- 
-webdex.ro/endemism luat de pe <<http//www.webdex.ro/online/dictionar/endemism>> 
-(--)    
- 
-webdex.ro/cavernicola luat de pe <<http//www.webdex.ro/online/dictionar/endemism>> 
-(--) 
  
  
-. Interviu 
-Interviu cu Georgeta Popescu Cărbunari  decembrie  
+ 
+O problemă comună cadrelor didactice din ambele țări este mediul de lucru 
+neadaptat noilor cerințe. 
  
  
  
  Page number: 24 **************
-ANEXA  
  
  
  
+„În  primul  rând  este  esențială  formarea  cadrelor  didactice.  Este  nevoie  de 
+cursuri pe care să nu le plătim și care să se desfășoare în timpul liber al cadrelor astfel încât 
+să nu se suprapună peste orele de cursˮ. 
  
  
- 
- 
-Sursa cheilenerei-beusnita.ro 
- 
+                                                             
+  Răspuns dat de Alexandru profesor clasele I-III jud. Galați 
  
  Page number: 25 **************
-ANEXA  
  
  
  
-Sursa cheilenerei-pensiuneadora.ro 
+Comunicarea online dintre profesor și elev este este analizată ca fiind mai bună 
+la şcolile suedeze. 
+ 
  
  Page number: 26 **************
-ANEXA  
  
-Cheile Nerei – legendă 
  
-Se zice că demult de tot când soarele se întâlnea în fiecare zi cu luna iar stelele erau aproape 
-să le culegi cu mâna trăia în pădurile de pe aici un mândru şi falnic fecior puternic ca 
-bradul. Vânător iscusit cum altul nu era el săgeta uliul din zbor şi ciuta din fugă. Într-o bună 
-zi aflat la vânătoare chiar în inima pădurii întâlni o minunăţie de fată cum nu mai văzuse şi 
-mult se minună feciorul de îndrăzneala fetei de-a bate inima padurii pe acolo pe unde fiarele 
-sălbatice erau la ele acasă dar mai mult şi mai mult s-a speriat când în zilele celelalte 
-întâlnind-o simţi cum inima-i bate să-i iasă din piept. Şi-aşa nu după mult timp numai 
-pădurea fu martora iubirii lor curate căci pasămite şi copila îl indrăgise din prima clipă. Tatăl 
-fetei stăpânul acestor locuri băgând de seamă că mai tot timpul copila şi-l petrecea în 
-mijlocul pădurii puse iscoade s-o urmărească şi când află de dragostea dintre pădurar şi fată 
-mâniat la culme trimise potera să-l aducă în lanţuri pe flăcău că vezi bine singura-i copilă 
-era peţită de boieri sosiţi cu alai să-i ceara mâna iar fata îi refuzase îndrăgind un simplu 
-flăcău fără stare. Hain la suflet credea că odată întemniţat copila va uita iubirea-i curată şi-şi 
-va alege de mire un boier de neam din cei ce-i tot dădeau târcoale. Nici rugăminţile nici 
-plânsetul fetei nu-l înduplecară ba mai rău îl aruncă pe flăcău într-o grotă din inima muntelui 
-şi puse să i se zidească intrarea. Şi-n seara nunţii când o pală de vânt aduse dinspre munte 
-chemarea tânguitoare a flăcăului ferecat cu lacrimi şi jale copila se ruga la zâna cea bună s-o 
-ajute.  La  rugăminţile-i  fierbinţi  văzând  cât  de  mare-i  era  dragostea  zâna  cea  buna  o 
-transformă într-o şuviţă de apă cristalină pentru a se putea strecura din piatră în piatră spre 
-inima muntelui şi fata a început să-şi caute iubitul şi-n ajutor să-i vină sfredelind temniţa de 
-piatră. Trecură ani şi ani şi Nerganiţa cu dragostea-i nestinsă străpunse muntele câtu-i de 
-mare pătrunse în cele mai tainice unghere şi-n cele mai ascunse cotloane până când în faţă 
-nu-i  mai  rămase  decât  câmpia  largă.  Şi  înțelegând  că  drum  de  înapoiere  nu-i  lăsă  să-i 
-rătăcească unda în câmpie purtându-i povestea de iubire iar mărturie peste timpuri rămaseră 
-cheile ce spintecă muntele grotele ce împânzesc peretele lacurile cristaline adunate din 
-lacrimile vărsate. 
-                                                 
- infocheilenerei.ro/Istorie-locala/legende 
+Liniștea în timpul orelor se datorează și părinților care sunt nevoiți să fie alături 
+de copii în special alături de eleviii din clasele I - III. 
  
  Page number: 27 **************
-ANEXA  
- 
-Lacul Dracului – legendă 
- 
-Legenda spune că în el s-ar fi aruncat chiar diavolul după ce a pierdut un rămăşag cu un 
-moşneag isteţ care-şi păştea caprele în apropierea apei. Se spune că un păstor işi păştea 
-caprele pe pajiştea de lângă Lacul Dracului iar la un moment dat apare un omuleţ mic dracul 
-care îl provoacă pe păstor să-i frigă un peşte fără să se îndoaie. Păstorul acceptă cu condiţia 
-ca dracul să-i frigă un cap de ţap fără să rânjească. El acceptă aşadar păstorul ia peştele 
-înfige un băţ în el şi îl frige fără să se îndoaie. Dracul ia şi el un cap de ţap îl leagă dar când 
-îl pune la prăjit botul ţapului işi arată dinţii. De ciudă dracul s-a aruncat în lac.  
-Localnicii susţin că legenda mai spune că lacul nu are fund că el are multe tunele subterane. 
-Mai mult se zice că mulți dintre cei care se avântă să facă baie în apele albastre-verzi nu se 
-mai întorc niciodată. 
  
  
  
- 
- 
- 
-                                                 
- infocheilenerei.ro/Istorie-locala/legende 
+„E dificil să menții atenția și concentrarea elevilor pe parcursul orei. Majoritatea 
+au membri ai familiei laâgă ei care le distrag atenția (frați surori) conexiunea internet e slabă 
+sau se întrerupe. La noi elevilor nu li se pun absenţe pentru neparticiparea la orele online și 
+atunci intră doar cei mai silitori ori intră și fac și altceva în timpul orei (vizionează filme 
+vorbesc pe chat cu prietenii). De asemenea la noi elevii pot sta și cu camera video închisă nu 
+e obligatoriu să fie deschisă. În cazul ăsta ei închid camera și se joacă mănâncă ies în curte 
+etcˮ. 
+                                                             
+ Răspuns dat de Mihaela profesoară pentru clasele lV-Vl județul Galați. 
  
  Page number: 28 **************
-ANEXA  
- 
-Lacul Ochiul Beiului – Cascada Beușniței - legendă 
  
  
-Legenda lacului spune că aceste locuri au fost stăpânite de un pașă hain. Acesta avea un fiu de 
-o rară frumusețe. Se zice că avea ochii albaștri și expresivi încât dacă te uitai în ei pur și 
-simplu te pierdeai. Tânărul acesta frumos obișnuia să meargă la vânătoare în aceste păduri. 
-Într-o zi în Poiana Florii se întâlni cu o frumoasă fată de valah care era cu oile la păscut. De 
-îndată ce privirile li s-au întâlnit se îndrăgostiră pe loc unul de celălalt. Pașa tatăl beiului 
-află că fiul său s-a îndrăgostit de o fată de valah și imediat trimite slugile să o omoare. Slugile 
-se duc și o omoară pe iubita tânărului. Când tânărul bei o găsește pe fată fără suflare varsă 
-lacrimi amare dupa ea însă degeaba. Atunci tânărul realizează că nu mai poate să-și aducă la 
-viață iubita și își pune capăt zilelor. Iar din lacrimile și jertfa lui luă ființă lacul albastru și 
-cristalin precum ochii și sufletul lui. 
- 
-Din deal de pe marginea lacului vin apele cascadei Beușnița. Legenda spune că de fapt apele 
-spumoase ale cascadei nu sunt altceva decât voalul de mireasă al fetei ce venea cu oile la 
-păscut care a plecat să se întâlnească în nemurire cu lacrimile beiului. Cele două cursuri de 
-apă se unesc după câțiva metri și pornesc parcă „bucuroase” la vale.  
- 
- 
-                                                 
- turismland.ro 
- universulpadurii.ro 
- 
+Datorită faptului că în Suedia profesorii au folosit material digital în timpul 
+orelor efectuate în clasă aceştia au posibilitatea de a alege dintr-o gamă mai diversă de 
+materiale digitale. Elevii de asemenea sunt obișnuiți să lucreze cu materiale digitale având 
+propriul ipad din clasa a III-a iar din clasa a VII-a primesc chrome book. 
+. 
  
  Page number: 29 **************
-ANEXA  
- 
-Cheile Nerei 
  
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-Foto George Oprea Boaba Popescu și Adrian 
-Nicolae   
- 
-     
-Sursa http//travel.descopera.ro/-Cheile-
-Nerei-a-un-colt-de-paradis-romanesc-FOTO 
- 
- 
+Se  poate  observa  diversitatea  de  materiale  didactice  digitale  folosite  de 
+personalul didactic din Suedia. Acest lucru se datorează faptului că digitalizarea sistemul de 
+învățământ suedez a luat amploare din  datorită noului plan de învățământ LGR..  
+Aici este precizat „Skolan ska ansvara för att varje elev efter genomgången 
+grundskola kan använda modern teknik som ett vertyg för kunskapssökande kommunikation 
+skapande och lärande” („Școala este responsabilă de asigurarea faptului că fiecare elev 
+după absolvirea școlii generale pregimnaziale poate folosi tehnologia modernă ca instrument 
+pentru căutarea cunoștințelor intrument de comunicare creare și învățare”.) 
+                                                             
+ Läroplan för grundskolan förskoleklassen och fritidshemmet  Skolverket Edita Västerås  p. 
+ Läroplan för grundskolan förskoleklassen och fritidshemmet  Skolverket Edita Västerås  p.. 
+ Traducere liberă făcută de mine 
  
  Page number: 30 **************
-ANEXA  
  
-Lacul Dracului 
+-Nu            -Da 
  
-  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-Foto George Oprea Boaba Popescu 
-și Adrian Nicolae   
- 
-     
-Sursa 
-http//travel.descopera.ro/-
-Cheile-Nerei-a-un-colt-de-paradis-
-romanesc-FOTO 
+Elevii  din Suedia se pot  număra printre cei privilegiați  în ceea ce privește 
+primirea  atenției  necesare  la  orele  online.  Acest  lucru  se  poate  datora  sistemului  de 
+învățământ suedez care susține independența graduală a elevului oferindu-i-se posibilitatea de 
+a contribui la propria educație. Elevii pot căuta singuri informațiile necesare. 
  
  Page number: 31 **************
-ANEXA  
- 
-Lacul Ochiul Beiului 
  
  
  
  
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-Foto George Oprea Boaba 
-Popescu și Adrian Nicolae   
- 
-     
-Sursa 
-http//travel.descopera.ro/-
-Cheile-Nerei-a-un-colt-de-paradis-
-romanesc-FOTO 
- 
+Timpul petrecut pentru corectarea temelor și al testărilor online este mai ridicat 
+ceea ce indică un volum mai mare de lucru pentru profesorii din ambele țări. 
  
  
  Page number: 32 **************
-ANEXA  
+-Da            -Nu 
  
-Cascadele Beușniței 
+Chiar dacă sistemul suedez încurajează elevii în a fi cât mai independenți se 
+observă că totuși sunt elevi care au nevoie mai mult de ajutorul profesorului decât în orele 
+efectuate în clasă unde pot cere ajutorul colegului de bancă de exemplu.  
+În timpul predării online profesorul este singurul ajutor la îndemâna elevilor. 
+Elevii cu ADHD ADD au nevoie de mai mult ajutor 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-Foto Adrian Mateșoane  
  
  Page number: 33 **************
-ANEXA  
- 
-Întrebări pentru interviul cu Georgeta Popescu  decembrie  Cărbunari 
-.  Cum vă numiți? 
-.  De cât timp ați ales să vă cumpărați o casă de vacantă în localitatea Cărbunari? 
-.  Care au fost motivele care v-au determinat să vă mutați tocmai aici? 
-.  Cum vi se pare zona? 
-.  Ce v-a impresionat cel mai mult aici? 
-.  Ați vizitat zona Cheile Nerei-Beușnița? 
-.  Ce anume v-a plăcut? Ce nu v-a plăcut? 
-.  Ați mai vizita zona încă o dată? 
-.  Sunteți mulțumită de alegerea făcută? 
-. Doriți să mai adăugați ceva? 
  
  
-Mulțumesc pentru timpul acordat cât și pentru interes! 
+„E dificil să menții atenția și concentrarea elevilor pe parcursul orei. Majoritatea 
+elevilor au membri ai familiei lângă ei care le distrag atenția (frați surori) conexiunea la  
+internet e slabă sau se întrerupe. La noi elevilor nu li se pun absenţe pentru neparticiparea la 
+orele online și atunci intră doar cei mai silitori ori intră și fac și altceva  în timpul orei 
+(vizionează filme vorbesc pe chat cu prietenii). De asemenea la noi elevii pot sta și cu 
+camera video închisă nu e obligatoriu să fie deschisă. În cazul ăsta ei închid camera și se 
+joacă mănâncă ies în curte etc.ˮ  
+Părinții elevilor din clasele I - III trebuie să fie prezenți pentru a-i ajuta cu 
+tehnologia. 
+Profesorul nu poate avea același control asupra elevului precum în clasă. 
+                                                             
+ Răspuns dat de Mihaela profesoară l pentru clasele lV - Vl județul Galați 
+ 
+ Page number: 34 **************
+ 
+ 
+După cum putem observa pentru circa  % dintre elevii cu nevoi speciale sau dificultăți de 
+învățare predarea online ridică probleme de participare la ore. 
+Numărul redus al elevilor cu nevoi speciale în școlile din România se poate datora și faptului 
+că unii părinți care au o situație materială mai bună au optat pentru ”home scholing”. 
+ 
+ 
+ 
+ 
+ 
+ Page number: 35 **************
+ 
+ 
+Atât experienta cadrului didactic cât și prezen’a personalului auxiliar specializat este foarte 
+importantă pentru ca elevii cu nevoi speciale sau dificultăți de învățare să poată primi ajutorul 
+necesar în timpul orei. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Page number: 36 **************
+Concluzii 
+ 
+La studiu au participat profesori de diferite discipline care predau elevilor din 
+școlile gimnaziale din România și din Suedia atât din mediul rural cât și din mediul urban. 
+Chestionarul trimis atât profesorilor din România cât și din Suedia a cuprins 
+întrebări  evaluative  dar  și  întrebări  euristice.  Rolul  întrebărilor  euristice  a  fost  trezirea 
+interesului printr-un set de întrebări care în final a dus la obţinerea unui răspuns la două 
+probleme date în cazul de față adaptarea profesorilor la învățământul online și stimularea 
+interesului elevilor la clasele I-IX. 
+În Suedia digitalizarea sistemului școlar a început după apariția noii programe 
+școlare LGR ceea ce a făcut ca în scurt timp să existe în toate școlile din mediul urban cât 
+și cel rural intrumente tehnologice de ultimă generație. 
+„În România sunt încă diferențe semnificative între mediul urban și cel rural în 
+ceea ce privește disponibilitatea intrumentelor tehnologiceˮ ceea ce împiedică participarea 
+tuturor elevilor la învățământul online. „Profesorii consideră că dedică mai mult timp decât în 
+maniera  tradițională  și  reușesc  mult  mai  greu  să  motiveze  și  să  mențină  treaz  interesul 
+elevilor.ˮ 
+În urma studiului s-au constatat atât beneficiile cât și limitările prezente  în 
+predarea online. 
+ 
+Beneficiile predării online 
+  Elevii au învățat să fie mai răbdători și să îi respecte pe ceilalți când vorbesc 
+  Elevii au învățat să lucreze mai mult individual în contextul unui program mai flexibil 
+  Elevii pot fi implicați mai ușor în planificarea unor lecții 
+  Profesorul poate asigura feed-back cu mai multă precizie 
+                                                             
+ Botnariuc Petre Cucoș Constantin Glava Cătălin Școala online- elemente pentru inovarea educației Raport 
+de cercetare evaluativă Editura Universității București  p.. 
+ Botnariuc Petre Cucoș Constantin Glava Cătălin Școala online- elemente pentru inovarea educației Raport 
+de cercetare evaluativă Editura Universității București  p.. 
+ 
+ Page number: 37 **************
+  Atât elevii cât și profesorii învață lucruri noi folosesc instrumente digitale noi 
+  Atractivitatea față de procesul de învățare prin utilizarea instrumentelor și resurselor 
+digitale  
+  Ineditul unor activități de învățare cum ar fi materialele interactive 
+  Copiii își dezvoltă abilitățile de a folosi tehnologia părinții au acces la temele  şi 
+activitățile copiilor 
+  Înregistrări ale unor secvențe ale lecțiilor filme de prezentare a conținuturilor etc. - 
+accent pe formarea competențelor digitale ale elevilor  
+  Salvarea informațiilor - care pot fi accesate de către elevi - ori de câte ori este nevoie. 
+  ”Eleverna som fick undervisning enskild kunde jag samla i grupp tillsammans med 
+andra elever. Nu kunde de prata sitt modersmål med andra jämnåriga. Eleverna kunde 
+visa på och förklara digitala kompetensen som de annars inte hade behövt visa i vanlig 
+undervisning”. („Pe elevii care de obicei primeau instrucțiuni individuale i-am putut 
+pune în grupuri cu alți elevi. Acum își puteau vorbi limba maternă cu alți colegi. Elevii 
+au fost capabili să demonstreze și să explice abilități digitale pe care altfel nu ar fi 
+trebuit să le demonstreze în cadrul predării normale.) 
+ 
+Dezavantajele predării online 
+  Lipsa interacțiunii directe ceea ce duce la izolarea individului 
+  Dependența de rețeaua de internet și a dispozitivelor 
+  Științele  socio-umane  presupun  socializare  empatie  dezbatere  față  în  față 
+imposibilitatea transmiterii emoțiilor sentimentelor 
+  Efectul nociv asupra sănătății oboseală fizică și psihică 
+  Imposibilitatea de a avea control asupra tuturor elevilor 
+                                                             
+ Răspuns dat de Solvejg profesor de limba maternă la clasele VII- IX Göteborg. 
+ Traducere proprie. 
+ 
+ Page number: 38 **************
+  Dificultatea  de  a-i  solicita  pe  toți  să  participe  datorită  defecțiunilor  tehnice    
+elevii sunt de părere că volumul lor de muncă acasă a crescut 
+  Limitările materiale ale elevilor 
+  Unii profesori din România au insistat asupra obligativității prezenței camerei 
+web deschise pentru o mai bună colaborare cu elevii. 
+  Numărul limitat al cadrelor didactice care pot veni în ajutorul elevilor cu nevoi 
+speciale sau dificultăți de învățare. 
+Pentru ca un sistem de învățământ online să fie funcțional nu este suficientă punerea 
+la  dispoziție  doar  a  aparaturii  digitale  fără  a  se  fi  creat  o  platforma  statornică  şi  cu 
+îmbunătățiri permanente care să vină atât în ajutorul cadrelor didactice cât și al elevilor mai 
+ales al celor cu nevoi speciale sau cu dificultăți de învățare. 
+Părerile profesorilor din România în ceea ce privește îmbunătățirea sistemului de 
+învățământ online sunt împărțite. O parte dintre profesori este de părere că sistemul de predare 
+online  se  poate  perfecționa  printr-o  infrastructură  bună  pregătirea  cadrelor  didactice 
+perseverență și responsabilitate cealaltă parte este de părere că sistemul online nu se poate 
+îmbunătăți iar „predarea online ar trebui să vină într-un procent de  -  % în completarea 
+învățării convenționale nu să o înlocuiască”. 
+Pentru a capta atenția elevilor în mediul online este nevoie de mai multă muncă 
+din partea cadrului didactic. Acesta trebuie să urmeze cursuri de calificare profesională unde 
+să ia cunoștinţă despre diversitatea programelor și aplicațiilor care pot fi folosite la toate 
+materiile dar și special create cum ar fi de exemplu pentru materiile reale. La cursurile de 
+formare profesională cadrele didactice vor avea posibilitatea de a exersa predarea interactivă 
+pentru a o putea implementa paralel cu predarea tradițională de la catedră. 
+Cadrele didactice atât din România cât și din Suedia au subliniat faptul că o 
+planificare  detaliată  făcută  de  profesor  vine  în  ajutorul  elevului  oferindu-i  o  vedere  de 
+ansamblu și o înțelegere mai profundă asupra temei cu care va lucra. Din păcate în atribuția 
+cadrelelor didactice intră și multă muncă administrativă. Acest lucru poate afecta negativ 
+timpul rezervat planificărilor. 
+                                                             
+ Răspuns dat de Lumirica profesor la clasele V-VIII Judetul Brăila. 
+ 
+ Page number: 39 **************
+„För  att  barn  och  elever  ska  ges  förutsättningar  att  utveckla  sin  digitala 
+kompetens och för att digitaliseringens potential för ökad måluppfyllelse och likvärdighet i 
+skolväsendet ska realiseras krävs insatser av såväl de som verkar inom skolväsendet som av 
+andra aktörer som på olika sätt kan bidra till arbetet. För att nå det övergripande målet för 
+strategin är det nödvändigt att digitaliseringens möjligheter används inom rätt områden och på 
+rätt sättˮ. („Pentru ca atât copiilor cât și elevilor să li se ofere posibilitatea de a-și dezvolta 
+competența  digitală  și  pentru  ca  digitalizarea  să  le  crească  posibilitatea  de  realizare  a 
+obiectivelor iar egalitatea în sistemul școlar să fie realizată sunt necesare eforturi de la cei 
+care lucrează în sistemul școlar precum și de la alți actori care pot contribui la acest proiect. 
+Pentru a atinge obiectivul general al strategiei este important ca digitalizarea să fie corect 
+utilizată.). 
+Trăim într-o eră în care digitalizarea continuă să ia amploare pătrunzând și în 
+sistemul  de  învățământ.  Învățământul  online  putem  spune  că  este  una  din  consecințele 
+digitalizării.  Acesta poate fi  începutul schimbării  sistemului de  învățământ cu care eram 
+obișnuiți  iar  prin  implicarea  cadrelor  didactice  se  asigură  fluiditatea  învățării  online 
+stimularea și îndrumarea elevilor pentru o educație durabilă. 
+Învățământul online este benefic din punct de vedere al diverității materialului 
+didactic care este la îndemâna tuturor și care poate și refolosit iar și iar nefiind necesară 
+scoaterea la imprimantă a materialului astfel contribuind la o sustenabilitate durabilă.  
+Un  sistem  modern  de  învățământ  trebuie  să  fie  deschis  spre  acceptarea   
+promovarea și perfecționarea digitalizării și să îmbine diferite metode de predare astfel încât 
+să îi poată oferi elevului ca viitor cetățean capacitatea de a înțelege lumea și să poată 
+contribui la propria dezvoltare și după terminarea studiilor. Educația de care elevii beneficiază 
+în cadrul ciclului pregimnazial este fundația pe care se bazează condolidarea cunoștințelor iar 
+apoi autoeducația se realizează pe tot parcursul vieții. 
+ 
+ 
+ 
+                                                             
+  Regeringen  Nationell  digitaliseringsstrategi  för  skolväsendet  Utbildningsdepartanent  Bilaga  till 
+regerinsbeslut I .. p. ( accesat la data de  noiembrie ). 
+ Traducere proprie. 
+ 
+ Page number: 40 **************
+ 
+ 
+ 
+Propuneri de îmbunătățire a calității învățământului online pregimnazial 
+ 
+-  Cursuri profesionale la intervale regulate în vederea pregătirii cadrelor didactice în 
+domeniul digitalizării. 
+-  Creearea de programe și aplicații interesante pentru elevi. Acestea trebuie evaluate 
+prin folosirea tehnologiei digitale. Condițiile pentru predare și învățare sunt foarte 
+complexe și necesită un proces exigent de selectare al materialului digital. În ciuda 
+noutăților apărute în această zonă există încă mult spațiu pentru dezvoltare în 
+utilizarea tehnologiei digitale pentru pentru a crea noi condiții propice studiilor 
+calitative la distanță. 
+-  Folosind metoda lui Dewey” Learning by doing” putem corecta greșelile făcute și 
+îmbunătăți calitatea învățământului online. Putem ajunge la rezultate mai bune în 
+vederea captării atenţiei elevilor în mediul digital prin perseverență și exercițiu. 
+-  Cercuri  ale  profesorilor  care  predau  aceeași  materie  cu  întâlniri  lunare  sau 
+bilunare online  în care să se dezbată probleme  legate de  notare stimulare a 
+elevilor schimb de materiale și informații. 
+   
+ 
+ 
+ 
+ 
+ 
+                                                             
+ Berg Agne Creelman Alastair Henriksson Katarina Holmberg Jörgen Distansutbildning och e-lärane – 
+utmaningar möjligheter och alternativa modeller WP delrapport inom K-projektet  Nya vägar Kalmar  
+ 
+ Page number: 41 **************
+ 
+ 
+ 
+Bibliografie 
+ 
+Botnariuc Petre Cucoș Constantin Glava Cătălin Școala online- elemente pentru 
+inovarea educației Raport de cercetare evaluativă Editura Universității București 
+ (pdf accesat la data de  noiembrie ) 
+Duckworth Angela Grit Konsten att inte ge upp Stockholm Natur & Kultur . 
+Fredriksson  Christine  Elevrespons  -  elevers  samarbete  i  skriftlig  produktion 
+Skolverket .  
+https//larportalen.skolverket.se/LarportalenAPI/api-
+v/document/path/larportalen/material/inriktningar/a-moderna-
+sprak/Vuxenutbildning/-skriftlig-produktion-och-
+interaktion/del_/.%Elevrespons%-
+%elevers%samarbete%i%skriftlig%produktion.pdf (accesat la data de  
+septembrie ).  
+Hattie John Yates Gregory Hur vi lär Stockholm Natur & Kultur . 
+Hopmann Stefan ”Restrained teaching the common core of Didaktik” European 
+Educational Research Journal  ()  s. –.  
+https//journalssagepub-com.ezproxy.ub.gu.se/doi/pdf/./eerj.... 
+(accesat la data de  septembrie ). 
+Insulander Eva Selander Staffan Att bli lärare Stockholm Liber AB . 
+Labaree David F. ”On the nature of teaching and teacher education” în Journal of 
+Teacher Education Vol.  No. May/June  p. –. 
+https//web.stanford.edu/~dlabaree/publications/Nature_of_Teaching_and_TE.pdf 
+(accesat la data de  septembrie ). 
+Lärarnas  Yrkesetiska  råd  (u.å.).  Lärarnas  yrkesetiska  principer. 
+https//lararesyrkesetik.se/larares-yrkesetik/  (accesat la data de  septembrie ). 
+Lilja Annika „Förtroendefulla relationer mellan lärare och elev” (Gothenburg studies 
+in educational sciences ). Göteborg Acta universitatis Gothoburgensis  
+p.–. 
+ 
+ Page number: 42 **************
+https//gupea.ub.gu.se/handle// ( accesat la data de  septembrie ). 
+Skolverket Läroplan för grundskolan förskoleklassen och fritidshemmet  Edita 
+Västerås . 
+ 
+Prepeliță Nicoleta „Factori ai învățării eficiente” în „Studiu științific realizat în cadrul 
+proiectului Erasmus + KAˮ în Confluențe Nr.  ianuarie . 
+http//scis.ro/images/Articole//erasmus_ka/Produse%finale/Factori_ai_invatar
+ii_eficiente.pdf ( accesat la data de  septembrie ). 
+Vaida Bogdan Iepure Călin Curcubătă Răzvan Captează-ți elevii în online mai ceva 
+ca în clasă! Bogdan Vaida . 
+https//www.scribd.com/read//Captiveaz%C%-%C%Bi-elevii-in-
+online-mai-ceva-ca-in-clas%C% (accesat la data de  septembrie ). 
+ 
+Webografie 
+ 
+Comunicarea didactică eficientă - premise a reușitei școlare 
+https//www.scribd.com/doc//Comunicarea-Didactica (accesat la data de  
+septembrie ). 
+ 
+Geuss Raymond „Kultur Buildung Geist” History and Theory Vol.  No.  May 
+ p. - 
+https//www.scribd.com/document//Kultur-Bildung-Geist-GEUSS  (accesat 
+la data de  septembrie ) 
+ 
+Aspecte ale alternantivelor educaționale 
+https//www.scribd.com/document//Alternative-Educationale  (accesat  la 
+data de  septembrie ) 
+ 
+Digitala verktyg 
+https//www.patriciadiaz.se/lanksamlingar/digitala-verktyg/  (accesat  la  data  de   
+septembrie ) 
+Online tools for teaching and learning – AnswerGarden 
+ 
+ Page number: 43 **************
+https//blogs.umass.edu/onlinetools/assessment-centered-tools/answergarden/  (accesat 
+la data de  septembrie ) 
+ 
+Avantaje și dezavantaje ale învățării online 
+http//invatareaonline.blogspot.com///avantaje-si-dezavantaje-ale-invatarii.html 
+(accesat la data de  septembrie ) 
+ 
+Imagini cu învățarea online 
+https//www.google.ro/search?q=invatarea+online&espv=&biw=&bih=&so
+urce=lnms&tbm=isch&sa=X&ved=ahUKEwjFZrC-
+bbMAhVsAZoKHdL_ATMQ_AUIBigB (accesat la data de  septembrie ) 
+ 
+La ce pericole te expui dacă stai prea mult timp în fața calculatorului în „Semnele 
+timpuluiˮ . 
+https//semneletimpului.ro/sanatate/la-ce-pericole-te-expui-daca-stai-prea-mult-timp-
+in-fata-calculatorului.html (accesat la data de  septembrie ). 
+ 
+Recomandarea dată liceelor și universităților pentru a începe predarea online în 
+Suedia 
+https//www.svt.se/nyheter/inrikes/gymnasieskolor-och-hogskolor-rekommenderas-
+distansundervisning (accesat la data de  octombrie ). 
+ 
+Închiderea școlilor în România de pe  martie  
+https//www.edupedu.ro/breaking-scolile-vor-fi-inchise-o-saptamana-incepand-de-
+miercuri--martie-cu-posibilitatea-de-prelungire-a-masurii-surse/ (accesat la data de 
+ octombrie ). 
+ 
+Berg  Agne  Creelman  Alastair  Henriksson  Katarina  Holmberg  Jörgen 
+„Distansutbildning och e-lärane – utmaningar möjligheter och alternativa modeller 
+WP delrapport inom K-projektet”  Nya vägar Kalmar  
+http//nyavagar.se/wp-content/uploads///NyaV%C%Agar_WP.pdf (accesat 
+la data de  noiembrie ). 
+ 
+Nationell digitaliseringsstrategi för skolväsendet 
+ 
+ Page number: 44 **************
+https//www.regeringen.se/ada/contentassets/bdbfbbfed
+c/nationell-digitaliseringsstrategi-for-skolvasendet.pdf  (accesat  la  data  de   
+noiembrie ). 
+ 
+Anexe 
+ 
+Profesorii și invățământul online 
+ 
+În contextul pandemiei de COVID- autoritățile solicită din nou tuturor 
+profesorilor din România să folosească predarea online acolo unde situația o 
+impune. 
+ 
+În România pe fondul pandemiei de COVID- școala online a venit la pachet cu 
+mai multe probleme. În unele cazuri nu au fost achiziționate echipamentele necesare 
+pentru desfășurarea orelor online iar în altele încă se lucrează la infrastructura pentru 
+predarea online. Există și cadre didactice care refuză să intre pe internet nu doar din 
+lipsă de dispozitive sau internet  așa cum se întâmplă de cele mai multe ori în mediul 
+rural. Ei spun că nu vor să utilizeze platformele pe care le-ar fi colectate date cu 
+caracter personal iar cei care deja predau online au numeroase probleme tehnice. 
   
+Profesorii din România trebuie să înveţe să predea online a insistat din nou premierul 
+Ludovic Orban în condiţiile în care există şi cadre didactice care nu vor să îşi susţină 
+în  acest  fel  cursurile „Noi  am  făcut  toată  vara  cursuri  de  îmbunătăţire  a 
+competenţelor digitale ale cadrelor didactice. Continuăm constant realizarea acestor 
+cursuri şi profesorii trebuie să se obişnuiască cu acest mod de predare. Este greu de 
+anticipat  cât  va  dura  pandemia  când  se  va  descoperi  vaccin.  Este  clar  că 
+învăţământul se va desfăşura în una dintre cele trei situaţii cu copii în clasă în 
+sistem mixt hibrid şi în sistem online în cazul în care o şcoală se află cum s-ar zice în 
+scenariul roşu”. 
+  
+Din cauza pandemiei Legea Educaţiei a fost modificată şi prevede că învăţământul 
+preşcolar şcolar preuniversitar şi universitar se poate desfăşura online pe perioada 
+stării de urgenţă sau de asediu. Cum legislaţia nu include şi cursurile online pe timpul 
+stării de alertă în care România este de la jumătatea lunii mai şeful Executivului nu a 
+exclus zilele trecute o nouă modificare a Legii Educaţiei. Recent Ludovic Orban 
+declara că suplimentar în sprijinul procesului de învăţare vor exista şi "lecţii pe 
+ 
+ Page number: 45 **************
+televiziunea naţională aşa cum a fost parteneriatul care a funcţionat şi pe perioada 
+stării de urgenţă şi ulterior până la închiderea anului şcolar". 
+  
+De la începutul noului an școlar pe  septembrie zeci de unități de învățământ au 
+ieșit din scenariul verde cel în care toți copiii se aflau la școală și au trecut în cel 
+galben ce presupune și cursuri online și prezență la școală sau chiar roșu cu predare 
+exclusiv  online.  Dacă  privim  cifrele  oficiale  în  prezent  peste    de  școli  din 
+România ar trebui să facă cursuri exclusiv online iar peste  și online și la școală. 
+Restul de circa . de unități de învățământ își așteaptă toți elevii fizic la școală cu 
+respectarea și aplicarea tuturor normelor de protecție sanitară. 
+  
+La nici două săptămâni de la începerea noului an școlar din cauza alegerilor locale 
+care  vor  avea  loc  pe    septembrie  aproape  tot  învățământul  din  România  va 
+funcționa din nou pentru trei zile exclusiv online având în vedere că majoritatea 
+celor aproape . de secții de votare sunt organizate în unități de învățământ. 
+ 
+Publicat --  
+ 
+https//www.rri.ro/pages/printeaza/  
+(accesat la data de  decembrie ) 
  
  
+ 
+ 
+Extras din Legea educației naționale 
+ 
+Art. . — Educația și formarea profesională a copiilor a tinerilor și a adulților au ca 
+finalitate principală formarea competențelor înțelese ca ansamblu multifuncțional și 
+transferabil de cunoștințe deprinderi/abilități și aptitudini necesare pentru 
+ a) împlinirea și dezvoltarea personală prin realizarea propriilor obiective în viață 
+conform intereselor și aspirațiilor fiecăruia și dorinței de a învăța pe tot parcursul 
+vieții 
+ b) integrarea socială și participarea cetățenească activă în societate 
+ c) ocuparea unui loc de muncă și participarea la funcționarea și dezvoltarea unei 
+economii durabile  
+d) formarea unei concepții de viață bazate pe valorile umaniste și științifice pe cultura 
+națională și universală și pe stimularea dialogului intercultural 
+ e) educarea în spiritul demnității toleranței și respectării drepturilor și libertăților 
+fundamentale ale omului  
+f) cultivarea sensibilității față de problematica umană față de valorile moral-civice și a 
+respectului pentru natură și mediul înconjurător natural social și cultural. 
+ 
+Publicată în Monitorul oficial al României  partea I Nr. /.. 
  
  
  
