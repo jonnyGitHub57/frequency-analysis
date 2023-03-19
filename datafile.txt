@@ -1,543 +1,968 @@
 Page number: 3 **************
-. Introducere
-.Scopul lucrării
-Am ales să tratez un subiect de gramatică în primul rând din pasiunea pe care o am și am avut-o
-întotdeauna  pentru gramatică în special pentru gramatica limbiimele materne româna. De aceea
-am vrut să aprofundez acest subiect - formele verbale non-finite din limba română - citind atât
-din ceea au scris lingviști și profesori români cât și din ceea ce a scris despre acest subiect
-romanistul suedez Alf Lombard în cartea sa de gramatică românească Rumänsk grammatik. Spre
-surprinderea mea am constatat că unele dintre afirmațiile și abordările sale nu sunt tocmai
-conforme cu realitățile limbii române.
-Scopul lucrării mele este acela de a prezenta analiza și compara formele verbale
-non-finite (numite în mod tradițional moduri nepersonale) din limba română și de a le găsi
-corespondențe în limba suedeză fie forme verbale non finite fie alte forme morfo-sintactico-
-semantice cu valoare echivalentă comparându-le apoi cu acestea.
-Voi încerca de asemenea să clarific și acele situații de omonimie fonetică dar nu și
-referențială a termenilor de specialitate din gramaticile celor două limbi timidă încercare de a
-minimaliza riscul apariției confuziei de termeni. Am sesizat în anumite lucrări de specialitate
-omiterea explicațiilor suplimentare în aceste cazuri. De aceea scopul secundar al acestei lucrări
-este de a oferi o unealtă colegilor mei studenți la limba română pentru a percepe asemănările și
-deosebirile actelor de limbă semnalateși a le înțelege fără dificultate.
-. Metode de lucru materiale utilizate
-Metodele folosite în elaborarea acestei lucrări sunt expunerea analiza și analiza comparativă a
-ceea ce am citit cu exemplificări spre argumentare în mare parte personale întrucât nu am găsit
-studii actuale de lingvistică comparată strict legate de subiectul pe care doresc să îl abordez.
-Autorii materialului bibliografic pe care l-am folosit sunt în principal limgviști români dar și din
-Republica Moldova.
-În ceea ce privește autorii suedezi m-am folosit foarte mult după cum am spus de
-lucrarea romanistului  suedez  Alf  Lombard Rumänsk  grammatik  apărută  în   dar  și  de
-Övningsbok i svensk grammatik a Ceciliei Fash și a Annei Kannemark ediția din anul  și
-desigur de Svenska Akademiens Grammatik (SAG) Gramatica Academiei Suedeze.
-. Categoriile gramaticale ale verbului
-.  Ce sunt categoriile gramaticale?
-Conform definiției date de I. Iordan V. Guțu Romalo și A. Niculescu în Structura morfologică a
-limbii  române  contemporane „categoriile  gramaticale  reprezintă  sensurile  logico-gramaticale
-(care se deosebesc de sensurile lexicale) ce se exprimă prin forme concrete de limbă segmentale
-(fonem morfem combinație de foneme sau de morfeme) sau suprasegmentale (intonația)” (
-Page number: 4 **************
-) Astfel privite „categoriile gramaticale constituie modul intern de organizare a materialului
-de forme dintr-o limbă”(ibidem).
-Referindu-mă strict la verb acesta are în limba  română conform  gramaticilor
-tradiționale cinci categorii gramaticale - modul timpul numărul persoana și diateza. Dintre
-acestea specifice verbului și numai acestuia sunt categoriile modului timpului și diatezei. În
-Gramatica de bază a limbii române a Academiei Române apărutã în  este inclusă și o șasea
-categorie și anume cea a aspectului exprimată „solidar” cu categoria timpului (ibidem ) și
-aceasta fiind specifică numai verbului.
-. Modul
-O definiție simplă dar completă în același timp a modului o dă Ion Coteanu în Gramatica de
-bază a limbii române ( ). El definește modurile ca fiind „formele luate de verb pentru a
-exprima felul de desfășurare a acțiunii” (ibidem). Această definiție se regăsește și în Gramatica
-de bază a limbii române a Academiei Române ( ) specificându-se totodată specializarea
-acestora „pentru diferite utilizări predicative” și faptul că exprimă „atitudinea vorbitorului filtrul
-subiectiv” prin care trece „conținutul propozițional” al unui enunț simplificând - raportul dintre
-enunț și enunțător concepția pe care o are cel care vorbește despre acțiunea enunțată (ibidem
-). Din  acest  punct  de  vedere  o  acțiune  poate  fi  reală  sigură  posibilă  dorită  impusă
-presupusă (Iordan Guțu-Romalo et alii  ).
-Și Gramatica  Academiei  Suedeze (Svenska  Akademiens  grammatik)  definește
-modul (trad. mea) ca fiind „categoria gramaticală specifică formelor verbale predicative (finite)
-care indică ce atitudine are vorbitorul față de conținutul propoziției enunțate sau ca ce tip de act
-de limbaj vreavorbitorul să fie perceputenunțul”( ).
-. Moduri personale vs forme verbale non-finite
-Din perspectiva definițiilor citateverbul are în limba română cinci moduri
-§ indicativ (văd vezi am văzut vei vedea etc.)
-§ conjunctiv (să vezi)
-§ condițional-optativ (aș vedea)
-§ prezumtiv (oi fi văzând)
-§ imperativ (vezi!).
-Aceste  moduri  sunt  numite  în  gramatica  tradițională  moduri  personale  sau  predicative
-întrucăt verbele la aceste moduri își schimbă forma în funcție de persoană și au funcție sintactică
-de predicat. Există însă și forme verbale care nu își modifică forma în raport cu persoana și care
-nu au funcție de predicat (sunt însă și excepții pe care le voi trata ulterior). Aceste forme sunt
-denumite de tradiția gramaticală moduri nepersonale sau nepredicative (Coteanu  ) iar
-de terminologia actuală forme verbale non-finite (GBLR  ). În limba română există
-patru forme verbale non-finite fiecare având trasături specifice atât verbului cât și altor clase
-lexico-gramaticale (părți de vorbire). Acestea sunt
- („modus böjningskategori hos det finita verbet som anger vilken attityd talaren har till satsens
-innehåll eller vilken typ av språkhandling som talaren vill att yttrandet skall uppfattas som”
-https//svenska.se/SAG_Volym_.pdf)
-Page number: 5 **************
-§ infinitivul (ex. a vedea)
-§ gerunziul (ex. văzând)
-§ participiulex. (vazut)
-§ supinul (ex. de văzut).
-În limba  suedeză există tot  patru forme verbale non-finite - infinitiv perfekt particip
-presens particip supinum (Dahl Grammatik  ) - pe care nu le voi trata separat ci le
-voi include în funcție de corespondența lor în capitolele care tratează fiecare formă verbală non-
-finită din limba română.
-. Infinitivul
-. Aspecte generale
-Atât în gramaticile românești cât și în cele suedeze infinitivul este considerat ca fiind forma
-„substantivală a verbului” care exprimă și denumește acțiunea la modul general comportându-se
-la nivel sintactic „similar substantivului și grupului nominal” (Iordan Guțu-Romalo et alii 
-) „infinitivul  formă  verbală  non-finită  cu  rol de centru  în  sintagma verbală  cu funcție
-sintactică specifică grupului nominal” (trad.mea SAG  )
-Infinitivul românesc nu și cel suedez are două forme infinitivul lung (cântare
-dormire) și infinitivul scurt (a cânta a dormi) și două timpuri infintivul prezent (a cânta a
-dormi) și infinitivul perfect (a fi cântat a fi dormit -rar folosit) prin această ultimă caracteristică
-specificănumai infinitivului scurt apropiindu-se de modurile verbale personale.
-.  Infinitivul lung
-Infinitivul lung al verbelor nu se deosebește cu nimic de substantiv comportându-se la nivel
-flexionar și paradigmatic similar acestuia „Ce fire plăcută are!” (Goian Limba română 
-) I-a câștigat simpatia prin firea sa plăcută Datorită firii sale plăcute a reușit să-i căștige
-simpatia.Există însă și o excepție și anume formele compuse inversate regăsite în imprecații dar
-nu numai unde incontestabil are funcție de predicat fiind echivalent unui conjunctiv unui
-imperativsau unui condițional-optativ
-Fire-ai al  dracului! Dormire-ai somnul  de  veci! „Închinare-aș și  n-am
-cui!/Închinare-aș murgului” (din balada populară „Toma Alimoș” culeasă de Vasile Alecsandri
-http//www.vasilealecsandri.eu/opere/cantece_batranesti/toma_alimos.html#.XcciJJKjIU
-ultimul exemplu).
-Infinitivul lung poate să corespundă în limba suedeză formei substantivizate de
-presens particip skrivande / skrivandet (scriere / scrierea înțeleasă ca procesul de a scrie)
-firande  /  firandet (sărbătorire  /  sărbătorirea  înțeleasă  ca  procesul  de  a  sărbători) beteende
-/beteendet(comportare / comportarea).
-„infinitiv infinit verbform använd som huvudord i verbfras med funktion som nominalt satsled"
-(https//svenska.se/SAG_Volym_.pdf).
-Page number: 6 **************
-.Infinitivul scurt
-Infinitivul  scurt la  timpul  prezent  constituie  forma-tip  a  infinitivului.  În  structura  lui  apare
-„prepoziția desemantizată a” „morfem segmental de origine prepozițională” (Constantinescu-
-Dobridor  ) „marcă  a  infinitivului” (Iordan  și  Robu    Mihuț  )”
-(https//limbaromana.org/revista/observatii-privind-statutul-prepozitiei-a-in-limba-romana/.
-Marca infinitivului suedez este particula att considerată clasă morfologică separată
-respectiv infinitivmärke (marca  infinitivului) (https//eliderat.wordpress.com////var-
-onodigaste-ordklass-kommer-antligen-forsvinna/). Se poate sesiza omonimia fonetică a acesteia
-cu conjuncția subordonatoare att (traductibilă în limba romănă prin că sau să în funcție de
-context) și implicit prin extensiune asemănarea din punct de vedere formal cu forma scurtă a
-infinitivului românesc la timpul prezent.
-Infinitivul scurt intră în componența timpului viitor (ex.voi/vei/va/vom /veți /vor
-merge)și a modului condițional-optativ (ex. aș/ai/ar/am/ați/ar merge).
-.Infinitivul suedez
-Și infinitivul suedez este parte componentă a viitorului (futurum ska + infinitiv kommer att +
-infinitiv ex. Jag ska gå Jag kommer att gå - voi pleca /o să plec) și viitorului în trecut (futurum
-preteritum skulle + infinitiv ex. Hon sade att hon skulle åka till Stockholm - Ea spunea că va
-pleca la Stockholm) precum și a condiționalului-optativ (omonim structural viitorului în trecut)
-ce exprimă o acțiune posibilă realizabilă dorită dar puțin probabilă (ex. Om jag vann en miljon
-skulle jag åka jorden runt – „Dacă aș câștiga un milion aș călători în jurul lumii” (Fasth
-Kannemark Form i fokus Övningsbok i svensk grammatik del C ).
-. Compliniri funcții sintacticeși particularități ale infinitivului în limba română
-În  limba  română  infinitivul  scurt  poate  avea  subiect  complement (direct indirect
-circumstanțial) sau nume predicativ și poate fi la rândul lui subiect nume predicativ atribut sau
-complementși doar în mod exceptional  predicat în enunțuri cu valoare imperativă.
-Exemple
-. „Vine vremea de a pricepe omul ce e bine și ce e rău”(Creangă Povești povestiri amintiri
- ) - infinitivul este atribut determină substantivul vremea dar are indiscutabil subiect -
-omul  în  același  timp  infinitivul  este  aici elementul  regent  a  două  propoziții  subordonate
-completive directe („ce e bine și ce e rău”).
-. Nu  și-a pierdut  capacitatea  de a  se exprima clar - infinitivul are  funcție  de  atribut
-determinând substantivul „capacitatea” implicit subiectul infinitivului ar putea fi subînțeles
-„el” sau „ea” persoana despre care se vorbește în enunț „clar” este însă indubitabil complement
-cicumstanțial de mod al infinitivului verbuluireflexiv „a se exprima”.
-.A face mișcare e un obicei bun –aiciinfinitivul are un complement direct și funcție de subiect.
-trad. mea
-Page number: 7 **************
-. Ideea era de a merge împreună cu ei la teatru - infinitivul este nume predicativ are două
-complemente circumstațiale unul asociativ celălalt de loc.
-. Nu poate spune o vorbă bună - infinitivul este complement direct și are un complement direct
-de remarcat faptul că infinitivul nu este însoțit de prepoziția a în construcțiile de tipul acesta („a
-putea” + infinitiv)
-. Știe a cânta la vioară (sau Știe cânta la vioară) - infinitivul este complement direct și are un
-complement circumstanțial instrumentalși aiciapoate lipsi.
-. Vorbește mereu fără a se gândi înainte. - infinitivul este complement circumstanțial de mod și
-are un complemet circumstanțial de timp.
-. A început discuția prin a-l critica pe celălalt - infinitivul are un complement direct si poate fi
-considerat  fie  complemet  circumstanțial  de mod  fie  complement  indirect  cu  nuanță
-instrumentală.
-.A-i spuneadevărul ar fi riscant.-infinitivul este subiect și are complement direct și indirect.
-. A se agita înainte de folosire! A nu se arunca în foc! - infinitivele sunt predicate având
-valoarea unor imperative tip recomandare și au complemente circumstanțiale (de timp respectiv
-de loc).
-În anumite ocurențe (exemplele     )infinitivul scurt esteprecedat și de alte
-prepoziții care se adaugă lui a fără însă a-l înlocui vreodată pe acesta. Romanistul suedez Alf
-Lombard sesizează acest aspect în a sa Gramatică a limbii române (Rumänsk grammatik 
-). Din perspectiva lui de ar putea „funcționa” ca „marcă a infinitivului” dând exemplul „îl
-opresc de a veni”. Este un punct de vedere pe care vorbitorul actual (nativ) de limbă română nu
-îl poate împărtăși. Expresia din exemplul lui Lombard este forțată ea nu se întâlnește în limba
-română contemporană considerând totodată că și anul apariției gramaticii sale - - aparține
-contemporaneității.
-Capacitatea infinitivului de a putea fi precedat și de alte prepoziții în afară de și
-împreună cu a care îl  leagă de  elementul regent este o caracteristică nespecifică formelor
-verbale predicative/ finite (Iordan Guțu-Romalo et alii  -).
-Ceea ce apropie infinitivul cel mai mult de modurile personale este echivalarea lui
-cu conjunctivul care în limba actuală îl poate înlocui aproape în totalitate (cu excepția situațiilor
-în care infinitivul apare ca determinant al unui substantiv și în care este preferat se poate spune
-„Arde de dorința de a-l întâlni” dar se poate spune și „Arde de dorința să-l întâlnească”. În
-aproape  toate  exemplele pentru  ilustrarea funcțiilor  infinitivului  pe  care le-am  dat mai  sus
-conjunctivul poate înlocui infinitivul. Face excepție exemplul  unde infinitivul nu poate fi
-înlocuit de conjunctiv ci de o altă formă verbală non-finită respectiv de gerunziu (A început
-discuția prin a-l critica pe celălalt/ A început discuțiacriticându-l pe celălalt).
-Infinitivul  scurt  din  limba  română  corespunde  infinitivului  suedez  și  se  poate
-traduce în suedeză tot prin construcții cu infinitiv (dar nu și viceversa construcțiile suedeze cu
-infinitiv nu se traducîntotdeauna cu infinitiv în limba română).
-„Inf. föregås ibland avde a(aldrig av ensamtde!) som kan tjänstgörasom ett slags inf.-märke vid sidan av enbart
-a îl opresc de a veni"-Lombard  
-ExempluJag har mycketatt göra-Am multede făcut-verbul suedez lainfinitiv se traduce în română prin supin
-Page number: 8 **************
-.Funcții sintactice și particularități ale infinitivului în limba suedeză
-Și în limba suedeză infinitivul poate avea în mare parte aceleași funcții specifice sintagmei
-nominale ca și infinitivul românesc dar există și diferențe. Spre exemplu în limba suedeză
-infinitivul  poate  fi  complement  predicativ  al  obiectului (objektspredikativ). Exemplu „...det
-kallar jag att leva och ta dagen som den kommer” (https//svenska.se/SAG_Volym_.pdf  
-) care se traduce prin „asta numesc eu să trăiești și să iei zilele așa cum vin ele”. Se poate
-observa că nu se poate folosi infinitivul la traducerea în limba română a acestei fraze ar fi totuși
-posibil în cazul unui enunț scurt ca de exemplu „Det kallar jag att leva gott”„Asta numesc eu a
-trăi bine” deși exprimarea pare oarecum forțată. Gabriela Domide arată de altfel în studiul
-„Complementul predicativ al obiectului (CPO) și predicativul suplimentar (PS). Controverse și
-interpretări” că  infinitivul  nu  poate  avea  acest  rol  (http//www.dacoromania.inst-
-puscariu.ro/articole/__.pdf). De menționat și faptul că infinitivul din limba suedeză intră
-în componența sintagmelor cu rol de „substitut” sau „echivalent” al unei propoziții principale
-simple sau complexe toate traducându-se în română prin conjunctiv - „Att spöka ut sig så där!”
-(„Să se travestească în felul ăsta!” - cu sens reprobator) „Jag gifta mig?” („Eu să mă mărit/ să
-mă-nsor?”) (https//svenska.se/SAG_Volym_.pdf  -).
-. Gerunziul
-. Aspecte generale
-În studiul Matildei Caragiu-Marioțeanu Sintaxa gerunziului românesc ( ) gerunziul este
-definit ca fiind „o formă verbală invariabilă care exprimă o acțiune sub formă de proces”.
-Această definiție se poate completa cu cea a lui Ion Coteanu din capitolul dedicat gerunziului din
-Gramatica de bază a limbii române care spune că „gerunziul arată că acțiunea se desfășoară în
-paralel cu alta” sau alte acțiuni ( ).
-Gerunziul se formează adăugând la radicalul verbului sufixul -ind sau -ând în
-funcțiede terminația de la infinitiv
--ind pentru verbele cu terminația -i (iubi->iubind) sau -a precedat de „i (remedia->remediind
-repatria->repatriind încheia->încheind) sau grupurile „che” (îngenunchea-> îngenunchind)
-„ghe”(veghea->veghind)
--ând  pentru  celelelalte (ruga->rugând plăcea->plăcând vrea->vrând merge->mergând).
-Înaintea sufixului -ândse produce alternanța consonantică la verbeleal căror radical se terminăîn
--dacesta devenind-z (ex. văzând căzând râzând crezând)(ibidem ).
-. Particularități
-Gerunziului  intră  în  componența modului prezumtiv prezent întâlnit  frecvent  în vorbirea
-populară (Goian  ) Exemple „ M-oi fi ducând nu sunt sigur” „S-o fi odihnind și el
-după atâta muncă”.
-trad.mea
-exemple proprii
-exemple proprii
-Page number: 9 **************
-Gramaticile tradiționale încadrează gerunziul în categoria modurilor nepersonale el
-„exprimă acțiunea sub forma unei însușiri atribuite de obicei unui verb” comportându-se ca un
-adverb (Iordan  Guțu-Romalo et  alii  ).  Gerunziul  nu  are  desinențe  de  număr  și
-persoană dar acest fapt nu înseamnă că cele două categorii gramaticale menționate îi sunt străine.
-Acestea se pot deduce din context reieșind foarte clar în special când gerunziul apare însoțit de
-un pronume reflexiv sau de un substantiv sau pronume personal în cazul nominativ sau când
-subiectul verbului regent coincide cu subiectul regentului
-Îl /îi vezifrământându-se.
-Văzând elcă nu mai venea nimenia plecatacasă.
-Băiatul vinealergândîntr-un suflet (esteevidentcă băiatul care vine este cel care aleargă).
-Acțiunea exprimată de gerunziu este în general simultană cu cea a verbului cu rol de predicat dar
-momentul acțiunii respective poate fi stabilit doar de context în funcție de timpul verbului regent
-la modul personal și de logica enunțului timpul exprimat de gerunziu percepându-se în unele
-situații ca fiind diferit de cel al verbului regent. Exemplu „Ioncunoscândsituaţia şi venindla
-faţa locului nu-l găsi” - este evident că acțiunea exprimată de primul gerunziu este anterioară
-celei exprimate de verbul regent (Axenti Victor Semnificația modală și temporală a gerunziului
-http//limbaromana.md/index.php?go=articole&n=). Nu se poate afirma deci că gerunziul
-este străin de categoria gramaticală a timpului specifică verbului chiar dacă morfologic rămâne
-invariabil.
-.Compliniri și funcții sintactice
-Gerunziul poate avea subiect complement direct și indirect complemente circumstanțiale (de
-loc de mod)nume predicativ ceea ce demonstrează o dată în plus naturasa verbală
-L-a convinsspunându-i tot adevărul (-i -complement indirect adevărul - complement direct)
-„Fiind băietpăduri cutreieram” (M. Eminescu) (băiet-nume predicativ)
-Venindelacasă mâncă și se culcă. (acasă -complement circumstanțial de loc)
-A plecatrâzând în hohote (în hohote -complement circumstanțial de mod).
-Gerunziul îndeplinește în propoziție următoarele funcții sintactice
-§ complement  circumstanțial - ipostază  în  care  gerunziul  „prezintă  trăsături  de  tip
-adverbial” (GBLR  )
-- de mod Plângeasuspinând.
-- de timp Sunândsoneria a deschis ușa.
-- de cauzăNestudiind îndeajuns nu a reușit la examen.
-- condițional Studiind cu perseverență vei obține rezultate bune.
-- concesivȘtiind că nu vei veni eu tot te voi aștepta.
-- instrumental A ajuns la malînotând (ibidem).
-- de  scop Un  flutur  dă  ocol/ Cătând o  floare    (Edelstein Sintaxa
-gerunziului românesc  -).
-- cumulativ - care „apare în structuri negative” ce corespund „unei subordonate
-introduse prin locuţiunea conjuncţională necum să (...)
-Page number: 10 **************
-Părinţii nu i-au oferit nici măcar afecţiunenemaivorbind de sfaturi”
-(Nemțut Pe  marginea  sintaxei  gerunziului  românesc
-DOChttps//profs.info.uaic.ro>Gerunziul romanesc).
-- de excepţie - apare „în structuri cu adverbul restrictiv decât putând avea drept
-corelativ un adjectiv pronominal nehotărât (...) Nu-i altă cale să uiţi pe cineva
-decâtignorându-l” (ibidem).
-- opoziţional - în opinia Alinei -Paula Nemțuț „gerunziul poate apărea şi în poziţia
-unui circumstanţial opoziţional deşi nu esteconsemnat nicăieri cu această funcţie”
-când „apare însoţit de adverbul restrictiv decât şi corespunde unei opoziţionale
-introduse prinîn loc să
-„Mai degrabă scapi mărturisind adevărul decâtascunzându-l”(ibidem)
-§ complement direct  „De-atâtea  nopți  aud plouând” (Lacustră - G.  Bacovia
-https//www.versuri.ro/versuri/george-bacovia-lacustra-_a.html)
-§ element predicativ suplimentar Am văzut-o plecând la gară. (aici gerunziul este element
-predicativ suplimentar în cazul în care se raportează la complementul direct dacă se
-raportează la subiect este complement circumstanțial de timp).
-Gerunziul poate îndeplini mai rarși funcții specificeadjectivului sau substantivului
-§ atribut verbalfocuri arzând
-§ atribut adjectival - prin formele sale acordate inimă / inimi bătândă / bătânde lumină /
-lumini tremurândă / tremurânde
-§ subiect prin gerunziul acordat substantivizat întâlnit foarte rar Suferinda era întinsă pe
-pat. (https//lexicologialimbiiromane.ro/vocabularul/mijloace-de-imbogatire-a-
-vocabularului/schimbarea-valorii-gramaticale/substantivizarea/).
-. Valori echivalente ale gerunziului romănesc în limba suedeză
-Gerunziul românesc poate pune probleme în cazul traducerii lui în limba suedeză întrucât în
-principiu nu are decât echivalente parțiale în această limbă. Situațiile de echivalență cu o formă
-verbală non-finită din limba suedeză sunt cele în care gerunziul românesc exprimă modalitateta
-de desfășurare a unei acțiuni și are valoare adverbială precum și situațiile gerunziului acordat sau
-substantivizat situații în care se poate traduce cu forma verbală non-finită din limba suedeză
-numităpresensparticip
-Venea alergând- Han kom springande
-„Privea zâmbind la cazna lor” (I. Slavici) - Han såg leende på deras ansträngning (Lombard
- ).
-„rezistență crescândă”- växandemotstånd (ibidem)
-inimăbătândă-slåendehjärta
-mâini tremurânde -darandehänder
-Presens particip seamănă  din  punct  de  vedere  formal cu  gerunziul  din  limba
-română formându-se cu ajutorul sufixelor -ande (verbele al căror infinitiv se termină în a) și -
-Page number: 11 **************
-ende (verbele al căror infinitiv se termină în altă vocală decât a) și poate fi folosit în enunț ca
-adjectiv adverb substantiv sau prepoziție având la nivel sintactic funcțiile specifice acestora
-(Fasth Kannemark ).
-Trebuie deci subliniat că deși pe românește presens partcicip înseamnă „participiu
-prezent” acestanu are nimic comun cu participiul din limba română(după cum voi arăta).
-În celelalte situații exemplificate mai jos gerunziul românesc se poate traduce în
-limba suedeză prin construcții infinitivale (prezentă în exemplul ) completive circumstanțiale
-de timp sau completive directe (prezente în toate exemplele)
-.Privindpe fereastră l-am văzut plecândspre gară
-Genom att titta på fönstret såg JAGhonomnär HAN gick/ att HAN gickmot tågstationen
-(Prin modalitateta de a privi pe fereastră am văzut când / căa plecat la gară)
-.Plecândspre gară l-am văzut privind pe fereastră.
-När JAGgickmot tågstationen såg jag att HANtittadepå fönstret.
-(Când am plecat spre gară am văzut căse uita pe fereastră)
-.Uitându-măpe fereastră l-am văzut ducându-se spre gară.
-Når jag tittade på fönstret såg jagatt han gickmot tågstationen
-(Când mă uitam pe fereastră am văzut căse ducea spre gară)
-.Ducându-măspre gară l-am văzut uitându-se pe fereastră.
-När JAG gickmot tågstationen såg jag att HAN tittadepå fönstret
-(Când mă duceam spre gară am am văzut căse uita pe fereastră)
-Este important de remarcat faptul că în exemplele  și  topica are un rol foarte important în
-determinarea actanților pentru că schimbând pozițiile celor două sintagme gerunziale în raport cu
-verbul regent sensul enunțului se schimbă complet subiectul la persoana I singular al primei
-sintagme  gerunziale  din  exemplul   devine  în  exemplul    actantul  acțiunii săvârșite  de
-complementul direct în  a cea  de-a doua  sintagmă  gerunzială din  exemplul   analog
-complementul direct (care e la persoana a III-a singular) actantul celei de-a doua sintagme
-gerunziale din exemplul  devine în exemplul  actantul acțiunii săvârșite de subiectul primei
-sintagme gerunziale din exemplul  ambele construcții gerunziale rămânând însă neschimbate
-din punct de vedere lexical și morfologic. În exemplele  și  schimbarea poziției celor două
-sintagme gerunziale implică schimbarea persoanei pronumelui reflexiv însoțitor al gerunziilor.
-Dacă această schimbare nu s-ar face atunci enunțul ar avea același sens dar exprimarea ar fi
-forțată ( „Uitându-se pe fereastră l-am văzut ducându-mă spre gară” ”Ducându-se spre gară l-
-am văzut uitându-mă pe fereastră”) depinzând practic de stilul exprimării enunțului scris sau de
-intonația enunțului verbal.
-exemple proprii
-Page number: 12 **************
-. Participiul
-. Aspecte generale
-In limba românăparticipiul este o formă verbală cu natură duală-verb și adjectiv (Iordan Guțu-
-Romalo et alii  ) care exprimă o acțiune încheiată (Coteanu  ).Se recunoaște
-după terminația în-t sau -s. (ibidem).
-Natura verbală a participiului se manifestă prin faptul că este parte componentă a
-tuturor timpurilor trecute compusea cărui formă rămâne invariabilă în cadrul diatezei active(dar
-are flexiune în funcție de gen și număr la diateza pasivă -Profesorul/Profesoara /
-Profesorii/Profesoarelea /auchemat elevii vs Elevul/ Eleva/Elevii/Elevele a / au fost chemat
-/chemată/ chemați/chemate de cătreprofesor/ profesori.
-.Compliniri particularități și funcții sintactice
-În propozițieparticipiul poate aveafuncţia de
-§ subiectÎncheiată discuția și-au reluat celelalte activități.
-§ complement de agent Romanula fost scris de Rebreanu
-§ nume predicativ medicul devenitspecialist
-§ complement indirectîndatorat bunicului
-§ complement circumstanțial de diverse tipuri
-- mod -luat cu asalt.
-- loc-scrisoarea pierdută pe drum
-- timp -tablete luate seara înainte de culcare
-(conformhttps//it.scribd.com/document//Mioara-Avram-Gramatica-Limbii-Romane-)
-Natura adjectivală a participiului se manifestă prin anumite caracteristici care coincid în totalitate
-cu cele ale adjectivului și anume
-§ are flexiune în funcție de gennumărși caz
-§ are grade de comparație - mult mai îmbătrânit decăt ceilalți de vârsta lui
-§ poate fi însoțit de articol adjectival-pantalonii cei uzați
-§ poate  avea  determinanți  de  tipul  substantiv  /  pronume  +  prepoziție nemulțumit  de
-muncă / de sine sau substantiv / pronume  în cazul dativ îndatorat colegilor / îndatorat
-lor.
-§ se poate diminutiva spălățel
-se poate substantiviza urâtul rănitul - participiul substantivizat se comportă din punct de
-vedere morfo-sintactic ca orice substantiv.
-În enunțul Naufragiații salvați au fost aduși la mal de angajații pazei de coastăsunt nu
-mai puțin de cinciparticipii două participii subtantivizate (naufragiații angajații) unul detip
-adjectival (salvați) două (fost aduși)alcătuind împreună cu verbul auxiliar perfectul compus la
-diateza pasivă.
-Folosit cu valoareadjectivală participiul poate îndeplini la nivel sintacticfuncția de
-atribut adjectival (casăreconstruită) sau nume predicativ (Casa pare bântuită).
-Page number: 13 **************
-Participiul invariabilal unor verbe (a deschide a se răsti)poate avea valoare adverbială
-cu funcție de circumstanțial de mod (Goian  ) Exemple I-a vorbit deschis I-a vorbit
-răstit.
-. Corespondențe ale participiului românesc în limba suedeză -supinum perfekt particip
-Participiul invariabil parte componentă a timpurilor compuse ale verbelor la diateza activă din
-limba română corespunde în suedeză formei verbale numite în această limbă supinum care
-contribuie laformarea timpurilor trecutecompuse împreună cu verbul auxiliar
-§ perfekt (ce corespunde perfectului compus din limba română)
-Duhar ätit.(Ai mâncat.)
-§ pluskvamperfekt(ce corespunde mai-mult-ca-perfectului din română)
-Alla var nöjda eftersom de hade fätt löneförhöjning (Fasth Kannemark Anna  
-)
-§ futurum exaktum preteriti (timp compus care exprimă o acțiune încheiată într-un viitor al
-unui moment trecut) 
-"Ett  år  senare  skulle  vi  alla  ha  sett  våra  liv  slås  i  spillror"
-(https//sv.unionpedia.org/Futurum_exaktum_preteriti)
-Un an mai târziu ne-am fi văzut cu toții viețile distruse (trad. mea)
-Nu are decinimic comun cu supinul românesc pe care îl voi trata separat.
-Participiul invariabil cu valoare de adverb participiul substantivizat cât și participiul de
-tip  adjectival  din  limba  română corespund în  mare  măsură formei  verbale  numite perfekt
-particip (participiu trecut) din limba suedeză carepoate fi folosit
-§ ca adjectiv De är förvånade över vad som har hänt igår (Ei sunt uimiți de ceea ce s-a
-întâmplat ieri)
-§ ca adverb De tittar bekymrat på varandra (Se uită cu îngrijorare (îngrijorați) unii la
-alții)
-Han taladeöppetom sitt problem. (El a vorbit deschis despre problema lui)
-§ ca substantiv De måste säga upp några anställda. (Fasth Kannemark  ) - Ei
-trebuie să concedieze câțiva angajați (trad. mea)
-§ în construcții cu valoare pasivă împreună cu verbele vara (a fi) și bli (a deveni) (Viberg
-Ballardini et alii Gramatica limbii suedeze / Svensk grammatik pă rumänska  
-)
-§ Han blev antagen på kursen (El a fost admis la curs)
-§ Bilen är redan såld. (Mașina e deja vândută)
-Și în suedeză ca și în română acest tip de participiu poate avea formă negativă oplanerat besök
-(vizită neplanificată) prefixul o- echivalând prefixul ne- din limba română (Viberg Ballardini et
-alii  )
-„Toți erau mulțumiți pentru că primiseră o mărire de salariu”-trad. mea
-„sammansatt verbtempus som anger något avslutat i ett förflutet ögonblicks framtid”
-https//sv.unionpedia.org/Futurum_exaktum_preteriti
-Page number: 14 **************
-Ceea ce diferanțiază perfekt particip de participiul din limba română este faptul că
-perfekt particip poate fi folosit cu rol de prepozție (Fasth  Kannemark  )
-Exemplu Tio år är lång tid för att kunna förbereda sig och investeraoavsettkonjunkturen.
-(https//sv.bab.la/lexikon/svensk-engelsk/oavsett)-Zece ani sunt o perioadă lungă de timp pentru
-a te putea pregăti și investi indiferent deconjunctură (trad. mea).
-. Supinul
-. Aspecte generale
-Supinul este considerat de gramaticile tradiționale ca fiind acea formă verbală omonimă cu
-participiul  invariabil precedat  de  o  prepoziție  de  regulă  prepoziția de (care  tinde  să  se
-specializeze și să devină marcă a supinului) dar și de altele - la pe pentru după . Supinul
-exprimă numele unei acțiuni sau scopul/cauza unei acțiuni care a avut deja loc. (Coteanu 
-). Exemple (proprii)
-Mergemla cules de struguri.
-Am multde scris.
-I se umflaseră ochiide plâns.
-. Funcții sintactice compliniri particularități
-Supinul poate îndeplini următoarele funcții sintactice
-§ subiect E ușor de reținut.
-§ nume predicativ Nu e de condamnat.
-§ atribut mașinăde cusut pastă de lipit gumăde mestecat
-§ complement direct Am terminat de spălat.
-§ complementindirect M-am apucatde studiat istoria artei.
-§ complementcircumstanțial (de ex. detimp Au ajuns pe înserat. de locS-a dus la prășit)
-(Goian  )
-§ complement  circumstanțial  de  scop  al  unor  adjective (Coteanu   ) „flori
-frumoase de privit” „stofă plăcută la pipăit” (personal aș considera o nuanță temporală
-în acest caz stofa e plăcutăcând o pipăi și nu ca să o pipăi)poame bunede mâncat
-§ complement indirect de relație (ibidem) De auzit aude. De funcționat funcționează
-avănd sensul de „în ceea ce privește” (auzul funcționarea).
-În mod excepțional poate fi și predicat în enunțuri de tip imperativ (Goian  ) De
-cumpărat pâine! De achitat întreținerea! De cititromanul „Ion”!.
-Natura verbală a supinului se manifestă prin capacitatea sa de a „admite relațiile
-sintactice proprii verbului (exceptând relația verb-subiect)” (Iordan Guțu-Romalo et alii 
-). Poate avea complement direct complement indirect - Nu am de dat socoteală nimănui
-(„socoteală” - complement direct „nimănui ”- complement indirect) complement de agent -
-Exemple proprii
-Page number: 15 **************
-Defecțiunea e ușor de remediat de un specialist. circumstanțial de mod (vorbe ușor de zis
-sarcini greude îndeplinit. conform Coteanu  )
-Ca  și  participiul  și  supinul  se  poate  substantiviza. Chiar  dacă formele
-substantivizate ale participiului și supinului sunt identice ele se diferențiază la nivel semantic
-după cum arată Gabriela Pană Dindelegan în studiul său „Aspecte ale substantivizării în româna
-actuală. Forme de manifestare a substantivizării adjectivului” supinul substantivizat denumește
-„acțiunea starea sau evenimentul parafrazabil prin „faptul de a” (la fel ca și infinitivul lung al
-verbelor) în timp ce participiul substantivizat” denumește „agentul sau pacientul parafrazabil
-printr-o propoziție relativă” „cel care a făcut a suferit o acțiune cel care se află într-o stare”
-(http//www.diacronia.ro/ro/indexing/details/V/pdf). Voi  cita căteva din  exemplele
-Gabrielei Pană Dindelegan pentru argumentare
-„El estealesul nostru” („alesul”-cel care a fost ales-participiu substantivizat) vs
-„Alesul grâului de neghină” („alesul”-faptul / acțiunea de a alege-supin substantivizat)
-„Un spital de arși” („arși”-persoană care este arsă a suferit o arsură-participiu substantivizat)
-„Arsul mâncării de către gospodină” („arsul” - „faptul”/ acțiunea de a arde mâncarea - supin
-substantivizat).
-. Valori echivalente ale supinului romănesc în limba suedeză
-În limba suedeză nu există un echivalent al supinului românesc. După cum am arătat acea formă
-verbală din limba suedeză numită supinum are comună doar denumirea cu supinul românesc.
-Această  omonimie poate  duce  la  confuzie  de  termeni  atunci  când gramaticile  omit să  dea
-explicații sau să facă specificări suplimentare.
-Supinul românesc se poate traduce în limba suedeză - în funcție de context - prin
-presens particip prin construcții infinitivale substantive simple/compuse construcții cu forme
-verbale pasive
-culesul porumbului - majsens skördande (skördande = presens particip) / majsskörd (substantiv
-compus) (Lombard  )
-fumatul interzis -rökningenförbjuden (rökning = substantiv
-https//svenska.se/tre/?sok=r%C%Bkning&pz=)
-Am multde citit.-Jag har mycket att läsa (infinitiv)
-Am ajuns pe înserat - Vi anlände mot kvällningen/skymningen (ambele substantive conform
-https//svenska.se/).
-Ede făcut-Det börgöras (Lombard  ).
-. Alf Lombard despre supinul românesc
-În Rumänsk  grammatik Alf  Lombard  tratează  supinul  in  cadrul  amplului  capitol  dedicat
-participiului și nu distinct.
-El  spune că  „forma  masculină  a  participiului  anumitor  verbe este folosită  ca
-„substantiv  verbal” (Lombard      trad.  mea)  dând  ca  exemple  „fumatul  oprit”
-„mersul trenurilor” „la culesul porumbului” „evoluția scrisului” „a încetat cusutul” și sesizând
-echivalența cu infinitivul lung (ibidem ).  Spune apoi că în această ipostază „folosit ca
-„Av vissa verb används ptpets mask.-form som verbalsubst"
-Page number: 16 **************
-substantiv verbal” participiul este deseori precedat de prepoziții în special de prepoziția de”  iar
-această precedare este numită adesea „supin” (ibidem). Considerând supinul substantiv în
-construcțiile de tipul „greu / ușor de facut” „greu” și „ușor” sunt în viziunea lui Lombard
-adjective pe care supinul le determină și de aceea acesta rămâne neschimbat la forma de
-masculin singular (ibidem ) punct de vedere care vine în totală contradicție cu cel al lui Ion
-Coteanu care arată că în astfel de sintagme „adverbele ușor greu dificil sunt completări ale
-supinului” și „nu avem de a face cu un supin atribut” (Coteanu  ). Chiar dacă Lombard
-spune apoi că „noțiunile” de „greu” și „ușor” sunt în astfel de asocieri apropiate funcției și valorii
-de adverb (ibidem ) abordarea  nu este corectă. Explicația acestei afirmații a lui Lombard s-ar
-putea deduce din modalitatea de exprimare a acestui tip de sintagme din limba suedeză (și
-franceză cu care Lombard compară româna) prin adjectiv + infinitiv „texter lätta att förstå”
-(texte „ușoare” de înțeles). Este o perspectivă interesantă dar din păcate neconformă realității
-lingvistice. Ea nu ar costituì o problemă dacă ar fi privită doar în contextul istoric al teoriilor și
-viziunilor  lingvistice  asupra  participiului  și  mai  ales  asupra supinului  românesc.  Problema
-rezidă în faptul ca Rumänsk grammatik (singura gramatica românească scrisă de un lingvist
-suedez  și  deci  implicit  și  din  perspectiva  vorbitorului  nativ  de  limbă  suedeză)  furnizeză
-studenților  informații nu tocmai corecte fără ca ei să fie conștienți de acest fapt (cartea este
-dedicată studenților la limba română).
-. Concluzii
-Am încercat să prezint sintetizând și să sintetizez analizând în această lucrare pricipalele aspecte
-privind formele verbale non-finite din limba română-infinitiv gerunziu participiu și supin -din
-mai multe perspective (tradițional vs modern / română vs suedeză). Fiecare a fost tratată în
-funcție de propriile-i particularități de aceea deși am urmărit în mare măsură aceleași aspecte
-ele au fost totuși abordatediferit.
-Din cele studiateși prezentate aici pot spuneîn concluzie că infinitivul gerunziul
-supinul și participiul sunt forme hibride ce reunesc în comportamentul lor la nivel morfo-
-sintactico-semanticdiferite clase lexico-gramaticale(verb/substantiv verb/adjectiv verb/adverb).
-Nu există în cazul tutoror un echivalent de tipulunei forme verbale non-finite în
-limba suedezăfapt care a făcut posibilă după cum am arătat și interpretarea greșită a valorii
-unora dintre ele.Exemplele concrete cu care am ilustrat fiecare situație  constituie o parte
-importanta a argumentației mele întrucât faciliteazăînțelegerea aspectelor  pe care am dorit să le
-evidențiez în acesată lucrare.
-„Använt som verbalsubst. föregås ptpet ofta av prep. särskiltde(...). Föregånget av prep. kallas det ofta
-"supinum" (rum. mod supin"
-(„De+ ptp av transitivt verb står som utbildning till adjektivenușor”lätt" och "greu" vilka därvid står
-oföränderligt i Sg.-M-formen „această traducere e ușor /greu defăcut”
-„Till mina lärjungar i rumänska med en uppmuntran att inte släppa taget” Lombard  (Stundenților mei la
-limba română cu îndemnul de a nu abandona-trad. mea)
+Rezumat 
+ 
+Teză de licenţă la limba română  credite Facultatea de Ştiinţe Umaniste din cadrul 
+Universității din Lund primăvara anului  
+Autor Alexandra Boboescu 
+Profesor îndrumător Coralia Ditvall 
+ 
+Titlu Banatul Montan – Parcul Național Cheile Nerei-Beușnița 
+ 
+Alegerea temei și a problemei Deoarece este vorba despre niște locuri naturale minunate 
+mi s-a părut important să le pun în evidență și mai mult prin această lucrare mai ales că eu de 
+proveniență din acele locuri nu am vizitat niciodată în întregime Parcul Național Cheile Nerei-
+Beușnița. În aceeași situație ca și mine se află multa lume mulți tineri care aleg ca destinații 
+străinătatea.   
+ 
+Scopul Lucrarea are ca scop oferirea unei imagini de ansamblu a turismului în Banatul 
+Montan a Parcului Național Cheile Nerei-Beușnița unul dintre principalele obiective turistice 
+din județul Caraș-Severin accent punându-se pe Cheile Nerei Lacul Dracului Lacul Ochiul 
+Beiului și Cascadele Beușniței.  
+ 
+Metoda și analiza Cu ajutorul unei metode descriptive calitative se vor prezenta informații 
+despre Parcul Național Cheile Nerei-Beușnița. Pe lângă aceste informații culese din diferite 
+surse predominant de pe Internet se mai adaugă și un interviu făcut cu un localnic din zona 
+respectivă. Datele găsite împreună cu interviul vor fi mai apoi analizate pentru a ajunge la o 
+concluzie.   
+ 
+Concluzii proprii Cu toate că știam multe despre frumusețile locului înainte de a începe să 
+scriu eseul pe parcursul scrierii m-am convins tot mai mult de faptul că aceste locuri trebuie 
+vizitate măcar o dată. Acest Parc nu este amenajat turistic ceea ce face ca unii să nu fie atât 
+de deschiși la a-l vizita dar părerea mea este că tocmai acest lucru neamenajarea turistică 
+duce la o păstrare cât mai intactă a frumuseţilor naturale. Prin a vizita Parcul National Cheile 
+Nerei-Beușnița nu avem nimic de pierdut ci doar de câștigat!  
+ 
+Cuvinte cheie Cheile Nerei Lacul Dracului Lacul Ochiul Beiului Cascada Beușnița 
+ 
+ Page number: 4 **************
+Abstract 
+ 
+Bachelor thesis in Romanian  credits Humanities Faculty at Lund University spring 
+ 
+Author Alexandra Boboescu 
+Supervisor Coralia Ditvall 
+ 
+Titel The Mountainous Banat – The National Park Nera gorge-Beușnița  
+ 
+The choice of topics and issues problems The essay is about some wonderfull natural 
+places and I felt like it was important for me to emphasize them even more through this work 
+especially that I´m coming from those places and unfortunately I never visited The National 
+Park Nera gorge-Beusnita in its entirety. In the same situation like me there are a lot of people 
+who choose other countries as destinations.   
+ 
+Objective This paper aims to give an overview of tourism in the Mountainous Banat of the 
+Natioanal Park Cheile Nerei-Beușnița one of the main attractions in Caraș-Severin.  The 
+emphasis is on Nera gorge (Cheile Nerei) Devil´s Lake (Lacul Dracului) Bei Eyes´s Lake 
+(Lacul Ochiul Beiului) and Waterfalls of Beușnița (Cascadele Beușniței).  
+ 
+Methodology  and  analysis  Using  a  descriptive  qualitatice  method  will  be  presented 
+informations about The National Park Nera gorge-Beușnița. In addition to the information 
+gathered from various sources mostly from Internet it will be presented an interview with an 
+inhabitant of the area. The informationes along with the interview will then be analyzed to 
+reach a conclusion.    
+ 
+Own conclusions Although I knew a lot about the beauty of those places before I´ve started 
+to write the essay during the writing process I became more convinced that those places 
+should be visited at least once. The park is not travel arranged which makes some not beeing 
+so open to visit it. In my view this is precisely that which leads to the keeping of the natural 
+beauties. By visiting the National Park Nera gorge-Beusnita you have nothing to lose but win! 
+ 
+Keywords Cheile Nerei Lacul Dracului Lacul Ochiul Beiului Cascada Beușnița 
+ 
+ Page number: 5 **************
+Cuvânt înainte 
+ 
+După  semestre în care am studiat Limba Română la Universitatea din Lund am început 
+cursul Rumänska Kandidat Limba Română  credite. Pentru a putea încheia șirul celor  
+semestre de Limba Română a trebuit să scriu o teză de licență aceasta având  credite. De-a 
+lungul a  luni am căutat informații și am încercat să ofer o imagine de ansamblu cât mai clară 
+și mai reală a obiectivului turistic Cheile Nerei-Beușnița.   
+ 
+Ajunsă la sfârșit de drum aș vrea să mulțumesc doamnei profesoare Coralia Ditvall pentru tot 
+sprijinul acordat și pentru tot ajutorul oferit de-a lungul a  ani de zile. Aș mai vrea să 
+mulțumesc de asemenea doamnei profesoare Gabriela Budacă pentru timpul acordat cititului 
+lucrării și pentru părerile oferite. Nu în ultimul rând aș vrea să mulțumesc celui mai apropiat 
+critic Alina Boboescu care prin gândurile oferite m-a ajutat să îmbunătățesc lucrarea pe tot 
+parcursul scrierii ei.  
+ 
+ 
+ 
+Universitatea din Lund -- 
+ 
+ 
+ 
+ 
+ 
+ Alexandra Boboescu 
+                                                 
+ Am ales să scriu o lucrare de licenţă care să trateze un subiect de realia cu scopul de a oferi cititorului o 
+prezentare/descriere cât mai reală şi sugestivă a obiectivului turistic Cheile Nerei-Beuşniţa aproape necunoscut 
+în turismul românesc. 
+ 
+ Page number: 7 **************
+. Introducere 
+Pe  o  suprafață  de     km²  în  estul  Europei  se  află  România  o  țară  a  diversității 
+geografice.  Munții  Carpați  formează  un  arc  în  jurul  Podișului  Transilvaniei.  Pe  partea 
+exterioară a acestui arc se distinge Podișul Moldovei în est iar în sud Câmpia Română. 
+Munții Carpați se împart în Carpații Orientali Meridionali și Occidentali având o înălțime 
+medie  de    m  și  fiind  alcătuiți  ditr-o  diversitate  de  roci  sedimentare  metamorfice  și 
+vulcanice. Carpații Occidentali așa cum și numele lor spune se află în partea de vest a 
+României între Valea Dunării în sud și Valea Someșului în nord. Ei sunt caracterizați de 
+altitudini  mai  reduse  decât  ale  celorlalte  două  ramuri  carpatice  dar  și  printr-un  aspect 
+discontinuu fiind întrerupți de văile mai multor râuri cum ar fi Timișul sau Mureșul. Mureșul 
+este cel care împarte Carpații Occidentali în două mari grupe Munții Apuseni în partea de 
+nord și Munții Banatului în sud. 
+. Generalități despre Banatul Montan 
+Banatul Montan se întinde pe suprafața județului Caraș-Severin al treilea ca mărime din 
+România situat în partea de sud-vest a țării învecinându-se cu județele Timiș Hunedoara 
+Gorj și Mehedinți.  % din suprafața județului este reprezentată de zona muntoasă. Munții 
+Banatului au altitudini joase cel mai înalt fiind vârful Semenic  m. Aici predomină 
+rocile tari mai existând însă și arii cu roci sedimantare în special calcare unde se dezvoltă 
+fenomene carstice. 
+ 
+Zona Banatului Montan oferă multe posibilități de turism agrement și petrecere a timpului 
+liber. Datorită zonelor împădurite de munte a  reliefului diversificat  dar și  a râurilor și 
+lacurilor  turismul  montan  oferă  oportunități  cum  ar  fi  Cicloturism  în  zona  Platoului 
+Semenic Motocilism în zona Muntelui Mic Alpinism pe Muntele Mic Cheile Nerei și 
+Cheile Carașului Snowboard pe Muntele Mic și Masivul Semenic dar și Rafting în zonele 
+valea Cernei și Cheile Nerei. 
+ 
+                                                 
+ iloveromania.ro 
+ travelworld.ro 
+ turism.cjcs.ro 
+ travelworld.ro 
+greensphera.ro 
+ 
+ Page number: 8 **************
+Perlele  Banatului  Montan  sunt  Masivul  Semenic  Muntele  Mic  Poiana  Mărului  Băile 
+Herculane Trei Ape Crivaia Parcuri naționale cum ar fi Parcul Național Semenic – Cheile 
+Carașului Parcul Național Cheile Nerei-Beușnița Parcul Național Domogled dar și Parcul 
+Național Porțile de Fier. 
+. Scopul lucrării 
+Lucrarea are ca scop oferirea unei imagini de ansamblu a obiectivului turistic din Banatul 
+Montan Parcul Național Cheile Nerei-Beușnița accent punându-se pe Cheile Nerei Lacul 
+Dracului Lacul Ochiul Beiului și Cascadele Beușniței.  
+. Delimitare  
+Ținând cont de dimensiunea lucrării am decis să delimitez acest studiu prezentând informații 
+generale despre Parcul Național Cheile Nerei-Beușnița iar apoi o mai îndeaproape desciere a 
+obiectivelor turistice Cheile Nerei Lacul Dracului Lacul Ochiul Beiului și Cascadele 
+Beușniței.   
+ 
+ 
+. Metoda  
+Acest capitol oferă cititorului în primul rând câteva argumente în legătură cu alegerea temei 
+despre tipul de metodă de studiu ales și nu în ultimul rând câteva date despre sursele de 
+informare ale lucrării.  
+. Alegerea temei 
+Alegerea temei are o legatură strânsă cu “rădăcinile” mele din România. Aici mă refer la locul 
+de proveniență zona în care am copilărit și pe care o vizitez cu mare plăcere și astăzi. Fiind 
+din Banatul Montan am avut posibilitatea de a cunoaște zona Cheile Nerei dar și pădurile din 
+Munții Locvei. Având bunici în localitatiea Cărbunari situată pe Munții Locvei localitate 
+care face parte din Parcul Național Cheile Nerei-Beușnița am auzit multe despre frumusețile 
+zonei despre peșterile sau lacurile din apropiere.  
+ 
+Cu toate că am avut posibilitatea de a vizita întregul Parc Național Cheile Nerei-Beușnița nu 
+am profitat niciodată de ocazie să merg să vad aceste frumuseți naturale. Ce am vizitat sunt 
+doar locurile pe unde eram nevoită să merg pentru a ajunge în Cărbunari sau zonele din 
+apropiere unde mai mergeam cu prietenii vara.  
+                                                 
+ greensphera.ro 
+ 
+ Page number: 9 **************
+ 
+Am ales să scriu această lucrare pentru a oferi o imagine de ansamblu a Parcului deoarece 
+sunt  foarte  multe  persoane  foarte  mulți  tineri  din  zona  Banatului  Montan  foarte  mulți 
+cunoscuți  care  nu  au  fost  niciodată  să  viziteze  aceste  minunății  în  schimb  alegând  ca 
+destinații străinătatea.   
+ 
+Înainte de a mă hotărî la această temă am început să caut informații despre Cheile Nerei 
+despre întreaga zonă și astfel am găsit foarte multe pagini web pe ale căror forumuri multe 
+persoane recunoșteau că nici nu știau că în România există astfel de locuri iar alte persone 
+chiar spuneau că pozele făcute în acele zone sunt trucate deoarece nu se poate să fie așa ceva 
+în România. Aceste comentarii m-au convins și mai mult că tema aceasta este cu siguranță cea 
+mai potrivită.  
+. Studiu cantitativ sau calitativ? 
+Metodele alese pentru acest studiu se bazează pe cercetarea cantitativă şi calitativă cunoscute 
+mai ales în ştiinţele sociale. 
+ 
+Se spune că cercetarea calitativă se bazează pe cuvinte pe când cea cantitativă pe cifre. Există 
+o tendință de a asocia metoda calitativă cu studii  efectuate la scară mică pe când cele 
+cantitative sunt asociate cu o analiză mai amplă dar și cu studii la scară mare. Deoarece 
+studiul meu nu are în alcătuirea sa decât un singur interviu am ales să folosesc metoda 
+calitativă. Metoda calitativă pune accent pe factori care sunt izolați de alte variabile pentru ca 
+în acest fel să se poată observa atât funcțiile acestora cât și efectele. Această metodă este 
+potrivită pentru studiul meu deoarece aici se dorește prezența unei unități. Ceea ce face ca 
+metoda de studiu calitativă să fie unică este faptul că în centru se află descrierea caracteristicile 
+cuiva.  
+ 
+Studiul este calitativ descriptiv accentual punându-se pe materialul adunat având ca scop 
+descrierea Parcului Național Cheile Nerei-Beușnița. Am ales acest tip de studiu pentru a 
+obține informații cât mai ample despre temă putând astfel oferi o imagine cât mai clară și mai 
+de ansamblu a obiectivului turistic.  
+ 
+                                                 
+ Denscombe  
+ Ibid. 
+ Ibid.  
+ 
+ Page number: 10 **************
+Deoarece am vrut să ofer cititorilor și părerea unei persoane din afara acestui studiu am ales 
+să intervievez un localnic recent stabilit într-o localitate din Parcul Național Cheile Nerei-
+Beușnița.  Am ales ca în lucrare să intervievez un localnic recent mutat în zonă deoarece unei 
+persoane care s-a născut și a trăit în acele locuri acestea i se par frumoase chiar dacă ele nu ar 
+fi ele fiind frumoase prin faptul că reprezintă locul natal al persoanei respective. M-am gândit 
+că alegând pentru un scurt interviu o persoană de proveniență din alte locuri și nu zona Cheile 
+Nerei aceasta va fi mult mai obiectivă atunci când îmi va povesti despre impresia pe care 
+zona și Parcul Cheile Nerei-Beușnița i-au lăsat-o. Sunt conștientă însă că există atât lucruri 
+pozitive cât și negative cu alegerea făcută. 
+ 
+Pentru  interviu  s-a  folosit  tipul  semistructurat.  Prin  această  metodă  de  intervievare  se 
+primesc răspunsurile la întrebările puse în același timp în care se lasă puțin spațiu persoanei 
+intervievate pentru a putea dezvolta și discuta mai îndeaproape părerile proprii.    
+. Proveniența informațiilor  
+Informațiile despre Parcul Național Cheile Nerei-Beușnița au fost adunate din mai multe surse 
+de pe Internet din unele experiențe personale dar și dintr-un interviu cu o persoană recent 
+stabilită într-o localitate ce se află pe suprafața Parcului.   
+ 
+Sursele luate de pe Internet pot fi de multe ori eronate. Din cauza aceasta și mai ales a 
+faptului că în acest studiu sunt folosite foarte multe informații culese de pe diferite pagini 
+web am încercat să verific credibilitatea acestora. Am facut acest lucru cu ajutorul a cinci 
+criterii și anume identificarea sursei criterii de simultaneitate criterii de tendință criterii de 
+dependență și criteriul de selecție. Astfel că am încercat să evaluez cine este autorul sursei 
+care au fost motivele publicării informațiilor respective dar și dacă sursa este autentică sau 
+nu.  Folosind  aceste  criterii  am  încercat  de  asemenea  să  evaluez  relația  dintre  autor  și 
+informația pe care o transmite dar și interesul autorului de a influența opiniile cititorilor. În 
+acest mod sper să ofer o imagine cât mai reală a obiectivului Parcul Național Cheile Nerei-
+Beușnița.  
+. Critică 
+Conform  indicațiilor  primite  lucrarea  trebuie  să  aibă  un  conținut  de  maxim    pagini 
+exclusiv bibliografie și anexe. Sunt conștientă de faptul că lucrarea mea a depășit acest număr 
+                                                 
+ Întrebările pot fi citite în Anexa  
+ Denscombe  
+ 
+ Page number: 11 **************
+de pagini ceea ce ar putea fi un lucru negativ adică o încălcare a regulilor stabilite dar toate 
+informațiile prezentate mi se par importante ele reprezentând o unitate din care imi este greu 
+să îndepărtez vreo parte. De aceea am hotărât ca în ciuda încălcării unei reguli să păstrez 
+lucrarea în întregimea ei. Conținutul lucrării mele a depășit cu  pagini limita admisă. Primele 
+ pagini ale lucrării cele ce reprezintă capitolele Definiții Rezumat Abstract Cuvânt înainte 
+și Cuprins nu întră în limita de  pagini admise ele fiind doar niște informații suplimentare.  
+ 
+  
+. Parcul Național Cheile Nerei-Beușnița 
+Parcul Național Cheile Nerei-Beușnița se numără printre cele  parcuri naționale existente în 
+România. Întins pe o suprafață de   hectare parcul reprezintă unul dintre principalele 
+obiective turistice din Banat. Aici găsim peisaje surprinzătoare cascade punți suspendate 
+tuneluri săpate în stâncă lacuri carstice peșteri dar și o faună rară. Parcul s-a constituit 
+pentru a conserva aceste fumuseți naturale unice multe dintre ele datorate climatului cu 
+influențe  submediteraneene.  Printre  acestea  amintim  plantele  ierboase  și  lemnoase.  Alte 
+lucruri unicate pe care le găsim în Parc sunt Cheile Nerei fiind cele mai lungi din Romania 
+Lacul Dracului sau pădurile seculare.  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Foto George Oprea Boaba Popescu și 
+Adrian Nicolae   
+ 
+    ¨ 
+ 
+Parcul Național Cheile Nerei-Beușnița se întinde pe suprafața județului Caraș-Severin între 
+localitățile  Sasca  Montană  Sasca  Română  Potoc  Socolari  Ilidia  Ciclova  Oravița  
+Bozovici  Anina  Lăpușnicu  Mare  Dalboșeț  Șopotu  Nou  și  Cărbunari.  Regiunea  se 
+                                                 
+ comeinromania.com 
+ infocheilenerei.ro/Localizare/ 
+ travel.descopera.ro 
+ comeinromania.com 
+ 
+ Page number: 12 **************
+caracterizează prin platouri calcaroase ridicate de unde pornesc pantele unor văi ce străpung 
+aceste roci. Este vorba despre Cheile Minișului Cheile Nerei Valea Beiului Valea Ciclovei 
+Valea Oraviței și Valea Cremenița. 
+ 
+Clima temperat continentală cu influențe submediteraneene contribuie la o faună și o floră 
+unică. Fauna terestră este reprezentată de peste  taxoni și de fauna cavernicolă care 
+cuprinde    specii  și  subspecii  de  nevertebrate.  Dintre  acestea    specii  sunt  strict 
+protejate. Pe lângă toate aceste specii mai sunt prezente încă  de specii rare și  de 
+endemisme. Pricipalele specii de animale sunt ursul (Ursus arctos) râsul (Lynx lynx) 
+vulturul  alb  (Neophran  perenopterus)  lăstunul  mare  (Apus  melba)  lăstunul  de  stâncă 
+(Hirunda  rupestris)  rândunica  roșcată  (Hirunda  daurica)  pietrarul  bănățean  (Oenanthe 
+hispanica)  presura  bărboasă  (Emberiza  cirulus)  șarpele  orb  (Anguis  fragilis  colticus) 
+scorpionul (Euscarpius carpathicus) liliacul mediteranean (Rhinolopus luryale) și fâsa mare 
+(Cobitis elongata) care este un monument al naturii. În apele râurilor și a lacurilor se mai 
+găsesc  păstrăv  clean  (Leuciscus  cephalus)  mreană  (Barbus  barbus)  lipan  (Thymallus 
+thymallus) și caraș (Carassius carassius). Primăvara urcă în apele din zona muntoasă peștele 
+răpitor numit scobarul (Chondostroma nasus). Printre speciile de reptile se amintesc vipera cu 
+corn (Vipera amodytes) gușterul verde (Lacerta viridis) și vipera (Vipera berus).  
+ 
+  
+ 
+ 
+Foto  George  Oprea  Boaba  Popescu  și  Adrian 
+Nicolae  
+ 
+ 
+Bogăția floristică a zonei este impresionantă deoarece aici se întâlnesc atât specii balcanice 
+cât și specii mediteraneene și submediteraneene în total aproximativ  de specii de plante. 
+În această zonă întâlnim cele mai frumoase exemplare de alun turcesc (Corylus colurna) ele 
+                                                 
+ infocheilenerei.ro/Localizare/ 
+ explicație a termenului în rubrica Definiții 
+ explicație a termenului în rubrica Definiții 
+ explicație a termenului în rubrica Definiții  
+ infocheilenerei.ro/Localizare/ 
+ infocheilenerei.ro/Localizare/arii-protejate 
+ Ibid. 
+ travel.descopera.ro 
+ 
+ Page number: 13 **************
+având  peste    m  înălțime  și    cm  diametru.  În  bazinul  Beușnița  vegetează  făgetele 
+bănățene vestigii ale vegetației postglaciare. În această zonă regăsim și următoarele plante 
+vișinul turcesc (Podus mahaleb) nucul comun (Jugleus regia) măceșul de Beușnița (Rosa 
+stylosa var beucensis) tisa (Taxus baccata) mojdeanul (Fraxinus ornus) cărpinița (Carpinus 
+orientalix) ghimpele (Ruscuc aculeatus) cornișorul (Ruscuc hypoglosum) stânjenelul (Iris 
+graminea) bujorul de pădure (Peonia mascula var triternatifolia) săbiuța (Gladiolus illiricus) 
+garofița bănățeană (Dianthus banaticus) și bujorul bănățean (Peonia officinalis var banatica).   
+ 
+Deoarece teritoriul pe care este situat Parcul Național Cheile Nerei-Beușnița este caracterizat 
+printr-un climat temperat continental cu influențe submediteraneene numărul zilelor cu cer 
+înnorat este de circa  pe an ceea ce duce la o cantitate de precipitații destul de ridicată ea 
+ajungând până la aproximativ  mm/m²/an. Zilele cu ceață sunt și ele prezente în zonă 
+destul de des cam  de zile pe an. 
+  
+În  zona  Parcului  Național  Cheile  Nerei-Beușnița  se  întâlnește  o  diversitate  de  obiective 
+turistice cultural-istorice de situri arheologice și de monumente de arhitectură și artă dar și 
+monumente industriale.   
+ 
+Siturile arheologice care au fost identificate cele mai multe dintre ele fiind situri subterane 
+sunt situate în  de peșteri din Cheile Nerei reprezentând urme de locuire umană. Au fost 
+găsite fragmente ceramice vetre de foc din neolitic până în prezent.  Cel mai important sit 
+este situat într-o peșteră din Cheile Minișului unde au fost identificate resturi scheletice 
+umane care conform datărilor sunt cele mai vechi din Europa. Pe lângă siturile subterane au 
+mai fost găsite și  situri de suprafață printre care se numără Cetatea Socolari Mănăstirea 
+Călugăra tunelele de la Sasca și Teatrul Vechi de la Oravița.   
+ 
+În  localitatea  Ilidia  întâlnim  obiective  care  merită  vizitate  printre  acestea  amintim 
+monumente și situri arheologice. Aici se află Stânca pictată – Valea Mare Biserica Medievală 
+Dealul Cetate din secolele XIII-XIV și siturile Săliște – care datează din epoca medievală 
+epoca  migrațiilor  Dealul  Oblița  –  fiind  tot  din  epoca  medievală  secolul  XII  și  Moara 
+Gherghinii – din epoca romană. În imediata vecinătate a localității Ilidia găsim localizată 
+localitatea Socolari acolo unde putem vizita cetatea mediavală care poatră numele Cetatea 
+                                                 
+ infocheilenerei.ro/Localizare/arii-protejate 
+ infocheilenerei.ro/Localizare/ 
+ Ibid. 
+ 
+ Page number: 14 **************
+Beiului cu datare din epoca medievală secolele XIV-XV. În localitatea Cărbunari găsim situl 
+arheologic Peștera Urzicari unde se găsesc urme de locuire din paleolitic și neolitic aceasta 
+fiind o construcție romană din sec II-III a epocii romane. Tot în aceeași localitate se mai află 
+și situl Coțofeni cu urme de locuire din epoca bronzului. În localitatea învecinata Știnăpari se 
+află monumentul numit Dealul Chelu – mina romană de la Știnăpari care dateaza din epoca 
+romană. La Șopotul Nou se poate vizita locuirea preistorică Peștera Rolului.  
+ 
+În localitatea Anina cele mai importante monumente industriale sunt Mașina de extracție cu 
+abur și Centrala termoelectrică cu turbine. La câțiva km de Anina se află localitatea Bozovici 
+acolo unde găsim un ansamblu de mori – Moara Namțului din  sau Moara de peste Râu 
+din  .  Biserici  cu  datări  din  secolul  XVIII  găsim  în  următoarele  localităti  Ciclova 
+Română – Biserica Sfânta Maria Biserica Mănăstirii Călugăra Ilidia – Biserica Pogorârea 
+Sfântului  Duh  Sasca  Montană  –  Biserica  Sfinții  Apostoli  Biserica  Nașterea  Maicii 
+Domnului Slatina Nera – Biserica Adormirea Maicii Domnului.   
+ 
+Parcul Național Cheile Nerei Beușnița este divizat în  zone și anume Zona Cheile Nerei-
+Beușnița  Zona  Cheile  Șușarei  Zona  Valea  Ciclova-Ilidia  Zona  Ducin  și  Zona  Izvorul 
+Bigăr.  
+. Principalele obiective turistice în Parcul Național Cheile Nerei-Beușnița 
+Cele  obiective turistice care urmează se află localizate în Zona Cheile Nerei-Beușnița.   
+ 
+Cheile Nerei sunt cele mai lungi și mai spectaculoase din țară. Întinzându-se pe o lungime de 
+ km ele sunt situate la limita sud-vestică a țării în sudul munților Aninei la o diferență 
+de altitudine de  m.  Cheile se întind de-a lungul râului Nera între localitățile Sasca 
+Română și Șopotul Nou. Datorită unor formațiuni carstice spectaculoase Cheile Nerei sunt 
+de o frumuseșe natural unică. La toate acestea se adaugă numărul mare de specii rare întâlnite 
+aici de nevertebrate cum este scorpionul declarat monument al naturii și licuriciul bănățean 
+uneori foarte ambundent.  
+ 
+                                                 
+ infocheilenerei.ro/Localizare/ 
+ infocheilenerei.ro/Istorie-locala/ 
+dsresitacs.ro 
+ comeinromania.com 
+ turistik.ro 
+ comeinromania.com 
+ 
+ Page number: 15 **************
+Ștefan  Negrea  doctor  în  speologie  spune  despre  Cheile  Nerei  faptul  că  “ele  întrunesc 
+sălbăticia Cheilor Carașului grandoarea Cheilor Bicazului și gingășia Cheilor Turzii”.  
+ 
+Lacul Dracului a apărut prin prăbușirea bolții peșterii cu același nume și din această cauză o 
+parte a lacului se află sub bolta peșterii. Inițial acesta a fost un lac subteran. Lacul se întinde 
+pe o suprafață de aproximativ  m² având o adâncime maximă de  m. În anul  
+speologii scafandri au descoperit pe malul lacului o galerie care pătrundea în masivul fisurat. 
+După nu mai mult de  m scafandri au ieșit din apă într-o sală formată din calcar și silex. 
+Impresionant a fost cum culoarea albă a calcarului alterna cu straturile negre de silex. Printre 
+alte lucruri descoperite aici au fost forme ciudate de coroziune care puteau fi posibile numai 
+în mediul subacvatic trunchiuri de arbori și spongieri de apă dulce ultimii reprezentând 
+forme mai rare de viață. Apa lacului fiind foarte limpede cu reflexe verzi-albăstrui sau 
+violet-negre oferă turistului posibilitatea de a vedea o mulțime de pești înotând. 
+ 
+ 
+Lacul Ochiul Beiului lac de proveniență carstică și protejat de Munții Aninei și Locvei are 
+o suprafață de  m² și o adâncime de  m. Lacul este în formă de cuvă iar datorită 
+izvorului care se revarsă în el nu îngheață iarna. Acest lucru face ca multe păsări migratoare 
+să aleagă să rămână aici în timpul iernii temperatura apei fiind mai ridicată. Astfel de păsări 
+sunt stârcii cenușii sau rațele sălbatice.  
+ 
+Pe raza localității Sasca Română acolo unde Beiul se varsă în Nera se termină Cheile Nerei. 
+Pe aici trecerea se face prin tunele săpate în stâncă abruptă. În vecinătatea lacului găsim cele 
+ cascade ale Beușniței.  
+ 
+Cascadele Beusnitei sunt situate în Munții Aninei pe Valea Beușniței. Beușnița este un 
+afluent al râului Bei care la rândul său este afluent al râului Nera. Pârâul Beușnița și-a săpat 
+valea  în  calcar  aceasta  fiind  căptușită  cu  tuf  calcaros  unde  apa  se  scurge  într-un  șir 
+neîntrerupt de cascade așezate în trepte cu dimensiuni variate care ajung până la  m 
+înâlțime. Tuful calcaros de pe fundul văii se formează și crește continuu printr-un process 
+neîntrerupt în care ceea ce se găsește în albie mușchi frunziș crengi pietre se încrustează 
+                                                 
+ Ștefan Negrea  pag.  
+ carpati.org/articol/lacul_dracului/ 
+ meleaguri.ro 
+
+ Ibid.  
+ 
+ Page number: 16 **************
+încetul  cu  încetul.  Cascadele  Beușniței  se  impart  în  două  categorii  cele  din  porțiunea 
+inferioară și cele din porțiunea superioară. Diferența dintre cele două grupe este că unele cele 
+inferioare reprezentate de un șir neîntrerupt de căderi de apă sunt înguste pe când celelalte 
+cele superioare sunt cascade verticale și zgomotoase ale căror apă curge în dorne adânci. Apa 
+celei mai mari cascade care face parte din grupul superior cade ca o perdea transparentă de la 
+o înălțime de aproximativ  m peste abruptul de tuf plin de mușchi. Efectul fonic este 
+nemaipomenit atunci când debitul apei este ridicat. 
+ 
+Împreună toate aceste obiective formează un ecosistem de mare valoare științifică.  
+ 
+ 
+“Deși  am  hoinărit  atâția  ani  prin  munții  noștri  excursia  din  Cheile  Nerei 
+rămane cea mai frumoasă din câte am făcut până acum. Mă despart de Nera ca 
+de o ființă dragă. Cine și-ar fi inchipuit că poate fi atât de sălbatică și măreață 
+natura în acest colțișor de țară? Nici n-ai bănuit că venind cu râul leneș din 
+despresiunea Almăjului vei parcurge vreo  km printre pereți înalți și golași 
+alternând  cu  curmături  îmbrăcate  de  păduri  neatinse  de  secure  că  te  vei 
+pomeni în decor montan la numai  m altitudine?” (Emilian Cristea)   
+ 
+ 
+. Păstrarea acestor frumuseți prin ecoturism 
+Pentru a păstra intacte aceste frumuseți ale naturii se folosește ecoturismul. De-a lungul 
+ultimelor decenii ecoturismul a cunoscut o expansiune rapida la nivel mondial. Ecoturismul 
+este definit de Societatea Internaționala de Ecoturism ca fiind ”calătoria responsabilă în ariile 
+naturale  care  contribuie  la  conservarea  mediului  natural  și  la  îmbunătațirea  bunăstării 
+populației locale”. Ecoturismul se bazează pe mai multe principii printre care se pot aminti 
+următoarele 
+  minimizarea impactului asupra mediului înconjurător și populației locale  
+  educarea turiștilor în spiritul conservării 
+  creșterea conștientizării și respectului pentru mediu și cultură 
+ 
+                                                 
+ carpati.org/articol/cascadele_beu 
+ Emilian Cristea (-) un nume cunoscut în istoria alpinismului românesc 
+ Ștefan Negrea  pag. 
+ nera.exploratorii.ro/ecoturism 
+ 
+ Page number: 17 **************
+Conform unui studiu ASER turiștii vin în România pentru a vedea natura neatinsă de om și 
+penru obiceiurile tradiționale românești.  
+ 
+De aceea în Parcul Național Cheile Nerei-Beușnița sunt stabilite reguli de vizitare și anume 
+este interzis accesul autovehiculelor pe anumite arii parcarea acestora făcându-se în locuri 
+special  amenajate  camparea  în  rezervații  este  interzisă  excepție  făcându-se  în  locurile 
+amenajate turiștii sunt obligați să evacueze deșeurile pe care le generează pe timpul vizitării 
+Parcului este interzis orice tip de poluare fonică este interzisă distrugerea florei aprinderea 
+focului în padure și în Parc este permisă numai în locurile special amenajate se interzice 
+scrierea  pe  arbori  stânci  sau  peșteri  este  interzisă  practicarea  sporturilor  cu  motor  se 
+interzice pescuitul în apele de pe suprafața parcului.  
+ 
+ 
+. Interviu cu localnic din Parcul Național Cheile Nerei-Beușnița 
+Interviul  a  avut  loc  la  data  de    decembrie    în  localitatea  Cărbunari.  Persoana 
+intervievată se numește Georgeta Popescu și de aproximativ  ani de zile s-a hotărât să își 
+cumpere o casă de vacanță în localitatea mai sus amintită fiind impresionată de frumusețile 
+naturale ale locului. Din ceea ce mi-a povestit a ales să își cumpere o casă de vacanță pentru a 
+”scăpa” de gălăgia și praful din oraș măcar pentru o perioadă a anului. Deoarece în această 
+zonă condițiile de trăit iarna sunt foarte grele fiind zăpadă multă drumurile fiind greu 
+circulabile a ales să rămână în oraș pe parcursul lunilor reci și încărcate cu zăpadă. Georgeta 
+povestește că vara este foarte frumos. Când soarele arde se adăpostește la umbra copacilor 
+acolo unde numai cântecul păsărilor se mai aude.  
+ 
+În cei  ani de când s-a mutat în Cărbunari a vizitat Cheile Nerei o singură dată dar s-ar mai 
+duce cu plăcere încă o dată să le mai vadă. Mărturisește însă că drumul este destul de obositor 
+dar cu mici popasuri se poate face. Zona nu este amenajată turistic adică nu sunt construite 
+drumuri ci se merge pe poteci prin pădure turiștii folosindu-se de marcajele de pe copaci. 
+Este frumos faptul că în unele locuri trecerea peste apă se face pe poduri suspendate de unde 
+se poate vedea întreaga panoramă. Ceea ce i-a plăcut mult a fost Lacul Ochiul Beiului 
+culoarea acestuia fiind impresionantă. La fel de impresionant era și atunci cănd nuanțele apei 
+                                                 
+ Asociația Speologică Exploratorii Reșița 
+nera.exploratorii.ro/ecoturism 
+ nera.exploratorii.ro/reguli 
+ 
+ Page number: 18 **************
+lacului se schimbau în funcție de cum ajungeau razele soarelui să pătrundă printre copaci. Se 
+puteau vedea nuanțe de albastru cand cerul senin se oglindea iar în unele locuri se vedea apa 
+căpătând  nuanțe  închise  ajungând  chiar  și  până  la  negru  acolo  unde  soarele  nu  putea 
+pătrunde. Cascadele Beușniței sunt și ele frumoase și foarte apropae de lac ceea ce este bine 
+spune Georgeta deoarece nu trebuie să mai meargă pe jos un drum lung pentru a mai vizita 
+un obiectiv turistic.  
+ 
+În pădurile din apropierea satului merge foarte des la plimbare iar acolo prin păduri peste 
+dealuri oricine se poate relaxa. În plus prin aceste păduri din apropiere se află și mai multe 
+izvoare cu apă potabilă.  
+ 
+Georgeta este foarte mulțumită de alegerea făcută și nu regretă deloc faptul că și-a cumpărat o 
+casă de vacanță în zona aceea.  
+ 
+ 
+. Analiza 
+Parcul Național Cheile Nerei-Beușnița se împarte în mai multe zone fiecare dintre acestea 
+cuprinzând diferite obiective turistice. Într-una din zone se află obiectivele turistice Cheile 
+Nerei Lacul Dracului Lacul Ochiul Beiului și Cascadele Beușniței.  
+ 
+În conformitate cu studiul făcut de ASER turiștii străini vin în România pentru a vizita natura 
+neatinsă de om. Zona Cheile Nerei este un astfel de obiectiv turistic unde tocmai pentru 
+conservare se practică ecoturismul. Așa cum spune și alpinistul român Emilian Cristea pe 
+Cheile Nerei se află păduri seculare neatinse de secure.  
+ 
+Peisajele sunt neasemuit de frumoase. Exemple de astfel de zone sunt Cheile Nerei deoarece 
+ele întrunesc așa cum afirmă si doctorul în speologie Negrea „sălbăticia Cheilor Carașului 
+grandoarea  Cheilor  Bicazului  și  gingășia  Cheilor  Turzii”  Lacul  Ochiul  Beiului  cu  o 
+culoare impresionantă acel albastru-verziu cu umbre de violet-negru înconjurat de o natură 
+spectaculoasă de păduri seculare de specii floristice rare. Peisajele sunt frumoase de vizitat 
+în orice anotimp însă este mai greu de pătruns în anumite zone pe timp de iarnă datorită 
+căilor  de  comunicație  nedezvoltate.  Primăvara  vara  și  toamna  sunt  cele  mai  potrivite 
+                                                 
+ Ștefan Negrea  
+ 
+ Page number: 19 **************
+momente din an pentru vizitat Lacul Dracului de exemplu care jumătate se află sub bolta 
+peșterii și jumătate în afara acesteia și datorită acestui fapt nuanța apei variază mult acolo 
+unde soarele neputând ajunge fiind foarte închisă.  
+ 
+De  asemenea  pădurile  seculare  cu  o  floră  rară  unde  se  pot  întâlni  cele  mai  frumoase 
+exemplare de alun turcesc vișin turcesc măceș de Beușnița cornișorul săbiuța garofița 
+bănățeană printre altele sunt un loc minunat pentru iubitorii de natură.  
+ 
+Deoarece transportul în aceste zone nu este foarte dezvoltat zonele nu au fost vizitate de 
+foarte  mulți  turiști.  Efectul  a  fost  pozitiv  pentru  natură  care  a  rămas  aproape  intactă 
+nepoluată sau distrusă. Efectul a fost însă negativ pentru turism care nu s-a dezvoltat în prea 
+mare măsură. Numărul turiștilor ar putea fi ridicat în aceste zone și benefic atât pentru ei prin 
+vizitarea  zonelor  cât  și  pentru  dezvoltarea  turismului.  Este  necesară  stabilirea  unor 
+reglementări care să asigure păstrarea zonelor într-o stare frumoasă curate. De aceea s-a 
+început  practicarea  ecoturismului  în  Parcul  Național  Cheile  Nerei-Beușnița  stabilindu-se 
+reguli de vizitare astfel încât turistul să conștientizeze faptul că natura trebuie păstrată așa 
+cum este ea pentru generațiile următoare.   
+ 
+Gerorgeta persona intervievată nu regretă că s-a mutat pentru a petrece o periodă a anului 
+într-o localitate din Parcul Național Cheile Nerei-Beușnița deoarece astfel a avut posibilitatea 
+de a vizita frumusețile naturale ale obiectivelor turistice Cheile Nerei-Beușnița pe care cu 
+plăcere le-ar mai vizita. Zona este frumoasă și de aceea trebuie păstrată. Când vorbim despre 
+această zonă vorbim despre o zonă sălbatică și măreață așa cum afirmă alpinistul Emilian 
+Cristea dar și o zonă în care decorul montan este prezent la numai  m altitudine. 
+ 
+Parcul Național Cheile Nerei-Beușnița nu este o atracție doar pentru iubitorii de natură ci aici 
+se pot vedea și vizita diferite monumente cultural-istorice monumente de arhitectură și artă și 
+monumente industriale. Astfel de zone sunt Cheile Nerei unde se găsesc situri arheologice 
+niște valori care merită vizitate localități situate pe suprafața Parcului acolo unde găsim 
+biserici vechi care datează din epoca romană cum sunt localitățile Sasca Montană Ilidia 
+Slatina Nera și Ciclova. Ceea ce nu trebuie uitate sunt peșterile din zonă având și ele o mare 
+valoare  într-una  dintre  ele  într-o  peșteră  din  Cheile  Minișului  fiind  identificate  resturi 
+scheletice care conform datărilor sunt cele mai vechi din Europa.  
+ 
+ 
+ Page number: 20 **************
+. Concluzii 
+Parcul Național Cheile Nerei-Beușnița este un obiectiv turistic o valoare care merită vizitată 
+măcar o dată. Mulți dintre cei care au fost și au văzut aceste  frumuseți naturale rămân 
+impresionați și se întorc cu drag înapoi. Trebuie să învățăm să prețuim aceste locuri pentru ca 
+viitoarele generații să poată avea șansa de a trăi acele sentimente de bucurie pe care le trăim și 
+noi astăzi când ne minunăm de frumusețile naturale de o floră și o faună rară.  
+  
+Nu în ultimul rând trebuie să fim mândri că avem astfel de zone în România și să le facem 
+cunoscute pentru toată lumea.  
+ 
+.  Observații proprii 
+Pe parcursul scrierii lucrării am devenit tot mai fascinată de zona aceasta a Banatului Montan 
+fiind impresionată de frumusețile ei. Cu toate că știam de existența lacurilor și a zonei înainte 
+de a începe să scriu lucrarea unele dintre locuri chiar vizitându-le de multe ori imaginile m-
+au convins că merită să vizitez întregul Parc Național Cheile Nerei-Beușnița măcar o data. 
+Sunt sigură că multe persoane vazând sau auzind de aceste zone rămân impresionate și ele. Și 
+totuși rămâne întrebarea de ce nu sunt așa de vizitate aceste frumuseți ale naturii.  Sunt 
+conștientă că mulți ar spune că drumurile care duc spre acea zonă nu sunt adecvate că dintr-
+un anumit loc nu se mai poate merge cu autoturismul ci turistul trebuie să meargă pe jos pe 
+cărări prin pădure. Dar dacă mă gândesc mai bine acest lucru este pozitiv din mai multe 
+puncte de vedere. În primul rând accesul autoturismelor în zona Cheile Nerei-Beușnița ar 
+duce la degradarea zonei a faunei și a florei. Cum s-ar mai putea conserva aceste specii rare 
+dacă începem să distrugem totul construind drumuri? Părerea mea este că tocmai datorită 
+lipsei căilor de acces cât mai “comode” adică cu autoturismul putem să gasim în România 
+zone atât de spectaculoase cu frumuseți naturale ce trebuiesc ocrotite. Un alt lucru pozitiv 
+care se datorează mersului pe jos în zona Cheile Nerei-Beușnița este faptul că astfel turistul 
+are posibilitatea de a admira natura de a admira tot ceea ce îl înconjoară pe parcursul 
+traseului.  Acest  lucru  contribuie  şi  la  menţinerea  sănătăţii.  Mersul  pe  jos  prin  natură 
+inspirând aerul curat și ascultând ciripitul păsărilor și prin cele mai multe locuri auzind cursul 
+apelor este o trăire spectaculoasă.  
+ 
+Eu recomand cu cea mai mare plăcere vizitarea acestor locuri minunate din România! Eu cel 
+puțin știu unde voi petrece o parte a concediului vara aceasta… 
+ 
+ Page number: 21 **************
+. Bibliografie 
+ 
+. Literatură 
+Denscombe Martyn () Forskningshandboken – för småskaliga forskningsprojekt inom 
+samhällsvetenskaperna. Open University press Buckingham och Philadelphia (ISBN -
+---) Tipărit Holmgrens Malmö 
+ 
+Negrea Ștefan () Cu Emilian Cristea prin Munții Banatului Institutul de Speologie 
+ianuarie  
+ 
+. Internet 
+carpati.org/articol/cascadele_beu  luat de pe 
+<<http//www.carpati.org/articol/cascadele_beu%C%Fni%C%Aei//>> (--) 
+ 
+carpati.org/articol/lacul_dracului/ luat de pe 
+<<http//www.carpati.org/articol/lacul_dracului//>> (--) 
+ 
+cheilenerei-beusnita.ro  luat de le <<http//www.cheilenerei-beusnita.ro/>> (--) 
+ 
+cheilenerei-pensiuneadora.ro luat de pe <<http//www.cheilenerei-
+pensiuneadora.ro/images/harti/harta-parcul-national-cheile-nerei-beusnita.jpg>> (--) 
+ 
+comeinromania.com  luat de pe <<http//www.comeinromania.com/vl--
+cheile_nerei.html>> (--) 
+ 
+dsresitacs.ro  luat de pe <<http//www.dsresitacs.ro/parcuri%nationale.htm>>(--) 
+ 
+greensphera.ro  luat de pe <<http//www.greensphera.ro/banatturism/turismmontan.html>> 
+(--) 
+ 
+iloveromania.ro luat de pe <<http//www.iloveromania.ro/despre.html>> (--) 
+ 
+ 
+ Page number: 22 **************
+infocheilenerei.ro/Istorie-locala/ luat de pe <<http//www.infocheilenerei.ro/Istorie-
+locala/istorie-si-cultura.html>> (--) 
+ 
+infocheilenerei.ro/Localizare/ luat de pe 
+<<http//www.infocheilenerei.ro/Localizare/istoric.html>> (--) 
+ 
+infocheilenerei.ro/Localizare/arii-protejate  luat de pe 
+<<http//www.infocheilenerei.ro/Localizare/arii-protejate.html>> (--) 
+ 
+infocheilenerei.ro/Istorie-locala/legende luat de pe <<http//www.infocheilenerei.ro/Istorie-
+locala/legende-i-tradiii.html>> (--) 
+ 
+meleaguri.ro luat de pe <<http//www.meleaguri.ro////ochiul-beiului-un-lac-din-
+povesti/>> (--) 
+ 
+nera.exploratorii.ro/ecoturism  luat  de  pe  <<http//nera.exploratorii.ro/ecoturism.php>> 
+(--) 
+ 
+nera.exploratorii.ro/reguli luat de pe <<http//nera.exploratorii.ro/reguli.php>> (--) 
+ 
+travel.descopera.ro luat de pe <<http//travel.descopera.ro/-Cheile-Nerei-a-un-colt-
+de-paradis-romanesc-FOTO>> (--) 
+ 
+travelworld.ro  luat de pe <<http//www.travelworld.ro/atractii_romanesti/occidentali.php>> 
+(--) 
+ 
+turism.cjcs.ro  luat de pe <<http//turism.cjcs.ro/ro/>> (--) 
+ 
+turismland.ro  luat de pe <<http//www.turismland.ro/lacul-ochiul-beiului-cheile-nerei/>> 
+(--) 
+ 
+turistik.ro luat de pe <<http//www.turistik.ro/romania/cheile-nerei>> (--) 
+ 
+ 
+ Page number: 23 **************
+universulpadurii.ro luat de pe 
+<<http//www.universulpadurii.ro/index.php?name=News&file=article&sid=&theme=Pr
+inter>> (--) 
+ 
+webdex.ro/taxoni luat de pe< <http//www.webdex.ro/online/dictionar/taxoni>>(--) 
+ 
+webdex.ro/endemism luat de pe <<http//www.webdex.ro/online/dictionar/endemism>> 
+(--)    
+ 
+webdex.ro/cavernicola luat de pe <<http//www.webdex.ro/online/dictionar/endemism>> 
+(--) 
+ 
+ 
+. Interviu 
+Interviu cu Georgeta Popescu Cărbunari  decembrie  
+ 
+ 
+ 
+ Page number: 24 **************
+ANEXA  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sursa cheilenerei-beusnita.ro 
+ 
+ 
+ Page number: 25 **************
+ANEXA  
+ 
+ 
+ 
+Sursa cheilenerei-pensiuneadora.ro 
+ 
+ Page number: 26 **************
+ANEXA  
+ 
+Cheile Nerei – legendă 
+ 
+Se zice că demult de tot când soarele se întâlnea în fiecare zi cu luna iar stelele erau aproape 
+să le culegi cu mâna trăia în pădurile de pe aici un mândru şi falnic fecior puternic ca 
+bradul. Vânător iscusit cum altul nu era el săgeta uliul din zbor şi ciuta din fugă. Într-o bună 
+zi aflat la vânătoare chiar în inima pădurii întâlni o minunăţie de fată cum nu mai văzuse şi 
+mult se minună feciorul de îndrăzneala fetei de-a bate inima padurii pe acolo pe unde fiarele 
+sălbatice erau la ele acasă dar mai mult şi mai mult s-a speriat când în zilele celelalte 
+întâlnind-o simţi cum inima-i bate să-i iasă din piept. Şi-aşa nu după mult timp numai 
+pădurea fu martora iubirii lor curate căci pasămite şi copila îl indrăgise din prima clipă. Tatăl 
+fetei stăpânul acestor locuri băgând de seamă că mai tot timpul copila şi-l petrecea în 
+mijlocul pădurii puse iscoade s-o urmărească şi când află de dragostea dintre pădurar şi fată 
+mâniat la culme trimise potera să-l aducă în lanţuri pe flăcău că vezi bine singura-i copilă 
+era peţită de boieri sosiţi cu alai să-i ceara mâna iar fata îi refuzase îndrăgind un simplu 
+flăcău fără stare. Hain la suflet credea că odată întemniţat copila va uita iubirea-i curată şi-şi 
+va alege de mire un boier de neam din cei ce-i tot dădeau târcoale. Nici rugăminţile nici 
+plânsetul fetei nu-l înduplecară ba mai rău îl aruncă pe flăcău într-o grotă din inima muntelui 
+şi puse să i se zidească intrarea. Şi-n seara nunţii când o pală de vânt aduse dinspre munte 
+chemarea tânguitoare a flăcăului ferecat cu lacrimi şi jale copila se ruga la zâna cea bună s-o 
+ajute.  La  rugăminţile-i  fierbinţi  văzând  cât  de  mare-i  era  dragostea  zâna  cea  buna  o 
+transformă într-o şuviţă de apă cristalină pentru a se putea strecura din piatră în piatră spre 
+inima muntelui şi fata a început să-şi caute iubitul şi-n ajutor să-i vină sfredelind temniţa de 
+piatră. Trecură ani şi ani şi Nerganiţa cu dragostea-i nestinsă străpunse muntele câtu-i de 
+mare pătrunse în cele mai tainice unghere şi-n cele mai ascunse cotloane până când în faţă 
+nu-i  mai  rămase  decât  câmpia  largă.  Şi  înțelegând  că  drum  de  înapoiere  nu-i  lăsă  să-i 
+rătăcească unda în câmpie purtându-i povestea de iubire iar mărturie peste timpuri rămaseră 
+cheile ce spintecă muntele grotele ce împânzesc peretele lacurile cristaline adunate din 
+lacrimile vărsate. 
+                                                 
+ infocheilenerei.ro/Istorie-locala/legende 
+ 
+ Page number: 27 **************
+ANEXA  
+ 
+Lacul Dracului – legendă 
+ 
+Legenda spune că în el s-ar fi aruncat chiar diavolul după ce a pierdut un rămăşag cu un 
+moşneag isteţ care-şi păştea caprele în apropierea apei. Se spune că un păstor işi păştea 
+caprele pe pajiştea de lângă Lacul Dracului iar la un moment dat apare un omuleţ mic dracul 
+care îl provoacă pe păstor să-i frigă un peşte fără să se îndoaie. Păstorul acceptă cu condiţia 
+ca dracul să-i frigă un cap de ţap fără să rânjească. El acceptă aşadar păstorul ia peştele 
+înfige un băţ în el şi îl frige fără să se îndoaie. Dracul ia şi el un cap de ţap îl leagă dar când 
+îl pune la prăjit botul ţapului işi arată dinţii. De ciudă dracul s-a aruncat în lac.  
+Localnicii susţin că legenda mai spune că lacul nu are fund că el are multe tunele subterane. 
+Mai mult se zice că mulți dintre cei care se avântă să facă baie în apele albastre-verzi nu se 
+mai întorc niciodată. 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                 
+ infocheilenerei.ro/Istorie-locala/legende 
+ 
+ Page number: 28 **************
+ANEXA  
+ 
+Lacul Ochiul Beiului – Cascada Beușniței - legendă 
+ 
+ 
+Legenda lacului spune că aceste locuri au fost stăpânite de un pașă hain. Acesta avea un fiu de 
+o rară frumusețe. Se zice că avea ochii albaștri și expresivi încât dacă te uitai în ei pur și 
+simplu te pierdeai. Tânărul acesta frumos obișnuia să meargă la vânătoare în aceste păduri. 
+Într-o zi în Poiana Florii se întâlni cu o frumoasă fată de valah care era cu oile la păscut. De 
+îndată ce privirile li s-au întâlnit se îndrăgostiră pe loc unul de celălalt. Pașa tatăl beiului 
+află că fiul său s-a îndrăgostit de o fată de valah și imediat trimite slugile să o omoare. Slugile 
+se duc și o omoară pe iubita tânărului. Când tânărul bei o găsește pe fată fără suflare varsă 
+lacrimi amare dupa ea însă degeaba. Atunci tânărul realizează că nu mai poate să-și aducă la 
+viață iubita și își pune capăt zilelor. Iar din lacrimile și jertfa lui luă ființă lacul albastru și 
+cristalin precum ochii și sufletul lui. 
+ 
+Din deal de pe marginea lacului vin apele cascadei Beușnița. Legenda spune că de fapt apele 
+spumoase ale cascadei nu sunt altceva decât voalul de mireasă al fetei ce venea cu oile la 
+păscut care a plecat să se întâlnească în nemurire cu lacrimile beiului. Cele două cursuri de 
+apă se unesc după câțiva metri și pornesc parcă „bucuroase” la vale.  
+ 
+ 
+                                                 
+ turismland.ro 
+ universulpadurii.ro 
+ 
+ 
+ Page number: 29 **************
+ANEXA  
+ 
+Cheile Nerei 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Foto George Oprea Boaba Popescu și Adrian 
+Nicolae   
+ 
+     
+Sursa http//travel.descopera.ro/-Cheile-
+Nerei-a-un-colt-de-paradis-romanesc-FOTO 
+ 
+ 
+ 
+ Page number: 30 **************
+ANEXA  
+ 
+Lacul Dracului 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Foto George Oprea Boaba Popescu 
+și Adrian Nicolae   
+ 
+     
+Sursa 
+http//travel.descopera.ro/-
+Cheile-Nerei-a-un-colt-de-paradis-
+romanesc-FOTO 
+ 
+ Page number: 31 **************
+ANEXA  
+ 
+Lacul Ochiul Beiului 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Foto George Oprea Boaba 
+Popescu și Adrian Nicolae   
+ 
+     
+Sursa 
+http//travel.descopera.ro/-
+Cheile-Nerei-a-un-colt-de-paradis-
+romanesc-FOTO 
+ 
+ 
+ 
+ Page number: 32 **************
+ANEXA  
+ 
+Cascadele Beușniței 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Foto Adrian Mateșoane  
+ 
+ Page number: 33 **************
+ANEXA  
+ 
+Întrebări pentru interviul cu Georgeta Popescu  decembrie  Cărbunari 
+.  Cum vă numiți? 
+.  De cât timp ați ales să vă cumpărați o casă de vacantă în localitatea Cărbunari? 
+.  Care au fost motivele care v-au determinat să vă mutați tocmai aici? 
+.  Cum vi se pare zona? 
+.  Ce v-a impresionat cel mai mult aici? 
+.  Ați vizitat zona Cheile Nerei-Beușnița? 
+.  Ce anume v-a plăcut? Ce nu v-a plăcut? 
+.  Ați mai vizita zona încă o dată? 
+.  Sunteți mulțumită de alegerea făcută? 
+. Doriți să mai adăugați ceva? 
+ 
+ 
+Mulțumesc pentru timpul acordat cât și pentru interes! 
+  
+ 
+ 
+ 
+ 
+ 
