@@ -272,13 +272,14 @@ if __name__=='__main__':
             
             with open(file_to_tag, 'r') as text_file:
                 for line in text_file:
+                    print('.', end='')
+                    sys.stdout.flush()
                     doc = nlp(line)
                     doc_dict = doc.to_dict()
                     
                     sent_index = 0
                     nr_entries = 0
                     for sent in doc.sentences:
-                        print('.', end='')
                         word_index = 0
                         for word in sent.words:
                             upos = word.upos
@@ -298,7 +299,8 @@ if __name__=='__main__':
                             else:
                                 """
                                 Assume that the list of found words only holds
-                                one hit
+                                one hit. Update the counter for the word in the
+                                xml-file
                                 """
                                 for child in element[0]:
                                     if child.tag == 'counter':
@@ -321,69 +323,88 @@ if __name__=='__main__':
             """
             file_name = re.split(r'[\/]', source_file)[-1]
             found_files = this_language.find_file_in_tree(file_name)
-            # found_files = this_language.find_file_in_tree(source_file)
             if found_files == []:
                 file_in_use = False
                 
             else:
                 file_in_use = (input('File in use. Use anyway Y/n: ') != 'Y')
         try:
-            if file_name.lower().endswith('.pdf'):
-                print('Analyzing pdf-file: ', file_name)            
-                pdf_file = pdfplumber.open(source_file)
-                totalpages = len(pdf_file.pages)
-                print("Antal sidor i dokumentet", totalpages)
-                skip_pages = input('Skip pages in the document? Enter comma\
-                                                       separated list or <CR>: ')
-                if skip_pages != '':
-                    skip_list = re.split(r"[,.?!]", skip_pages)
-                    print('skippa sidorna: {}'.format(', '.join(skip_list)))
-                    remove_pages = [(eval(i) -1) for i in skip_list]
-                else: 
-                    remove_pages = []
-                """
-                Create file information to add to the xml-file
-                """
-                print(f'Adding {file_name} to the xml-file')
-                source_file_dict = {'filename': source_file}
-                source_file_dict['No_pdf_pages'] = str(totalpages)
-                this_language.addElement(source_file_dict, header='source_file')
-                # Remove characters that do not belong to words
-                remove_chars = ':,;[]0123456789'
-    
-                with open('datafile.txt', 'w') as text_file:
-                    for i in range(0 ,totalpages):
-                        if i in remove_pages:
-                            continue
-                        pageobj = pdf_file.pages[i]
-                        page_text = pageobj.extract_text()
-                        """
-                        Page-by-page: Replace or delete unwanted characters and 
-                        numericals and update the text file as a logging function
-                        """
-                        page_text = page_text.replace('(cid:239)', 'i')
-                        page_text = page_text.replace('(cid:21)', 'i')
-                        page_text = page_text.translate({ord(i): None for i in 
-                                                                 remove_chars})
-                        # page_text = page_text.replace({ord(i): None for i in remove_chars})            
-                        text_file.write(f'Page number: {i + 1} **************\r\n')
-                        text_file.write(page_text)
-                        print(f'Page nr: {i + 1}\r\n')
-                text_file.close()
-                pdf_file.close()
-                tag_text_file('datafile.txt')
-                    
-            elif file_name.lower().endswith('.txt'):
-                print('Analyzing text-file', file_name)
-                print(f'Adding {file_name} to the xml-file')
-                source_file_dict = {'filename': source_file}
-                source_file_dict['No_pdf_pages'] = str(totalpages)
-                this_language.addElement(source_file_dict, header='source_file')
-                tag_text_file(source_file)
-            else:
-                print('The file does not have an accepted format/extension.')
+            if not file_name.lower().endswith('.pdf') and not \
+                                            file_name.lower().endswith('.txt'):
+                print('Unsupported file! File extension is not .pdf och .txt')
                 print('Please check and try again')
-
+            else:
+                if file_name.lower().endswith('.pdf'):
+                    print('Analyzing pdf-file: ', file_name)            
+                    pdf_file = pdfplumber.open(source_file)
+                    totalpages = len(pdf_file.pages)
+                    print("Antal sidor i dokumentet", totalpages)
+                    print('Skip ill formatted pages in the document?')
+                    skip_pages = input('Enter comma separated list or <CR>: ')
+                    if skip_pages != '':
+                        skip_list = re.split(r"[,.?!]", skip_pages)
+                        print('skippa sidorna: {}'.format(', '.join(skip_list)))
+                        remove_pages = [(eval(i) -1) for i in skip_list]
+                    else: 
+                        remove_pages = []
+                    """
+                    Create file information to add to the xml-file
+                    """
+                    print(f'Adding {file_name} to the xml-file')
+                    source_file_dict = {'filename': source_file}
+                    source_file_dict['No_pdf_pages'] = str(totalpages)
+                    this_language.addElement(source_file_dict, header='source_file')
+                    # Remove characters that do not belong to words
+                    remove_chars = ':,;[]0123456789'
+        
+                    with open('datafile.txt', 'w') as text_file:
+                        for i in range(0 ,totalpages):
+                            if i in remove_pages:
+                                continue
+                            pageobj = pdf_file.pages[i]
+                            page_text = pageobj.extract_text()
+                            """
+                            Page-by-page: Replace or delete unwanted characters and 
+                            numericals and update the text file as a logging function
+                            """
+                            page_text = page_text.replace('(cid:239)', 'i')
+                            page_text = page_text.replace('(cid:21)', 'i')
+                            page_text = page_text.translate({ord(i): None for i in 
+                                                                     remove_chars})
+                            # page_text = page_text.replace({ord(i): None for i in remove_chars})            
+                            text_file.write(f'Page number: {i + 1} **************\r\n')
+                            text_file.write(page_text)
+                            print(f'Page nr: {i + 1}\r\n')
+                    text_file.close()
+                    pdf_file.close()
+                    tag_text_file('datafile.txt')
+                    
+                else: 
+                    """
+                    Analyze a .txt file instead of a pdf-file. Assume that it
+                    is properly formatted to suit stanza nlp tool kit
+                    """
+                    print('Analyzing text-file', file_name)
+                    print(f'Adding {file_name} to the xml-file')
+                    source_file_dict = {'filename': source_file}
+                    # source_file_dict['No_pdf_pages'] = str(totalpages)
+                    this_language.addElement(source_file_dict, header='source_file')
+                    tag_text_file(source_file)
+                """
+                Summarize the analysis and print the N most frequent entries
+                """
+                Nr_entries = 20
+                print('Antal entries: {}'.format(romanian.number_entries()))
+                print('The {} most frequent entries:'.format(Nr_entries))
+                elements = romanian.get_sorted_data()
+                for i in range (0, Nr_entries):
+                    word = elements[i]
+                    counter = int(word.find('counter').text)
+                    name = word.find('lemma').text
+                    print('{}: {}'.format(name, counter))
+                print(f'Updating XML data file {this_language.data_file}')
+                this_language.xml_tree2file()
+            
         except:
             print('Felaktigt filnamn eller filen saknas')
         return(this_language)
@@ -671,9 +692,9 @@ if __name__=='__main__':
     funtions to call. The pointer to the functions are retrieved 
     with options.get(...) function call
     """
-    options = {"a": ['Analyze pdf file', Analyze_pdf_file],
+    options = {"a": ['Analyse pdf- or text file', Analyze_file],
                "t": ['Analyze text file', Analyze_text_file],
-               "e": ['Extract pdf file to txt', Analyze_file],
+               "e": ['Analyze pdf file', Analyze_pdf_file],
                "s": ['Analyze single sentence', Analyze_sentence],
                "f": ['List files', List_files],
                "c": ['Change language', Change_language],
@@ -689,6 +710,7 @@ if __name__=='__main__':
         print('\r\nAktuellt språk är: ', current_language.language)
         print('Antal ord i ordlistan är: {}'.format(
                             current_language.size_ofDictionary()))
+        print('Corpus size: {}'.format(current_language.number_entries()))
         print('Huvudmeny - här väljer man mellan...')
         for key in options:
             print(key + ': ' + options[key][0])
