@@ -22,6 +22,7 @@ import time
        
 
 class Wictionary(object):
+# class Wictionary(XML_Wictionary):
     """
     There will be one wictionary (word-dictionary) for each language. Each
     wictionary will need its own csv-file that is handled by 'pandas'
@@ -34,11 +35,15 @@ class Wictionary(object):
         self.debug = Debug
         self.data_file = './' + self.language + '/Wictionary.xml'
         # self.info_file = './' + self.language + '/Best_art_info.txt'
-        self.translator = User_translate(self.language)
+        # super.__init__(self.language, self.debug)
         self.xml_functions = XML_Wictionary(self.language)
+        self.translator = User_translate(self.language)        
         self.freq_analysis = XML_statistics(self.language, Debug=False)
         self.sorted_freq_data = self.freq_analysis.get_sorted_data()
         self.articles = self.xml_functions.find_gender_xref()
+        # self.articles = self.find_gender_xref()
+        # self.verb_list_items = self.find_verb_list_items(). \
+                                                # get('list_items', '').split()
         self.verb_list_items = self.xml_functions.find_verb_list_items(). \
                                                 get('list_items', '').split()
                                                 
