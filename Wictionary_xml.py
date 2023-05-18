@@ -749,7 +749,7 @@ if __name__=='__main__':
         for key in options:
             print(key + ': ' + options[key][0])
             
-        Next_option=input('Val: ')
+        Next_option = input('Val: ')
         
         if Next_option == "q":
             """

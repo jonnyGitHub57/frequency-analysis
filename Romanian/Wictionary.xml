@@ -5435,4 +5435,157 @@
 		<counter>1</counter>
 		<index>2023-03-15 07:18:59.008639</index>
 	</word>
+	<word>
+		<lemma>pentru că</lemma>
+		<tag>SCONJ</tag>
+		<swedish>eftersom, pă grund av</swedish>
+		<english>because</english>
+		<explanation />
+		<example_use />
+		<synonym>fiindcă, deoarece, întrucât, cum</synonym>
+		<opposite />
+		<counter>1</counter>
+		<index>2023-03-20 05:15:41.212034</index>
+	</word>
+	<word>
+		<lemma>fiindcă</lemma>
+		<tag>SCONJ</tag>
+		<swedish>eftersom, på grund av, för att</swedish>
+		<english>because</english>
+		<explanation />
+		<example_use />
+		<synonym>petru că, deoarece, întrucât, cum</synonym>
+		<opposite />
+		<counter>1</counter>
+		<index>2023-03-20 05:17:46.125588</index>
+	</word>
+	<word>
+		<lemma>deoarece</lemma>
+		<tag>SCONJ</tag>
+		<swedish>för att, på grund av, eftersom</swedish>
+		<english>because</english>
+		<explanation />
+		<example_use />
+		<synonym>petru că, fiindcă, întrucât, cum</synonym>
+		<opposite />
+		<counter>1</counter>
+		<index>2023-03-20 05:23:36.000269</index>
+	</word>
+	<word>
+		<lemma>virgulă</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<definite>virgula</definite>
+		<swedish>komma (kommatecken)</swedish>
+		<english>comma, decimal point</english>
+		<explanation />
+		<example_use />
+		<plural />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-03-26 06:23:40.576834</index>
+	</word>
+	<word>
+		<lemma>procent</lemma>
+		<tag>NOUN</tag>
+		<gender>n</gender>
+		<definite />
+		<swedish>procent, procentsats</swedish>
+		<english />
+		<explanation />
+		<example_use />
+		<plural />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-03-26 06:26:02.433978</index>
+	</word>
+	<word>
+		<tag>VERB</tag>
+		<lemma>părea</lemma>
+		<sing_1>par</sing_1>
+		<sing_2>pari</sing_2>
+		<sing_3>pare</sing_3>
+		<plur_1>părem</plur_1>
+		<plur_2>păreți</plur_2>
+		<plur_3>par</plur_3>
+		<pret_sing />
+		<pret_plur />
+		<perfekt />
+		<supp_verb />
+		<cathegory />
+		<swedish>verka, förefalla, tyckas</swedish>
+		<english>seem, appear</english>
+		<explanation />
+		<example_use />
+		<index>2023-04-01 17:39:19.001316</index>
+		<synonym />
+		<opposite />
+		<spare />
+		<counter>1</counter>
+	</word>
+	<word>
+		<tag>VERB</tag>
+		<lemma>folosi</lemma>
+		<sing_1>folosesc</sing_1>
+		<sing_2>folosești</sing_2>
+		<sing_3>folosește</sing_3>
+		<plur_1>folosim</plur_1>
+		<plur_2>folosiți</plur_2>
+		<plur_3>folosesc</plur_3>
+		<pret_sing />
+		<pret_plur />
+		<perfekt />
+		<supp_verb />
+		<cathegory />
+		<swedish>använda</swedish>
+		<english>use</english>
+		<explanation />
+		<example_use>a folosi literele</example_use>
+		<index>2023-05-18 06:20:00.469868</index>
+		<synonym>utiliza</synonym>
+		<opposite />
+		<spare />
+		<counter>1</counter>
+	</word>
+	<word>
+		<tag>VERB</tag>
+		<lemma>utiliza</lemma>
+		<sing_1>utilizez</sing_1>
+		<sing_2>utilizezi</sing_2>
+		<sing_3>utilizează</sing_3>
+		<plur_1>utilizăm</plur_1>
+		<plur_2>utilizați</plur_2>
+		<plur_3>utilizează</plur_3>
+		<pret_sing />
+		<pret_plur />
+		<perfekt />
+		<supp_verb />
+		<cathegory />
+		<swedish>använda</swedish>
+		<english>use, utilize</english>
+		<explanation />
+		<example_use>Limba română utilizează alfabetul latin</example_use>
+		<index>2023-05-18 06:25:05.059214</index>
+		<synonym>folosi</synonym>
+		<opposite />
+		<spare />
+		<counter>1</counter>
+	</word>
+	<word>
+		<lemma>grup</lemma>
+		<tag>NOUN</tag>
+		<gender>m</gender>
+		<definite>grupul</definite>
+		<swedish>grupp</swedish>
+		<english>group</english>
+		<explanation />
+		<example_use>Grupul este mai mare.</example_use>
+		<plural />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-05-18 06:32:35.343299</index>
+	</word>
 </dictionary>
