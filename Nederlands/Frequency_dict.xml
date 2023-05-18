@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <dictionary>
+	<stanza_lang_code>
+		<code>nl</code>
+	</stanza_lang_code>
 	<verb_listing>
 		<list_items>sing_1 sing_2 sing_3 plur_1 plur_2 plur_3</list_items>
 	</verb_listing>

@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <dictionary>
+	<stanza_lang_code>
+		<code>nl</code>
+	</stanza_lang_code>
 	<statistics>
 		<total_number>0</total_number>
 	</statistics>
