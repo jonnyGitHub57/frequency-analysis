@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <dictionary>
+	<stanza_lang_code>
+		<code>nl</code>
+	</stanza_lang_code>
 	<verb_listing>
 		<list_items>pret_sing pret_plur supp_verb perfekt </list_items>
 	</verb_listing>
