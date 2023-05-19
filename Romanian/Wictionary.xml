@@ -5579,7 +5579,7 @@
 	<word>
 		<lemma>grup</lemma>
 		<tag>NOUN</tag>
-		<gender>m</gender>
+		<gender>n</gender>
 		<definite>grupul</definite>
 		<swedish>grupp</swedish>
 		<english>group</english>
@@ -5590,5 +5590,101 @@
 		<opposite />
 		<counter>1</counter>
 		<index>2023-05-18 06:32:35.343299</index>
+	</word>
+	<word>
+		<lemma>societate</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<definite>societatea</definite>
+		<swedish>samhälle</swedish>
+		<english>society</english>
+		<explanation />
+		<example_use />
+		<plural />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-05-18 16:55:18.436707</index>
+	</word>
+	<word>
+		<lemma>comunitate</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<definite>comunitatea</definite>
+		<swedish>kommun</swedish>
+		<english>community</english>
+		<explanation />
+		<example_use />
+		<plural />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-05-18 16:57:01.034169</index>
+	</word>
+	<word>
+		<lemma>individ</lemma>
+		<tag>NOUN</tag>
+		<gender>m</gender>
+		<definite>individul</definite>
+		<swedish>individ</swedish>
+		<english>individual</english>
+		<explanation />
+		<example_use />
+		<plural />
+		<synonym>persoană</synonym>
+		<opposite />
+		<counter>1</counter>
+		<index>2023-05-18 17:01:07.684226</index>
+	</word>
+	<word>
+		<lemma>persoană</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<definite>persoana</definite>
+		<swedish>person, individ</swedish>
+		<english>person, individual</english>
+		<explanation />
+		<example_use />
+		<plural />
+		<synonym>individ</synonym>
+		<opposite />
+		<counter>1</counter>
+		<index>2023-05-18 17:02:03.734938</index>
+	</word>
+	<word>
+		<lemma>nimeni</lemma>
+		<tag>PRON</tag>
+		<swedish>ingen</swedish>
+		<english>nobody</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-05-18 17:05:23.789227</index>
+	</word>
+	<word>
+		<tag>VERB</tag>
+		<lemma>aduna</lemma>
+		<sing_1>adun</sing_1>
+		<sing_2>aduni</sing_2>
+		<sing_3>adună</sing_3>
+		<plur_1>adunăm</plur_1>
+		<plur_2>adunați</plur_2>
+		<plur_3>adună</plur_3>
+		<pret_sing />
+		<pret_plur />
+		<perfekt />
+		<supp_verb />
+		<cathegory />
+		<swedish>samla (ihop)</swedish>
+		<english>collect, gather</english>
+		<explanation />
+		<example_use />
+		<index>2023-05-18 17:20:56.038302</index>
+		<synonym />
+		<opposite />
+		<spare />
+		<counter>1</counter>
 	</word>
 </dictionary>
