@@ -5687,4 +5687,92 @@
 		<spare />
 		<counter>1</counter>
 	</word>
+	<word>
+		<lemma>diabet</lemma>
+		<tag>NOUN</tag>
+		<gender>n</gender>
+		<definite />
+		<swedish>diabetes</swedish>
+		<english>diabetes</english>
+		<explanation />
+		<example_use />
+		<plural />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-05-19 19:55:59.521220</index>
+	</word>
+	<word>
+		<lemma>urmă</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<definite>urma</definite>
+		<swedish>spspår, stig</swedish>
+		<english>trace, trail</english>
+		<explanation />
+		<example_use />
+		<plural />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-05-21 07:01:07.176313</index>
+	</word>
+	<word>
+		<lemma>în urma</lemma>
+		<tag>ADP</tag>
+		<swedish>bakom, i någons spår</swedish>
+		<english>behind</english>
+		<explanation />
+		<example_use>Eu alerg în urma ta.</example_use>
+		<synonym>din spatele</synonym>
+		<opposite />
+		<counter>1</counter>
+		<index>2023-05-21 07:04:46.868166</index>
+	</word>
+	<word>
+		<lemma>slujbă</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<definite>slujba</definite>
+		<swedish>jobb, anställning</swedish>
+		<english>job, work</english>
+		<explanation />
+		<example_use>Grație ție, eu am o slujbă.</example_use>
+		<plural />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-05-21 07:09:21.877787</index>
+	</word>
+	<word>
+		<tag>ADJ</tag>
+		<lemma>instabil</lemma>
+		<komparativ>mai instabil</komparativ>
+		<superlativ />
+		<cathegory />
+		<swedish>instabil, ostadig</swedish>
+		<english>unstable</english>
+		<explanation />
+		<example_use />
+		<index>2023-05-21 07:33:19.443417</index>
+		<synonym />
+		<opposite />
+		<spare />
+		<counter>1</counter>
+	</word>
+	<word>
+		<lemma>deget</lemma>
+		<tag>NOUN</tag>
+		<gender>n</gender>
+		<definite />
+		<swedish>finger</swedish>
+		<english>finger</english>
+		<explanation />
+		<example_use />
+		<plural />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-05-21 07:49:08.820626</index>
+	</word>
 </dictionary>

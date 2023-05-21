@@ -21,8 +21,7 @@ import subprocess
 import time
        
 
-class Wictionary(object):
-# class Wictionary(XML_Wictionary):
+class Wictionary(XML_Wictionary):
     """
     There will be one wictionary (word-dictionary) for each language. Each
     wictionary will need its own csv-file that is handled by 'pandas'
@@ -33,28 +32,26 @@ class Wictionary(object):
                                                         .get(language, 'nl')
         self.postfix_noun = Postfix_noun
         self.debug = Debug
-        self.data_file = './' + self.language + '/Wictionary.xml'
+        # self.data_file = './' + self.language + '/Wictionary.xml'
         # self.info_file = './' + self.language + '/Best_art_info.txt'
-        # super.__init__(self.language, self.debug)
-        self.xml_functions = XML_Wictionary(self.language)
+        super().__init__(self.language, self.debug)
+        # self.xml_functions = XML_Wictionary(self.language)
         self.translator = User_translate(self.language)        
         self.freq_analysis = XML_statistics(self.language, Debug=False)
         self.sorted_freq_data = self.freq_analysis.get_sorted_data()
-        self.articles = self.xml_functions.find_gender_xref()
-        # self.articles = self.find_gender_xref()
-        # self.verb_list_items = self.find_verb_list_items(). \
-                                                # get('list_items', '').split()
-        self.verb_list_items = self.xml_functions.find_verb_list_items(). \
+        # self.articles = self.xml_functions.find_gender_xref()
+        self.articles = self.find_gender_xref()
+        self.verb_list_items = self.find_verb_list_items(). \
                                                 get('list_items', '').split()
+        # self.verb_list_items = self.xml_functions.find_verb_list_items(). \
+        #                                         get('list_items', '').split()
                                                 
     def Word_lookup(self, lemma, upos):
         """
         Parameters
         ----------
         lemma : string
-        upos : string
-        
-        
+        upos : string                
 
         Returns
         -------
@@ -62,11 +59,10 @@ class Wictionary(object):
         self.elements2dictionary(elements))[0]
         """
         
-        found_elements = self.xml_functions.find_lemma(lemma, tag=upos)
+        found_elements = self.find_lemma(lemma, tag=upos)
         formatted_word = {}
         if found_elements != []:
-            formatted_word = \
-                    (self.xml_functions.elements2dictionary(found_elements))[0]
+            formatted_word = (self.elements2dictionary(found_elements))[0]
         else:
             """
             The word was not found in the xml dictionary. Use Google Translate 
@@ -99,7 +95,7 @@ if __name__=='__main__':
     current_language = Language_list[1] # Default language
     
     for supported in Language_list:
-        size = supported.xml_functions.size_ofDictionary()
+        size = supported.size_ofDictionary()
         print(f'{supported.language} är inlagt med {repr(size)} st entries')
 
     def Change_language(this_language):
@@ -132,7 +128,7 @@ if __name__=='__main__':
         """
         #found_words = []
         word_to_search = input('Sökord: ')
-        found_elements = this_language.xml_functions.find_word(word_to_search)
+        found_elements = this_language.find_word(word_to_search)
         if found_elements == []:
             print('Sökordet verkar inte finns i ordlistan')
             add_word = input('Vill du lägga till ordet i ordlistan Y/n:')
@@ -176,8 +172,8 @@ if __name__=='__main__':
                     get_update = input(f'{child.tag} {child_text}: ')
                     child.text = get_update if get_update != '' else child_text
         
-        print("Writing data to: ", this_language.xml_functions.data_file)
-        this_language.xml_functions.xml_tree2file()
+        print("Writing data to: ", this_language.data_file)
+        this_language.xml_tree2file()
           
         return(this_language)
         
@@ -186,7 +182,7 @@ if __name__=='__main__':
         """
         found_words = []
         word_to_search = input('Sökord: ')
-        found_words = this_language.xml_functions.searchWord(word_to_search)
+        found_words = this_language.searchWord(word_to_search)
         if found_words == []:
             print('Sökordet verkar inte finns i ordlistan')
             add_word = input('Vill du lägga till ordet i ordlistan Y/n:')
@@ -240,7 +236,7 @@ if __name__=='__main__':
                     counter = int(word.find('counter').text)
                     lemma = word.find('lemma').text
                     count += 1
-                    if this_language.xml_functions.find_lemma(lemma, upos_tag) != []:
+                    if this_language.find_lemma(lemma, upos_tag) != []:
                         pass
                     else:
                         print(f'({upos_tag.lower()}) {lemma}: {counter}')
@@ -250,7 +246,7 @@ if __name__=='__main__':
             print('The word to add: {}'.format(word_to_add))
             input_word = word_to_add
         template_list = []
-        template_list = this_language.xml_functions.find_template('*')
+        template_list = this_language.find_template('*')
         
         """
         Present a list of the word classes (tags)to allow the user 
@@ -275,7 +271,7 @@ if __name__=='__main__':
         more than on template when a POS tagger is used to suggest a tag. 
         Initaially, only the first template in the list will be used 
         """
-        templates = this_language.xml_functions.find_template(input_tag)
+        templates = this_language.find_template(input_tag)
         new_word = templates[0]
         
         for item in new_word:
@@ -300,10 +296,10 @@ if __name__=='__main__':
 
         for item in new_word:
             print(item + ': ' + new_word[item])
-        this_language.xml_functions.addElement(new_word)
+        this_language.addElement(new_word)
         
-        print("Writing data to: ", this_language.xml_functions.data_file)
-        this_language.xml_functions.xml_tree2file()
+        print("Writing data to: ", this_language.data_file)
+        this_language.xml_tree2file()
         
         return(this_language)
         
@@ -314,7 +310,7 @@ if __name__=='__main__':
         
         """
         template_list = []
-        template_list = this_language.xml_functions.find_template('*')
+        template_list = this_language.find_template('*')
         
         """
         Present a list of the word classes to allow the user to select the
@@ -340,7 +336,7 @@ if __name__=='__main__':
         Initaially, only the first template in the list will be used 
         """
         found_words = []
-        found_words = this_language.xml_functions.find_tag(input_tag)
+        found_words = this_language.find_tag(input_tag)
         print('Antal ord i list: ', len(found_words))
         
         # print(found_words[0])
@@ -374,7 +370,7 @@ if __name__=='__main__':
         for the test or a mix from all classes.
         """
         template_list = []
-        template_list = this_language.xml_functions.find_template('*')
+        template_list = this_language.find_template('*')
         
         """
         Present a list of the word classes to allow the user to select the
@@ -383,7 +379,7 @@ if __name__=='__main__':
         i = 0
         for template in template_list:
             i +=1
-            print('{}: {} {}'.format(i, template['tag'], template['explanation']))            
+            print(f'{i}: {template["tag"]} {template["explanation"]}')            
                
         print('Select tag (ordklass) 1..N or press <enter> if you')
         select = input('want to use the whole dictionary: ')        
@@ -395,8 +391,7 @@ if __name__=='__main__':
             input_tag = '*'
             
         nr_words_to_test = int(input('Hur mångs ord vill du testa?: '))
-        test_words = this_language.xml_functions.find_random_words(nr_words_to_test,
-                                                                   input_tag)
+        test_words = this_language.find_random_words(nr_words_to_test, input_tag)
         incorrect_answers = []
         """
         If the selected tag is 'VERB', the test will be more extensive with the
@@ -543,7 +538,8 @@ if __name__=='__main__':
         """
         new = 2
         
-        file_dictionary = this_language.xml_functions.find_info_files()
+        # file_dictionary = this_language.xml_functions.find_info_files()
+        file_dictionary = this_language.find_info_files()
         key_list = []
         key_number = 0
         print('There are a number of files available with grammar information')
@@ -748,8 +744,9 @@ if __name__=='__main__':
         Present a menu of items
         """
         print('\r\nAktuellt språk är: ', current_language.language)
-        print('Antal ord i ordlistan är: {}'.format(
-                            current_language.xml_functions.size_ofDictionary()))
+        # print('Antal ord i ordlistan är: {}'.format(
+        #                     current_language.xml_functions.size_ofDictionary()))
+        print('Antal ord i ordlistan är: {}'.format(current_language.size_ofDictionary()))
         print('Huvudmeny - här väljer man mellan...')
         for key in options:
             print(key + ': ' + options[key][0])
@@ -761,8 +758,10 @@ if __name__=='__main__':
             Flush the xml tree to the xml dictionary file
             """
             for language in Language_list:
-                print("Writing data to: ", language.xml_functions.data_file)
-                language.xml_functions.xml_tree2file()
+                # print("Writing data to: ", language.xml_functions.data_file)
+                # language.xml_functions.xml_tree2file()
+                print("Writing data to: ", language.data_file)
+                language.xml_tree2file()
             break
         try:
             # options.get(Next_option, Do_nothing)[1](current_language)
