@@ -19,34 +19,41 @@ import xml.etree.ElementTree as ET
 
 class XML_Wictionary(object):
     """
+    The class XML_Wictionary handles the xml-files and -trees that keep all 
+    words and links to information files etc. The class is imported by the 
+    class Wictionary and used by the main program to find words in the
+    xml-tree. There can only be one instance of this class per language
     """
-    def __init__(self, language, import_csv=False, Debug=False):
+    def __init__(self, language, Debug=False):
         """
+        Initialize the instance of the class and load the corresponing
+        xml-file into an xml-tree strcuture in memory.        
         """
         self.language = language
         self.debug = Debug
         
         self.data_file = './' + self.language + '/Wictionary.xml'
-        # self.info_file = './' + self.language + '/Best_art_info.txt'
-        self.xml_template = './template.xml'
-        self.xml_output = './' + self.language + '/nl_dictionary2.xml'
-        # self.tree = ET.parse('nl_dictionary.xml')
-        if import_csv == False:
-            self.tree = ET.parse(self.data_file)
-        else:
-            self.tree = ET.parse(self.xml_template)
+        self.tree = ET.parse(self.data_file)
         self.root = self.tree.getroot()
+        self.postfix_noun = self.root.findall('./postfix')[0].find('used').text \
+                                                                        == 'yes'
 
     def xml_tree2file(self):
         """
-        Write the tree to the correct XML-file 
+        Write the tree to the corresponding XML-file. This can be done at
+        any time to avoid that any data is lost in case of sudden or unexpected
+        closing of the main program
         """
-        self.tree.write(self.data_file, encoding="UTF-8", 
-                                                xml_declaration=True)
+        self.tree.write(self.data_file, encoding="UTF-8", xml_declaration=True)
     
     def size_ofDictionary(self):
         """
-        Count all words in the tree
+        
+
+        Returns
+        -------
+        The number of words in the dictionary as an integer
+
         """
         return(len(self.root.findall('./word')))
         
@@ -57,9 +64,17 @@ class XML_Wictionary(object):
         the element is written to the xml file using the method from 
         "https://stackoverflow.com/questions/28813876/how-do-i-get-pythons-
                                     elementtree-to-pretty-print-to-an-xml-file"
-        Parameters:
-            element: a dictionary e.g. {'lemma': 'fiets, 'tag':'NOUN'
-                                                  , 'swedish': 'cykel', ...}
+        This keeps the xml-file in a readable format with correct tabbing etc.
+
+        Parameters
+        ----------
+        element : python dictionary
+            element: {'lemma': 'fiets, 'tag':'NOUN', 'swedish': 'cykel', ...}
+
+        Returns
+        -------
+        None.
+
         """
         addElement = ET.Element("word")             # Make a new 'word' element
         addElement.tail = "\n"                      # Edit the element's tail
@@ -74,16 +89,26 @@ class XML_Wictionary(object):
             else:
                 newData.tail = "\n\t\t"
             newData.text = element[key]
-        self.root[-1].tail = "\n\t" # Edit the previous element's tail, so that our new 
-        self.root.append(addElement) # element is properly aligned/formatted
+        self.root[-1].tail = "\n\t" # Edit the previous element's tail, so that our  
+        self.root.append(addElement) # new element is properly aligned/formatted
         
     
     def elements2dictionary(self, elements):
         """
         elements is a list of elements in the xml tree. Each element is 
         extracted into a dictionary that is returned to the caller
-        Parameter: elements = [element1, element2, ...]
-        Return: element_list = [dictionary1, dictionary2, ...]
+
+
+        Parameters
+        ----------
+        elements : list of elements
+            elements = [element1, element2, ...]
+
+        Returns
+        -------
+        dict_list : list of python dictionaies
+            dict_list = [dictionary1, dictionary2, ...]
+
         """
         dict_list = []
         
@@ -120,6 +145,21 @@ class XML_Wictionary(object):
         elements = self.root.findall('./verb_listing')
         
         return((self.elements2dictionary(elements))[0])
+    
+    def get_postfix(self):
+        """
+        
+
+        Returns
+        -------
+        True if the language uses postfix notation for the nouns such as in
+        Swedish and Romanian languages where the gender is an ending to the 
+        noun rather than ...
+
+        """
+        post_fix = self.root.findall('./postfix')[0].find('used').text == 'yes'
+        print(post_fix)
+        return(post_fix)
     
     def find_info_files(self):
         """
@@ -258,11 +298,25 @@ class XML_Wictionary(object):
         
     def find_tag(self, search_tag):
         """
-        'Find_word' will traverse all <word> elements in the tree to find
-        all possible items with tag =  'search_tag' in the word.
+        'find_tag' traverses all <word> elements in the tree to find
+        all possible items with tag =  'search_tag' in the word. 
         
         Returns a list of (tree) elements
+
+        Parameters
+        ----------
+        search_tag : string
+            All words withe a certain tag (ordklass) will be returned. If
+            search-tag == '*' all words will be returned.
+
+        Returns
+        -------
+        None.
+
         """
+        # def get_lemma(word):
+        #     return(word.find('lemma').text)
+        
         elements = self.root.findall('./word')
         print('Number of words: ', len(elements))
         
@@ -279,6 +333,7 @@ class XML_Wictionary(object):
                             print(child.find('lemma').text)
                             
         print('Number of words found: ', len(found_elements))
+        # found_elements.sort(reverse=False, key=get_lemma)
         
         return(self.elements2dictionary(found_elements))
 

@@ -23,28 +23,23 @@ import time
 
 class Wictionary(XML_Wictionary):
     """
-    There will be one wictionary (word-dictionary) for each language. Each
-    wictionary will need its own csv-file that is handled by 'pandas'
+    The imported class XML_Wictionary gives acces to the word lists and
+    methods for each language. For the frequency analysis list(s), there is
+    an instanciation of the class XML_statistics
+    
     """
-    def __init__(self, language, Debug=False, Postfix_noun=False):
+    def __init__(self, language, Debug=False):
         self.language = language
-        self.language_code = {'Nederlands': 'nl', 'Romanian': 'ro'} \
-                                                        .get(language, 'nl')
-        self.postfix_noun = Postfix_noun
         self.debug = Debug
-        # self.data_file = './' + self.language + '/Wictionary.xml'
-        # self.info_file = './' + self.language + '/Best_art_info.txt'
+
         super().__init__(self.language, self.debug)
-        # self.xml_functions = XML_Wictionary(self.language)
         self.translator = User_translate(self.language)        
         self.freq_analysis = XML_statistics(self.language, Debug=False)
         self.sorted_freq_data = self.freq_analysis.get_sorted_data()
-        # self.articles = self.xml_functions.find_gender_xref()
         self.articles = self.find_gender_xref()
         self.verb_list_items = self.find_verb_list_items(). \
                                                 get('list_items', '').split()
-        # self.verb_list_items = self.xml_functions.find_verb_list_items(). \
-        #                                         get('list_items', '').split()
+
                                                 
     def Word_lookup(self, lemma, upos):
         """
@@ -88,7 +83,7 @@ if __name__=='__main__':
     """
     Language_list = []
     nederlands = Wictionary('Nederlands')
-    romanian = Wictionary('Romanian', Postfix_noun=True)
+    romanian = Wictionary('Romanian')
     Language_list.append(nederlands)
     Language_list.append(romanian)
     
@@ -218,8 +213,23 @@ if __name__=='__main__':
     def Add_word(this_language, word_to_add=''):
         """
         User input function to add words to the dictionary based on tag.
-        It is also possible to chose between tags that are suggested by Stanza.
+        It will also possible to chose between tags that are suggested by Stanza.
         
+        If the function is called with word_to_add == '', the user interface 
+        for selecting a word will be presented, otherwise it will jump directly
+        into selecting TAG.
+
+        Parameters
+        ----------
+        this_language : TYPE
+            Not used in this method - only for consistency.
+        word_to_add : TYPE, optional
+            DESCRIPTION. The default is ''.
+
+        Returns
+        -------
+        this_language: Not modified in this method. It is only passed through.
+
         """
         
         if word_to_add == '':
@@ -335,11 +345,11 @@ if __name__=='__main__':
         more than on template when a POS tagger is used to suggest a tag. 
         Initaially, only the first template in the list will be used 
         """
+        
         found_words = []
         found_words = this_language.find_tag(input_tag)
         print('Antal ord i list: ', len(found_words))
         
-        # print(found_words[0])
         for word in found_words:
             lemma = word.get('lemma')
             swedish = word.get('swedish', '')
@@ -376,10 +386,10 @@ if __name__=='__main__':
         Present a list of the word classes to allow the user to select the
         appropriate class for the new word.
         """
-        i = 0
-        for template in template_list:
+        i = 1
+        for template in template_list:            
+            print(f'{i}: {template["tag"]} {template["explanation"]}')   
             i +=1
-            print(f'{i}: {template["tag"]} {template["explanation"]}')            
                
         print('Select tag (ordklass) 1..N or press <enter> if you')
         select = input('want to use the whole dictionary: ')        
@@ -744,9 +754,7 @@ if __name__=='__main__':
         Present a menu of items
         """
         print('\r\nAktuellt språk är: ', current_language.language)
-        # print('Antal ord i ordlistan är: {}'.format(
-        #                     current_language.xml_functions.size_ofDictionary()))
-        print('Antal ord i ordlistan är: {}'.format(current_language.size_ofDictionary()))
+        print(f'Antal ord i ordlistan är: {current_language.size_ofDictionary()}')
         print('Huvudmeny - här väljer man mellan...')
         for key in options:
             print(key + ': ' + options[key][0])
@@ -758,13 +766,11 @@ if __name__=='__main__':
             Flush the xml tree to the xml dictionary file
             """
             for language in Language_list:
-                # print("Writing data to: ", language.xml_functions.data_file)
-                # language.xml_functions.xml_tree2file()
+
                 print("Writing data to: ", language.data_file)
                 language.xml_tree2file()
             break
         try:
-            # options.get(Next_option, Do_nothing)[1](current_language)
             current_language = options.get(Next_option, Do_nothing)[1] \
                                                             (current_language)
         except:

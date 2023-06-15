@@ -3,6 +3,9 @@
 	<stanza_lang_code>
 		<code>nl</code>
 	</stanza_lang_code>
+	<postfix>
+		<used>yes</used>
+	</postfix>
 	<verb_listing>
 		<list_items>pret_sing pret_plur supp_verb perfekt </list_items>
 	</verb_listing>

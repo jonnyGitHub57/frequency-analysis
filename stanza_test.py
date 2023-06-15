@@ -129,7 +129,7 @@ class XML_statistics(object):
         """
         'find_in_statistics' will traverse all <stat_word> elements in the 
         tree to findall perfect matches to the word. It searches for the word 
-        among theforeign language lemmas.
+        among the foreign language lemmas.
         Returns a list of statistic word elements
         """
         elements = self.root.findall('./{}'.format(item))
@@ -162,10 +162,12 @@ class XML_statistics(object):
     
     def get_sorted_data(self):
         """
+        get_sorted_data returns the elements in the xml-tree sorted in falling 
+        order i.e. with the most frequent words in the beginning of the list.
         
-        Returns
+        Returns: 
         -------
-        None.
+        elements: a sorted list of elements
 
         """
         elements = self.root.findall('word')
@@ -190,7 +192,7 @@ class XML_statistics(object):
         
         print('Antal element : ', len(elements))
         
-        useful_upos = ['NOUN', 'ADJ', 'VERB', 'CCONJ', 'ADV']
+        # useful_upos = ['NOUN', 'ADJ', 'VERB', 'CCONJ', 'ADV', 'ADP']
         filter_upos = ['PUNCT', 'X', 'PROPN', 'SYM']
        
         def get_lemma(word):

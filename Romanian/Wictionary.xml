@@ -3,6 +3,9 @@
 	<stanza_lang_code>
 		<code>ro</code>
 	</stanza_lang_code>
+	<postfix>
+		<used>yes</used>
+	</postfix>
 	<verb_listing>
 		<list_items>sing_1 sing_2 sing_3 plur_1 plur_2 plur_3</list_items>
 	</verb_listing>
@@ -12,13 +15,14 @@
 		<f>o</f>
 	</gender_article>
 	<info_files>
-		<substantiv>file:///home/jonny/Documents/Studier/Lingvistik/Glos_program/Romanian/Substantiv_info.html</substantiv>
-		<verb>file:///home/jonny/Documents/Studier/Lingvistik/Glos_program/Romanian/Verb_exempel.html</verb>
-		<pronomen>file:///home/jonny/Documents/Studier/Lingvistik/Glos_program/Romanian/Pronomen_info.html</pronomen>
-		<adjektiv>file:///home/jonny/Documents/Studier/Lingvistik/Glos_program/Romanian/Adjektiv_info.html</adjektiv>
-		<yrken>file:///home/jonny/Documents/Studier/Lingvistik/Glos_program/Romanian/Yrken_info.html</yrken>
-		<prepositioner>file:///home/jonny/Documents/Studier/Lingvistik/Glos_program/Romanian/Prepositioner_info.html</prepositioner>
-		<hustermer>file:///home/jonny/Documents/Studier/Lingvistik/Glos_program/Romanian/Hustermer_info.html</hustermer>
+		<substantiv>file:///home/jonny/Documents/Studier/Lingvistik/Datorlingvistik/frequency-analysis/Romanian/Substantiv_info.html</substantiv>
+		<verb>file:///home/jonny/Documents/Studier/Lingvistik/Datorlingvistik/frequency-analysis/Romanian/Verb_exempel.html</verb>
+		<pronomen>file:///home/jonny/Documents/Studier/Lingvistik/Datorlingvistik/frequency-analysis/Romanian/Pronomen_info.html</pronomen>
+		<demonstrativa_pronomen>file:///home/jonny/Documents/Studier/Lingvistik/Datorlingvistik/frequency-analysis/Romanian/Demonstrativa_pronomen.html</demonstrativa_pronomen>
+		<adjektiv>file:///home/jonny/Documents/Studier/Lingvistik/Datorlingvistik/frequency-analysis/Romanian/Adjektiv_info.html</adjektiv>
+		<yrken>file:///home/jonny/Documents/Studier/Lingvistik/Datorlingvistik/frequency-analysis/Romanian/Yrken_info.html</yrken>
+		<prepositioner>file:///home/jonny/Documents/Studier/Datorlingvistik/frequency-analysis/Glos_program/Romanian/Prepositioner_info.html</prepositioner>
+		<hustermer>file:///home/jonny/Documents/Studier/Lingvistik/Datorlingvistik/frequency-analysis/Romanian/Hustermer_info.html</hustermer>
 	</info_files>
 	<statistics_file>
 		<link>./Romanian/Sample_files/RUMK01JanssonEk.pdf</link>
@@ -67,8 +71,7 @@
 		<plur_3 />
 		<pret_sing>bleek</pret_sing>
 		<pret_plur>bleken</pret_plur>
-		<perfekt>gebleken</perfekt>
-		<supp_verb>is</supp_verb>
+		<perfekt>gebleken</perfekt>		
 		<cathegory>1</cathegory>
 		<swedish>förefalla/bevisa/visa</swedish>
 		<english>dog</english>
@@ -1222,7 +1225,7 @@
 		<plur_3>cântă</plur_3>
 		<pret_sing />
 		<pret_plur />
-		<perfekt />
+		<perfekt>cântat</perfekt>
 		<supp_verb />
 		<cathegory>1</cathegory>
 		<swedish>sjunga, spela</swedish>
@@ -3815,10 +3818,10 @@
 		<plur_1>găsim</plur_1>
 		<plur_2>găsiți</plur_2>
 		<plur_3>găsesc</plur_3>
-		<pret_sing />
-		<pret_plur />
-		<perfekt />
-		<supp_verb />
+		<pret_sing>găsit</pret_sing>
+		<pret_plur>găsit</pret_plur>
+		<perfekt>găsit</perfekt>
+		<supp_verb>avea</supp_verb>
 		<cathegory />
 		<swedish>hitta, finna</swedish>
 		<explanation />
@@ -5774,5 +5777,177 @@
 		<opposite />
 		<counter>1</counter>
 		<index>2023-05-21 07:49:08.820626</index>
+	</word>
+	<word>
+		<lemma>coasă</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<definite>coasa</definite>
+		<swedish>lie</swedish>
+		<english>scythe</english>
+		<explanation />
+		<example_use />
+		<plural />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-05-29 16:43:22.518592</index>
+	</word>
+	<word>
+		<lemma>demisol</lemma>
+		<tag>NOUN</tag>
+		<gender>n</gender>
+		<definite />
+		<swedish>semi-källare</swedish>
+		<english>semi-basement</english>
+		<explanation>källare delvis oven mark</explanation>
+		<example_use />
+		<plural />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-05-30 09:10:41.104293</index>
+	</word>
+	<word>
+		<tag>VERB</tag>
+		<lemma>săpa</lemma>
+		<sing_1>sap</sing_1>
+		<sing_2>sapi</sing_2>
+		<sing_3>sapă</sing_3>
+		<plur_1>săpăm</plur_1>
+		<plur_2>săpați</plur_2>
+		<plur_3>sapă</plur_3>
+		<pret_sing />
+		<pret_plur />
+		<perfekt>săpat</perfekt>
+		<cathegory />
+		<swedish>gräva</swedish>
+		<english />
+		<explanation />
+		<example_use />
+		<index>2023-06-08 05:19:05.064666</index>
+		<synonym />
+		<opposite />
+		<spare />
+		<counter>1</counter>
+	</word>
+	<word>
+		<lemma>vecin</lemma>
+		<tag>NOUN</tag>
+		<gender>m</gender>
+		<definite>vecinul</definite>
+		<swedish>granne</swedish>
+		<english>neighbour</english>
+		<explanation />
+		<example_use />
+		<plural />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-06-11 06:39:39.198719</index>
+	</word>
+	<word>
+		<lemma>prea</lemma>
+		<tag>ADV</tag>
+		<swedish>för</swedish>
+		<english>too</english>
+		<explanation>som i 'för mycket/för lite'</explanation>
+		<example_use>Am studiat prea puțin</example_use>
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-06-14 06:15:49.654149</index>
+	</word>
+	<word>
+		<lemma>nume</lemma>
+		<tag>NOUN</tag>
+		<gender>n</gender>
+		<definite>numele</definite>
+		<swedish>namn</swedish>
+		<english>name</english>
+		<explanation />
+		<example_use>Numele meu este Jonny</example_use>
+		<plural>nume</plural>
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-06-14 07:07:50.504183</index>
+	</word>
+	<word>
+		<tag>ADJ</tag>
+		<lemma>interzis</lemma>
+		<komparativ />
+		<superlativ />
+		<cathegory />
+		<swedish>förbjudet</swedish>
+		<english>forbidden</english>
+		<explanation />
+		<example_use>Fumatul interzis!</example_use>
+		<index>2023-06-14 12:27:41.237913</index>
+		<synonym />
+		<opposite />
+		<spare />
+		<counter>1</counter>
+	</word>
+	<word>
+		<lemma>zbor</lemma>
+		<tag>NOUN</tag>
+		<gender>n</gender>
+		<definite>zborul</definite>
+		<swedish>flight, flygning</swedish>
+		<english>flight</english>
+		<explanation />
+		<example_use />
+		<plural>zboruri</plural>
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-06-14 12:51:45.368629</index>
+	</word>
+	<word>
+		<tag>VERB</tag>
+		<lemma>ruga</lemma>
+		<sing_1>rog</sing_1>
+		<sing_2>rogi</sing_2>
+		<sing_3>roagă</sing_3>
+		<plur_1>rogăm</plur_1>
+		<plur_2>rugați</plur_2>
+		<plur_3>roagă</plur_3>
+		<pret_sing>rugat</pret_sing>
+		<pret_plur>rugat</pret_plur>
+		<perfekt>rugat</perfekt>
+		<cathegory />
+		<swedish>fråga, be</swedish>
+		<english>ask, beg</english>
+		<explanation>också använt för 'please'</explanation>
+		<example_use>Vă rugăm să reveniți săptămâna viitoare.</example_use>
+		<index>2023-06-14 14:12:46.973432</index>
+		<synonym />
+		<opposite />
+		<spare />
+		<counter>1</counter>
+	</word>
+	<word>
+		<tag>VERB</tag>
+		<lemma>sta</lemma>
+		<sing_1>stau</sing_1>
+		<sing_2>stai</sing_2>
+		<sing_3>stă</sing_3>
+		<plur_1>stăm</plur_1>
+		<plur_2>stați</plur_2>
+		<plur_3>stau</plur_3>
+		<pret_sing />
+		<pret_plur />
+		<perfekt>stat</perfekt>
+		<cathegory />
+		<swedish>stanna, stanna upp, stå</swedish>
+		<english>stand, stop</english>
+		<explanation />
+		<example_use>Noi stăm acasă azi, dar voi nu stați.</example_use>
+		<index>2023-06-15 06:12:36.044412</index>
+		<synonym />
+		<opposite />
+		<spare />
+		<counter>1</counter>
 	</word>
 </dictionary>
