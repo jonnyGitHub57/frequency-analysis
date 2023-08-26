@@ -61,7 +61,10 @@
 		<counter>1</counter>
 	</template>
 	<template>
-		<tag>VERB</tag>		
+		<tag>VERB</tag>
+		<rules>
+			<preteritum>nisse_32</preteritum>
+		</rules>		
 		<lemma>blijken</lemma>
 		<sing_1 />
 		<sing_2 />
@@ -69,8 +72,12 @@
 		<plur_1 />
 		<plur_2 />
 		<plur_3 />
-		<pret_sing>bleek</pret_sing>
-		<pret_plur>bleken</pret_plur>
+		<pret_sing_1>am</pret_sing_1>
+		<pret_sing_2>ai</pret_sing_2>
+		<pret_sing_3>a</pret_sing_3>
+		<pret_plur_1>am</pret_plur_1>
+		<pret_plur_2>ați</pret_plur_2>
+		<pret_plur_3>au</pret_plur_3>
 		<perfekt>gebleken</perfekt>		
 		<cathegory>1</cathegory>
 		<swedish>förefalla/bevisa/visa</swedish>
@@ -5945,6 +5952,169 @@
 		<explanation />
 		<example_use>Noi stăm acasă azi, dar voi nu stați.</example_use>
 		<index>2023-06-15 06:12:36.044412</index>
+		<synonym />
+		<opposite />
+		<spare />
+		<counter>1</counter>
+	</word>
+	<word>
+		<tag>VERB</tag>
+		<lemma>pleca</lemma>
+		<sing_1>plec</sing_1>
+		<sing_2>pleci</sing_2>
+		<sing_3>pleacă</sing_3>
+		<plur_1>plecăm</plur_1>
+		<plur_2>plecați</plur_2>
+		<plur_3>pleacă</plur_3>
+		<pret_sing>plecam</pret_sing>
+		<pret_plur>plecai</pret_plur>
+		<perfekt>plecat</perfekt>
+		<cathegory />
+		<swedish>resa iväg, ge sig av, lämna</swedish>
+		<english>leave, depart</english>
+		<explanation />
+		<example_use />
+		<index>2023-06-15 20:05:35.085867</index>
+		<synonym />
+		<opposite />
+		<spare />
+		<counter>1</counter>
+	</word>
+	<word>
+		<tag>VERB</tag>
+		<lemma>întârzia</lemma>
+		<sing_1>întârzii</sing_1>
+		<sing_2>întârzii</sing_2>
+		<sing_3>întârzie</sing_3>
+		<plur_1>întârziem</plur_1>
+		<plur_2>întârziați</plur_2>
+		<plur_3>întârzie</plur_3>
+		<pret_sing>întârziam</pret_sing>
+		<pret_plur>întârziai</pret_plur>
+		<perfekt>întârziat</perfekt>
+		<cathegory />
+		<swedish>fördröja, vara sen</swedish>
+		<english>delay, be late</english>
+		<explanation />
+		<example_use />
+		<index>2023-06-15 20:12:58.933842</index>
+		<synonym />
+		<opposite />
+		<spare />
+		<counter>1</counter>
+	</word>
+	<word>
+		<lemma>viață</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<definite>viața</definite>
+		<swedish>liv</swedish>
+		<english>life</english>
+		<explanation />
+		<example_use>Viața este destul de bună.</example_use>
+		<plural />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-06-15 20:31:47.667499</index>
+	</word>
+	<word>
+		<tag>VERB</tag>
+		<lemma>respinge</lemma>
+		<sing_1>resping</sing_1>
+		<sing_2>respingi</sing_2>
+		<sing_3>respinge</sing_3>
+		<plur_1>respingem</plur_1>
+		<plur_2>respingeți</plur_2>
+		<plur_3>resping</plur_3>
+		<pret_sing_1>respingeam</pret_sing_1>
+		<pret_sing_2>respingeai</pret_sing_2>
+		<pret_sing_3>respingea</pret_sing_3>
+		<pret_plur_1>respingeam</pret_plur_1>
+		<pret_plur_2>respingeați</pret_plur_2>
+		<pret_plur_3>respingeau</pret_plur_3>
+		<perfekt>respins</perfekt>
+		<cathegory>vt</cathegory>
+		<swedish>neka, stöta bort</swedish>
+		<english>reject</english>
+		<explanation />
+		<example_use />
+		<index>2023-06-25 06:52:16.635944</index>
+		<synonym />
+		<opposite />
+		<spare />
+		<counter>1</counter>
+	</word>
+	<word>
+		<tag>VERB</tag>
+		<rules>
+			</rules>
+		<lemma>admira</lemma>
+		<sing_1>admir</sing_1>
+		<sing_2>admiri</sing_2>
+		<sing_3>admiră</sing_3>
+		<plur_1>admirăm</plur_1>
+		<plur_2>admirați</plur_2>
+		<plur_3>admiră</plur_3>
+		<pret_sing_1>admiram</pret_sing_1>
+		<pret_sing_2>admirai</pret_sing_2>
+		<pret_sing_3>admira</pret_sing_3>
+		<pret_plur_1>admiram</pret_plur_1>
+		<pret_plur_2>admirați</pret_plur_2>
+		<pret_plur_3>admirau</pret_plur_3>
+		<perfekt>admirat</perfekt>
+		<cathegory>vt</cathegory>
+		<swedish>beundra</swedish>
+		<english>admire</english>
+		<explanation />
+		<example_use />
+		<index>2023-06-25 17:01:29.049182</index>
+		<synonym />
+		<opposite />
+		<spare />
+		<counter>1</counter>
+	</word>
+	<word>
+		<lemma>pacient</lemma>
+		<tag>NOUN</tag>
+		<gender>n</gender>
+		<definite />
+		<swedish>patient</swedish>
+		<english>patient</english>
+		<explanation />
+		<example_use />
+		<plural>pacienti</plural>
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-08-21 05:58:35.660158</index>
+	</word>
+	<word>
+		<lemma>spital</lemma>
+		<tag>NOUN</tag>
+		<gender>n</gender>
+		<definite>spitalul</definite>
+		<swedish>sjukhus</swedish>
+		<english>hospital</english>
+		<explanation />
+		<example_use>Spitalul este foarte ocupat.</example_use>
+		<plural />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-08-21 06:02:37.562696</index>
+	</word>
+	<word>
+		<tag>ADJ</tag>
+		<lemma>ocupat</lemma>
+		<komparativ />
+		<superlativ />
+		<cathegory />
+		<swedish>upptaget, ockuperat</swedish>
+		<english>occupied, busy</english>
+		<explanation />
+		<example_use>Spitalul este foarte ocupat</example_use>
+		<index>2023-08-21 06:07:21.467399</index>
 		<synonym />
 		<opposite />
 		<spare />

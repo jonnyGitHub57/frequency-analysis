@@ -285,7 +285,9 @@ if __name__=='__main__':
         new_word = templates[0]
         
         for item in new_word:
-            if item == 'lemma':
+            if item == 'rules':
+                pass
+            elif item == 'lemma':
                 new_word['lemma'] = input_word
             elif item == 'tag':
                 pass
