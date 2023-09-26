@@ -33,12 +33,12 @@
 		<lemma>hond</lemma>
 		<tag>NOUN</tag>		
 		<gender>de</gender>
+		<plural />
 		<definite />
 		<swedish>hund</swedish>
 		<english>dog</english>
 		<explanation>(substantief)</explanation>
 		<example_use />
-		<plural />
 		<synonym />
 		<opposite />
 		<counter>1</counter>
@@ -65,7 +65,9 @@
 		<rules>
 			<preteritum>nisse_32</preteritum>
 		</rules>		
-		<lemma>blijken</lemma>
+		<lemma>avea</lemma>
+		<swedish>förefalla/bevisa/visa</swedish>
+		<english>dog</english>
 		<sing_1 />
 		<sing_2 />
 		<sing_3 />
@@ -78,10 +80,15 @@
 		<pret_plur_1>am</pret_plur_1>
 		<pret_plur_2>ați</pret_plur_2>
 		<pret_plur_3>au</pret_plur_3>
-		<perfekt>gebleken</perfekt>		
+		<perfekt>avut</perfekt>
+		<gerunziu>având</gerunziu>	
+		<conjunctiv_sing1>am</conjunctiv_sing1>
+		<conjunctiv_sing2>ai</conjunctiv_sing2>
+		<conjunctiv_sing3>albă</conjunctiv_sing3>
+		<conjunctiv_plur1>avem</conjunctiv_plur1>
+		<conjunctiv_plur2>aveți</conjunctiv_plur2>
+		<conjunctiv_plur3>albă</conjunctiv_plur3>	
 		<cathegory>1</cathegory>
-		<swedish>förefalla/bevisa/visa</swedish>
-		<english>dog</english>
 		<explanation>(werkwoord)</explanation>
 		<example_use />
 		<index>2021-12-28 16:41:32.272905</index>
@@ -6115,6 +6122,397 @@
 		<explanation />
 		<example_use>Spitalul este foarte ocupat</example_use>
 		<index>2023-08-21 06:07:21.467399</index>
+		<synonym />
+		<opposite />
+		<spare />
+		<counter>1</counter>
+	</word>
+	<word>
+		<tag>ADJ</tag>
+		<lemma>obișnuit</lemma>
+		<komparativ />
+		<superlativ />
+		<cathegory />
+		<swedish>att vara van (vid något)</swedish>
+		<english>to be used to (something)</english>
+		<explanation />
+		<example_use />
+		<index>2023-08-26 07:54:29.085188</index>
+		<synonym />
+		<opposite />
+		<spare />
+		<counter>1</counter>
+	</word>
+	<word>
+		<tag>ADJ</tag>
+		<lemma>grăsuț</lemma>
+		<komparativ />
+		<superlativ />
+		<cathegory />
+		<swedish>knubbig, fet</swedish>
+		<english>plump, fattish</english>
+		<explanation />
+		<example_use />
+		<index>2023-08-26 07:56:07.239265</index>
+		<synonym />
+		<opposite />
+		<spare />
+		<counter>1</counter>
+	</word>
+	<word>
+		<lemma>poreclă</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<definite>porecla</definite>
+		<swedish>smeknamn</swedish>
+		<english>nicknamne</english>
+		<explanation />
+		<example_use />
+		<plural />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-08-26 07:57:26.820902</index>
+	</word>
+	<word>
+		<tag>ADJ</tag>
+		<lemma>îndemân</lemma>
+		<komparativ />
+		<superlativ />
+		<cathegory />
+		<swedish>fiffig, klyftig, smart</swedish>
+		<english>clever</english>
+		<explanation />
+		<example_use />
+		<index>2023-08-26 07:59:01.766984</index>
+		<synonym />
+		<opposite />
+		<spare />
+		<counter>1</counter>
+	</word>
+	<word>
+		<lemma>debușeu</lemma>
+		<tag>NOUN</tag>
+		<gender>n</gender>
+		<definite />
+		<swedish>marknad, outlet</swedish>
+		<english>market, outlet</english>
+		<explanation />
+		<example_use />
+		<plural />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-08-26 08:04:30.350881</index>
+	</word>
+	<word>
+		<lemma>impozit</lemma>
+		<tag>NOUN</tag>
+		<gender>n</gender>
+		<definite>impozitul</definite>
+		<swedish>skatt, moms</swedish>
+		<english>tax, duty</english>
+		<explanation />
+		<example_use />
+		<plural />
+		<synonym>taxă</synonym>
+		<opposite />
+		<counter>1</counter>
+		<index>2023-08-26 08:05:33.191166</index>
+	</word>
+	<word>
+		<lemma>taxă</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<definite>taxa</definite>
+		<swedish>skatt</swedish>
+		<english>tax</english>
+		<explanation />
+		<example_use />
+		<plural />
+		<synonym>impozit</synonym>
+		<opposite />
+		<counter>1</counter>
+		<index>2023-08-26 08:08:14.752721</index>
+	</word>
+	<word>
+		<lemma>risc</lemma>
+		<tag>NOUN</tag>
+		<gender>n</gender>
+		<definite>riscul</definite>
+		<swedish>risk</swedish>
+		<english>risk</english>
+		<explanation />
+		<example_use />
+		<plural />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-08-26 08:09:14.369713</index>
+	</word>
+	<word>
+		<lemma>faliment</lemma>
+		<tag>NOUN</tag>
+		<gender>n</gender>
+		<definite>falimentul</definite>
+		<swedish>konkurs</swedish>
+		<english>bankrupcy</english>
+		<explanation />
+		<example_use />
+		<plural>falimente</plural>
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-08-26 08:12:12.496804</index>
+	</word>
+	<word>
+		<lemma>recesiune</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<definite />
+		<swedish>recession, ekonomisk tillbakagång</swedish>
+		<english>recession</english>
+		<explanation />
+		<example_use />
+		<plural />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-08-26 08:14:20.743938</index>
+	</word>
+	<word>
+		<lemma>acțiune</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<definite />
+		<swedish>aktie äv. 'action'</swedish>
+		<english>stock share, action</english>
+		<explanation />
+		<example_use />
+		<plural />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-08-26 08:16:11.745985</index>
+	</word>
+	<word>
+		<lemma>bursă</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<definite>bursa</definite>
+		<swedish>börsen (för aktiehandel)</swedish>
+		<english>stock market/exchange</english>
+		<explanation />
+		<example_use />
+		<plural />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-08-26 08:20:08.174485</index>
+	</word>
+	<word>
+		<lemma>datorie</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<definite>datoria</definite>
+		<swedish>skuld</swedish>
+		<english>debt</english>
+		<explanation />
+		<example_use />
+		<plural />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-08-27 06:05:28.862861</index>
+	</word>
+	<word>
+		<lemma>investiție</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<definite>investiția</definite>
+		<swedish>investering</swedish>
+		<english>investment</english>
+		<explanation />
+		<example_use />
+		<plural />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-08-27 06:06:32.962728</index>
+	</word>
+	<word>
+		<lemma>factură</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<definite>factura</definite>
+		<swedish>faktura</swedish>
+		<english>invoice</english>
+		<explanation />
+		<example_use />
+		<plural />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-08-27 06:07:37.852255</index>
+	</word>
+	<word>
+		<lemma>foame</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<definite />
+		<swedish>hunger</swedish>
+		<english>hunger</english>
+		<explanation />
+		<example_use />
+		<plural />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-08-27 06:10:11.770001</index>
+	</word>
+	<word>
+		<lemma>fapt</lemma>
+		<tag>NOUN</tag>
+		<gender>n</gender>
+		<definite />
+		<swedish>faktum, realitet</swedish>
+		<english>fact</english>
+		<explanation />
+		<example_use>de fapt</example_use>
+		<plural />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-08-27 06:13:17.308020</index>
+	</word>
+	<word>
+		<lemma>admirație</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<definite>admirația</definite>
+		<swedish>beundran</swedish>
+		<english>admiration</english>
+		<explanation />
+		<example_use />
+		<plural />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-08-27 06:18:19.575991</index>
+	</word>
+	<word>
+		<tag>ADJ</tag>
+		<lemma>religios</lemma>
+		<komparativ />
+		<superlativ />
+		<cathegory />
+		<swedish>religiös</swedish>
+		<english>religious</english>
+		<explanation />
+		<example_use />
+		<index>2023-08-27 06:19:15.675263</index>
+		<synonym />
+		<opposite />
+		<spare />
+		<counter>1</counter>
+	</word>
+	<word>
+		<lemma>religie</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<definite>religia</definite>
+		<swedish>religion</swedish>
+		<english>religion</english>
+		<explanation />
+		<example_use />
+		<plural />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-08-27 06:19:59.214896</index>
+	</word>
+	<word>
+		<tag>VERB</tag>
+		<rules>
+			</rules>
+		<lemma>investi</lemma>
+		<swedish>investera</swedish>
+		<english>invest</english>
+		<sing_1>investesc</sing_1>
+		<sing_2>investești</sing_2>
+		<sing_3>investește</sing_3>
+		<plur_1>investim</plur_1>
+		<plur_2>investiți</plur_2>
+		<plur_3>investesc</plur_3>
+		<pret_sing_1>investeam</pret_sing_1>
+		<pret_sing_2>investeai</pret_sing_2>
+		<pret_sing_3>investea</pret_sing_3>
+		<pret_plur_1>investeam</pret_plur_1>
+		<pret_plur_2>investeați</pret_plur_2>
+		<pret_plur_3>investeau</pret_plur_3>
+		<perfekt>investit</perfekt>
+		<gerunziu>investind</gerunziu>
+		<conjunctiv_sing1>investesc</conjunctiv_sing1>
+		<conjunctiv_sing2>investești</conjunctiv_sing2>
+		<conjunctiv_sing3>investească</conjunctiv_sing3>
+		<conjunctiv_plur1>investim</conjunctiv_plur1>
+		<conjunctiv_plur2>investiți</conjunctiv_plur2>
+		<conjunctiv_plur3>investească</conjunctiv_plur3>
+		<cathegory>vt</cathegory>
+		<explanation />
+		<example_use />
+		<index>2023-08-31 20:01:47.930202</index>
+		<synonym />
+		<opposite />
+		<spare />
+		<counter>1</counter>
+	</word>
+	<word>
+		<lemma>asistență</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<definite>asistența</definite>
+		<swedish>assistent</swedish>
+		<english />
+		<explanation />
+		<example_use />
+		<plural>asistențe</plural>
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-09-19 05:26:14.438202</index>
+	</word>
+	<word>
+		<tag>VERB</tag>
+		<rules>
+			</rules>
+		<lemma>aștepta</lemma>
+		<swedish>vänta</swedish>
+		<english>wait</english>
+		<sing_1>aștept</sing_1>
+		<sing_2>aștepți</sing_2>
+		<sing_3>așteptă</sing_3>
+		<plur_1>așteptăm</plur_1>
+		<plur_2>așteptați</plur_2>
+		<plur_3>așteptă</plur_3>
+		<pret_sing_1>așteptam</pret_sing_1>
+		<pret_sing_2>așteptai</pret_sing_2>
+		<pret_sing_3>aștepta</pret_sing_3>
+		<pret_plur_1>așteptam</pret_plur_1>
+		<pret_plur_2>așteptați</pret_plur_2>
+		<pret_plur_3>așteptau</pret_plur_3>
+		<perfekt>așteptat</perfekt>
+		<gerunziu>așteptând</gerunziu>
+		<conjunctiv_sing1>aștept</conjunctiv_sing1>
+		<conjunctiv_sing2>aștepți</conjunctiv_sing2>
+		<conjunctiv_sing3>aștepte</conjunctiv_sing3>
+		<conjunctiv_plur1>așteptăm</conjunctiv_plur1>
+		<conjunctiv_plur2>așteptați</conjunctiv_plur2>
+		<conjunctiv_plur3>aștepte</conjunctiv_plur3>
+		<cathegory>vt</cathegory>
+		<explanation />
+		<example_use />
+		<index>2023-09-19 05:38:00.595325</index>
 		<synonym />
 		<opposite />
 		<spare />
