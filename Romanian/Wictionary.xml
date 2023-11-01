@@ -6518,4 +6518,258 @@
 		<spare />
 		<counter>1</counter>
 	</word>
+	<word>
+		<lemma>abonament</lemma>
+		<tag>NOUN</tag>
+		<gender>n</gender>
+		<plural>abonamente</plural>
+		<definite>abonamentul</definite>
+		<swedish>abonnemang</swedish>
+		<english>subscription</english>
+		<explanation />
+		<example_use>Un abonament lunar de metrou</example_use>
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-10-14 06:09:16.221816</index>
+	</word>
+	<word>
+		<tag>ADJ</tag>
+		<lemma>lunar</lemma>
+		<komparativ />
+		<superlativ />
+		<cathegory />
+		<swedish>månadsvis (för en månad)</swedish>
+		<english>monthly (for a month)</english>
+		<explanation>Un abonament lunar de metrou</explanation>
+		<example_use>Un abonament lunar de metrou</example_use>
+		<index>2023-10-14 06:11:03.040246</index>
+		<synonym />
+		<opposite />
+		<spare />
+		<counter>1</counter>
+	</word>
+	<word>
+		<lemma>adult</lemma>
+		<tag>NOUN</tag>
+		<gender>m</gender>
+		<plural>adulți</plural>
+		<definite>adultul</definite>
+		<swedish>vuxen (person)</swedish>
+		<english>adult</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-10-14 06:20:22.030481</index>
+	</word>
+	<word>
+		<lemma>sosire</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<plural>sosiri</plural>
+		<definite />
+		<swedish>ankomst</swedish>
+		<english>arrival</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-10-14 06:21:29.049716</index>
+	</word>
+	<word>
+		<lemma>stație</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<plural>stații</plural>
+		<definite>stația</definite>
+		<swedish>station</swedish>
+		<english>station/stop</english>
+		<explanation />
+		<example_use>Cum se numește stația?</example_use>
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-10-14 06:24:09.942748</index>
+	</word>
+	<word>
+		<lemma>informație</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<plural>informații</plural>
+		<definite>informația</definite>
+		<swedish>information</swedish>
+		<english>information</english>
+		<explanation />
+		<example_use>Biroul de informație</example_use>
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-10-14 06:28:57.123879</index>
+	</word>
+	<word>
+		<lemma>cartelă</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<plural>cartele</plural>
+		<definite>cartela</definite>
+		<swedish>kort, biljett</swedish>
+		<english>card</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-10-14 06:31:52.427854</index>
+	</word>
+	<word>
+		<lemma>tramvai</lemma>
+		<tag>NOUN</tag>
+		<gender>n</gender>
+		<plural>tramvaie</plural>
+		<definite>tramvaiul</definite>
+		<swedish>spårvagn, tram</swedish>
+		<english>tram(way)</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-10-14 06:34:15.400404</index>
+	</word>
+	<word>
+		<lemma>strofă</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<plural />
+		<definite>strofa</definite>
+		<swedish>strof</swedish>
+		<english>stanza</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-10-14 07:44:03.303743</index>
+	</word>
+	<word>
+		<lemma>că</lemma>
+		<tag>SCONJ</tag>
+		<swedish>att</swedish>
+		<english>that</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-11-01 04:42:56.057768</index>
+	</word>
+	<word>
+		<lemma>România</lemma>
+		<tag>PROPN</tag>
+		<swedish>Rumänien</swedish>
+		<english>Romania</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-11-01 04:44:17.713723</index>
+	</word>
+	<word>
+		<tag>ADJ</tag>
+		<lemma>mare</lemma>
+		<komparativ />
+		<superlativ />
+		<cathegory />
+		<swedish>stor</swedish>
+		<english>big</english>
+		<explanation />
+		<example_use />
+		<index>2023-11-01 04:45:45.137987</index>
+		<synonym />
+		<opposite />
+		<spare />
+		<counter>1</counter>
+	</word>
+	<word>
+		<lemma>Suedia</lemma>
+		<tag>PROPN</tag>
+		<swedish>Sverige</swedish>
+		<english>Sweden</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-11-01 04:48:50.622957</index>
+	</word>
+	<word>
+		<lemma>când</lemma>
+		<tag>ADV</tag>
+		<swedish>när</swedish>
+		<english>when</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-11-01 04:52:45.495023</index>
+	</word>
+	<word>
+		<lemma>după</lemma>
+		<tag>ADP</tag>
+		<swedish>efter</swedish>
+		<english>behind</english>
+		<explanation />
+		<example_use>după colț</example_use>
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-11-01 04:55:21.195300</index>
+	</word>
+	<word>
+		<lemma>an</lemma>
+		<tag>NOUN</tag>
+		<gender>m</gender>
+		<plural>ani</plural>
+		<definite />
+		<swedish>år</swedish>
+		<english>year</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-11-01 05:02:29.923763</index>
+	</word>
+	<word>
+		<lemma>om</lemma>
+		<tag>NOUN</tag>
+		<gender>m</gender>
+		<plural>men</plural>
+		<definite />
+		<swedish>man</swedish>
+		<english>man</english>
+		<explanation>inte 'bărbat'</explanation>
+		<example_use />
+		<synonym>bărbat</synonym>
+		<opposite />
+		<counter>1</counter>
+		<index>2023-11-01 05:07:20.636104</index>
+	</word>
+	<word>
+		<lemma>cât</lemma>
+		<tag>ADV</tag>
+		<swedish>hur (mycket/långt)</swedish>
+		<english>how (much, far)</english>
+		<explanation />
+		<example_use>cât costă</example_use>
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-11-01 05:12:48.639894</index>
+	</word>
 </dictionary>

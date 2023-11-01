@@ -728,6 +728,42 @@ if __name__=='__main__':
             
         return(this_language)    
     
+    def Word_forms(this_language):
+        """
+        Use a combination of Google Translate and Stanza NLP to find the
+        different forms of a word depending on its gender or on the gender
+        of the word that it refers to e.g. the different forms of an adjective
+        depending on the gender(s) of its associated noun.
+
+        Parameters
+        ----------
+        this_language : TYPE
+            DESCRIPTION.
+
+        Returns
+        -------
+        None.
+
+        """
+        
+        """
+        Present a list of the word classes to allow the user to select the
+        appropriate class for the new word.
+        """
+        template_list = this_language.find_template('*')
+        
+        i = 0
+        for template in template_list:
+            i +=1
+            print(f'{i}: {template["tag"]} {template["explanation"]}')            
+               
+        print('Select tag (ordklass) 1..N or press <enter> if you')
+        select = input('do not know the tag: ')
+        input_tag = (template_list[int(select) -1])['tag']
+        print(f'Selected tag: {input_tag}')
+        
+        return(this_language)
+    
     def Do_nothing(this_language):
         print("Felaktigt val")
         return(this_language)
@@ -746,6 +782,7 @@ if __name__=='__main__':
                "o": ['Translate_submenu', Translate_submenu],
                "t": ['Take test', Word_test],
                "f": ['Frequency analysis', Frequency],
+               "ff": ['Find word forms', Word_forms],
                "c": ['Change language', Change_language],
                "r": ['LaTeX generator', LaTeX_generator],
                "q": ['Quit', Do_nothing]}
