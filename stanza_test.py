@@ -7,6 +7,8 @@ with-python-fc6efd1dedbe
 
 https://stanfordnlp.github.io/stanza/data_objects.html
 
+https://universaldependencies.org/u/pos/
+
 Created on Fri Jan 21 04:47:28 2022
 
 @author: jonny

@@ -298,6 +298,11 @@ if __name__=='__main__':
             elif item == 'definite':
                 if this_language.postfix_noun == True:
                     new_word[item] = input(str(item) + ': ')
+            elif item == 'swedish':
+                google_suggest = this_language.translator.translate_to_swedish(input_word)
+                # google_suggest = 'nisse'
+                swedish = input(f'{item} ({google_suggest}): ')
+                new_word[item] = google_suggest if swedish == '' else swedish
             elif item == 'gender':
                 """
                 Truncate femininum, maskulinum and neutrum to f, m, n
@@ -794,6 +799,8 @@ if __name__=='__main__':
         """
         print('\r\nAktuellt språk är: ', current_language.language)
         print(f'Antal ord i ordlistan är: {current_language.size_ofDictionary()}')
+        size_of_frequncy_list = current_language.freq_analysis.size_ofDictionary()
+        print(f'Antal ord i frekvensordlistan är:{size_of_frequncy_list}')
         print('Huvudmeny - här väljer man mellan...')
         for key in options:
             print(key + ': ' + options[key][0])
