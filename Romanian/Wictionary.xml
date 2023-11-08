@@ -7320,4 +7320,337 @@
 		<spare />
 		<counter>1</counter>
 	</word>
+	<word>
+		<lemma>între</lemma>
+		<tag>ADP</tag>
+		<swedish>mellan, bland</swedish>
+		<english>between, amongst</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-11-07 04:44:19.227180</index>
+	</word>
+	<word>
+		<lemma>scop</lemma>
+		<tag>NOUN</tag>
+		<gender>n</gender>
+		<plural />
+		<definite>scopul</definite>
+		<swedish>syfte, mål</swedish>
+		<english>purpose</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-11-07 04:46:48.080240</index>
+	</word>
+	<word>
+		<tag>VERB</tag>
+		<rules>
+			</rules>
+		<lemma>accesa</lemma>
+		<swedish>få tillgång till, accessa</swedish>
+		<english>access</english>
+		<sing_1>accesez</sing_1>
+		<sing_2>accesezi</sing_2>
+		<sing_3>accesează</sing_3>
+		<plur_1>accesăm</plur_1>
+		<plur_2>accesați</plur_2>
+		<plur_3>accesează</plur_3>
+		<pret_sing_1>acceseam</pret_sing_1>
+		<pret_sing_2>acceseai</pret_sing_2>
+		<pret_sing_3>accesea</pret_sing_3>
+		<pret_plur_1>acceseam</pret_plur_1>
+		<pret_plur_2>accesați</pret_plur_2>
+		<pret_plur_3>acceseau</pret_plur_3>
+		<perfekt>accesat</perfekt>
+		<gerunziu>accesând</gerunziu>
+		<conjunctiv_sing1>accesez</conjunctiv_sing1>
+		<conjunctiv_sing2>accesezi</conjunctiv_sing2>
+		<conjunctiv_sing3>acceseze</conjunctiv_sing3>
+		<conjunctiv_plur1>accesăm</conjunctiv_plur1>
+		<conjunctiv_plur2>accesați</conjunctiv_plur2>
+		<conjunctiv_plur3>acceseze</conjunctiv_plur3>
+		<cathegory />
+		<explanation />
+		<example_use />
+		<index>2023-11-07 04:57:48.503019</index>
+		<synonym />
+		<opposite />
+		<spare />
+		<counter>1</counter>
+	</word>
+	<word>
+		<lemma>doar</lemma>
+		<tag>ADV</tag>
+		<swedish>endast, bara</swedish>
+		<english>just, only</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-11-07 05:03:48.546255</index>
+	</word>
+	<word>
+		<lemma>fără</lemma>
+		<tag>ADP</tag>
+		<swedish>förutan, utan</swedish>
+		<english>without</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-11-07 05:05:36.885533</index>
+	</word>
+	<word>
+		<lemma>oraș</lemma>
+		<tag>NOUN</tag>
+		<gender>n</gender>
+		<plural />
+		<definite>orașul</definite>
+		<swedish>stad</swedish>
+		<english>city, town</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-11-07 05:07:56.735366</index>
+	</word>
+	<word>
+		<tag>ADJ</tag>
+		<lemma>vechi</lemma>
+		<komparativ />
+		<superlativ />
+		<cathegory />
+		<swedish>gammal</swedish>
+		<english>old</english>
+		<explanation />
+		<example_use />
+		<index>2023-11-07 05:09:06.569935</index>
+		<synonym />
+		<opposite />
+		<spare />
+		<counter>1</counter>
+	</word>
+	<word>
+		<tag>ADJ</tag>
+		<lemma>propriu</lemma>
+		<komparativ />
+		<superlativ />
+		<cathegory />
+		<swedish>egen, personlig</swedish>
+		<english>personal, my own</english>
+		<explanation />
+		<example_use />
+		<index>2023-11-07 05:11:22.196303</index>
+		<synonym />
+		<opposite />
+		<spare />
+		<counter>1</counter>
+	</word>
+	<word>
+		<lemma>Transilvania</lemma>
+		<tag>PROPN</tag>
+		<swedish>Transsylvanien</swedish>
+		<english>Transilvania</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-11-07 05:13:36.756917</index>
+	</word>
+	<word>
+		<tag>ADJ</tag>
+		<lemma>didactic</lemma>
+		<komparativ />
+		<superlativ />
+		<cathegory />
+		<swedish>UNDERVISNING</swedish>
+		<english />
+		<explanation />
+		<example_use />
+		<index>2023-11-07 05:15:46.961466</index>
+		<synonym />
+		<opposite />
+		<spare />
+		<counter>1</counter>
+	</word>
+	<word>
+		<lemma>atunci</lemma>
+		<tag>ADV</tag>
+		<swedish>sedan, då</swedish>
+		<english>then, by then</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-11-07 05:18:28.549578</index>
+	</word>
+	<word>
+		<lemma>clasă</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<plural />
+		<definite>clasa</definite>
+		<swedish>klass</swedish>
+		<english>class</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-11-07 05:19:55.029518</index>
+	</word>
+	<word>
+		<lemma>sub</lemma>
+		<tag>ADP</tag>
+		<swedish>under, nedanför</swedish>
+		<english>under, below</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-11-07 05:22:33.139267</index>
+	</word>
+	<word>
+		<lemma>istorie</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<plural />
+		<definite>istoria</definite>
+		<swedish>historia</swedish>
+		<english>history</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-11-07 05:24:25.811737</index>
+	</word>
+	<word>
+		<lemma>legendă</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<plural />
+		<definite>legenda</definite>
+		<swedish>legend</swedish>
+		<english>legend</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-11-07 05:26:14.329519</index>
+	</word>
+	<word>
+		<lemma>Nerei-Beușnița</lemma>
+		<tag>PROPN</tag>
+		<swedish>Nera Beusnita</swedish>
+		<english>Nerei-Beușnița</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-11-07 05:28:32.262033</index>
+	</word>
+	<word>
+		<lemma>comunicare</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<plural />
+		<definite />
+		<swedish>kommunikation, meddelande</swedish>
+		<english>communication, message</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-11-07 05:31:20.706991</index>
+	</word>
+	<word>
+		<lemma>țintă</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<plural />
+		<definite>ținta</definite>
+		<swedish>syfte, mål</swedish>
+		<english>target, purpose</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-11-08 05:31:28.794399</index>
+	</word>
+	<word>
+		<lemma>școală</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<plural />
+		<definite>școala</definite>
+		<swedish>skola</swedish>
+		<english>school</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-11-08 05:33:33.656702</index>
+	</word>
+	<word>
+		<lemma>aspect</lemma>
+		<tag>NOUN</tag>
+		<gender>n</gender>
+		<plural />
+		<definite>aspectul</definite>
+		<swedish>utseende</swedish>
+		<english>look, appearance</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-11-08 05:35:54.893076</index>
+	</word>
+	<word>
+		<lemma>material</lemma>
+		<tag>NOUN</tag>
+		<gender>n</gender>
+		<plural />
+		<definite>materialul</definite>
+		<swedish>material, grejor</swedish>
+		<english>material, stuff</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-11-08 05:37:39.067666</index>
+	</word>
+	<word>
+		<lemma>vedere</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<plural />
+		<definite />
+		<swedish>seende</swedish>
+		<english />
+		<explanation>'på återseende'</explanation>
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-11-08 05:40:31.372771</index>
+	</word>
 </dictionary>
