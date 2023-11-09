@@ -7653,4 +7653,192 @@
 		<counter>1</counter>
 		<index>2023-11-08 05:40:31.372771</index>
 	</word>
+	<word>
+		<lemma>casă</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<plural />
+		<definite>casa</definite>
+		<swedish>hus</swedish>
+		<english>house</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-11-09 04:29:14.602288</index>
+	</word>
+	<word>
+		<lemma>natură</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<plural />
+		<definite>natura</definite>
+		<swedish>natur</swedish>
+		<english>nature</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-11-09 04:30:30.559381</index>
+	</word>
+	<word>
+		<tag>ADJ</tag>
+		<lemma>digital</lemma>
+		<komparativ />
+		<superlativ />
+		<cathegory />
+		<swedish>digital</swedish>
+		<english>digital</english>
+		<explanation />
+		<example_use />
+		<index>2023-11-09 04:33:41.255486</index>
+		<synonym />
+		<opposite />
+		<spare />
+		<counter>1</counter>
+	</word>
+	<word>
+		<lemma>lege</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<plural />
+		<definite />
+		<swedish>lag</swedish>
+		<english />
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-11-09 04:35:11.900785</index>
+	</word>
+	<word>
+		<lemma>vale</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<plural />
+		<definite />
+		<swedish>dal</swedish>
+		<english>valley</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-11-09 04:37:17.771356</index>
+	</word>
+	<word>
+		<lemma>cunoștință</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<plural />
+		<definite>cunoștința</definite>
+		<swedish>kunskap, bekant (person)</swedish>
+		<english>knowledge, aquaintance</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-11-09 04:42:35.930653</index>
+	</word>
+	<word>
+		<lemma>oră</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<plural />
+		<definite>ora</definite>
+		<swedish>timme</swedish>
+		<english>hour</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-11-09 04:44:57.487624</index>
+	</word>
+	<word>
+		<tag>ADJ</tag>
+		<lemma>mic</lemma>
+		<komparativ />
+		<superlativ />
+		<cathegory />
+		<swedish>liten</swedish>
+		<english>small, little</english>
+		<explanation />
+		<example_use />
+		<index>2023-11-09 04:46:09.370257</index>
+		<synonym />
+		<opposite />
+		<spare />
+		<counter>1</counter>
+	</word>
+	<word>
+		<lemma>context</lemma>
+		<tag>NOUN</tag>
+		<gender>n</gender>
+		<plural />
+		<definite>contextul</definite>
+		<swedish>sammanhang, kontext</swedish>
+		<english>context</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-11-09 04:48:04.095751</index>
+	</word>
+	<word>
+		<lemma>narațiune</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<plural />
+		<definite />
+		<swedish>berättelse, narrativ</swedish>
+		<english>narrative, story</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-11-09 04:52:12.571816</index>
+	</word>
+	<word>
+		<tag>VERB</tag>
+		<rules>
+			</rules>
+		<lemma>prezenta</lemma>
+		<swedish>presentera</swedish>
+		<english>present</english>
+		<sing_1>prezint</sing_1>
+		<sing_2>prezinți</sing_2>
+		<sing_3>prezintă</sing_3>
+		<plur_1>prezentăm</plur_1>
+		<plur_2>prezentați</plur_2>
+		<plur_3>prezintă</plur_3>
+		<pret_sing_1>prezentam</pret_sing_1>
+		<pret_sing_2>prezentai</pret_sing_2>
+		<pret_sing_3>prezenta</pret_sing_3>
+		<pret_plur_1>prezentam</pret_plur_1>
+		<pret_plur_2>prezentați</pret_plur_2>
+		<pret_plur_3>prezentau</pret_plur_3>
+		<perfekt>prezentat</perfekt>
+		<gerunziu>prezentând</gerunziu>
+		<conjunctiv_sing1>prezint</conjunctiv_sing1>
+		<conjunctiv_sing2>prezinți</conjunctiv_sing2>
+		<conjunctiv_sing3>prezinte</conjunctiv_sing3>
+		<conjunctiv_plur1>prezentăm</conjunctiv_plur1>
+		<conjunctiv_plur2>prezentați</conjunctiv_plur2>
+		<conjunctiv_plur3>prezinte</conjunctiv_plur3>
+		<cathegory />
+		<explanation />
+		<example_use />
+		<index>2023-11-09 05:04:34.151743</index>
+		<synonym />
+		<opposite />
+		<spare />
+		<counter>1</counter>
+	</word>
 </dictionary>
