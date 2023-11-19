@@ -7841,4 +7841,922 @@
 		<spare />
 		<counter>1</counter>
 	</word>
+	<word>
+		<tag>VERB</tag>
+		<rules>
+			</rules>
+		<lemma>vizita</lemma>
+		<swedish>besöka</swedish>
+		<english>visit</english>
+		<sing_1>vizitez</sing_1>
+		<sing_2>vizitezi</sing_2>
+		<sing_3>vizitează</sing_3>
+		<plur_1>vizităm</plur_1>
+		<plur_2>vizitați</plur_2>
+		<plur_3>vizitează</plur_3>
+		<pret_sing_1>vizitam</pret_sing_1>
+		<pret_sing_2>vizitai</pret_sing_2>
+		<pret_sing_3>vizita</pret_sing_3>
+		<pret_plur_1>vizitam</pret_plur_1>
+		<pret_plur_2>vizitați</pret_plur_2>
+		<pret_plur_3>vizitau</pret_plur_3>
+		<perfekt>vizitat</perfekt>
+		<gerunziu>vizitând</gerunziu>
+		<conjunctiv_sing1>vizitez</conjunctiv_sing1>
+		<conjunctiv_sing2>vizitezi</conjunctiv_sing2>
+		<conjunctiv_sing3>viziteze</conjunctiv_sing3>
+		<conjunctiv_plur1>vizităm</conjunctiv_plur1>
+		<conjunctiv_plur2>vizitați</conjunctiv_plur2>
+		<conjunctiv_plur3>viziteze</conjunctiv_plur3>
+		<cathegory />
+		<explanation />
+		<example_use />
+		<index>2023-11-10 04:41:00.497655</index>
+		<synonym />
+		<opposite />
+		<spare />
+		<counter>1</counter>
+	</word>
+	<word>
+		<tag>VERB</tag>
+		<rules>
+			</rules>
+		<lemma>considera</lemma>
+		<swedish>överväga, ta i beaktande</swedish>
+		<english>consider</english>
+		<sing_1>consider</sing_1>
+		<sing_2>consideri</sing_2>
+		<sing_3>consideră</sing_3>
+		<plur_1>considerăm</plur_1>
+		<plur_2>considerați</plur_2>
+		<plur_3>consideră</plur_3>
+		<pret_sing_1>consideram</pret_sing_1>
+		<pret_sing_2>considerai</pret_sing_2>
+		<pret_sing_3>considera</pret_sing_3>
+		<pret_plur_1>consideram</pret_plur_1>
+		<pret_plur_2>considerați</pret_plur_2>
+		<pret_plur_3>considerau</pret_plur_3>
+		<perfekt>considerat</perfekt>
+		<gerunziu>considerând</gerunziu>
+		<conjunctiv_sing1>consider</conjunctiv_sing1>
+		<conjunctiv_sing2>consideri</conjunctiv_sing2>
+		<conjunctiv_sing3>considere</conjunctiv_sing3>
+		<conjunctiv_plur1>considerăm</conjunctiv_plur1>
+		<conjunctiv_plur2>considerați</conjunctiv_plur2>
+		<conjunctiv_plur3>considere</conjunctiv_plur3>
+		<cathegory />
+		<explanation />
+		<example_use />
+		<index>2023-11-10 04:49:17.487527</index>
+		<synonym />
+		<opposite />
+		<spare />
+		<counter>1</counter>
+	</word>
+	<word>
+		<tag>VERB</tag>
+		<rules>
+			</rules>
+		<lemma>alege</lemma>
+		<swedish>välja</swedish>
+		<english>choose, pick, select</english>
+		<sing_1>aleg</sing_1>
+		<sing_2>alegi</sing_2>
+		<sing_3>alege</sing_3>
+		<plur_1>alegem</plur_1>
+		<plur_2>alegeți</plur_2>
+		<plur_3>aleg</plur_3>
+		<pret_sing_1>alegeam</pret_sing_1>
+		<pret_sing_2>alegeai</pret_sing_2>
+		<pret_sing_3>alegea</pret_sing_3>
+		<pret_plur_1>alegeam</pret_plur_1>
+		<pret_plur_2>alegeați</pret_plur_2>
+		<pret_plur_3>alegeau</pret_plur_3>
+		<perfekt>ales</perfekt>
+		<gerunziu>alegând</gerunziu>
+		<conjunctiv_sing1>aleg</conjunctiv_sing1>
+		<conjunctiv_sing2>alegi</conjunctiv_sing2>
+		<conjunctiv_sing3>aleagă</conjunctiv_sing3>
+		<conjunctiv_plur1>alegem</conjunctiv_plur1>
+		<conjunctiv_plur2>alegeți</conjunctiv_plur2>
+		<conjunctiv_plur3>aleagă</conjunctiv_plur3>
+		<cathegory />
+		<explanation />
+		<example_use />
+		<index>2023-11-10 04:55:47.184186</index>
+		<synonym />
+		<opposite />
+		<spare />
+		<counter>1</counter>
+	</word>
+	<word>
+		<tag>VERB</tag>
+		<rules>
+			</rules>
+		<lemma>apărea</lemma>
+		<swedish>dyka upp, visa (sig)</swedish>
+		<english>appear</english>
+		<sing_1>apar</sing_1>
+		<sing_2>apari</sing_2>
+		<sing_3>apare</sing_3>
+		<plur_1>apărem</plur_1>
+		<plur_2>apăreți</plur_2>
+		<plur_3>apar</plur_3>
+		<pret_sing_1>apăream</pret_sing_1>
+		<pret_sing_2>apăreai</pret_sing_2>
+		<pret_sing_3>apărea</pret_sing_3>
+		<pret_plur_1>apăream</pret_plur_1>
+		<pret_plur_2>apăreați</pret_plur_2>
+		<pret_plur_3>apăreau</pret_plur_3>
+		<perfekt>apărut</perfekt>
+		<gerunziu>apărând</gerunziu>
+		<conjunctiv_sing1>apar</conjunctiv_sing1>
+		<conjunctiv_sing2>apari</conjunctiv_sing2>
+		<conjunctiv_sing3>apară</conjunctiv_sing3>
+		<conjunctiv_plur1>apărem</conjunctiv_plur1>
+		<conjunctiv_plur2>apăreți</conjunctiv_plur2>
+		<conjunctiv_plur3>apară</conjunctiv_plur3>
+		<cathegory />
+		<explanation />
+		<example_use />
+		<index>2023-11-10 05:03:36.433882</index>
+		<synonym />
+		<opposite />
+		<spare />
+		<counter>1</counter>
+	</word>
+	<word>
+		<lemma>subiect</lemma>
+		<tag>NOUN</tag>
+		<gender>n</gender>
+		<plural />
+		<definite>subiectul</definite>
+		<swedish>ämne, subject</swedish>
+		<english>subject, topic</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-11-10 05:08:09.688836</index>
+	</word>
+	<word>
+		<tag>VERB</tag>
+		<rules>
+			</rules>
+		<lemma>da</lemma>
+		<swedish>ge (någon något)</swedish>
+		<english>give, offer</english>
+		<sing_1>dau</sing_1>
+		<sing_2>dai</sing_2>
+		<sing_3>dă</sing_3>
+		<plur_1>dăm</plur_1>
+		<plur_2>dați</plur_2>
+		<plur_3>dau</plur_3>
+		<pret_sing_1>dădeam</pret_sing_1>
+		<pret_sing_2>dădeai</pret_sing_2>
+		<pret_sing_3>dădea</pret_sing_3>
+		<pret_plur_1>dădeam</pret_plur_1>
+		<pret_plur_2>dădeați</pret_plur_2>
+		<pret_plur_3>dădeau</pret_plur_3>
+		<perfekt>dat</perfekt>
+		<gerunziu>dănd</gerunziu>
+		<conjunctiv_sing1>dau</conjunctiv_sing1>
+		<conjunctiv_sing2>dai</conjunctiv_sing2>
+		<conjunctiv_sing3>dea</conjunctiv_sing3>
+		<conjunctiv_plur1>dăm</conjunctiv_plur1>
+		<conjunctiv_plur2>dați</conjunctiv_plur2>
+		<conjunctiv_plur3>dea</conjunctiv_plur3>
+		<cathegory />
+		<explanation />
+		<example_use />
+		<index>2023-11-12 20:14:11.534210</index>
+		<synonym />
+		<opposite />
+		<spare />
+		<counter>1</counter>
+	</word>
+	<word>
+		<lemma>tip</lemma>
+		<tag>NOUN</tag>
+		<gender>n</gender>
+		<plural />
+		<definite>tipul</definite>
+		<swedish>typ, karaktär</swedish>
+		<english>type, character</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-11-12 20:18:22.526611</index>
+	</word>
+	<word>
+		<lemma>îngrijire</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<plural />
+		<definite>îngrijirea</definite>
+		<swedish>vård</swedish>
+		<english>care, nursing</english>
+		<explanation />
+		<example_use>îngrijirea dinții</example_use>
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-11-13 04:21:27.136846</index>
+	</word>
+	<word>
+		<tag>ADJ</tag>
+		<lemma>masiv</lemma>
+		<komparativ />
+		<superlativ />
+		<cathegory />
+		<swedish>massiv, voluminös</swedish>
+		<english>massive, bulky</english>
+		<explanation />
+		<example_use />
+		<index>2023-11-13 04:23:39.182119</index>
+		<synonym />
+		<opposite />
+		<spare />
+		<counter>1</counter>
+	</word>
+	<word>
+		<lemma>Nerei</lemma>
+		<tag>PROPN</tag>
+		<swedish>Nera</swedish>
+		<english>Nerei</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-11-13 04:24:29.058894</index>
+	</word>
+	<word>
+		<lemma>prim</lemma>
+		<tag>NUM</tag>
+		<swedish>först</swedish>
+		<english>first</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-11-13 04:27:59.944771</index>
+	</word>
+	<word>
+		<tag>ADJ</tag>
+		<lemma>primar</lemma>
+		<komparativ />
+		<superlativ />
+		<cathegory />
+		<swedish>primär, elemntär</swedish>
+		<english>primary, elemntary</english>
+		<explanation />
+		<example_use />
+		<index>2023-11-13 04:29:19.462845</index>
+		<synonym />
+		<opposite />
+		<spare />
+		<counter>1</counter>
+	</word>
+	<word>
+		<lemma>primar</lemma>
+		<tag>NOUN</tag>
+		<gender>m</gender>
+		<plural />
+		<definite>primarul</definite>
+		<swedish>borgmästare</swedish>
+		<english>headman of the village</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-11-13 04:31:35.303275</index>
+	</word>
+	<word>
+		<lemma>asupra</lemma>
+		<tag>ADP</tag>
+		<swedish>på</swedish>
+		<english>on</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-11-13 04:34:06.591199</index>
+	</word>
+	<word>
+		<lemma>spre</lemma>
+		<tag>ADP</tag>
+		<swedish>till, i rikting mot</swedish>
+		<english>towards</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-11-13 04:42:49.547764</index>
+	</word>
+	<word>
+		<tag>ADJ</tag>
+		<lemma>specific</lemma>
+		<komparativ />
+		<superlativ />
+		<cathegory />
+		<swedish>specifik, särskild</swedish>
+		<english>specific, typical of</english>
+		<explanation />
+		<example_use />
+		<index>2023-11-13 04:45:54.972020</index>
+		<synonym />
+		<opposite />
+		<spare />
+		<counter>1</counter>
+	</word>
+	<word>
+		<lemma>putere</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<plural />
+		<definite>puterea</definite>
+		<swedish>kraft, makt</swedish>
+		<english>power, might</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-11-13 04:49:11.562890</index>
+	</word>
+	<word>
+		<lemma>până</lemma>
+		<tag>ADP</tag>
+		<swedish>tills, fram tills</swedish>
+		<english>until</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-11-13 04:52:39.386573</index>
+	</word>
+	<word>
+		<lemma>efect</lemma>
+		<tag>NOUN</tag>
+		<gender>n</gender>
+		<plural />
+		<definite>efectul</definite>
+		<swedish>effekt, resultat, konsekvens</swedish>
+		<english>effect, result, consequecne</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-11-13 04:54:40.357608</index>
+	</word>
+	<word>
+		<lemma>sens</lemma>
+		<tag>NOUN</tag>
+		<gender>n</gender>
+		<plural />
+		<definite>sensul</definite>
+		<swedish>mening, significans</swedish>
+		<english>meaning, sense</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-11-13 05:01:22.703759</index>
+	</word>
+	<word>
+		<lemma>tot</lemma>
+		<tag>PRON</tag>
+		<swedish>allt, allting</swedish>
+		<english>everything, all of it</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-11-13 05:03:07.324356</index>
+	</word>
+	<word>
+		<lemma>foarte</lemma>
+		<tag>ADV</tag>
+		<swedish>mycket</swedish>
+		<english>very</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-11-13 05:04:50.444105</index>
+	</word>
+	<word>
+		<lemma>așa</lemma>
+		<tag>ADV</tag>
+		<swedish>så, sådant, liknande</swedish>
+		<english>such, something like that</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-11-13 05:12:33.298020</index>
+	</word>
+	<word>
+		<tag>ADJ</tag>
+		<lemma>legislativ</lemma>
+		<komparativ />
+		<superlativ />
+		<cathegory />
+		<swedish>lagstiftande</swedish>
+		<english>legislative</english>
+		<explanation />
+		<example_use />
+		<index>2023-11-13 05:16:56.829647</index>
+		<synonym />
+		<opposite />
+		<spare />
+		<counter>1</counter>
+	</word>
+	<word>
+		<lemma>numai</lemma>
+		<tag>ADV</tag>
+		<swedish>endast, bara</swedish>
+		<english>only</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-11-13 05:20:04.226799</index>
+	</word>
+	<word>
+		<lemma>echivalență</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<plural />
+		<definite>echivalența</definite>
+		<swedish>ekvivalent (feminin)</swedish>
+		<english />
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-11-14 05:11:03.889354</index>
+	</word>
+	<word>
+		<lemma>limbaj</lemma>
+		<tag>NOUN</tag>
+		<gender>n</gender>
+		<plural />
+		<definite>limbajul</definite>
+		<swedish>språk</swedish>
+		<english>language</english>
+		<explanation />
+		<example_use />
+		<synonym>vorbire</synonym>
+		<opposite />
+		<counter>1</counter>
+		<index>2023-11-14 05:13:22.538892</index>
+	</word>
+	<word>
+		<lemma>pădure</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<plural />
+		<definite>pădura</definite>
+		<swedish>skog</swedish>
+		<english>forest</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-11-14 05:18:26.115768</index>
+	</word>
+	<word>
+		<lemma>pasăre</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<plural />
+		<definite />
+		<swedish>fågel</swedish>
+		<english>bird</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-11-14 05:21:07.978370</index>
+	</word>
+	<word>
+		<lemma>origine</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<plural />
+		<definite />
+		<swedish>ursprung, källa</swedish>
+		<english>origin, source</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-11-14 05:22:48.945970</index>
+	</word>
+	<word>
+		<lemma>participiu</lemma>
+		<tag>NOUN</tag>
+		<gender>n</gender>
+		<plural />
+		<definite>participiul</definite>
+		<swedish>particip</swedish>
+		<english />
+		<explanation>som 'presens particip'</explanation>
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-11-14 05:27:10.738795</index>
+	</word>
+	<word>
+		<lemma>județ</lemma>
+		<tag>NOUN</tag>
+		<gender>n</gender>
+		<plural />
+		<definite />
+		<swedish>region, grevskap</swedish>
+		<english />
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-11-14 12:07:26.501424</index>
+	</word>
+	<word>
+		<lemma>granița</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<plural />
+		<definite>granița</definite>
+		<swedish>gräns</swedish>
+		<english>border, frontier</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-11-14 14:09:10.916263</index>
+	</word>
+	<word>
+		<tag>VERB</tag>
+		<rules>
+			</rules>
+		<lemma>afla</lemma>
+		<swedish>ta reda på</swedish>
+		<english>find out</english>
+		<sing_1>aflu</sing_1>
+		<sing_2>afli</sing_2>
+		<sing_3>află</sing_3>
+		<plur_1>aflăm</plur_1>
+		<plur_2>aflați</plur_2>
+		<plur_3>află</plur_3>
+		<pret_sing_1>aflam</pret_sing_1>
+		<pret_sing_2>aflai</pret_sing_2>
+		<pret_sing_3>afla</pret_sing_3>
+		<pret_plur_1>aflam</pret_plur_1>
+		<pret_plur_2>aflați</pret_plur_2>
+		<pret_plur_3>aflau</pret_plur_3>
+		<perfekt>aflat</perfekt>
+		<gerunziu>aflând</gerunziu>
+		<conjunctiv_sing1>aflu</conjunctiv_sing1>
+		<conjunctiv_sing2>afli</conjunctiv_sing2>
+		<conjunctiv_sing3>afle</conjunctiv_sing3>
+		<conjunctiv_plur1>aflăm</conjunctiv_plur1>
+		<conjunctiv_plur2>aflați</conjunctiv_plur2>
+		<conjunctiv_plur3>afle</conjunctiv_plur3>
+		<cathegory />
+		<explanation />
+		<example_use />
+		<index>2023-11-14 14:16:06.700052</index>
+		<synonym />
+		<opposite />
+		<spare />
+		<counter>1</counter>
+	</word>
+	<word>
+		<lemma>în</lemma>
+		<tag>ADP</tag>
+		<swedish>i, in i</swedish>
+		<english>in</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-11-14 14:27:53.014584</index>
+	</word>
+	<word>
+		<lemma>fiecare</lemma>
+		<tag>DET</tag>
+		<swedish>varje</swedish>
+		<english>every</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-11-14 18:11:25.328064</index>
+	</word>
+	<word>
+		<lemma>valoare</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<plural />
+		<definite />
+		<swedish>värde</swedish>
+		<english>value</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-11-19 05:30:17.832394</index>
+	</word>
+	<word>
+		<lemma>nevoie</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<plural />
+		<definite />
+		<swedish>behov, nödvändighet</swedish>
+		<english>need, necessity</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-11-19 05:32:14.854924</index>
+	</word>
+	<word>
+		<lemma>nivel</lemma>
+		<tag>NOUN</tag>
+		<gender>n</gender>
+		<plural />
+		<definite>nivelul</definite>
+		<swedish>nivå</swedish>
+		<english>level</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-11-19 05:33:34.746722</index>
+	</word>
+	<word>
+		<lemma>cascadă</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<plural />
+		<definite>cascada</definite>
+		<swedish>kaskad</swedish>
+		<english />
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-11-19 05:35:31.755572</index>
+	</word>
+	<word>
+		<lemma>element</lemma>
+		<tag>NOUN</tag>
+		<gender>n</gender>
+		<plural />
+		<definite>elementul</definite>
+		<swedish>element, faktor</swedish>
+		<english>element, factor</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-11-19 05:40:38.012052</index>
+	</word>
+	<word>
+		<lemma>localitate</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<plural />
+		<definite>localitatea</definite>
+		<swedish>plats, lokalitet</swedish>
+		<english>place, locality</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-11-19 05:43:00.908273</index>
+	</word>
+	<word>
+		<lemma>față</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<plural />
+		<definite>fața</definite>
+		<swedish>ansikte</swedish>
+		<english>face</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-11-19 05:44:51.908835</index>
+	</word>
+	<word>
+		<lemma>pământ</lemma>
+		<tag>NOUN</tag>
+		<gender>n</gender>
+		<plural />
+		<definite>pământul</definite>
+		<swedish>mark, jord (Jorden)</swedish>
+		<english>earth, soil</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-11-19 05:47:37.780984</index>
+	</word>
+	<word>
+		<lemma>posibilitate</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<plural />
+		<definite>posibilitatea</definite>
+		<swedish>möjlighet</swedish>
+		<english>posibility</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-11-19 05:49:52.884978</index>
+	</word>
+	<word>
+		<lemma>verb</lemma>
+		<tag>NOUN</tag>
+		<gender>n</gender>
+		<plural />
+		<definite>verbul</definite>
+		<swedish>verb</swedish>
+		<english>verb</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-11-19 05:51:26.045250</index>
+	</word>
+	<word>
+		<lemma>obiectiv</lemma>
+		<tag>NOUN</tag>
+		<gender>n</gender>
+		<plural />
+		<definite>obiektivul</definite>
+		<swedish>mål, objektiv</swedish>
+		<english>target, objective</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-11-19 05:54:31.431385</index>
+	</word>
+	<word>
+		<lemma>act</lemma>
+		<tag>NOUN</tag>
+		<gender>n</gender>
+		<plural />
+		<definite>actul</definite>
+		<swedish>akt, aktion (även om dokument)</swedish>
+		<english>act, action</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-11-19 05:56:52.042089</index>
+	</word>
+	<word>
+		<tag>ADJ</tag>
+		<lemma>general</lemma>
+		<komparativ />
+		<superlativ />
+		<cathegory />
+		<swedish>allmän, generell</swedish>
+		<english>general, common</english>
+		<explanation />
+		<example_use />
+		<index>2023-11-19 06:03:46.329680</index>
+		<synonym />
+		<opposite />
+		<spare />
+		<counter>1</counter>
+	</word>
+	<word>
+		<lemma>lângă</lemma>
+		<tag>ADP</tag>
+		<swedish>nțra, intill</swedish>
+		<english>near (to), nearby</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-11-19 06:06:22.748511</index>
+	</word>
+	<word>
+		<lemma>ci</lemma>
+		<tag>CCONJ</tag>
+		<swedish>men</swedish>
+		<english>but</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-11-19 06:08:59.267925</index>
+	</word>
+	<word>
+		<tag>ADJ</tag>
+		<lemma>necesar</lemma>
+		<komparativ />
+		<superlativ />
+		<cathegory />
+		<swedish>nödvändig</swedish>
+		<english>necessary</english>
+		<explanation />
+		<example_use />
+		<index>2023-11-19 06:10:39.970346</index>
+		<synonym />
+		<opposite />
+		<spare />
+		<counter>1</counter>
+	</word>
+	<word>
+		<lemma>stațiune</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<plural />
+		<definite>stațiunea</definite>
+		<swedish>stationering, tillflykt</swedish>
+		<english />
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-11-19 06:15:16.333383</index>
+	</word>
+	<word>
+		<lemma>mesaj</lemma>
+		<tag>NOUN</tag>
+		<gender>n</gender>
+		<plural />
+		<definite>mesajul</definite>
+		<swedish>meddelande</swedish>
+		<english>message, call</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-11-19 06:16:52.209266</index>
+	</word>
+	<word>
+		<lemma>temă</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<plural />
+		<definite>tema</definite>
+		<swedish>tema, hemläxa</swedish>
+		<english>theme, homework</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-11-19 06:20:12.276567</index>
+	</word>
 </dictionary>
