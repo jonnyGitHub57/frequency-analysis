@@ -8759,4 +8759,426 @@
 		<counter>1</counter>
 		<index>2023-11-19 06:20:12.276567</index>
 	</word>
+	<word>
+		<lemma>punct</lemma>
+		<tag>NOUN</tag>
+		<gender>n</gender>
+		<plural />
+		<definite>punctul</definite>
+		<swedish>punkt, plats</swedish>
+		<english>point, spot, place</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-11-20 04:53:29.485724</index>
+	</word>
+	<word>
+		<lemma>peste</lemma>
+		<tag>ADP</tag>
+		<swedish>över</swedish>
+		<english>over, across</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-11-20 04:54:50.747898</index>
+	</word>
+	<word>
+		<tag>ADJ</tag>
+		<lemma>turistic</lemma>
+		<komparativ />
+		<superlativ />
+		<cathegory />
+		<swedish>turistisk (?)</swedish>
+		<english>touristic</english>
+		<explanation />
+		<example_use />
+		<index>2023-11-20 04:57:01.010558</index>
+		<synonym />
+		<opposite />
+		<spare />
+		<counter>1</counter>
+	</word>
+	<word>
+		<tag>ADJ</tag>
+		<lemma>european</lemma>
+		<komparativ />
+		<superlativ />
+		<cathegory />
+		<swedish>europeisk</swedish>
+		<english>european</english>
+		<explanation />
+		<example_use />
+		<index>2023-11-20 04:58:21.750261</index>
+		<synonym />
+		<opposite />
+		<spare />
+		<counter>1</counter>
+	</word>
+	<word>
+		<lemma>autoritate</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<plural />
+		<definite>autoritatea</definite>
+		<swedish>auktoritet, myndighet</swedish>
+		<english>authority</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-11-20 05:00:44.277583</index>
+	</word>
+	<word>
+		<lemma>direct</lemma>
+		<tag>ADV</tag>
+		<swedish>direkt, omgående</swedish>
+		<english>directly, immediately</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-11-20 05:02:52.582543</index>
+	</word>
+	<word>
+		<lemma>Brâncuși</lemma>
+		<tag>PROPN</tag>
+		<swedish>Brancusi</swedish>
+		<english>Brâncuși</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-11-20 05:04:18.159046</index>
+	</word>
+	<word>
+		<lemma>activitate</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<plural />
+		<definite>activitatea</definite>
+		<swedish>aktivitet</swedish>
+		<english>activity</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-11-20 05:08:55.816829</index>
+	</word>
+	<word>
+		<tag>VERB</tag>
+		<rules>
+			</rules>
+		<lemma>situa</lemma>
+		<swedish>placera</swedish>
+		<english>place, locate</english>
+		<sing_1>situez</sing_1>
+		<sing_2>situezi</sing_2>
+		<sing_3>situeză</sing_3>
+		<plur_1>situăm</plur_1>
+		<plur_2>situați</plur_2>
+		<plur_3>situeză</plur_3>
+		<pret_sing_1>situam</pret_sing_1>
+		<pret_sing_2>situai</pret_sing_2>
+		<pret_sing_3>situa</pret_sing_3>
+		<pret_plur_1>situam</pret_plur_1>
+		<pret_plur_2>situați</pret_plur_2>
+		<pret_plur_3>situau</pret_plur_3>
+		<perfekt>situat</perfekt>
+		<gerunziu>situând</gerunziu>
+		<conjunctiv_sing1>situez</conjunctiv_sing1>
+		<conjunctiv_sing2>situezi</conjunctiv_sing2>
+		<conjunctiv_sing3>situeze</conjunctiv_sing3>
+		<conjunctiv_plur1>situăm</conjunctiv_plur1>
+		<conjunctiv_plur2>situați</conjunctiv_plur2>
+		<conjunctiv_plur3>situeze</conjunctiv_plur3>
+		<cathegory />
+		<explanation />
+		<example_use />
+		<index>2023-11-28 05:17:34.914160</index>
+		<synonym />
+		<opposite />
+		<spare />
+		<counter>1</counter>
+	</word>
+	<word>
+		<lemma>muncă</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<plural />
+		<definite>munca</definite>
+		<swedish>arbete, jobb</swedish>
+		<english>work, labour</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-11-28 05:20:15.909391</index>
+	</word>
+	<word>
+		<tag>VERB</tag>
+		<rules>
+			</rules>
+		<lemma>exprima</lemma>
+		<swedish>uttrycka, frambringa</swedish>
+		<english>express, convey</english>
+		<sing_1>exprim</sing_1>
+		<sing_2>exprimi</sing_2>
+		<sing_3>exprimă</sing_3>
+		<plur_1>exprimăm</plur_1>
+		<plur_2>exprimați</plur_2>
+		<plur_3>exprimă</plur_3>
+		<pret_sing_1>exprimam</pret_sing_1>
+		<pret_sing_2>exprimai</pret_sing_2>
+		<pret_sing_3>exprima</pret_sing_3>
+		<pret_plur_1>exprimam</pret_plur_1>
+		<pret_plur_2>exprimați</pret_plur_2>
+		<pret_plur_3>exprimau</pret_plur_3>
+		<perfekt>exprimat</perfekt>
+		<gerunziu>exprimând</gerunziu>
+		<conjunctiv_sing1>exprim</conjunctiv_sing1>
+		<conjunctiv_sing2>exprimi</conjunctiv_sing2>
+		<conjunctiv_sing3>exprime</conjunctiv_sing3>
+		<conjunctiv_plur1>exprimăm</conjunctiv_plur1>
+		<conjunctiv_plur2>exprimați</conjunctiv_plur2>
+		<conjunctiv_plur3>exprime</conjunctiv_plur3>
+		<cathegory />
+		<explanation />
+		<example_use />
+		<index>2023-11-28 05:28:31.072036</index>
+		<synonym />
+		<opposite />
+		<spare />
+		<counter>1</counter>
+	</word>
+	<word>
+		<tag>ADJ</tag>
+		<lemma>civil</lemma>
+		<komparativ />
+		<superlativ />
+		<cathegory />
+		<swedish>civil</swedish>
+		<english>civilian</english>
+		<explanation />
+		<example_use />
+		<index>2023-11-28 05:31:30.849879</index>
+		<synonym />
+		<opposite>â</opposite>
+		<spare />
+		<counter>1</counter>
+	</word>
+	<word>
+		<tag>ADJ</tag>
+		<lemma>personal</lemma>
+		<komparativ />
+		<superlativ />
+		<cathegory />
+		<swedish>personlig</swedish>
+		<english>personal</english>
+		<explanation />
+		<example_use />
+		<index>2023-11-28 05:32:36.438115</index>
+		<synonym />
+		<opposite />
+		<spare />
+		<counter>1</counter>
+	</word>
+	<word>
+		<tag>ADJ</tag>
+		<lemma>judiciar</lemma>
+		<komparativ />
+		<superlativ />
+		<cathegory />
+		<swedish>rättslig</swedish>
+		<english />
+		<explanation />
+		<example_use />
+		<index>2023-11-28 05:35:11.724116</index>
+		<synonym />
+		<opposite />
+		<spare />
+		<counter>1</counter>
+	</word>
+	<word>
+		<lemma>s</lemma>
+		<tag>X</tag>
+		<swedish>S</swedish>
+		<english />
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-11-28 05:36:26.836091</index>
+	</word>
+	<word>
+		<lemma>precum</lemma>
+		<tag>CCONJ</tag>
+		<swedish>som, så som</swedish>
+		<english>as</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-11-28 05:39:17.906697</index>
+	</word>
+	<word>
+		<lemma>lume</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<plural />
+		<definite>lumea</definite>
+		<swedish>värld</swedish>
+		<english />
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-11-29 05:30:45.237204</index>
+	</word>
+	<word>
+		<lemma>dificultate</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<plural />
+		<definite>dificultatea</definite>
+		<swedish>svårighet</swedish>
+		<english>difficulty</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-11-29 05:34:06.135913</index>
+	</word>
+	<word>
+		<lemma>curs</lemma>
+		<tag>NOUN</tag>
+		<gender>n</gender>
+		<plural />
+		<definite>cursul</definite>
+		<swedish>kurs, flöde</swedish>
+		<english>course, flow</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-11-29 05:37:11.313142</index>
+	</word>
+	<word>
+		<lemma>capacitate</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<plural />
+		<definite>capacitatea</definite>
+		<swedish>kapacitet</swedish>
+		<english>capacity, volume</english>
+		<explanation />
+		<example_use />
+		<synonym>aptitudine</synonym>
+		<opposite />
+		<counter>1</counter>
+		<index>2023-11-29 05:46:06.633837</index>
+	</word>
+	<word>
+		<lemma>document</lemma>
+		<tag>NOUN</tag>
+		<gender>n</gender>
+		<plural />
+		<definite>documentul</definite>
+		<swedish>dokument, akt</swedish>
+		<english>document, file</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-11-29 05:50:37.864356</index>
+	</word>
+	<word>
+		<lemma>număr</lemma>
+		<tag>NOUN</tag>
+		<gender>n</gender>
+		<plural />
+		<definite>numărul</definite>
+		<swedish>siffra, antal</swedish>
+		<english />
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-11-29 05:55:21.650456</index>
+	</word>
+	<word>
+		<lemma>frumusețe</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<plural />
+		<definite>frumusețea</definite>
+		<swedish>skönhet</swedish>
+		<english>beauty</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-11-29 05:57:46.272244</index>
+	</word>
+	<word>
+		<lemma>adaptare</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<plural />
+		<definite>adaptarea</definite>
+		<swedish>anpassning</swedish>
+		<english>adaptation</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-11-29 06:00:38.193876</index>
+	</word>
+	<word>
+		<lemma>mediu</lemma>
+		<tag>NOUN</tag>
+		<gender>n</gender>
+		<plural />
+		<definite>mediul</definite>
+		<swedish>miljö, medium, omgivning</swedish>
+		<english>environment, media</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-11-29 06:03:43.625688</index>
+	</word>
+	<word>
+		<lemma>bază</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<plural />
+		<definite />
+		<swedish>bas, grund</swedish>
+		<english>base, foundation</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-11-29 06:06:35.516393</index>
+	</word>
 </dictionary>
