@@ -9181,4 +9181,220 @@
 		<counter>1</counter>
 		<index>2023-11-29 06:06:35.516393</index>
 	</word>
+	<word>
+		<tag>VERB</tag>
+		<rules>
+			</rules>
+		<lemma>oferi</lemma>
+		<swedish>erbjuda, offerera</swedish>
+		<english>offer</english>
+		<sing_1>ofer</sing_1>
+		<sing_2>oferi</sing_2>
+		<sing_3>oferă</sing_3>
+		<plur_1>oferim</plur_1>
+		<plur_2>oferiți</plur_2>
+		<plur_3>oferă</plur_3>
+		<pret_sing_1>ofeream</pret_sing_1>
+		<pret_sing_2>ofereai</pret_sing_2>
+		<pret_sing_3>oferea</pret_sing_3>
+		<pret_plur_1>ofeream</pret_plur_1>
+		<pret_plur_2>ofereați</pret_plur_2>
+		<pret_plur_3>ofereau</pret_plur_3>
+		<perfekt>oferit</perfekt>
+		<gerunziu>oferind</gerunziu>
+		<conjunctiv_sing1>ofer</conjunctiv_sing1>
+		<conjunctiv_sing2>oferi</conjunctiv_sing2>
+		<conjunctiv_sing3>ofere</conjunctiv_sing3>
+		<conjunctiv_plur1>oferim</conjunctiv_plur1>
+		<conjunctiv_plur2>oferiți</conjunctiv_plur2>
+		<conjunctiv_plur3>ofere</conjunctiv_plur3>
+		<cathegory>vt</cathegory>
+		<explanation />
+		<example_use />
+		<index>2023-11-30 05:08:30.286757</index>
+		<synonym />
+		<opposite />
+		<spare />
+		<counter>1</counter>
+	</word>
+	<word>
+		<tag>VERB</tag>
+		<rules>
+			</rules>
+		<lemma>construi</lemma>
+		<swedish>bygga</swedish>
+		<english>build, construct</english>
+		<sing_1>construiesc</sing_1>
+		<sing_2>construiești</sing_2>
+		<sing_3>construiește</sing_3>
+		<plur_1>construim</plur_1>
+		<plur_2>construiți</plur_2>
+		<plur_3>construiesc</plur_3>
+		<pret_sing_1>construiam</pret_sing_1>
+		<pret_sing_2>construiai</pret_sing_2>
+		<pret_sing_3>construia</pret_sing_3>
+		<pret_plur_1>construiam</pret_plur_1>
+		<pret_plur_2>construiați</pret_plur_2>
+		<pret_plur_3>construiau</pret_plur_3>
+		<perfekt>construit</perfekt>
+		<gerunziu>construind</gerunziu>
+		<conjunctiv_sing1>construiesc</conjunctiv_sing1>
+		<conjunctiv_sing2>construiești</conjunctiv_sing2>
+		<conjunctiv_sing3>construiască</conjunctiv_sing3>
+		<conjunctiv_plur1>construim</conjunctiv_plur1>
+		<conjunctiv_plur2>construiți</conjunctiv_plur2>
+		<conjunctiv_plur3>construiască</conjunctiv_plur3>
+		<cathegory>vt</cathegory>
+		<explanation />
+		<example_use />
+		<index>2023-11-30 05:14:13.246033</index>
+		<synonym />
+		<opposite />
+		<spare />
+		<counter>1</counter>
+	</word>
+	<word>
+		<tag>VERB</tag>
+		<rules>
+			</rules>
+		<lemma>traduce</lemma>
+		<swedish>översätta</swedish>
+		<english>translate</english>
+		<sing_1>traduc</sing_1>
+		<sing_2>traduci</sing_2>
+		<sing_3>traduce</sing_3>
+		<plur_1>traducem</plur_1>
+		<plur_2>traduceți</plur_2>
+		<plur_3>traduc</plur_3>
+		<pret_sing_1>traduceam</pret_sing_1>
+		<pret_sing_2>traduceai</pret_sing_2>
+		<pret_sing_3>traducea</pret_sing_3>
+		<pret_plur_1>traduceam</pret_plur_1>
+		<pret_plur_2>traduceați</pret_plur_2>
+		<pret_plur_3>traduceau</pret_plur_3>
+		<perfekt>tradus</perfekt>
+		<gerunziu>traducând</gerunziu>
+		<conjunctiv_sing1>traduc</conjunctiv_sing1>
+		<conjunctiv_sing2>traduci</conjunctiv_sing2>
+		<conjunctiv_sing3>traducă</conjunctiv_sing3>
+		<conjunctiv_plur1>traducem</conjunctiv_plur1>
+		<conjunctiv_plur2>traduceți</conjunctiv_plur2>
+		<conjunctiv_plur3>traducă</conjunctiv_plur3>
+		<cathegory>vt</cathegory>
+		<explanation />
+		<example_use />
+		<index>2023-11-30 05:19:49.171204</index>
+		<synonym />
+		<opposite />
+		<spare />
+		<counter>1</counter>
+	</word>
+	<word>
+		<tag>VERB</tag>
+		<rules>
+			</rules>
+		<lemma>privi</lemma>
+		<swedish>se, titta</swedish>
+		<english>look, gaze</english>
+		<sing_1>privesc</sing_1>
+		<sing_2>privești</sing_2>
+		<sing_3>privește</sing_3>
+		<plur_1>privim</plur_1>
+		<plur_2>priviți</plur_2>
+		<plur_3>privesc</plur_3>
+		<pret_sing_1>priveam</pret_sing_1>
+		<pret_sing_2>priveai</pret_sing_2>
+		<pret_sing_3>privea</pret_sing_3>
+		<pret_plur_1>priveam</pret_plur_1>
+		<pret_plur_2>priveați</pret_plur_2>
+		<pret_plur_3>priveau</pret_plur_3>
+		<perfekt>privit</perfekt>
+		<gerunziu>privind</gerunziu>
+		<conjunctiv_sing1>privesc</conjunctiv_sing1>
+		<conjunctiv_sing2>privești</conjunctiv_sing2>
+		<conjunctiv_sing3>privească</conjunctiv_sing3>
+		<conjunctiv_plur1>privim</conjunctiv_plur1>
+		<conjunctiv_plur2>priviți</conjunctiv_plur2>
+		<conjunctiv_plur3>privească</conjunctiv_plur3>
+		<cathegory>vt</cathegory>
+		<explanation />
+		<example_use />
+		<index>2023-12-01 05:13:57.819678</index>
+		<synonym />
+		<opposite />
+		<spare />
+		<counter>1</counter>
+	</word>
+	<word>
+		<tag>VERB</tag>
+		<rules>
+			</rules>
+		<lemma>reprezenta</lemma>
+		<swedish>representera</swedish>
+		<english>represent</english>
+		<sing_1>reprezint</sing_1>
+		<sing_2>reprezinți</sing_2>
+		<sing_3>reprezintă</sing_3>
+		<plur_1>reprezentăm</plur_1>
+		<plur_2>reprezentați</plur_2>
+		<plur_3>reprezintă</plur_3>
+		<pret_sing_1>reprezenteam</pret_sing_1>
+		<pret_sing_2>reprezenteai</pret_sing_2>
+		<pret_sing_3>reprezentea</pret_sing_3>
+		<pret_plur_1>reprezenteam</pret_plur_1>
+		<pret_plur_2>reprezenteați</pret_plur_2>
+		<pret_plur_3>reprezenteau</pret_plur_3>
+		<perfekt>reprezentat</perfekt>
+		<gerunziu>reprezentând</gerunziu>
+		<conjunctiv_sing1>reprezint</conjunctiv_sing1>
+		<conjunctiv_sing2>reprezinți</conjunctiv_sing2>
+		<conjunctiv_sing3>reprezinte</conjunctiv_sing3>
+		<conjunctiv_plur1>reprezentăm</conjunctiv_plur1>
+		<conjunctiv_plur2>reprezentați</conjunctiv_plur2>
+		<conjunctiv_plur3>reprezinte</conjunctiv_plur3>
+		<cathegory>vt</cathegory>
+		<explanation />
+		<example_use />
+		<index>2023-12-01 05:23:46.308245</index>
+		<synonym />
+		<opposite />
+		<spare />
+		<counter>1</counter>
+	</word>
+	<word>
+		<tag>VERB</tag>
+		<rules>
+			</rules>
+		<lemma>deveni</lemma>
+		<swedish>bli</swedish>
+		<english>become</english>
+		<sing_1>devin</sing_1>
+		<sing_2>devii</sing_2>
+		<sing_3>devine</sing_3>
+		<plur_1>devenim</plur_1>
+		<plur_2>deveniți</plur_2>
+		<plur_3>devin</plur_3>
+		<pret_sing_1>deveneam</pret_sing_1>
+		<pret_sing_2>deveneai</pret_sing_2>
+		<pret_sing_3>devenea</pret_sing_3>
+		<pret_plur_1>deveneam</pret_plur_1>
+		<pret_plur_2>deveneați</pret_plur_2>
+		<pret_plur_3>deveneau</pret_plur_3>
+		<perfekt>devenit</perfekt>
+		<gerunziu>devenind</gerunziu>
+		<conjunctiv_sing1>devin</conjunctiv_sing1>
+		<conjunctiv_sing2>devii</conjunctiv_sing2>
+		<conjunctiv_sing3>devină</conjunctiv_sing3>
+		<conjunctiv_plur1>devenim</conjunctiv_plur1>
+		<conjunctiv_plur2>deveniți</conjunctiv_plur2>
+		<conjunctiv_plur3>devină</conjunctiv_plur3>
+		<cathegory>vi</cathegory>
+		<explanation />
+		<example_use />
+		<index>2023-12-01 05:32:49.187676</index>
+		<synonym />
+		<opposite />
+		<spare />
+		<counter>1</counter>
+	</word>
 </dictionary>
