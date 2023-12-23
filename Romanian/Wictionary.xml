@@ -9397,4 +9397,462 @@
 		<spare />
 		<counter>1</counter>
 	</word>
+	<word>
+		<lemma>articol</lemma>
+		<tag>NOUN</tag>
+		<gender>n</gender>
+		<plural />
+		<definite>articolul</definite>
+		<swedish>artikel</swedish>
+		<english>article</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-12-09 19:51:10.490033</index>
+	</word>
+	<word>
+		<lemma>proiect</lemma>
+		<tag>NOUN</tag>
+		<gender>n</gender>
+		<plural />
+		<definite>proiectul</definite>
+		<swedish>projekt</swedish>
+		<english>project</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-12-09 19:53:06.518631</index>
+	</word>
+	<word>
+		<lemma>rol</lemma>
+		<tag>NOUN</tag>
+		<gender>n</gender>
+		<plural />
+		<definite>rolul</definite>
+		<swedish>roll</swedish>
+		<english>role, part</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-12-09 20:01:50.588035</index>
+	</word>
+	<word>
+		<lemma>imagine</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<plural />
+		<definite>imaginea</definite>
+		<swedish>bild</swedish>
+		<english>image</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-12-09 20:06:39.021018</index>
+	</word>
+	<word>
+		<lemma>ajutor</lemma>
+		<tag>NOUN</tag>
+		<gender>n</gender>
+		<plural />
+		<definite>ajutorul</definite>
+		<swedish>hjälp</swedish>
+		<english>help</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-12-09 20:09:37.391155</index>
+	</word>
+	<word>
+		<lemma>interpret</lemma>
+		<tag>NOUN</tag>
+		<gender>n</gender>
+		<plural />
+		<definite />
+		<swedish>tolk, översättare</swedish>
+		<english>interpreter</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-12-09 20:14:22.765350</index>
+	</word>
+	<word>
+		<lemma>decât</lemma>
+		<tag>ADV</tag>
+		<swedish>än</swedish>
+		<english>than</english>
+		<explanation>vid jämförelse</explanation>
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-12-11 05:13:10.760200</index>
+	</word>
+	<word>
+		<tag>ADJ</tag>
+		<lemma>respectiv</lemma>
+		<komparativ />
+		<superlativ />
+		<cathegory />
+		<swedish>respektive</swedish>
+		<english>respective</english>
+		<explanation />
+		<example_use />
+		<index>2023-12-11 05:14:54.409634</index>
+		<synonym />
+		<opposite />
+		<spare />
+		<counter>1</counter>
+	</word>
+	<word>
+		<tag>ADJ</tag>
+		<lemma>oral</lemma>
+		<komparativ />
+		<superlativ />
+		<cathegory />
+		<swedish>oral, muntlig</swedish>
+		<english>oral</english>
+		<explanation />
+		<example_use />
+		<index>2023-12-11 05:15:39.967176</index>
+		<synonym />
+		<opposite />
+		<spare />
+		<counter>1</counter>
+	</word>
+	<word>
+		<lemma>hotărâre</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<plural />
+		<definite>hotărârea</definite>
+		<swedish>beslut</swedish>
+		<english>decision</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-12-11 05:17:38.056591</index>
+	</word>
+	<word>
+		<lemma>izvor</lemma>
+		<tag>NOUN</tag>
+		<gender>n</gender>
+		<plural />
+		<definite>izvorul</definite>
+		<swedish>källa</swedish>
+		<english>spring, source</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-12-11 05:22:32.187832</index>
+	</word>
+	<word>
+		<lemma>stat</lemma>
+		<tag>NOUN</tag>
+		<gender>n</gender>
+		<plural />
+		<definite>statul</definite>
+		<swedish>stat</swedish>
+		<english>state, government</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-12-11 19:42:04.851912</index>
+	</word>
+	<word>
+		<lemma>metru</lemma>
+		<tag>NOUN</tag>
+		<gender>n</gender>
+		<plural />
+		<definite>metrul</definite>
+		<swedish>meter</swedish>
+		<english>meter</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-12-11 19:44:36.179105</index>
+	</word>
+	<word>
+		<lemma>analiză</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<plural />
+		<definite>analiza</definite>
+		<swedish>analys</swedish>
+		<english>analysis</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-12-11 19:48:29.101828</index>
+	</word>
+	<word>
+		<tag>ADJ</tag>
+		<lemma>social</lemma>
+		<komparativ />
+		<superlativ />
+		<cathegory />
+		<swedish>social</swedish>
+		<english>social</english>
+		<explanation />
+		<example_use />
+		<index>2023-12-11 19:50:03.475000</index>
+		<synonym />
+		<opposite />
+		<spare />
+		<counter>1</counter>
+	</word>
+	<word>
+		<lemma>idee</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<plural />
+		<definite />
+		<swedish>idé, aning</swedish>
+		<english>idea, notion</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-12-11 20:13:58.103376</index>
+	</word>
+	<word>
+		<lemma>temei</lemma>
+		<tag>NOUN</tag>
+		<gender>n</gender>
+		<plural />
+		<definite />
+		<swedish>grund</swedish>
+		<english>foundation</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-12-11 20:18:39.011210</index>
+	</word>
+	<word>
+		<tag>ADJ</tag>
+		<lemma>lingvistic</lemma>
+		<komparativ />
+		<superlativ />
+		<cathegory />
+		<swedish>språklig</swedish>
+		<english>linvistic</english>
+		<explanation />
+		<example_use />
+		<index>2023-12-11 20:36:57.748420</index>
+		<synonym />
+		<opposite />
+		<spare />
+		<counter>1</counter>
+	</word>
+	<word>
+		<lemma>septembrie</lemma>
+		<tag>NOUN</tag>
+		<gender>n</gender>
+		<plural />
+		<definite />
+		<swedish>september</swedish>
+		<english>September</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-12-11 20:38:36.694358</index>
+	</word>
+	<word>
+		<lemma>obsesie</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<plural />
+		<definite />
+		<swedish>besatthet</swedish>
+		<english>obsession</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-12-14 05:04:16.403177</index>
+	</word>
+	<word>
+		<lemma>dulap</lemma>
+		<tag>NOUN</tag>
+		<gender>n</gender>
+		<plural />
+		<definite />
+		<swedish>skåp</swedish>
+		<english>cabinet, cupboard</english>
+		<explanation>~ pentru haine = garderob</explanation>
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-12-14 05:06:40.353671</index>
+	</word>
+	<word>
+		<lemma>șifonier</lemma>
+		<tag>NOUN</tag>
+		<gender>n</gender>
+		<plural />
+		<definite />
+		<swedish>garderob</swedish>
+		<english>wardrobe</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-12-14 05:08:41.942805</index>
+	</word>
+	<word>
+		<tag>VERB</tag>
+		<rules>
+			</rules>
+		<lemma>primi</lemma>
+		<swedish>motta</swedish>
+		<english>receive</english>
+		<sing_1>primesc</sing_1>
+		<sing_2>primești</sing_2>
+		<sing_3>primește</sing_3>
+		<plur_1>primim</plur_1>
+		<plur_2>primiți</plur_2>
+		<plur_3>primesc</plur_3>
+		<pret_sing_1>primeam</pret_sing_1>
+		<pret_sing_2>primeai</pret_sing_2>
+		<pret_sing_3>primea</pret_sing_3>
+		<pret_plur_1>primeam</pret_plur_1>
+		<pret_plur_2>primeați</pret_plur_2>
+		<pret_plur_3>primeau</pret_plur_3>
+		<perfekt>primit</perfekt>
+		<gerunziu>primind</gerunziu>
+		<conjunctiv_sing1>primesc</conjunctiv_sing1>
+		<conjunctiv_sing2>primești</conjunctiv_sing2>
+		<conjunctiv_sing3>primească</conjunctiv_sing3>
+		<conjunctiv_plur1>primim</conjunctiv_plur1>
+		<conjunctiv_plur2>primiți</conjunctiv_plur2>
+		<conjunctiv_plur3>primească</conjunctiv_plur3>
+		<cathegory>vt</cathegory>
+		<explanation />
+		<example_use />
+		<index>2023-12-14 05:22:28.124340</index>
+		<synonym />
+		<opposite />
+		<spare />
+		<counter>1</counter>
+	</word>
+	<word>
+		<lemma>secol</lemma>
+		<tag>NOUN</tag>
+		<gender>n</gender>
+		<plural />
+		<definite>secolul</definite>
+		<swedish>århundrade</swedish>
+		<english>century</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-12-15 05:26:16.368899</index>
+	</word>
+	<word>
+		<lemma>personaj</lemma>
+		<tag>NOUN</tag>
+		<gender>n</gender>
+		<plural />
+		<definite />
+		<swedish>karaktär</swedish>
+		<english>porsonage, character</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-12-15 05:28:21.227208</index>
+	</word>
+	<word>
+		<lemma>relație</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<plural />
+		<definite>relația</definite>
+		<swedish>relation</swedish>
+		<english>relationship</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-12-15 05:33:13.413977</index>
+	</word>
+	<word>
+		<tag>ADJ</tag>
+		<lemma>natural</lemma>
+		<komparativ />
+		<superlativ />
+		<cathegory />
+		<swedish>naturlig</swedish>
+		<english>natural</english>
+		<explanation />
+		<example_use>gaz natural</example_use>
+		<index>2023-12-15 05:34:01.893498</index>
+		<synonym />
+		<opposite />
+		<spare />
+		<counter>1</counter>
+	</word>
+	<word>
+		<lemma>construcție</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<plural />
+		<definite>construcția</definite>
+		<swedish>konstruktion, struktur</swedish>
+		<english>construction, structure</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-12-15 05:36:56.085951</index>
+	</word>
+	<word>
+		<lemma>întrebare</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<plural>întrebări</plural>
+		<definite>întrebarea</definite>
+		<swedish>fråga</swedish>
+		<english>question</english>
+		<explanation />
+		<example_use>Am o întrebare</example_use>
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2023-12-22 07:36:24.146924</index>
+	</word>
 </dictionary>
