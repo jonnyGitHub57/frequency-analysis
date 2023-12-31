@@ -9855,4 +9855,19 @@
 		<counter>1</counter>
 		<index>2023-12-22 07:36:24.146924</index>
 	</word>
+	<word>
+		<lemma>vorbă</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<plural />
+		<definite>vorba</definite>
+		<swedish>ord</swedish>
+		<english>word</english>
+		<explanation />
+		<example_use />
+		<synonym>cuvânt</synonym>
+		<opposite />
+		<counter>1</counter>
+		<index>2023-12-31 06:11:33.665720</index>
+	</word>
 </dictionary>

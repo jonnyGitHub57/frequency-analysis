@@ -9,7 +9,7 @@ Created on Tue Dec  5 04:44:06 2023
 import easygui
 import re
 import os
-import ntpath
+
 
 
 
@@ -18,11 +18,14 @@ source_file = easygui.fileopenbox()
 Strip away the path and search the xml-file for previous use of
 the selected file (name).
 """
-full_path, file_name = os.path.split(source_file)
-print(f'File: {os.path.basename(source_file)}')
-print('Path: ', full_path)
-print('File name: ', file_name)
-
 file_name, file_ext = os.path.splitext(source_file)
-print(file_ext)
-print(source_file)
+full_path, file_name = os.path.split(source_file)
+head, category = os.path.split(full_path)
+
+if file_ext.lower() == '.txt' or file_ext.lower == '.pdf':
+    print('The source file will be analysed by Stanza')
+elif file_ext.lower() == '.pdf':
+    print('The pdf-file will have its text extracted')
+else:
+    print('The file extension indicates an unsupported file format')
+    print('If the file is a text or pdf file, rename it and re-try')

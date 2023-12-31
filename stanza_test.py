@@ -15,6 +15,7 @@ Created on Fri Jan 21 04:47:28 2022
 """
 
 import sys # Needed by stanza to download files
+import os
 import pdfplumber
 import easygui
 import re
@@ -41,6 +42,7 @@ class XML_statistics(object):
         self.debug = Debug
         # self.data_file = './Wictionary_{}.xml'.format(self.language)
         self.data_file = './' + self.language + '/Frequency_dict.xml'
+        self.log_file = './' + self.language + '/stanza_logfile.txt'
         self.language_code = {'Nederlands': 'nl', 'Romanian': 'ro'} \
                                                         .get(language, 'ro')
         # self.tree = ET.parse('nl_dictionary.xml')
@@ -256,7 +258,7 @@ if __name__=='__main__':
         None.
 
         """
-        def tag_text_file(file_to_tag):
+        def tag_text_file(file_to_tag, category):
             """
             Run page-by-page through the Stanza pipeline for text analysis
             The stanza 'doc format' is converted to a N-size list  
@@ -298,6 +300,7 @@ if __name__=='__main__':
                                 dict_to_add = doc_dict[sent_index][word_index]
                                 dict_to_add['lemma'] = new_lemma
                                 dict_to_add['counter'] = '1'
+                                dict_to_add['category'] = '1'
                                 dict_to_add['index'] = str(datetime.now())
                                 this_language.addElement(dict_to_add)
                             else:
@@ -316,29 +319,45 @@ if __name__=='__main__':
                 print('\r\nFinished\r\n')
                         
         """
-        Main code
+        Ask the user for a file to analyze
         """
-        file_in_use = True
-        while file_in_use == True:
-            source_file = easygui.fileopenbox()
-            """
-            Strip away the path and search the xml-file for previous use of
-            the selected file (name).
-            """
-            file_name = re.split(r'[\/]', source_file)[-1]
+        file_in_use = False
+        
+        source_file = easygui.fileopenbox()
+        """
+        Strip away the path and search the xml-file for previous use of
+        the selected file (name).
+        """
+        file_name, file_ext = os.path.splitext(source_file)
+        full_path, file_name = os.path.split(source_file)
+        head, category = os.path.split(full_path)
+        print(f'File {file_name} has the extension {file_ext}')
+        
+        if file_ext.lower() == '.txt' or file_ext.lower() == '.pdf':
             found_files = this_language.find_file_in_tree(file_name)
             if found_files == []:
                 file_in_use = False
-                
             else:
                 file_in_use = (input('File in use. Use anyway Y/n: ') != 'Y')
-        try:
-            if not file_name.lower().endswith('.pdf') and not \
-                                            file_name.lower().endswith('.txt'):
-                print('Unsupported file! File extension is not .pdf och .txt')
-                print('Please check and try again')
+            
+            if file_in_use:
+                pass
             else:
-                if file_name.lower().endswith('.pdf'):
+                """
+                Add the file name to the list of used files in the XML-file
+                and analyze the file. Pdf-files get the text body extracted
+                before running POS-tagging
+                """
+                
+                source_file_dict = {'filename': source_file}                
+                start_time = time.time()
+                entries_before = romanian.number_entries()
+                
+                if file_ext == '.txt':
+                    print(f'Adding {file_name} to the xml-file')
+                    this_language.addElement(source_file_dict, header='source_file')
+                    tag_text_file(source_file, category)
+                else:
                     print('Analyzing pdf-file: ', file_name)            
                     pdf_file = pdfplumber.open(source_file)
                     totalpages = len(pdf_file.pages)
@@ -354,9 +373,8 @@ if __name__=='__main__':
                     """
                     Create file information to add to the xml-file
                     """
-                    print(f'Adding {file_name} to the xml-file')
-                    source_file_dict = {'filename': source_file}
                     source_file_dict['No_pdf_pages'] = str(totalpages)
+                    print(f'Adding {file_name} to the xml-file')
                     this_language.addElement(source_file_dict, header='source_file')
                     # Remove characters that do not belong to words
                     remove_chars = ':,;[]0123456789'
@@ -381,24 +399,18 @@ if __name__=='__main__':
                             print(f'Page nr: {i + 1}\r\n')
                     text_file.close()
                     pdf_file.close()
-                    tag_text_file('datafile.txt')
+                    tag_text_file('datafile.txt', category)
                     
-                else: 
-                    """
-                    Analyze a .txt file instead of a pdf-file. Assume that it
-                    is properly formatted to suit stanza nlp tool kit
-                    """
-                    print('Analyzing text-file', file_name)
-                    print(f'Adding {file_name} to the xml-file')
-                    source_file_dict = {'filename': source_file}
-                    # source_file_dict['No_pdf_pages'] = str(totalpages)
-                    this_language.addElement(source_file_dict, header='source_file')
-                    tag_text_file(source_file)
                 """
                 Summarize the analysis and print the N most frequent entries
+                Add info the log file
                 """
+                end_time = time.time()
+                entries_after = romanian.number_entries()
+                entries_added = entries_after - entries_before
+                elapsed_time = round(end_time - start_time)
                 Nr_entries = 20
-                print('Antal entries: {}'.format(romanian.number_entries()))
+                print('Antal entries: {}'.format(entries_after))
                 print('The {} most frequent entries:'.format(Nr_entries))
                 elements = romanian.get_sorted_data()
                 for i in range (0, Nr_entries):
@@ -406,11 +418,20 @@ if __name__=='__main__':
                     counter = int(word.find('counter').text)
                     name = word.find('lemma').text
                     print('{}: {}'.format(name, counter))
+                print(f'The analysis took: {elapsed_time} seconds')
+                print(f'Number of added entries: {entries_added}')
                 print(f'Updating XML data file {this_language.data_file}')
                 this_language.xml_tree2file()
+                
+                with open(this_language.log_file, 'a') as my_logfile:
+                    my_logfile.write('\r\n*******************************\r\n')
+                    my_logfile.write(f'File: {source_file}\r\n')
+                    my_logfile.write(f'Number of added entries: {entries_added}\r\n')
+                    my_logfile.write(f'Elapsed time: {elapsed_time} seconds\r\n')
+                    
+        else:
+            print('The file format is not supported')
             
-        except:
-            print('Felaktigt filnamn eller filen saknas')
         return(this_language)
 
     

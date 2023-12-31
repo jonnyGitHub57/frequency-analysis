@@ -237,6 +237,7 @@ if __name__=='__main__':
             print('The word is added based on its tag (ordklass)')
             input_word = input('The word to add <enter> for suggests: ')
             elements = this_language.sorted_freq_data
+            filter_upos = ['PUNCT', 'X', 'PROPN', 'SYM']
             count = 1
             while input_word == '':
                 i = 1
@@ -246,7 +247,7 @@ if __name__=='__main__':
                     counter = int(word.find('counter').text)
                     lemma = word.find('lemma').text
                     count += 1
-                    if this_language.find_lemma(lemma, upos_tag) != []:
+                    if upos_tag in filter_upos or this_language.find_lemma(lemma, upos_tag) != []:
                         pass
                     else:
                         print(f'({upos_tag.lower()}) {lemma}: {counter}')

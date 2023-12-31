@@ -1,0 +1,14 @@
+*******************************
+Run POS tagging on /home/jonny/Documents/Studier/Lingvistik/Datorlingvistik/romaniancorpus/Corpus_Data/Written Language/Romane - Novels/Liviu Rebreanu_ Moromeții.txt
+Number of added entries: 6097
+Analysis time: -100.240877866745 seconds
+*******************************
+File: /home/jonny/Documents/Studier/Lingvistik/Datorlingvistik/romaniancorpus/Corpus_Data/Written Language/Romane - Novels/Ion Luca Caragiale_În vreme de război.txt
+Number of added entries: 6903
+Time: 140 seconds
+
+
+*******************************
+File: /home/jonny/Documents/Studier/Lingvistik/Datorlingvistik/romaniancorpus/Corpus_Data/Written Language/Romane - Novels/Ioan Slavici_ Padureancă.txt
+Number of added entries: 34198
+Elapsed time: 670 seconds
