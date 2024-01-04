@@ -9870,4 +9870,227 @@
 		<counter>1</counter>
 		<index>2023-12-31 06:11:33.665720</index>
 	</word>
+	<word>
+		<tag>VERB</tag>
+		<rules>
+			</rules>
+		<lemma>ști</lemma>
+		<swedish>känna till</swedish>
+		<english>know</english>
+		<sing_1>știu</sing_1>
+		<sing_2>știi</sing_2>
+		<sing_3>știe</sing_3>
+		<plur_1>știm</plur_1>
+		<plur_2>știți</plur_2>
+		<plur_3>știu</plur_3>
+		<pret_sing_1>știam</pret_sing_1>
+		<pret_sing_2>știai</pret_sing_2>
+		<pret_sing_3>știa</pret_sing_3>
+		<pret_plur_1>știam</pret_plur_1>
+		<pret_plur_2>știați</pret_plur_2>
+		<pret_plur_3>știau</pret_plur_3>
+		<perfekt>știut</perfekt>
+		<gerunziu>știind</gerunziu>
+		<conjunctiv_sing1>știu</conjunctiv_sing1>
+		<conjunctiv_sing2>știi</conjunctiv_sing2>
+		<conjunctiv_sing3>știe</conjunctiv_sing3>
+		<conjunctiv_plur1>știm</conjunctiv_plur1>
+		<conjunctiv_plur2>știți</conjunctiv_plur2>
+		<conjunctiv_plur3>știe</conjunctiv_plur3>
+		<cathegory>vt</cathegory>
+		<explanation />
+		<example_use>Este știut că oamenii dorm noaptea</example_use>
+		<index>2024-01-01 05:52:17.070607</index>
+		<synonym />
+		<opposite />
+		<spare />
+		<counter>1</counter>
+	</word>
+	<word>
+		<lemma>viitor</lemma>
+		<tag>NOUN</tag>
+		<gender>n</gender>
+		<plural />
+		<definite>viitorul</definite>
+		<swedish>framtid</swedish>
+		<english>future</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-01-01 06:00:15.494595</index>
+	</word>
+	<word>
+		<lemma>poate</lemma>
+		<tag>ADV</tag>
+		<swedish>kanske</swedish>
+		<english>maybe, perhaps</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-01-01 14:58:44.678889</index>
+	</word>
+	<word>
+		<tag>VERB</tag>
+		<rules>
+			</rules>
+		<lemma>spera</lemma>
+		<swedish>hoppas</swedish>
+		<english>hope</english>
+		<sing_1>sper</sing_1>
+		<sing_2>speri</sing_2>
+		<sing_3>speră</sing_3>
+		<plur_1>sperăm</plur_1>
+		<plur_2>sperați</plur_2>
+		<plur_3>speră</plur_3>
+		<pret_sing_1>speram</pret_sing_1>
+		<pret_sing_2>sperai</pret_sing_2>
+		<pret_sing_3>spera</pret_sing_3>
+		<pret_plur_1>speram</pret_plur_1>
+		<pret_plur_2>sperați</pret_plur_2>
+		<pret_plur_3>sperau</pret_plur_3>
+		<perfekt>sperat</perfekt>
+		<gerunziu>sperând</gerunziu>
+		<conjunctiv_sing1>sper</conjunctiv_sing1>
+		<conjunctiv_sing2>speri</conjunctiv_sing2>
+		<conjunctiv_sing3>spere</conjunctiv_sing3>
+		<conjunctiv_plur1>sperăm</conjunctiv_plur1>
+		<conjunctiv_plur2>sperați</conjunctiv_plur2>
+		<conjunctiv_plur3>spere</conjunctiv_plur3>
+		<cathegory>vi</cathegory>
+		<explanation />
+		<example_use>Sper să sunteți bine!</example_use>
+		<index>2024-01-02 05:12:47.512361</index>
+		<synonym />
+		<opposite />
+		<spare />
+		<counter>1</counter>
+	</word>
+	<word>
+		<lemma>nici</lemma>
+		<tag>ADV</tag>
+		<swedish>ens</swedish>
+		<english>even</english>
+		<explanation>som 'inte ens'</explanation>
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-01-03 05:39:33.876258</index>
+	</word>
+	<word>
+		<lemma>apoi</lemma>
+		<tag>ADV</tag>
+		<swedish>sedan</swedish>
+		<english>then</english>
+		<explanation />
+		<example_use />
+		<synonym>pe urmă</synonym>
+		<opposite />
+		<counter>1</counter>
+		<index>2024-01-03 05:41:37.293867</index>
+	</word>
+	<word>
+		<lemma>căci</lemma>
+		<tag>CCONJ</tag>
+		<swedish>ty, för</swedish>
+		<english>for, because</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-01-03 05:44:12.921326</index>
+	</word>
+	<word>
+		<tag>ADJ</tag>
+		<lemma>singur</lemma>
+		<komparativ />
+		<superlativ />
+		<cathegory />
+		<swedish>ensam, enda</swedish>
+		<english>alone, on your own</english>
+		<explanation />
+		<example_use />
+		<index>2024-01-03 21:14:40.010788</index>
+		<synonym />
+		<opposite />
+		<spare />
+		<counter>1</counter>
+	</word>
+	<word>
+		<tag>VERB</tag>
+		<rules>
+			</rules>
+		<lemma>simți</lemma>
+		<swedish>känna</swedish>
+		<english>feel</english>
+		<sing_1>simt</sing_1>
+		<sing_2>simți</sing_2>
+		<sing_3>simte</sing_3>
+		<plur_1>simțim</plur_1>
+		<plur_2>simțiți</plur_2>
+		<plur_3>simt</plur_3>
+		<pret_sing_1>simțeam</pret_sing_1>
+		<pret_sing_2>simțeai</pret_sing_2>
+		<pret_sing_3>simțea</pret_sing_3>
+		<pret_plur_1>simțeam</pret_plur_1>
+		<pret_plur_2>simțeați</pret_plur_2>
+		<pret_plur_3>simțeau</pret_plur_3>
+		<perfekt>simțit</perfekt>
+		<gerunziu>simțind</gerunziu>
+		<conjunctiv_sing1>simt</conjunctiv_sing1>
+		<conjunctiv_sing2>simți</conjunctiv_sing2>
+		<conjunctiv_sing3>simtă</conjunctiv_sing3>
+		<conjunctiv_plur1>simțim</conjunctiv_plur1>
+		<conjunctiv_plur2>simțiți</conjunctiv_plur2>
+		<conjunctiv_plur3>simtă</conjunctiv_plur3>
+		<cathegory />
+		<explanation />
+		<example_use />
+		<index>2024-01-04 05:32:49.138911</index>
+		<synonym />
+		<opposite />
+		<spare />
+		<counter>1</counter>
+	</word>
+	<word>
+		<tag>VERB</tag>
+		<rules>
+			</rules>
+		<lemma>vrea</lemma>
+		<swedish>vill</swedish>
+		<english>will, want</english>
+		<sing_1>vreau</sing_1>
+		<sing_2>vrei</sing_2>
+		<sing_3>vrea</sing_3>
+		<plur_1>vrem</plur_1>
+		<plur_2>vreți</plur_2>
+		<plur_3>vor</plur_3>
+		<pret_sing_1>vream</pret_sing_1>
+		<pret_sing_2>vreai</pret_sing_2>
+		<pret_sing_3>vrea</pret_sing_3>
+		<pret_plur_1>vream</pret_plur_1>
+		<pret_plur_2>vreați</pret_plur_2>
+		<pret_plur_3>vreau</pret_plur_3>
+		<perfekt>vrut</perfekt>
+		<gerunziu>vrând</gerunziu>
+		<conjunctiv_sing1>vreau</conjunctiv_sing1>
+		<conjunctiv_sing2>vrei</conjunctiv_sing2>
+		<conjunctiv_sing3>vrea</conjunctiv_sing3>
+		<conjunctiv_plur1>vrem</conjunctiv_plur1>
+		<conjunctiv_plur2>vreți</conjunctiv_plur2>
+		<conjunctiv_plur3>vrea</conjunctiv_plur3>
+		<cathegory />
+		<explanation />
+		<example_use />
+		<index>2024-01-04 05:36:58.754730</index>
+		<synonym />
+		<opposite />
+		<spare />
+		<counter>1</counter>
+	</word>
 </dictionary>
