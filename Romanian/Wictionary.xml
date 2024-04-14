@@ -443,8 +443,8 @@
 	<word>
 		<tag>ADJ</tag>
 		<lemma>bun</lemma>
-		<komparativ />
-		<superlativ />
+		<komparativ>mai bun</komparativ>
+		<superlativ>cel mai bun</superlativ>
 		<cathegory />
 		<swedish>bra, god</swedish>
 		<explanation />
@@ -902,7 +902,7 @@
 		<index>2022-09-18 20:21:26.242508</index>
 	</word>
 	<word>
-		<lemma>duăzeci</lemma>
+		<lemma>douăzeci</lemma>
 		<tag>NUM</tag>
 		<swedish>tjugo (talet)</swedish>
 		<explanation />
@@ -912,7 +912,7 @@
 		<index>2022-09-19 05:03:22.198923</index>
 	</word>
 	<word>
-		<lemma>duăzeci și unu</lemma>
+		<lemma>douăzeci și unu</lemma>
 		<tag>NUM</tag>
 		<swedish>tjugoett (talet)</swedish>
 		<explanation />
@@ -10092,5 +10092,251 @@
 		<opposite />
 		<spare />
 		<counter>1</counter>
+	</word>
+	<word>
+		<lemma>împreună</lemma>
+		<tag>ADV</tag>
+		<swedish>tillsammans</swedish>
+		<english>together</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-01-05 05:36:12.529343</index>
+	</word>
+	<word>
+		<lemma>oară</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<plural />
+		<definite />
+		<swedish>tid</swedish>
+		<english>time</english>
+		<explanation />
+		<example_use>prima oară, ultima oară</example_use>
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-01-08 05:09:58.809412</index>
+	</word>
+	<word>
+		<lemma>alt</lemma>
+		<tag>DET</tag>
+		<swedish>annan, övrig</swedish>
+		<english>other</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-01-08 05:12:39.120379</index>
+	</word>
+	<word>
+		<lemma>altul</lemma>
+		<tag>PRON</tag>
+		<swedish>annan</swedish>
+		<english>another</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-01-08 05:15:07.089239</index>
+	</word>
+	<word>
+		<lemma>altfel</lemma>
+		<tag>ADV</tag>
+		<swedish>annat</swedish>
+		<english />
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-01-08 05:16:18.322602</index>
+	</word>
+	<word>
+		<lemma>gând</lemma>
+		<tag>NOUN</tag>
+		<gender>n</gender>
+		<plural />
+		<definite />
+		<swedish>tanke, tänkande</swedish>
+		<english>thought, idea</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-01-08 05:22:12.284383</index>
+	</word>
+	<word>
+		<lemma>busuioc</lemma>
+		<tag>NOUN</tag>
+		<gender>n</gender>
+		<plural />
+		<definite />
+		<swedish>basilika</swedish>
+		<english>basil</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-01-09 15:49:43.033585</index>
+	</word>
+	<word>
+		<lemma>vreun</lemma>
+		<tag>DET</tag>
+		<swedish>några, någon</swedish>
+		<english>some</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-01-09 15:57:04.714176</index>
+	</word>
+	<word>
+		<lemma>ochi</lemma>
+		<tag>NOUN</tag>
+		<gender>m</gender>
+		<plural />
+		<definite>ochiul</definite>
+		<swedish>öga</swedish>
+		<english>eye</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-01-09 15:59:19.419289</index>
+	</word>
+	<word>
+		<lemma>apartement</lemma>
+		<tag>NOUN</tag>
+		<gender>n</gender>
+		<plural>apartemente</plural>
+		<definite>apartementul</definite>
+		<swedish>lägenhet</swedish>
+		<english>apartment</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-01-14 16:47:43.264740</index>
+	</word>
+	<word>
+		<lemma>acesta</lemma>
+		<tag>DET</tag>
+		<swedish>detta</swedish>
+		<english />
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-04-12 05:18:41.600955</index>
+	</word>
+	<word>
+		<lemma>vrea</lemma>
+		<tag>AUX</tag>
+		<swedish>vill</swedish>
+		<english>want</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-04-12 05:19:47.143910</index>
+	</word>
+	<word>
+		<lemma>meu</lemma>
+		<tag>DET</tag>
+		<swedish>min</swedish>
+		<english>my, mine</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-04-12 05:20:49.249993</index>
+	</word>
+	<word>
+		<lemma>nimic</lemma>
+		<tag>PRON</tag>
+		<swedish>ingenting</swedish>
+		<english>nothing</english>
+		<explanation />
+		<example_use>Nu este nimic</example_use>
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-04-12 05:23:15.858548</index>
+	</word>
+	<word>
+		<lemma>orice</lemma>
+		<tag>DET</tag>
+		<swedish>något, någonting</swedish>
+		<english>anything</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-04-12 05:25:33.932823</index>
+	</word>
+	<word>
+		<lemma>ff</lemma>
+		<tag>PROPN</tag>
+		<swedish>etc</swedish>
+		<english />
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-04-12 05:29:22.928963</index>
+	</word>
+	<word>
+		<lemma>câtva</lemma>
+		<tag>DET</tag>
+		<swedish>några, en smula</swedish>
+		<english>some, a few, a little</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-04-12 05:32:31.010180</index>
+	</word>
+	<word>
+		<lemma>mână</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<plural />
+		<definite>mâna</definite>
+		<swedish>hand</swedish>
+		<english>hand</english>
+		<explanation>även fig. 'för hand'</explanation>
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-04-12 05:35:53.401973</index>
+	</word>
+	<word>
+		<lemma>ceva</lemma>
+		<tag>PRON</tag>
+		<swedish>något, någonting</swedish>
+		<english>some(thing)</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-04-12 05:39:37.375359</index>
 	</word>
 </dictionary>

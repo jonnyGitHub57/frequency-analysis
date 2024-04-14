@@ -124,6 +124,31 @@ class XML_Wictionary(object):
             dict_list.append(element_to_dict)
         
         return(dict_list)
+    
+    def update_element_from_dict(self, word_dictionary):
+        """
+        Updates one word element in the XML tree based on the
+        unique time stamp that can never be changed or updated
+
+        Parameters
+        ----------
+        dictionary_input : TYPE dictionary
+            DESCRIPTION.
+
+        Returns
+        -------
+        None.
+
+        """
+        index_to_find = word_dictionary.get('index', '')
+        elements = self.root.findall('./word')
+        
+        for element in elements:
+            if index_to_find == element.find('index').text:
+                for child in element:
+                    if child.tag != 'index' and child.tag != 'counter':                 
+                        child.text = word_dictionary[child.tag]                    
+        
         
     def find_gender_xref(self):
         """

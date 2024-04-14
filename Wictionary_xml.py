@@ -114,11 +114,72 @@ if __name__=='__main__':
                 print('Finns inte i listan! Försök igen')
         print ('Valt språk är ' + this_language.language)
         return(this_language)
+    
+    def Update_word(this_language):
+        """
+        
+
+        Parameters
+        ----------
+        this_language : TYPE
+            DESCRIPTION.
+
+        Returns
+        -------
+        None.
+
+        """
+        word_to_search = input('Sökord: ')
+        found_words = this_language.searchWord(word_to_search)
+        if found_words == []:
+            print('Sökordet verkar inte finns i ordlistan')
+            add_word = input('Vill du lägga till ordet i ordlistan Y/n:')
+            if add_word == 'Y':
+                """
+                Use the existing method with a user interface
+                """
+                Add_word(this_language, word_to_search)
+        else:
+            counter = 0
+            for word in found_words:
+                """
+                Show a list of words where one can be selected for update(s)
+                """
+                counter += 1
+                lemma = word.get('lemma')
+                swedish = word.get('swedish', '')
+                tag = word.get('tag', '')
+                if tag == 'NOUN':
+                    gender = word.get('gender', '')
+                    print(f'[{counter}] {gender} {lemma}: {swedish}')
+                elif tag == 'VERB':
+                    print(f'[{counter}] {lemma}: (att) {swedish}')                
+                else:
+                    print(f'[{counter}] ({tag.lower()}) {lemma}: {swedish}')
+            try:
+                selection = int(input(f'Välj 1-{counter}: '))
+                word_to_edit = found_words[selection -1]
+                print (f'Valt ord är {word_to_edit.get("lemma")}')
+                for key in word_to_edit:
+                    if key != 'index' and key != 'counter':
+                        current_text = word_to_edit[key]
+                        get_update = input(f'{key} {current_text}: ')
+                        word_to_edit[key] = get_update if get_update != '' else current_text
+                
+                this_language.update_element_from_dict(word_to_edit)
+                print("Writing data to: ", this_language.data_file)
+                this_language.xml_tree2file()
+            except ValueError:
+                print('Ogiltigt val!')
+            except IndexError:
+                print('Finns inte i listan!')
+        
+        return(this_language)
         
     def Edit_word(this_language):
         """
         This method MUST operate directly on the XML-tree so it will not use
-        the more simple operation on adictionaries. This also means that the
+        the more simple operation on a dictionary. This also means that the
         the XML file can be corrupt if handled incorrectly
         """
         #found_words = []
@@ -129,22 +190,22 @@ if __name__=='__main__':
             add_word = input('Vill du lägga till ordet i ordlistan Y/n:')
             if add_word == 'Y':
                 """
-                Use the existing method rather with a user interface
+                Use the existing method with a user interface
                 """
                 Add_word(this_language, word_to_search)
         else:
             counter = 0
             for child in found_elements:
+                """
+                Show a list of words where one can be selected for update(s)
+                """
                 counter += 1
                 lemma = child.find('lemma').text
                 swedish = child.find('swedish').text
                 tag = child.find('tag').text
                 if tag == 'NOUN':
                     gender = child.find('gender').text
-                    if gender == '':
-                        print(f'[{counter}] {lemma}: {swedish}')
-                    else:
-                        print(f'[{counter}] {gender} {lemma}: {swedish}')
+                    print(f'[{counter}] {gender} {lemma}: {swedish}')
                 elif tag == 'VERB':
                     print(f'[{counter}] {lemma}: (att) {swedish}')                
                 else:
@@ -166,6 +227,7 @@ if __name__=='__main__':
                 else:
                     get_update = input(f'{child.tag} {child_text}: ')
                     child.text = get_update if get_update != '' else child_text
+
         
         print("Writing data to: ", this_language.data_file)
         this_language.xml_tree2file()
@@ -784,7 +846,8 @@ if __name__=='__main__':
                "i": ["Info", Show_info],
                "l": ['List words', List_words],
                "s": ['Search word', Search_word],
-               "e": ['Edit word', Edit_word],
+               # "e": ['Edit word', Edit_word],
+               "e": ['Edit word', Update_word],
                "o": ['Translate_submenu', Translate_submenu],
                "t": ['Take test', Word_test],
                "f": ['Frequency analysis', Frequency],
