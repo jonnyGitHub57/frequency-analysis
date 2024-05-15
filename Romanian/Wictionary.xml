@@ -88,7 +88,11 @@
 		<conjunctiv_sing3>albă</conjunctiv_sing3>
 		<conjunctiv_plur1>avem</conjunctiv_plur1>
 		<conjunctiv_plur2>aveți</conjunctiv_plur2>
-		<conjunctiv_plur3>albă</conjunctiv_plur3>	
+		<conjunctiv_plur3>albă</conjunctiv_plur3>
+		<imperativ_sing />
+		<imperativ_plur />
+		<imperativ_sing_neg />
+		<imperativ_plur_neg />	
 		<cathegory>1</cathegory>
 		<explanation>(werkwoord)</explanation>
 		<example_use />
@@ -2190,7 +2194,7 @@
 		<tag>NOUN</tag>
 		<gender>f</gender>
 		<definite>berea</definite>
-		<swedish>öl(en), öl(et)</swedish>
+		<swedish>öl</swedish>
 		<explanation />
 		<plural />
 		<synonym />
@@ -2762,7 +2766,7 @@
 		<tag>NOUN</tag>
 		<gender>f</gender>
 		<definite>masa</definite>
-		<swedish>bord(et)</swedish>
+		<swedish>bord även måltid</swedish>
 		<explanation />
 		<plural />
 		<synonym />
@@ -3273,9 +3277,9 @@
 		<plur_1>citim</plur_1>
 		<plur_2>citiți</plur_2>
 		<plur_3>citesc</plur_3>
-		<pret_sing />
-		<pret_plur />
-		<perfekt />
+		<pret_sing>citeam</pret_sing>
+		<pret_plur>citeai</pret_plur>
+		<perfekt>citea</perfekt>
 		<supp_verb />
 		<cathegory />
 		<swedish>läsa</swedish>
@@ -3335,7 +3339,7 @@
 		<perfekt />
 		<supp_verb />
 		<cathegory />
-		<swedish>stiga ner, komma ner</swedish>
+		<swedish>stiga av, komma ner</swedish>
 		<explanation>eng. 'descend'</explanation>
 		<index>2022-11-22 05:34:09.233736</index>
 		<synonym />
@@ -6459,6 +6463,11 @@
 		<conjunctiv_plur1>investim</conjunctiv_plur1>
 		<conjunctiv_plur2>investiți</conjunctiv_plur2>
 		<conjunctiv_plur3>investească</conjunctiv_plur3>
+		<imperativ_sing />
+		<imperativ_plur />
+		<imperativ_sing_neg />
+		<imperativ_plur_neg />	
+		<cathegory>1</cathegory>
 		<cathegory>vt</cathegory>
 		<explanation />
 		<example_use />
@@ -6510,6 +6519,11 @@
 		<conjunctiv_plur1>așteptăm</conjunctiv_plur1>
 		<conjunctiv_plur2>așteptați</conjunctiv_plur2>
 		<conjunctiv_plur3>aștepte</conjunctiv_plur3>
+		<imperativ_sing />
+		<imperativ_plur />
+		<imperativ_sing_neg />
+		<imperativ_plur_neg />	
+		<cathegory>1</cathegory>
 		<cathegory>vt</cathegory>
 		<explanation />
 		<example_use />
@@ -7149,6 +7163,11 @@
 		<conjunctiv_plur1>existăm</conjunctiv_plur1>
 		<conjunctiv_plur2>existați</conjunctiv_plur2>
 		<conjunctiv_plur3>existe</conjunctiv_plur3>
+		<imperativ_sing />
+		<imperativ_plur />
+		<imperativ_sing_neg />
+		<imperativ_plur_neg />	
+		<cathegory>1</cathegory>
 		<cathegory />
 		<explanation />
 		<example_use />
@@ -7311,6 +7330,11 @@
 		<conjunctiv_plur1>rămânem</conjunctiv_plur1>
 		<conjunctiv_plur2>rămâneți</conjunctiv_plur2>
 		<conjunctiv_plur3>rămână</conjunctiv_plur3>
+		<imperativ_sing />
+		<imperativ_plur />
+		<imperativ_sing_neg />
+		<imperativ_plur_neg />	
+		<cathegory>1</cathegory>
 		<cathegory />
 		<explanation />
 		<example_use />
@@ -7374,6 +7398,11 @@
 		<conjunctiv_plur1>accesăm</conjunctiv_plur1>
 		<conjunctiv_plur2>accesați</conjunctiv_plur2>
 		<conjunctiv_plur3>acceseze</conjunctiv_plur3>
+		<imperativ_sing />
+		<imperativ_plur />
+		<imperativ_sing_neg />
+		<imperativ_plur_neg />	
+		<cathegory>1</cathegory>
 		<cathegory />
 		<explanation />
 		<example_use />
@@ -7832,6 +7861,11 @@
 		<conjunctiv_plur1>prezentăm</conjunctiv_plur1>
 		<conjunctiv_plur2>prezentați</conjunctiv_plur2>
 		<conjunctiv_plur3>prezinte</conjunctiv_plur3>
+		<imperativ_sing />
+		<imperativ_plur />
+		<imperativ_sing_neg />
+		<imperativ_plur_neg />	
+		<cathegory>1</cathegory>
 		<cathegory />
 		<explanation />
 		<example_use />
@@ -7868,6 +7902,11 @@
 		<conjunctiv_plur1>vizităm</conjunctiv_plur1>
 		<conjunctiv_plur2>vizitați</conjunctiv_plur2>
 		<conjunctiv_plur3>viziteze</conjunctiv_plur3>
+		<imperativ_sing />
+		<imperativ_plur />
+		<imperativ_sing_neg />
+		<imperativ_plur_neg />	
+		<cathegory>1</cathegory>
 		<cathegory />
 		<explanation />
 		<example_use />
@@ -7904,6 +7943,11 @@
 		<conjunctiv_plur1>considerăm</conjunctiv_plur1>
 		<conjunctiv_plur2>considerați</conjunctiv_plur2>
 		<conjunctiv_plur3>considere</conjunctiv_plur3>
+		<imperativ_sing />
+		<imperativ_plur />
+		<imperativ_sing_neg />
+		<imperativ_plur_neg />	
+		<cathegory>1</cathegory>
 		<cathegory />
 		<explanation />
 		<example_use />
@@ -7940,6 +7984,11 @@
 		<conjunctiv_plur1>alegem</conjunctiv_plur1>
 		<conjunctiv_plur2>alegeți</conjunctiv_plur2>
 		<conjunctiv_plur3>aleagă</conjunctiv_plur3>
+		<imperativ_sing />
+		<imperativ_plur />
+		<imperativ_sing_neg />
+		<imperativ_plur_neg />	
+		<cathegory>1</cathegory>
 		<cathegory />
 		<explanation />
 		<example_use />
@@ -7976,6 +8025,11 @@
 		<conjunctiv_plur1>apărem</conjunctiv_plur1>
 		<conjunctiv_plur2>apăreți</conjunctiv_plur2>
 		<conjunctiv_plur3>apară</conjunctiv_plur3>
+		<imperativ_sing />
+		<imperativ_plur />
+		<imperativ_sing_neg />
+		<imperativ_plur_neg />	
+		<cathegory>1</cathegory>
 		<cathegory />
 		<explanation />
 		<example_use />
@@ -8027,6 +8081,11 @@
 		<conjunctiv_plur1>dăm</conjunctiv_plur1>
 		<conjunctiv_plur2>dați</conjunctiv_plur2>
 		<conjunctiv_plur3>dea</conjunctiv_plur3>
+		<imperativ_sing />
+		<imperativ_plur />
+		<imperativ_sing_neg />
+		<imperativ_plur_neg />	
+		<cathegory>1</cathegory>
 		<cathegory />
 		<explanation />
 		<example_use />
@@ -8445,6 +8504,11 @@
 		<conjunctiv_plur1>aflăm</conjunctiv_plur1>
 		<conjunctiv_plur2>aflați</conjunctiv_plur2>
 		<conjunctiv_plur3>afle</conjunctiv_plur3>
+		<imperativ_sing />
+		<imperativ_plur />
+		<imperativ_sing_neg />
+		<imperativ_plur_neg />	
+		<cathegory />
 		<cathegory />
 		<explanation />
 		<example_use />
@@ -8899,6 +8963,11 @@
 		<conjunctiv_plur1>situăm</conjunctiv_plur1>
 		<conjunctiv_plur2>situați</conjunctiv_plur2>
 		<conjunctiv_plur3>situeze</conjunctiv_plur3>
+		<imperativ_sing />
+		<imperativ_plur />
+		<imperativ_sing_neg />
+		<imperativ_plur_neg />	
+		<cathegory>1</cathegory>
 		<cathegory />
 		<explanation />
 		<example_use />
@@ -8950,6 +9019,11 @@
 		<conjunctiv_plur1>exprimăm</conjunctiv_plur1>
 		<conjunctiv_plur2>exprimați</conjunctiv_plur2>
 		<conjunctiv_plur3>exprime</conjunctiv_plur3>
+		<imperativ_sing />
+		<imperativ_plur />
+		<imperativ_sing_neg />
+		<imperativ_plur_neg />	
+		<cathegory>1</cathegory>
 		<cathegory />
 		<explanation />
 		<example_use />
@@ -9208,6 +9282,11 @@
 		<conjunctiv_plur1>oferim</conjunctiv_plur1>
 		<conjunctiv_plur2>oferiți</conjunctiv_plur2>
 		<conjunctiv_plur3>ofere</conjunctiv_plur3>
+		<imperativ_sing />
+		<imperativ_plur />
+		<imperativ_sing_neg />
+		<imperativ_plur_neg />	
+		<cathegory>1</cathegory>
 		<cathegory>vt</cathegory>
 		<explanation />
 		<example_use />
@@ -9244,6 +9323,11 @@
 		<conjunctiv_plur1>construim</conjunctiv_plur1>
 		<conjunctiv_plur2>construiți</conjunctiv_plur2>
 		<conjunctiv_plur3>construiască</conjunctiv_plur3>
+		<imperativ_sing />
+		<imperativ_plur />
+		<imperativ_sing_neg />
+		<imperativ_plur_neg />	
+		<cathegory>1</cathegory>
 		<cathegory>vt</cathegory>
 		<explanation />
 		<example_use />
@@ -9280,6 +9364,11 @@
 		<conjunctiv_plur1>traducem</conjunctiv_plur1>
 		<conjunctiv_plur2>traduceți</conjunctiv_plur2>
 		<conjunctiv_plur3>traducă</conjunctiv_plur3>
+		<imperativ_sing />
+		<imperativ_plur />
+		<imperativ_sing_neg />
+		<imperativ_plur_neg />	
+		<cathegory>1</cathegory>
 		<cathegory>vt</cathegory>
 		<explanation />
 		<example_use />
@@ -9316,6 +9405,11 @@
 		<conjunctiv_plur1>privim</conjunctiv_plur1>
 		<conjunctiv_plur2>priviți</conjunctiv_plur2>
 		<conjunctiv_plur3>privească</conjunctiv_plur3>
+		<imperativ_sing />
+		<imperativ_plur />
+		<imperativ_sing_neg />
+		<imperativ_plur_neg />	
+		<cathegory>1</cathegory>
 		<cathegory>vt</cathegory>
 		<explanation />
 		<example_use />
@@ -9352,6 +9446,11 @@
 		<conjunctiv_plur1>reprezentăm</conjunctiv_plur1>
 		<conjunctiv_plur2>reprezentați</conjunctiv_plur2>
 		<conjunctiv_plur3>reprezinte</conjunctiv_plur3>
+		<imperativ_sing />
+		<imperativ_plur />
+		<imperativ_sing_neg />
+		<imperativ_plur_neg />	
+		<cathegory>1</cathegory>
 		<cathegory>vt</cathegory>
 		<explanation />
 		<example_use />
@@ -9388,6 +9487,11 @@
 		<conjunctiv_plur1>devenim</conjunctiv_plur1>
 		<conjunctiv_plur2>deveniți</conjunctiv_plur2>
 		<conjunctiv_plur3>devină</conjunctiv_plur3>
+		<imperativ_sing />
+		<imperativ_plur />
+		<imperativ_sing_neg />
+		<imperativ_plur_neg />	
+		<cathegory>1</cathegory>
 		<cathegory>vi</cathegory>
 		<explanation />
 		<example_use />
@@ -9755,6 +9859,11 @@
 		<conjunctiv_plur1>primim</conjunctiv_plur1>
 		<conjunctiv_plur2>primiți</conjunctiv_plur2>
 		<conjunctiv_plur3>primească</conjunctiv_plur3>
+		<imperativ_sing />
+		<imperativ_plur />
+		<imperativ_sing_neg />
+		<imperativ_plur_neg />	
+		<cathegory>1</cathegory>
 		<cathegory>vt</cathegory>
 		<explanation />
 		<example_use />
@@ -9897,6 +10006,11 @@
 		<conjunctiv_plur1>știm</conjunctiv_plur1>
 		<conjunctiv_plur2>știți</conjunctiv_plur2>
 		<conjunctiv_plur3>știe</conjunctiv_plur3>
+		<imperativ_sing />
+		<imperativ_plur />
+		<imperativ_sing_neg />
+		<imperativ_plur_neg />	
+		<cathegory>1</cathegory>
 		<cathegory>vt</cathegory>
 		<explanation />
 		<example_use>Este știut că oamenii dorm noaptea</example_use>
@@ -9960,6 +10074,11 @@
 		<conjunctiv_plur1>sperăm</conjunctiv_plur1>
 		<conjunctiv_plur2>sperați</conjunctiv_plur2>
 		<conjunctiv_plur3>spere</conjunctiv_plur3>
+		<imperativ_sing />
+		<imperativ_plur />
+		<imperativ_sing_neg />
+		<imperativ_plur_neg />	
+		<cathegory>1</cathegory>
 		<cathegory>vi</cathegory>
 		<explanation />
 		<example_use>Sper să sunteți bine!</example_use>
@@ -10048,6 +10167,11 @@
 		<conjunctiv_plur1>simțim</conjunctiv_plur1>
 		<conjunctiv_plur2>simțiți</conjunctiv_plur2>
 		<conjunctiv_plur3>simtă</conjunctiv_plur3>
+		<imperativ_sing />
+		<imperativ_plur />
+		<imperativ_sing_neg />
+		<imperativ_plur_neg />	
+		<cathegory>1</cathegory>
 		<cathegory />
 		<explanation />
 		<example_use />
@@ -10084,6 +10208,11 @@
 		<conjunctiv_plur1>vrem</conjunctiv_plur1>
 		<conjunctiv_plur2>vreți</conjunctiv_plur2>
 		<conjunctiv_plur3>vrea</conjunctiv_plur3>
+		<imperativ_sing />
+		<imperativ_plur />
+		<imperativ_sing_neg />
+		<imperativ_plur_neg />	
+		<cathegory>1</cathegory>
 		<cathegory />
 		<explanation />
 		<example_use />
@@ -10338,5 +10467,1199 @@
 		<opposite />
 		<counter>1</counter>
 		<index>2024-04-12 05:39:37.375359</index>
+	</word>
+	<word>
+		<lemma>clipă</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<plural />
+		<definite>clipa</definite>
+		<swedish>ögonblick</swedish>
+		<english>moment, instance</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-04-14 15:10:16.413317</index>
+	</word>
+	<word>
+		<tag>VERB</tag>
+		<rules>
+			</rules>
+		<lemma>aduce</lemma>
+		<swedish>hämta, bringa</swedish>
+		<english>bring</english>
+		<sing_1>aduc</sing_1>
+		<sing_2>aduci</sing_2>
+		<sing_3>aduce</sing_3>
+		<plur_1>aducem</plur_1>
+		<plur_2>aduceți</plur_2>
+		<plur_3>adu</plur_3>
+		<pret_sing_1>aduceam</pret_sing_1>
+		<pret_sing_2>aduceai</pret_sing_2>
+		<pret_sing_3>aducea</pret_sing_3>
+		<pret_plur_1>aduceam</pret_plur_1>
+		<pret_plur_2>aduceați</pret_plur_2>
+		<pret_plur_3>aduceau</pret_plur_3>
+		<perfekt>adus</perfekt>
+		<gerunziu>aducând</gerunziu>
+		<conjunctiv_sing1>aduc</conjunctiv_sing1>
+		<conjunctiv_sing2>aduci</conjunctiv_sing2>
+		<conjunctiv_sing3>aducă</conjunctiv_sing3>
+		<conjunctiv_plur1>aducem</conjunctiv_plur1>
+		<conjunctiv_plur2>aduceți</conjunctiv_plur2>
+		<conjunctiv_plur3>aducă</conjunctiv_plur3>
+		<imperativ_sing />
+		<imperativ_plur />
+		<imperativ_sing_neg />
+		<imperativ_plur_neg />	
+		<cathegory>1</cathegory>
+		<cathegory>vt</cathegory>
+		<explanation />
+		<example_use />
+		<index>2024-04-14 15:17:44.038176</index>
+		<synonym />
+		<opposite />
+		<spare />
+		<counter>1</counter>
+	</word>
+	<word>
+		<tag>VERB</tag>
+		<rules>
+			</rules>
+		<lemma>gândi</lemma>
+		<swedish>tänka, reflektera, tro</swedish>
+		<english>think, reflect</english>
+		<sing_1>gândesc</sing_1>
+		<sing_2>gândești</sing_2>
+		<sing_3>gândește</sing_3>
+		<plur_1>gândim</plur_1>
+		<plur_2>gândiți</plur_2>
+		<plur_3>gândesc</plur_3>
+		<pret_sing_1>gândeam</pret_sing_1>
+		<pret_sing_2>gândeai</pret_sing_2>
+		<pret_sing_3>gândea</pret_sing_3>
+		<pret_plur_1>gândeam</pret_plur_1>
+		<pret_plur_2>gândeați</pret_plur_2>
+		<pret_plur_3>gândeau</pret_plur_3>
+		<perfekt>gândit</perfekt>
+		<gerunziu>gândind</gerunziu>
+		<conjunctiv_sing1>gândesc</conjunctiv_sing1>
+		<conjunctiv_sing2>gândești</conjunctiv_sing2>
+		<conjunctiv_sing3>gândească</conjunctiv_sing3>
+		<conjunctiv_plur1>gândim</conjunctiv_plur1>
+		<conjunctiv_plur2>gândiți</conjunctiv_plur2>
+		<conjunctiv_plur3>gândească</conjunctiv_plur3>
+		<imperativ_sing />
+		<imperativ_plur />
+		<imperativ_sing_neg />
+		<imperativ_plur_neg />	
+		<cathegory>1</cathegory>
+		<cathegory />
+		<explanation />
+		<example_use />
+		<index>2024-04-14 15:49:26.737293</index>
+		<synonym />
+		<opposite />
+		<spare />
+		<counter>1</counter>
+	</word>
+	<word>
+		<lemma>stare</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<plural />
+		<definite>starea</definite>
+		<swedish>tillstånd, status</swedish>
+		<english>state, condition</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-04-16 21:28:33.493673</index>
+	</word>
+	<word>
+		<tag>VERB</tag>
+		<rules>
+			</rules>
+		<lemma>duce</lemma>
+		<swedish>gå, köra, leda</swedish>
+		<english>go, lead, drive</english>
+		<sing_1>duc</sing_1>
+		<sing_2>duci</sing_2>
+		<sing_3>duce</sing_3>
+		<plur_1>ducem</plur_1>
+		<plur_2>duceți</plur_2>
+		<plur_3>duc</plur_3>
+		<pret_sing_1>duceam</pret_sing_1>
+		<pret_sing_2>duceai</pret_sing_2>
+		<pret_sing_3>ducea</pret_sing_3>
+		<pret_plur_1>duceam</pret_plur_1>
+		<pret_plur_2>duceați</pret_plur_2>
+		<pret_plur_3>duceau</pret_plur_3>
+		<perfekt>dus</perfekt>
+		<gerunziu>ducând</gerunziu>
+		<conjunctiv_sing1>duc</conjunctiv_sing1>
+		<conjunctiv_sing2>duci</conjunctiv_sing2>
+		<conjunctiv_sing3>ducă</conjunctiv_sing3>
+		<conjunctiv_plur1>ducem</conjunctiv_plur1>
+		<conjunctiv_plur2>duceți</conjunctiv_plur2>
+		<conjunctiv_plur3>ducă</conjunctiv_plur3>
+		<imperativ_sing />
+		<imperativ_plur />
+		<imperativ_sing_neg />
+		<imperativ_plur_neg />	
+		<cathegory>1</cathegory>
+		<cathegory />
+		<explanation />
+		<example_use />
+		<index>2024-04-21 17:20:28.850231</index>
+		<synonym />
+		<opposite />
+		<spare />
+		<counter>1</counter>
+	</word>
+	<word>
+		<tag>VERB</tag>
+		<rules>
+			</rules>
+		<lemma>trece</lemma>
+		<swedish>passera</swedish>
+		<english>pass, pass by</english>
+		<sing_1>trec</sing_1>
+		<sing_2>treci</sing_2>
+		<sing_3>trece</sing_3>
+		<plur_1>trecem</plur_1>
+		<plur_2>treceți</plur_2>
+		<plur_3>trec</plur_3>
+		<pret_sing_1>treceam</pret_sing_1>
+		<pret_sing_2>treceai</pret_sing_2>
+		<pret_sing_3>trecea</pret_sing_3>
+		<pret_plur_1>treceam</pret_plur_1>
+		<pret_plur_2>treceați</pret_plur_2>
+		<pret_plur_3>treceau</pret_plur_3>
+		<perfekt>trecut</perfekt>
+		<gerunziu>trecând</gerunziu>
+		<conjunctiv_sing1>trec</conjunctiv_sing1>
+		<conjunctiv_sing2>treci</conjunctiv_sing2>
+		<conjunctiv_sing3>treacă</conjunctiv_sing3>
+		<conjunctiv_plur1>trecem</conjunctiv_plur1>
+		<conjunctiv_plur2>treceți</conjunctiv_plur2>
+		<conjunctiv_plur3>treacă</conjunctiv_plur3>
+		<imperativ_sing />
+		<imperativ_plur />
+		<imperativ_sing_neg />
+		<imperativ_plur_neg />	
+		<cathegory>1</cathegory>
+		<cathegory />
+		<explanation />
+		<example_use />
+		<index>2024-04-21 17:40:23.760519</index>
+		<synonym />
+		<opposite />
+		<spare />
+		<counter>1</counter>
+	</word>
+	<word>
+		<tag>ADJ</tag>
+		<lemma>elegant</lemma>
+		<komparativ />
+		<superlativ />
+		<cathegory />
+		<swedish>elegant</swedish>
+		<english>elegant</english>
+		<explanation />
+		<example_use />
+		<index>2024-04-22 16:58:14.552229</index>
+		<synonym />
+		<opposite />
+		<spare />
+		<counter>1</counter>
+	</word>
+	<word>
+		<lemma>frate</lemma>
+		<tag>NOUN</tag>
+		<gender>m</gender>
+		<plural>frați</plural>
+		<definite>fratele</definite>
+		<swedish>bror</swedish>
+		<english>brother</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-04-22 17:00:26.757811</index>
+	</word>
+	<word>
+		<lemma>nuntă</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<plural>nunți</plural>
+		<definite>nunta</definite>
+		<swedish>bröllop</swedish>
+		<english>wedding</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-04-22 17:02:05.329836</index>
+	</word>
+	<word>
+		<lemma>părinte</lemma>
+		<tag>NOUN</tag>
+		<gender>m</gender>
+		<plural>părinți</plural>
+		<definite />
+		<swedish>förälder</swedish>
+		<english>parent</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-04-22 17:03:12.332812</index>
+	</word>
+	<word>
+		<lemma>poză</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<plural>poze</plural>
+		<definite>poza</definite>
+		<swedish>bild, foto</swedish>
+		<english>picture, foto</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-04-22 17:06:51.680427</index>
+	</word>
+	<word>
+		<lemma>oricând</lemma>
+		<tag>ADV</tag>
+		<swedish>närhelst</swedish>
+		<english>anytime</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-04-22 17:09:51.678631</index>
+	</word>
+	<word>
+		<lemma>serviciu</lemma>
+		<tag>NOUN</tag>
+		<gender>n</gender>
+		<plural>servicii</plural>
+		<definite>serviciul</definite>
+		<swedish>arbete, service</swedish>
+		<english>work, service</english>
+		<explanation />
+		<example_use />
+		<synonym>slujbă</synonym>
+		<opposite />
+		<counter>1</counter>
+		<index>2024-04-22 17:13:51.452783</index>
+	</word>
+	<word>
+		<lemma>soție</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<plural>soții</plural>
+		<definite>soția</definite>
+		<swedish>fru</swedish>
+		<english>wife</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-04-22 17:16:55.469058</index>
+	</word>
+	<word>
+		<lemma>accident</lemma>
+		<tag>NOUN</tag>
+		<gender>n</gender>
+		<plural />
+		<definite>accidentul</definite>
+		<swedish>olycka</swedish>
+		<english>accident</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-04-23 04:56:50.221889</index>
+	</word>
+	<word>
+		<lemma>zgomot</lemma>
+		<tag>NOUN</tag>
+		<gender>n</gender>
+		<plural />
+		<definite>zgomotul</definite>
+		<swedish>ljud, oljud</swedish>
+		<english>sound, noise</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-04-23 04:58:07.771261</index>
+	</word>
+	<word>
+		<lemma>încă</lemma>
+		<tag>ADV</tag>
+		<swedish>än, ännu, fortfarande</swedish>
+		<english>still, yet</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-04-23 04:59:11.728721</index>
+	</word>
+	<word>
+		<tag>VERB</tag>
+		<rules>
+			</rules>
+		<lemma>ieși</lemma>
+		<swedish>gå ut</swedish>
+		<english>go out</english>
+		<sing_1>ies</sing_1>
+		<sing_2>ieși</sing_2>
+		<sing_3>iese</sing_3>
+		<plur_1>ieșim</plur_1>
+		<plur_2>ieșiți</plur_2>
+		<plur_3>ies</plur_3>
+		<pret_sing_1>ieșeam</pret_sing_1>
+		<pret_sing_2>ieșeai</pret_sing_2>
+		<pret_sing_3>ieșea</pret_sing_3>
+		<pret_plur_1>ieșeam</pret_plur_1>
+		<pret_plur_2>ieșeați</pret_plur_2>
+		<pret_plur_3>ieseau</pret_plur_3>
+		<perfekt>ieșit</perfekt>
+		<gerunziu>ieșind</gerunziu>
+		<conjunctiv_sing1>ies</conjunctiv_sing1>
+		<conjunctiv_sing2>ieși</conjunctiv_sing2>
+		<conjunctiv_sing3>iasă</conjunctiv_sing3>
+		<conjunctiv_plur1>ieșim</conjunctiv_plur1>
+		<conjunctiv_plur2>ieșați</conjunctiv_plur2>
+		<conjunctiv_plur3>iasă</conjunctiv_plur3>
+		<imperativ_sing />
+		<imperativ_plur />
+		<imperativ_sing_neg />
+		<imperativ_plur_neg />	
+		<cathegory>1</cathegory>
+		<cathegory>vi</cathegory>
+		<explanation />
+		<example_use />
+		<index>2024-04-23 05:03:47.037860</index>
+		<synonym />
+		<opposite />
+		<spare />
+		<counter>1</counter>
+	</word>
+	<word>
+		<lemma>deja</lemma>
+		<tag>ADV</tag>
+		<swedish>redan</swedish>
+		<english>already</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-04-25 05:29:52.356927</index>
+	</word>
+	<word>
+		<lemma>a</lemma>
+		<tag>AUX</tag>
+		<swedish>A</swedish>
+		<english />
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-04-26 04:46:34.859898</index>
+	</word>
+	<word>
+		<tag>VERB</tag>
+		<rules>
+			</rules>
+		<lemma>zice</lemma>
+		<swedish>säga. berätta (någonting)</swedish>
+		<english>say, tell (something)</english>
+		<sing_1>zic</sing_1>
+		<sing_2>zici</sing_2>
+		<sing_3>zice</sing_3>
+		<plur_1>zicem</plur_1>
+		<plur_2>ziceți</plur_2>
+		<plur_3>zic</plur_3>
+		<pret_sing_1>ziceam</pret_sing_1>
+		<pret_sing_2>zicheai</pret_sing_2>
+		<pret_sing_3>zicea</pret_sing_3>
+		<pret_plur_1>ziceam</pret_plur_1>
+		<pret_plur_2>ziceați</pret_plur_2>
+		<pret_plur_3>ziceau</pret_plur_3>
+		<perfekt>zis</perfekt>
+		<gerunziu>zicând</gerunziu>
+		<conjunctiv_sing1>zic</conjunctiv_sing1>
+		<conjunctiv_sing2>zici</conjunctiv_sing2>
+		<conjunctiv_sing3>zică</conjunctiv_sing3>
+		<conjunctiv_plur1>zicem</conjunctiv_plur1>
+		<conjunctiv_plur2>ziceți</conjunctiv_plur2>
+		<conjunctiv_plur3>zică</conjunctiv_plur3>
+		<imperativ_sing />
+		<imperativ_plur />
+		<imperativ_sing_neg />
+		<imperativ_plur_neg />	
+		<cathegory>1</cathegory>
+		<cathegory>vt</cathegory>
+		<explanation />
+		<example_use />
+		<index>2024-04-26 04:52:44.647812</index>
+		<synonym />
+		<opposite />
+		<spare />
+		<counter>1</counter>
+	</word>
+	<word>
+		<lemma>oblon</lemma>
+		<tag>NOUN</tag>
+		<gender>n</gender>
+		<plural>obloane</plural>
+		<definite>oblonul</definite>
+		<swedish>slutare, fönsterlucka</swedish>
+		<english>shutter (also window)</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-05-01 05:43:49.076037</index>
+	</word>
+	<word>
+		<tag>VERB</tag>
+		<rules>
+			</rules>
+		<lemma>întâmpla</lemma>
+		<swedish>hända, inträffa</swedish>
+		<english>happen, occur</english>
+		<sing_1 />
+		<sing_2 />
+		<sing_3>întâmplă</sing_3>
+		<plur_1 />
+		<plur_2 />
+		<plur_3>întâmplă</plur_3>
+		<pret_sing_1 />
+		<pret_sing_2 />
+		<pret_sing_3>întâmpla</pret_sing_3>
+		<pret_plur_1 />
+		<pret_plur_2 />
+		<pret_plur_3>întâmplau</pret_plur_3>
+		<perfekt>întâmplat</perfekt>
+		<gerunziu>întâmplând</gerunziu>
+		<conjunctiv_sing1 />
+		<conjunctiv_sing2 />
+		<conjunctiv_sing3>întâmple</conjunctiv_sing3>
+		<conjunctiv_plur1 />
+		<conjunctiv_plur2 />
+		<conjunctiv_plur3>întâmple</conjunctiv_plur3>
+		<imperativ_sing />
+		<imperativ_plur />
+		<imperativ_sing_neg />
+		<imperativ_plur_neg />
+		<cathegory />
+		<explanation />
+		<example_use />
+		<index>2024-05-01 18:53:30.519348</index>
+		<synonym />
+		<opposite />
+		<spare />
+		<counter>1</counter>
+	</word>
+	<word>
+		<tag>VERB</tag>
+		<rules>
+			</rules>
+		<lemma>adăuga</lemma>
+		<swedish>lägga till, addera</swedish>
+		<english>add</english>
+		<sing_1>adaug</sing_1>
+		<sing_2>adaugi</sing_2>
+		<sing_3>adaugă</sing_3>
+		<plur_1>adăugăm</plur_1>
+		<plur_2>adăugați</plur_2>
+		<plur_3>adaugă</plur_3>
+		<pret_sing_1>adăugam</pret_sing_1>
+		<pret_sing_2>adăugai</pret_sing_2>
+		<pret_sing_3>adăuga</pret_sing_3>
+		<pret_plur_1>adăugam</pret_plur_1>
+		<pret_plur_2>adăugați</pret_plur_2>
+		<pret_plur_3>adăugau</pret_plur_3>
+		<perfekt>adăugat</perfekt>
+		<gerunziu>adăugând</gerunziu>
+		<conjunctiv_sing1>adaug</conjunctiv_sing1>
+		<conjunctiv_sing2>adaugi</conjunctiv_sing2>
+		<conjunctiv_sing3>adauge</conjunctiv_sing3>
+		<conjunctiv_plur1>adaugăm</conjunctiv_plur1>
+		<conjunctiv_plur2>adaugați</conjunctiv_plur2>
+		<conjunctiv_plur3>adauge</conjunctiv_plur3>
+		<imperativ_sing>adaugă</imperativ_sing>
+		<imperativ_plur>adăugați</imperativ_plur>
+		<imperativ_sing_neg>adăuga</imperativ_sing_neg>
+		<imperativ_plur_neg>adăugați</imperativ_plur_neg>
+		<cathegory>vt</cathegory>
+		<explanation />
+		<example_use />
+		<index>2024-05-06 18:02:19.908416</index>
+		<synonym />
+		<opposite />
+		<spare />
+		<counter>1</counter>
+	</word>
+	<word>
+		<lemma>atât</lemma>
+		<tag>DET</tag>
+		<swedish>så mycket, så långt (både)</swedish>
+		<english>so much, så långt</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-05-07 05:05:38.402239</index>
+	</word>
+	<word>
+		<lemma>ce</lemma>
+		<tag>DET</tag>
+		<swedish>vad i</swedish>
+		<english />
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-05-07 20:00:07.979273</index>
+	</word>
+	<word>
+		<tag>VERB</tag>
+		<rules>
+			</rules>
+		<lemma>discuta</lemma>
+		<swedish>prata om, diskutera</swedish>
+		<english>dicuss</english>
+		<sing_1>discut</sing_1>
+		<sing_2>discuți</sing_2>
+		<sing_3>discută</sing_3>
+		<plur_1>discutăm</plur_1>
+		<plur_2>discutați</plur_2>
+		<plur_3>discută</plur_3>
+		<pret_sing_1>discutam</pret_sing_1>
+		<pret_sing_2>discutai</pret_sing_2>
+		<pret_sing_3>discuta</pret_sing_3>
+		<pret_plur_1>discutam</pret_plur_1>
+		<pret_plur_2>discutați</pret_plur_2>
+		<pret_plur_3>discutau</pret_plur_3>
+		<perfekt>discutat</perfekt>
+		<gerunziu>discutând</gerunziu>
+		<conjunctiv_sing1>discut</conjunctiv_sing1>
+		<conjunctiv_sing2>discuți</conjunctiv_sing2>
+		<conjunctiv_sing3>discute</conjunctiv_sing3>
+		<conjunctiv_plur1>discutăm</conjunctiv_plur1>
+		<conjunctiv_plur2>discutați</conjunctiv_plur2>
+		<conjunctiv_plur3>discute</conjunctiv_plur3>
+		<imperativ_sing>discută</imperativ_sing>
+		<imperativ_plur>discutați</imperativ_plur>
+		<imperativ_sing_neg>discuta</imperativ_sing_neg>
+		<imperativ_plur_neg>discutați</imperativ_plur_neg>
+		<cathegory>vt</cathegory>
+		<explanation />
+		<example_use />
+		<index>2024-05-11 07:13:09.725719</index>
+		<synonym />
+		<opposite />
+		<spare />
+		<counter>1</counter>
+	</word>
+	<word>
+		<lemma>discuție</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<plural />
+		<definite>discuția</definite>
+		<swedish>diskussion, samtal</swedish>
+		<english>discussion, conversation</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-05-11 07:34:28.637536</index>
+	</word>
+	<word>
+		<lemma>discurs</lemma>
+		<tag>NOUN</tag>
+		<gender>n</gender>
+		<plural />
+		<definite>discursul</definite>
+		<swedish>tal</swedish>
+		<english>speech</english>
+		<explanation>att hålla ett tal</explanation>
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-05-11 07:36:15.490504</index>
+	</word>
+	<word>
+		<lemma>fațadă</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<plural />
+		<definite>fațada</definite>
+		<swedish>fasad</swedish>
+		<english />
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-05-11 07:38:35.207946</index>
+	</word>
+	<word>
+		<lemma>nota de plată</lemma>
+		<tag>X</tag>
+		<swedish>räkningen, notan</swedish>
+		<english>bill</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-05-12 04:56:29.729512</index>
+	</word>
+	<word>
+		<lemma>întâi</lemma>
+		<tag>NUM</tag>
+		<swedish>först</swedish>
+		<english>(the) first</english>
+		<explanation />
+		<example_use>mai întâi</example_use>
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-05-12 05:00:42.008016</index>
+	</word>
+	<word>
+		<lemma>meniu</lemma>
+		<tag>NOUN</tag>
+		<gender>n</gender>
+		<plural>meniuri</plural>
+		<definite>meniul</definite>
+		<swedish>meny</swedish>
+		<english>menu</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-05-12 05:02:57.715914</index>
+	</word>
+	<word>
+		<lemma>papanaș</lemma>
+		<tag>NOUN</tag>
+		<gender>m</gender>
+		<plural>papanași</plural>
+		<definite />
+		<swedish>friterade ostbollar</swedish>
+		<english>cheese dumplings</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-05-12 05:05:10.771945</index>
+	</word>
+	<word>
+		<lemma>pește</lemma>
+		<tag>NOUN</tag>
+		<gender>m</gender>
+		<plural />
+		<definite>pești</definite>
+		<swedish>fisk</swedish>
+		<english>fish</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-05-12 05:08:54.355166</index>
+	</word>
+	<word>
+		<lemma>prânz</lemma>
+		<tag>NOUN</tag>
+		<gender>n</gender>
+		<plural />
+		<definite>prânzul</definite>
+		<swedish>lunch</swedish>
+		<english>lunch</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-05-12 05:09:57.108902</index>
+	</word>
+	<word>
+		<lemma>pui</lemma>
+		<tag>NOUN</tag>
+		<gender>m</gender>
+		<plural>pui</plural>
+		<definite>puiul</definite>
+		<swedish>kyckling</swedish>
+		<english>chicken</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-05-12 05:15:05.214691</index>
+	</word>
+	<word>
+		<lemma>salată</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<plural>salate</plural>
+		<definite>salata</definite>
+		<swedish>sallad</swedish>
+		<english>salad</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-05-12 05:16:02.613469</index>
+	</word>
+	<word>
+		<tag>ADJ</tag>
+		<lemma>servit</lemma>
+		<komparativ />
+		<superlativ />
+		<cathegory />
+		<swedish>serverad, serverat</swedish>
+		<english>served</english>
+		<explanation />
+		<example_use />
+		<index>2024-05-12 05:18:39.708894</index>
+		<synonym />
+		<opposite />
+		<spare />
+		<counter>1</counter>
+	</word>
+	<word>
+		<lemma>smântână</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<plural />
+		<definite>smântâna</definite>
+		<swedish>smetana, grädde</swedish>
+		<english>cream</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-05-12 05:20:32.673288</index>
+	</word>
+	<word>
+		<lemma>tăițel</lemma>
+		<tag>NOUN</tag>
+		<gender>m</gender>
+		<plural>tăiței</plural>
+		<definite />
+		<swedish>nudel</swedish>
+		<english>noodle</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-05-12 05:23:39.886978</index>
+	</word>
+	<word>
+		<lemma>vânătă</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<plural>vinete</plural>
+		<definite>vânăta</definite>
+		<swedish>äggplanta, aubergine</swedish>
+		<english>eggplant</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-05-12 05:30:30.335830</index>
+	</word>
+	<word>
+		<lemma>vânăt</lemma>
+		<tag>ADV</tag>
+		<swedish>blåaktig</swedish>
+		<english>blue-ish</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-05-12 05:31:37.082134</index>
+	</word>
+	<word>
+		<lemma>omletă</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<plural />
+		<definite>omleta</definite>
+		<swedish>omelett</swedish>
+		<english />
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-05-12 06:26:23.123983</index>
+	</word>
+	<word>
+		<lemma>aperitiv</lemma>
+		<tag>NOUN</tag>
+		<gender>n</gender>
+		<plural>aperitive</plural>
+		<definite>aperitivul</definite>
+		<swedish>aptitretare, aperitiv</swedish>
+		<english>appetizer</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-05-12 06:29:12.217188</index>
+	</word>
+	<word>
+		<lemma>ciorbă</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<plural>ciorbe</plural>
+		<definite>ciorba</definite>
+		<swedish>soppa</swedish>
+		<english>soup</english>
+		<explanation>sur soppa</explanation>
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-05-12 06:31:45.554169</index>
+	</word>
+	<word>
+		<lemma>ciupercă</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<plural>ciuperci</plural>
+		<definite>ciuperca</definite>
+		<swedish>svamp</swedish>
+		<english>mushroom</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-05-12 06:34:06.794647</index>
+	</word>
+	<word>
+		<tag>ADJ</tag>
+		<lemma>prăjit</lemma>
+		<komparativ />
+		<superlativ />
+		<cathegory />
+		<swedish>friterad</swedish>
+		<english>fried</english>
+		<explanation />
+		<example_use />
+		<index>2024-05-12 06:36:39.057910</index>
+		<synonym />
+		<opposite />
+		<spare />
+		<counter>1</counter>
+	</word>
+	<word>
+		<lemma>prăjitură</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<plural>prăjituri</plural>
+		<definite>prăjitura</definite>
+		<swedish>kaka</swedish>
+		<english>cake</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-05-12 06:37:54.632076</index>
+	</word>
+	<word>
+		<lemma>păstrăv</lemma>
+		<tag>NOUN</tag>
+		<gender>m</gender>
+		<plural>păstrăvi</plural>
+		<definite>păstrăvul</definite>
+		<swedish>forell</swedish>
+		<english>trout</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-05-12 06:40:50.731340</index>
+	</word>
+	<word>
+		<lemma>sfeclă</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<plural>sfecle</plural>
+		<definite>sfecla</definite>
+		<swedish>beta</swedish>
+		<english>beet</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-05-12 06:42:12.680058</index>
+	</word>
+	<word>
+		<lemma>șnițel</lemma>
+		<tag>NOUN</tag>
+		<gender>n</gender>
+		<plural>șnițele</plural>
+		<definite>șnițelul</definite>
+		<swedish>schnitzel</swedish>
+		<english>schnitzel</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-05-12 06:43:33.332575</index>
+	</word>
+	<word>
+		<lemma>supă</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<plural>supe</plural>
+		<definite>supa</definite>
+		<swedish>soppa</swedish>
+		<english>soup</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-05-12 06:44:29.927895</index>
+	</word>
+	<word>
+		<lemma>vin</lemma>
+		<tag>NOUN</tag>
+		<gender>n</gender>
+		<plural>vinuri</plural>
+		<definite>vinul</definite>
+		<swedish>vin</swedish>
+		<english>wine</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-05-12 06:45:30.591625</index>
+	</word>
+	<word>
+		<tag>VERB</tag>
+		<rules>
+			</rules>
+		<lemma>așeza</lemma>
+		<swedish>placera, positionera</swedish>
+		<english>place, position</english>
+		<sing_1>așez</sing_1>
+		<sing_2>așezi</sing_2>
+		<sing_3>așază</sing_3>
+		<plur_1>așezăm</plur_1>
+		<plur_2>așezați</plur_2>
+		<plur_3>așază</plur_3>
+		<pret_sing_1>așezam</pret_sing_1>
+		<pret_sing_2>așezai</pret_sing_2>
+		<pret_sing_3>așeza</pret_sing_3>
+		<pret_plur_1>așezam</pret_plur_1>
+		<pret_plur_2>așezați</pret_plur_2>
+		<pret_plur_3>așezau</pret_plur_3>
+		<perfekt>așezat</perfekt>
+		<gerunziu>așezând</gerunziu>
+		<conjunctiv_sing1>așez</conjunctiv_sing1>
+		<conjunctiv_sing2>așezi</conjunctiv_sing2>
+		<conjunctiv_sing3>așeze</conjunctiv_sing3>
+		<conjunctiv_plur1>așezăm</conjunctiv_plur1>
+		<conjunctiv_plur2>așezați</conjunctiv_plur2>
+		<conjunctiv_plur3>așeze</conjunctiv_plur3>
+		<imperativ_sing>așază</imperativ_sing>
+		<imperativ_plur>așezați</imperativ_plur>
+		<imperativ_sing_neg>așeza</imperativ_sing_neg>
+		<imperativ_plur_neg>așezați</imperativ_plur_neg>
+		<cathegory />
+		<explanation />
+		<example_use />
+		<index>2024-05-12 06:59:18.608388</index>
+		<synonym />
+		<opposite />
+		<spare />
+		<counter>1</counter>
+	</word>
+	<word>
+		<tag>VERB</tag>
+		<rules>
+			</rules>
+		<lemma>proteja</lemma>
+		<swedish>skydda</swedish>
+		<english>protect</english>
+		<sing_1>protejez</sing_1>
+		<sing_2>protejezi</sing_2>
+		<sing_3>protejează</sing_3>
+		<plur_1>protejăm</plur_1>
+		<plur_2>protejați</plur_2>
+		<plur_3>protejează</plur_3>
+		<pret_sing_1>protejam</pret_sing_1>
+		<pret_sing_2>protejai</pret_sing_2>
+		<pret_sing_3>proteja</pret_sing_3>
+		<pret_plur_1>protejam</pret_plur_1>
+		<pret_plur_2>protejați</pret_plur_2>
+		<pret_plur_3>protejau</pret_plur_3>
+		<perfekt>protejat</perfekt>
+		<gerunziu>protejând</gerunziu>
+		<conjunctiv_sing1>protejez</conjunctiv_sing1>
+		<conjunctiv_sing2>protejezi</conjunctiv_sing2>
+		<conjunctiv_sing3>protejeze</conjunctiv_sing3>
+		<conjunctiv_plur1>protejăm</conjunctiv_plur1>
+		<conjunctiv_plur2>protejați</conjunctiv_plur2>
+		<conjunctiv_plur3>protejeze</conjunctiv_plur3>
+		<imperativ_sing>protejează</imperativ_sing>
+		<imperativ_plur>protejați</imperativ_plur>
+		<imperativ_sing_neg>proteja</imperativ_sing_neg>
+		<imperativ_plur_neg>protejați</imperativ_plur_neg>
+		<cathegory>vt</cathegory>
+		<explanation />
+		<example_use />
+		<index>2024-05-13 07:24:27.298826</index>
+		<synonym />
+		<opposite />
+		<spare />
+		<counter>1</counter>
+	</word>
+	<word>
+		<lemma>mijloc</lemma>
+		<tag>NOUN</tag>
+		<gender>n</gender>
+		<plural />
+		<definite>mijlocul</definite>
+		<swedish>mitten, medel</swedish>
+		<english>middle, means</english>
+		<explanation>medel även 'means'</explanation>
+		<example_use>mijlocul de transport</example_use>
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-05-14 04:54:52.106860</index>
+	</word>
+	<word>
+		<lemma>dejun</lemma>
+		<tag>NOUN</tag>
+		<gender>n</gender>
+		<plural />
+		<definite>dejunul</definite>
+		<swedish>lunch (tid)</swedish>
+		<english>lunch (time)</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-05-14 04:59:16.238462</index>
+	</word>
+	<word>
+		<tag>VERB</tag>
+		<rules>
+			</rules>
+		<lemma>întoarce</lemma>
+		<swedish>svänga, vrida</swedish>
+		<english>turn</english>
+		<sing_1>întorc</sing_1>
+		<sing_2>întorci</sing_2>
+		<sing_3>întoarce</sing_3>
+		<plur_1>întoarcem</plur_1>
+		<plur_2>întoarceți</plur_2>
+		<plur_3>întorc</plur_3>
+		<pret_sing_1>întorceam</pret_sing_1>
+		<pret_sing_2>întorceai</pret_sing_2>
+		<pret_sing_3>întorcea</pret_sing_3>
+		<pret_plur_1>întorceam</pret_plur_1>
+		<pret_plur_2>întorceați</pret_plur_2>
+		<pret_plur_3>întorceau</pret_plur_3>
+		<perfekt>întors</perfekt>
+		<gerunziu>întorcând</gerunziu>
+		<conjunctiv_sing1>întorc</conjunctiv_sing1>
+		<conjunctiv_sing2>întorcî</conjunctiv_sing2>
+		<conjunctiv_sing3>întoarcă</conjunctiv_sing3>
+		<conjunctiv_plur1>întorcem</conjunctiv_plur1>
+		<conjunctiv_plur2>întorceți</conjunctiv_plur2>
+		<conjunctiv_plur3>întoarcă</conjunctiv_plur3>
+		<imperativ_sing>întoarce</imperativ_sing>
+		<imperativ_plur>întorceți</imperativ_plur>
+		<imperativ_sing_neg>intoarce</imperativ_sing_neg>
+		<imperativ_plur_neg>întoarceți</imperativ_plur_neg>
+		<cathegory>vt</cathegory>
+		<explanation />
+		<example_use />
+		<index>2024-05-14 05:11:05.374744</index>
+		<synonym />
+		<opposite />
+		<spare />
+		<counter>1</counter>
+	</word>
+	<word>
+		<lemma>Supă de pui cu tăiței</lemma>
+		<tag>X</tag>
+		<swedish>Kycklingsoppa med nudlar</swedish>
+		<english>Chicken soup with noodles</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-05-14 05:22:08.840810</index>
+	</word>
+	<word>
+		<lemma>cremă</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<plural />
+		<definite>crema</definite>
+		<swedish>grädde</swedish>
+		<english>cream</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-05-14 05:26:24.167433</index>
 	</word>
 </dictionary>

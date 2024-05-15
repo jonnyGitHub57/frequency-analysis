@@ -12,13 +12,18 @@ Created on Mon Jul 13 14:43:01 2020
 import sys
 sys.path.append('../Datorlingvistik/')
 
-from datetime import datetime
+# from datetime import datetime
 from Translate import User_translate
 from xml_test import XML_Wictionary
 import webbrowser
 from stanza_test import XML_statistics
 import subprocess
+# import time
+import matplotlib.pyplot as plt
+import matplotlib.dates as mdates
+# import time for the sleep method
 import time
+from datetime import datetime, timedelta, date
        
 
 class Wictionary(XML_Wictionary):
@@ -832,6 +837,72 @@ if __name__=='__main__':
         
         return(this_language)
     
+    def Get_statistics(this_language):
+        """
+        Get the statistics regarding the size and growth of the dictionary.
+        
+        Get the intire dictionary as a list of Python dictionaries. Go
+        through each word and use the index field to extract date of creation.
+        Use the information to create the number of words created per day
+
+        Parameters
+        ----------
+        this_language : TYPE
+            DESCRIPTION.
+
+        Returns
+        -------
+        None.
+
+        """
+        """
+        
+        """
+        template_list = this_language.find_template('*')
+        found_words = this_language.find_tag('*')
+        
+        date_list = []
+        weight_list = []
+        bmi_list = []
+        
+        for word in found_words:
+            date_str = word.get('index', '')[0:10]
+            date_list.append(date_str)
+            
+        print(date_list)
+        """
+        """
+        format_str = "%Y-%m-%d"
+        myFmt = mdates.DateFormatter(format_str)
+        
+        first_year = date_list[0].date().year
+        latest_year = date_list[-1].date().year
+        plot_end_date = date_list[-1] + timedelta(days=120)        
+        
+        fig, ax1 = plt.subplots()
+        ax1.xaxis.set_major_formatter(myFmt)
+        ax1.plot(date_list, weight_list, label='Vikt')
+        # ax.plot(Target_weight, label='Målvikt')
+        # ax1.axhline(y=Target_weight, color='red', label='Målvikt')
+        # ax1.axhline(y=78, color='Cyan', label='BMI normal')
+        ax1.set_xlim(date_list[0], plot_end_date)
+        fig.autofmt_xdate()
+        ax1.set_title(f'Vocabulary growth {first_year} - {latest_year}')
+        ax1.set_ylabel('Ackumulated size', color='blue')
+        # ax1.set_ylim(plot_low_limit, plot_hi_limit)
+        ax1.legend()
+        # Add a second axis to the plot
+        ax2 = ax1.twinx()
+        ax2.set_ylabel('Growth', color='green')
+        ax2.plot(date_list, bmi_list, label='BMI', color='green')
+        # ax2.set_ylim(BMI_low_limit, BMI_hi_limit)
+        # ax2.set_xlim(date_list[0], target_date)
+        # plt.savefig(this_person.name + '_weight.png')
+        plt.savefig("WeightLoss.png")
+        # plt.show()
+        
+        
+        
     def Do_nothing(this_language):
         print("Felaktigt val")
         return(this_language)
@@ -843,10 +914,10 @@ if __name__=='__main__':
     with options.get(...) function call
     """
     options = {"a": ['Add word', Add_word],
+               "z": ['Get statistics', Get_statistics],
                "i": ["Info", Show_info],
                "l": ['List words', List_words],
                "s": ['Search word', Search_word],
-               # "e": ['Edit word', Edit_word],
                "e": ['Edit word', Update_word],
                "o": ['Translate_submenu', Translate_submenu],
                "t": ['Take test', Word_test],
