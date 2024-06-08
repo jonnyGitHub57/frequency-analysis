@@ -1320,7 +1320,7 @@
 		<counter>1</counter>
 	</word>
 	<word>
-		<lemma>largă</lemma>
+		<lemma>larg</lemma>
 		<tag>ADJ</tag>
 		<swedish>bred</swedish>
 		<explanation />
@@ -2660,7 +2660,7 @@
 		<tag>NOUN</tag>
 		<gender>n</gender>
 		<definite />
-		<swedish>sovrum(met)</swedish>
+		<swedish>sovrum</swedish>
 		<explanation />
 		<plural />
 		<synonym />
@@ -12166,5 +12166,1382 @@
 		<opposite />
 		<counter>1</counter>
 		<index>2024-05-21 05:30:04.757724</index>
+	</word>
+	<word>
+		<lemma>obraz</lemma>
+		<tag>NOUN</tag>
+		<gender>m</gender>
+		<plural>obraji</plural>
+		<definite>obrazul</definite>
+		<swedish>kind</swedish>
+		<english>cheek</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-05-22 05:02:48.989702</index>
+	</word>
+	<word>
+		<lemma>sufragerie</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<plural>sufragerii</plural>
+		<definite>sufrageria</definite>
+		<swedish>matsal, marum</swedish>
+		<english>dinging room</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-05-22 05:04:46.309074</index>
+	</word>
+	<word>
+		<lemma>prosop</lemma>
+		<tag>NOUN</tag>
+		<gender>n</gender>
+		<plural>prosoape</plural>
+		<definite>prosopul</definite>
+		<swedish>handduk</swedish>
+		<english>towel</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-05-22 05:06:58.488523</index>
+	</word>
+	<word>
+		<lemma>șold</lemma>
+		<tag>NOUN</tag>
+		<gender>n</gender>
+		<plural>șolduri</plural>
+		<definite>șoldul</definite>
+		<swedish>höft</swedish>
+		<english>hip</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-05-22 05:10:05.855898</index>
+	</word>
+	<word>
+		<lemma>periută</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<plural />
+		<definite>periuta</definite>
+		<swedish>liten borste</swedish>
+		<english>small brush</english>
+		<explanation />
+		<example_use>periută de dinți</example_use>
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-05-22 05:18:35.700846</index>
+	</word>
+	<word>
+		<lemma>săpun</lemma>
+		<tag>NOUN</tag>
+		<gender>n</gender>
+		<plural>săpunuri</plural>
+		<definite>săpunul</definite>
+		<swedish>tvål</swedish>
+		<english>soap</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-05-22 05:20:08.937634</index>
+	</word>
+	<word>
+		<lemma>nas</lemma>
+		<tag>NOUN</tag>
+		<gender>n</gender>
+		<plural>nasuri</plural>
+		<definite>nasul</definite>
+		<swedish>näsa</swedish>
+		<english>nose</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-05-22 05:21:33.514594</index>
+	</word>
+	<word>
+		<lemma>duș</lemma>
+		<tag>NOUN</tag>
+		<gender>n</gender>
+		<plural>dușuri</plural>
+		<definite>dușul</definite>
+		<swedish>dusch</swedish>
+		<english>shower</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-05-22 05:22:46.923954</index>
+	</word>
+	<word>
+		<lemma>frunte</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<plural>frunți</plural>
+		<definite>fruntea</definite>
+		<swedish>panna</swedish>
+		<english>forehead</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-05-22 05:25:06.167922</index>
+	</word>
+	<word>
+		<lemma>robinet</lemma>
+		<tag>NOUN</tag>
+		<gender>n</gender>
+		<plural>robinete</plural>
+		<definite>robinetul</definite>
+		<swedish>vattenkran, blandare</swedish>
+		<english>tap</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-05-22 05:28:54.057823</index>
+	</word>
+	<word>
+		<lemma>covor</lemma>
+		<tag>NOUN</tag>
+		<gender>n</gender>
+		<plural>covoare</plural>
+		<definite>covorul</definite>
+		<swedish>matta</swedish>
+		<english>carpet, mat</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-05-22 05:30:11.169197</index>
+	</word>
+	<word>
+		<lemma>cadă</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<plural>căzi</plural>
+		<definite>cada</definite>
+		<swedish>badkar</swedish>
+		<english>bathtub</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-05-22 05:32:53.231788</index>
+	</word>
+	<word>
+		<lemma>birou</lemma>
+		<tag>NOUN</tag>
+		<gender>n</gender>
+		<plural>birouri</plural>
+		<definite>biroul</definite>
+		<swedish>kontor, skrivbord</swedish>
+		<english>office, desk</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-05-22 05:36:04.806168</index>
+	</word>
+	<word>
+		<lemma>braț</lemma>
+		<tag>NOUN</tag>
+		<gender>n</gender>
+		<plural>brațe</plural>
+		<definite>brațul</definite>
+		<swedish>arm</swedish>
+		<english>arm</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-05-22 05:38:21.410928</index>
+	</word>
+	<word>
+		<lemma>lampă</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<plural>lămpi</plural>
+		<definite>lampa</definite>
+		<swedish>lampa</swedish>
+		<english>lamp</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-05-22 05:40:07.753997</index>
+	</word>
+	<word>
+		<lemma>cuier</lemma>
+		<tag>NOUN</tag>
+		<gender>n</gender>
+		<plural>cuiere</plural>
+		<definite>cuier</definite>
+		<swedish>galge, hatthylla</swedish>
+		<english>rack, coat hanger</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-05-22 05:41:53.464285</index>
+	</word>
+	<word>
+		<lemma>perdea</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<plural>perdele</plural>
+		<definite>perdeaua</definite>
+		<swedish>gardin, ridå</swedish>
+		<english>curtain</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-05-22 05:43:28.476169</index>
+	</word>
+	<word>
+		<lemma>domnișoară</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<plural>domnișoare</plural>
+		<definite>domnișoara</definite>
+		<swedish>fröken, ung dam</swedish>
+		<english>miss, young lady</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-05-22 06:00:01.049931</index>
+	</word>
+	<word>
+		<lemma>mamă</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<plural>mame</plural>
+		<definite>mama</definite>
+		<swedish>mor, mamma</swedish>
+		<english>mother, mum</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-05-22 06:02:28.122055</index>
+	</word>
+	<word>
+		<lemma>tată</lemma>
+		<tag>NOUN</tag>
+		<gender>m</gender>
+		<plural>tați</plural>
+		<definite>tatăl</definite>
+		<swedish>far, pappa</swedish>
+		<english>father, dad</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-05-22 06:05:20.412654</index>
+	</word>
+	<word>
+		<lemma>soră</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<plural>surori</plural>
+		<definite>sora</definite>
+		<swedish>syster</swedish>
+		<english>sister</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-05-22 06:39:07.571519</index>
+	</word>
+	<word>
+		<lemma>deci</lemma>
+		<tag>SCONJ</tag>
+		<swedish>så, följaktligen, således</swedish>
+		<english>consequently, hence</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-05-23 04:07:53.401353</index>
+	</word>
+	<word>
+		<lemma>nepot</lemma>
+		<tag>NOUN</tag>
+		<gender>m</gender>
+		<plural>nepoți</plural>
+		<definite>nepotul</definite>
+		<swedish>barnbarn, brorson, systerson</swedish>
+		<english>grandson, nephew</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-05-23 04:11:32.497525</index>
+	</word>
+	<word>
+		<lemma>nepoată</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<plural>nepoate</plural>
+		<definite>nepoata</definite>
+		<swedish>barnbarn, systerdotter, brorsdotter</swedish>
+		<english>granddaughter, niece</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-05-23 04:14:09.625100</index>
+	</word>
+	<word>
+		<tag>VERB</tag>
+		<rules>
+			</rules>
+		<lemma>naște</lemma>
+		<swedish>föda, födas</swedish>
+		<english>be born, give berth to</english>
+		<sing_1>nasc</sing_1>
+		<sing_2>naști</sing_2>
+		<sing_3>naște</sing_3>
+		<plur_1>naștem</plur_1>
+		<plur_2>nașteți</plur_2>
+		<plur_3>nasc</plur_3>
+		<conjunctiv_sing1>nasc</conjunctiv_sing1>
+		<conjunctiv_sing2>naști</conjunctiv_sing2>
+		<conjunctiv_sing3>nască</conjunctiv_sing3>
+		<conjunctiv_plur1>naștem</conjunctiv_plur1>
+		<conjunctiv_plur2>nașteți</conjunctiv_plur2>
+		<conjunctiv_plur3>nască</conjunctiv_plur3>
+		<imperfekt_sing_1>nașteam</imperfekt_sing_1>
+		<imperfekt_sing_2>nășteai</imperfekt_sing_2>
+		<imperfekt_sing_3>năștea</imperfekt_sing_3>
+		<imperfekt_plur_1>nășteam</imperfekt_plur_1>
+		<imperfekt_plur_2>nășteați</imperfekt_plur_2>
+		<imperfekt_plur_3>nășteau</imperfekt_plur_3>
+		<perfekt>născut</perfekt>
+		<gerunziu>născând</gerunziu>
+		<imperativ_sing>naște</imperativ_sing>
+		<imperativ_plur>nașteți</imperativ_plur>
+		<cathegory>vr</cathegory>
+		<explanation />
+		<example_use />
+		<index>2024-05-23 04:27:33.261447</index>
+		<synonym />
+		<opposite />
+		<spare />
+		<counter>1</counter>
+	</word>
+	<word>
+		<tag>ADJ</tag>
+		<lemma>căsătorit</lemma>
+		<komparativ />
+		<superlativ />
+		<cathegory />
+		<swedish>gift</swedish>
+		<english>married</english>
+		<explanation>gift med någon</explanation>
+		<example_use>Cu cine este căsătorită</example_use>
+		<index>2024-05-23 04:32:38.235210</index>
+		<synonym />
+		<opposite />
+		<spare />
+		<counter>1</counter>
+	</word>
+	<word>
+		<lemma>tinichigiu</lemma>
+		<tag>NOUN</tag>
+		<gender>m</gender>
+		<plural>tinichigii</plural>
+		<definite>tinichigiul</definite>
+		<swedish>plåtslagare</swedish>
+		<english>tinsman</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-05-23 05:20:25.895722</index>
+	</word>
+	<word>
+		<lemma>grosime</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<plural>grosimii</plural>
+		<definite>grosimea</definite>
+		<swedish>tjocklek</swedish>
+		<english>thickness</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-05-23 06:08:12.103299</index>
+	</word>
+	<word>
+		<lemma>izolație</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<plural>izolații</plural>
+		<definite>izolația</definite>
+		<swedish>isolering</swedish>
+		<english>insulation</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-05-23 06:10:56.058631</index>
+	</word>
+	<word>
+		<lemma>strat</lemma>
+		<tag>NOUN</tag>
+		<gender>n</gender>
+		<plural>straturi</plural>
+		<definite>stratul</definite>
+		<swedish>lager, skikt</swedish>
+		<english>layer, coating</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-05-23 06:14:31.840911</index>
+	</word>
+	<word>
+		<lemma>perișoară</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<plural>perișoare</plural>
+		<definite>perișoara</definite>
+		<swedish>köttbulle</swedish>
+		<english>meatball</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-05-23 11:51:14.685263</index>
+	</word>
+	<word>
+		<lemma>specialitate</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<plural>specialități</plural>
+		<definite>specialitatea</definite>
+		<swedish>specialitet</swedish>
+		<english>specialty</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-05-23 12:00:33.673704</index>
+	</word>
+	<word>
+		<lemma>separat</lemma>
+		<tag>ADV</tag>
+		<swedish>separerat</swedish>
+		<english>separately</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-05-23 12:07:50.040623</index>
+	</word>
+	<word>
+		<lemma>noptieră</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<plural>noptiere</plural>
+		<definite>noptiera</definite>
+		<swedish>nattduksbord</swedish>
+		<english>nightstand</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-05-26 06:20:24.661391</index>
+	</word>
+	<word>
+		<lemma>tablou</lemma>
+		<tag>NOUN</tag>
+		<gender>n</gender>
+		<plural>tablouri</plural>
+		<definite>tabloul</definite>
+		<swedish>målning, tavla, bild</swedish>
+		<english>painting, picture</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-05-26 06:25:41.038320</index>
+	</word>
+	<word>
+		<lemma>cearșaf</lemma>
+		<tag>NOUN</tag>
+		<gender>n</gender>
+		<plural>cearșafuri</plural>
+		<definite>cearșaful</definite>
+		<swedish>lakan</swedish>
+		<english>sheet (bed)</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-05-26 06:28:15.446830</index>
+	</word>
+	<word>
+		<lemma>făraș</lemma>
+		<tag>NOUN</tag>
+		<gender>n</gender>
+		<plural>fărașe</plural>
+		<definite>fărașul</definite>
+		<swedish>skyffel, sopskyffel</swedish>
+		<english />
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-05-26 06:31:19.762775</index>
+	</word>
+	<word>
+		<lemma>sete</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<plural />
+		<definite>setea</definite>
+		<swedish>törst</swedish>
+		<english>thirst</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-05-26 06:34:20.972455</index>
+	</word>
+	<word>
+		<lemma>frică</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<plural>frici</plural>
+		<definite>frica</definite>
+		<swedish>rädsla</swedish>
+		<english>fear</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-05-26 06:39:52.214905</index>
+	</word>
+	<word>
+		<lemma>frig</lemma>
+		<tag>NOUN</tag>
+		<gender>n</gender>
+		<plural>friguri</plural>
+		<definite>frigul</definite>
+		<swedish>kyla, frost</swedish>
+		<english>cold, frost</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-05-26 06:41:29.572468</index>
+	</word>
+	<word>
+		<lemma>poftă</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<plural>pofte</plural>
+		<definite>pofta</definite>
+		<swedish>aptit</swedish>
+		<english>appetite</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-05-26 07:06:32.134699</index>
+	</word>
+	<word>
+		<lemma>teamă</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<plural />
+		<definite>teama</definite>
+		<swedish>rädsla</swedish>
+		<english>fear</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-05-26 07:08:32.278407</index>
+	</word>
+	<word>
+		<lemma>somn</lemma>
+		<tag>NOUN</tag>
+		<gender>n</gender>
+		<plural>somnuri</plural>
+		<definite>somnul</definite>
+		<swedish>sömn</swedish>
+		<english>sleep</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-05-26 07:11:28.445061</index>
+	</word>
+	<word>
+		<lemma>bacșiș</lemma>
+		<tag>NOUN</tag>
+		<gender>n</gender>
+		<plural>bacșișuri</plural>
+		<definite>bacșișul</definite>
+		<swedish>dricks</swedish>
+		<english>tip</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-05-26 07:14:04.670946</index>
+	</word>
+	<word>
+		<tag>ADJ</tag>
+		<lemma>indiferent</lemma>
+		<komparativ />
+		<superlativ />
+		<cathegory />
+		<swedish>likgiltig</swedish>
+		<english>indifferent</english>
+		<explanation />
+		<example_use />
+		<index>2024-05-26 07:17:58.681419</index>
+		<synonym />
+		<opposite />
+		<spare />
+		<counter>1</counter>
+	</word>
+	<word>
+		<lemma>genunchi</lemma>
+		<tag>NOUN</tag>
+		<gender>m</gender>
+		<plural>genunchi</plural>
+		<definite>genunchiul</definite>
+		<swedish>knä</swedish>
+		<english>knee</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-05-26 07:22:00.989234</index>
+	</word>
+	<word>
+		<lemma>candidat</lemma>
+		<tag>NOUN</tag>
+		<gender>m</gender>
+		<plural>candidați</plural>
+		<definite>candidatul</definite>
+		<swedish>kandidat</swedish>
+		<english>candidate</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-05-26 07:27:07.457235</index>
+	</word>
+	<word>
+		<lemma>rușine</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<plural>rușini</plural>
+		<definite>rușinea</definite>
+		<swedish>skam</swedish>
+		<english>shame</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-05-26 07:46:06.175439</index>
+	</word>
+	<word>
+		<lemma>amenințare</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<plural>amenințări</plural>
+		<definite>amenințarea</definite>
+		<swedish>hot</swedish>
+		<english>threat</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-05-26 07:47:56.126089</index>
+	</word>
+	<word>
+		<lemma>spate</lemma>
+		<tag>NOUN</tag>
+		<gender>n</gender>
+		<plural>spate</plural>
+		<definite>spatele</definite>
+		<swedish>rygg</swedish>
+		<english>back</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-05-26 07:51:09.534790</index>
+	</word>
+	<word>
+		<lemma>acord</lemma>
+		<tag>NOUN</tag>
+		<gender>n</gender>
+		<plural>acorduri</plural>
+		<definite>acordul</definite>
+		<swedish>avtal, överenskommelse</swedish>
+		<english>agreement, contract</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-05-26 07:55:11.730318</index>
+	</word>
+	<word>
+		<lemma>gât</lemma>
+		<tag>NOUN</tag>
+		<gender>n</gender>
+		<plural>gâturi</plural>
+		<definite>gâtul</definite>
+		<swedish>nacke, hals, strupe</swedish>
+		<english>neck, throat</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-05-26 07:57:33.053857</index>
+	</word>
+	<word>
+		<lemma>nară</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<plural>nări</plural>
+		<definite>nara</definite>
+		<swedish>näsborre</swedish>
+		<english>nostril</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-05-26 08:00:16.120203</index>
+	</word>
+	<word>
+		<lemma>strategie</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<plural>strategii</plural>
+		<definite>strategia</definite>
+		<swedish>strategi</swedish>
+		<english>strategy</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-05-27 05:56:13.405983</index>
+	</word>
+	<word>
+		<lemma>privință</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<plural>privințe</plural>
+		<definite>privința</definite>
+		<swedish>syfte, avsikt</swedish>
+		<english>regard, topic</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-05-27 05:59:26.436808</index>
+	</word>
+	<word>
+		<lemma>cap</lemma>
+		<tag>NOUN</tag>
+		<gender>m</gender>
+		<plural>capi</plural>
+		<definite>capul</definite>
+		<swedish>huvud</swedish>
+		<english>head</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-05-27 06:00:35.341158</index>
+	</word>
+	<word>
+		<lemma>combustie</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<plural>combustii</plural>
+		<definite>combustia</definite>
+		<swedish>förbränning</swedish>
+		<english>combustion</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-05-27 06:02:50.389524</index>
+	</word>
+	<word>
+		<lemma>cămin</lemma>
+		<tag>NOUN</tag>
+		<gender>n</gender>
+		<plural>căminuri</plural>
+		<definite>căminul</definite>
+		<swedish>kamin, öppen spis</swedish>
+		<english>fireplace</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-05-27 06:05:14.118028</index>
+	</word>
+	<word>
+		<lemma>ventilație</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<plural>ventilații</plural>
+		<definite>ventilația</definite>
+		<swedish>ventilation</swedish>
+		<english />
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-05-27 06:06:53.556263</index>
+	</word>
+	<word>
+		<tag>VERB</tag>
+		<rules>
+			</rules>
+		<lemma>aranja</lemma>
+		<swedish>ordna, arrangera</swedish>
+		<english>arrange</english>
+		<sing_1>aranjez</sing_1>
+		<sing_2>aranjezi</sing_2>
+		<sing_3>aranjează</sing_3>
+		<plur_1>aranjăm</plur_1>
+		<plur_2>aranjați</plur_2>
+		<plur_3>aranjează</plur_3>
+		<conjunctiv_sing1>aranjez</conjunctiv_sing1>
+		<conjunctiv_sing2>aranjezi</conjunctiv_sing2>
+		<conjunctiv_sing3>aranjeze</conjunctiv_sing3>
+		<conjunctiv_plur1>aranjăm</conjunctiv_plur1>
+		<conjunctiv_plur2>aranjați</conjunctiv_plur2>
+		<conjunctiv_plur3>aranjeze</conjunctiv_plur3>
+		<imperfekt_sing_1>aranjam</imperfekt_sing_1>
+		<imperfekt_sing_2>aranjai</imperfekt_sing_2>
+		<imperfekt_sing_3>aranja</imperfekt_sing_3>
+		<imperfekt_plur_1>aranjam</imperfekt_plur_1>
+		<imperfekt_plur_2>aranjați</imperfekt_plur_2>
+		<imperfekt_plur_3>aranjau</imperfekt_plur_3>
+		<perfekt>aranjat</perfekt>
+		<gerunziu>aranjând</gerunziu>
+		<imperativ_sing>aranjează</imperativ_sing>
+		<imperativ_plur>aranjați</imperativ_plur>
+		<cathegory>vt</cathegory>
+		<explanation />
+		<example_use />
+		<index>2024-05-27 06:12:44.443176</index>
+		<synonym />
+		<opposite />
+		<spare />
+		<counter>1</counter>
+	</word>
+	<word>
+		<tag>VERB</tag>
+		<rules>
+			</rules>
+		<lemma>cunoaște</lemma>
+		<swedish>känna till</swedish>
+		<english>know</english>
+		<sing_1>cunosc</sing_1>
+		<sing_2>cunoști</sing_2>
+		<sing_3>cunoaște</sing_3>
+		<plur_1>cunoaștem</plur_1>
+		<plur_2>cunoașteți</plur_2>
+		<plur_3>cunosc</plur_3>
+		<conjunctiv_sing1>cunosc</conjunctiv_sing1>
+		<conjunctiv_sing2>cunoști</conjunctiv_sing2>
+		<conjunctiv_sing3>cunoască</conjunctiv_sing3>
+		<conjunctiv_plur1>cunoaștem</conjunctiv_plur1>
+		<conjunctiv_plur2>cuoașteți</conjunctiv_plur2>
+		<conjunctiv_plur3>cunoască</conjunctiv_plur3>
+		<imperfekt_sing_1>cunoșteam</imperfekt_sing_1>
+		<imperfekt_sing_2>cunoșteai</imperfekt_sing_2>
+		<imperfekt_sing_3>cunoștea</imperfekt_sing_3>
+		<imperfekt_plur_1>cunoșteam</imperfekt_plur_1>
+		<imperfekt_plur_2>cunoșteați</imperfekt_plur_2>
+		<imperfekt_plur_3>cunoșteau</imperfekt_plur_3>
+		<perfekt>cunoscut</perfekt>
+		<gerunziu>cunoscând</gerunziu>
+		<imperativ_sing>cunoaște</imperativ_sing>
+		<imperativ_plur>cunoașteți</imperativ_plur>
+		<cathegory />
+		<explanation />
+		<example_use />
+		<index>2024-05-30 19:43:49.049383</index>
+		<synonym />
+		<opposite />
+		<spare />
+		<counter>1</counter>
+	</word>
+	<word>
+		<tag>VERB</tag>
+		<rules>
+			</rules>
+		<lemma>lăsa</lemma>
+		<swedish>tillåta, låta</swedish>
+		<english>allow, permit</english>
+		<sing_1>las</sing_1>
+		<sing_2>lași</sing_2>
+		<sing_3>lasă</sing_3>
+		<plur_1>lăsăm</plur_1>
+		<plur_2>lăsați</plur_2>
+		<plur_3>lasă</plur_3>
+		<conjunctiv_sing1>las</conjunctiv_sing1>
+		<conjunctiv_sing2>lași</conjunctiv_sing2>
+		<conjunctiv_sing3>lase</conjunctiv_sing3>
+		<conjunctiv_plur1>lăsăm</conjunctiv_plur1>
+		<conjunctiv_plur2>lăsați</conjunctiv_plur2>
+		<conjunctiv_plur3>lase</conjunctiv_plur3>
+		<imperfekt_sing_1>lăsam</imperfekt_sing_1>
+		<imperfekt_sing_2>lăsai</imperfekt_sing_2>
+		<imperfekt_sing_3>lăsa</imperfekt_sing_3>
+		<imperfekt_plur_1>lăsam</imperfekt_plur_1>
+		<imperfekt_plur_2>lăsați</imperfekt_plur_2>
+		<imperfekt_plur_3>lăsau</imperfekt_plur_3>
+		<perfekt>lăsat</perfekt>
+		<gerunziu>lăsând</gerunziu>
+		<imperativ_sing>lasă</imperativ_sing>
+		<imperativ_plur>lăsați</imperativ_plur>
+		<cathegory />
+		<explanation />
+		<example_use />
+		<index>2024-05-31 05:54:53.587270</index>
+		<synonym />
+		<opposite />
+		<spare />
+		<counter>1</counter>
+	</word>
+	<word>
+		<lemma>dragoste</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<plural>dragoste</plural>
+		<definite>dragostea</definite>
+		<swedish>kärlek</swedish>
+		<english>love, affection</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-05-31 05:57:31.988018</index>
+	</word>
+	<word>
+		<tag>VERB</tag>
+		<rules>
+			</rules>
+		<lemma>răspunde</lemma>
+		<swedish>svara</swedish>
+		<english>answer, respond</english>
+		<sing_1>răspund</sing_1>
+		<sing_2>răspunzi</sing_2>
+		<sing_3>răspunde</sing_3>
+		<plur_1>răspundem</plur_1>
+		<plur_2>răspundeți</plur_2>
+		<plur_3>răspund</plur_3>
+		<conjunctiv_sing1>răspund</conjunctiv_sing1>
+		<conjunctiv_sing2>răspunzi</conjunctiv_sing2>
+		<conjunctiv_sing3>răspundă</conjunctiv_sing3>
+		<conjunctiv_plur1>răspundem</conjunctiv_plur1>
+		<conjunctiv_plur2>răspundeți</conjunctiv_plur2>
+		<conjunctiv_plur3>răspundă</conjunctiv_plur3>
+		<imperfekt_sing_1>răspundeam</imperfekt_sing_1>
+		<imperfekt_sing_2>răspundeai</imperfekt_sing_2>
+		<imperfekt_sing_3>răspundea</imperfekt_sing_3>
+		<imperfekt_plur_1>răspundeam</imperfekt_plur_1>
+		<imperfekt_plur_2>răspundeați</imperfekt_plur_2>
+		<imperfekt_plur_3>răspundeau</imperfekt_plur_3>
+		<perfekt>răspuns</perfekt>
+		<gerunziu>răspunzând</gerunziu>
+		<imperativ_sing>răspunde</imperativ_sing>
+		<imperativ_plur>răspundeți</imperativ_plur>
+		<cathegory />
+		<explanation />
+		<example_use />
+		<index>2024-05-31 06:03:24.618325</index>
+		<synonym />
+		<opposite />
+		<spare />
+		<counter>1</counter>
+	</word>
+	<word>
+		<lemma>seamă</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<plural>semi</plural>
+		<definite>seama</definite>
+		<swedish>mängd, (någons) räkning</swedish>
+		<english>account, amount</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-05-31 06:08:18.874958</index>
+	</word>
+	<word>
+		<lemma>trecere</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<plural>treceri</plural>
+		<definite>trecerea</definite>
+		<swedish>passering</swedish>
+		<english>passing</english>
+		<explanation>av 'passera'</explanation>
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-05-31 06:13:41.202519</index>
+	</word>
+	<word>
+		<lemma>dănsa</lemma>
+		<tag>PRON</tag>
+		<swedish>hon</swedish>
+		<english>she</english>
+		<explanation>'hon' när man talar om i hövlig form</explanation>
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-05-31 19:47:52.609130</index>
+	</word>
+	<word>
+		<lemma>undeva</lemma>
+		<tag>ADV</tag>
+		<swedish>någonstans</swedish>
+		<english>somewhere</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-06-05 05:33:55.219835</index>
+	</word>
+	<word>
+		<lemma>nor</lemma>
+		<tag>NOUN</tag>
+		<gender>m</gender>
+		<plural>nori</plural>
+		<definite>norul</definite>
+		<swedish>moln</swedish>
+		<english>cloud</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-06-07 05:57:24.196326</index>
+	</word>
+	<word>
+		<lemma>cer</lemma>
+		<tag>NOUN</tag>
+		<gender>m</gender>
+		<plural>ceri</plural>
+		<definite>cerul</definite>
+		<swedish>himmel</swedish>
+		<english>sky, heaven</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-06-07 05:59:49.983040</index>
+	</word>
+	<word>
+		<lemma>tunet</lemma>
+		<tag>NOUN</tag>
+		<gender>n</gender>
+		<plural>tunete</plural>
+		<definite>tunetul</definite>
+		<swedish>åska, muller</swedish>
+		<english>thunder, roar</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-06-07 06:02:22.774800</index>
+	</word>
+	<word>
+		<lemma>fulger</lemma>
+		<tag>NOUN</tag>
+		<gender>n</gender>
+		<plural>fulgere</plural>
+		<definite>fulgerul</definite>
+		<swedish>blixt</swedish>
+		<english>flash, lightning</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-06-07 06:05:41.413285</index>
+	</word>
+	<word>
+		<lemma>ceată</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<plural>cete</plural>
+		<definite>ceata</definite>
+		<swedish>dimma</swedish>
+		<english>fog, haze</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-06-07 06:08:03.921066</index>
+	</word>
+	<word>
+		<lemma>furtună</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<plural>furtuni</plural>
+		<definite>furtuna</definite>
+		<swedish>storm</swedish>
+		<english />
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-06-07 06:09:43.356334</index>
+	</word>
+	<word>
+		<lemma>știință</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<plural>știința</plural>
+		<definite>științe</definite>
+		<swedish>vetenskap</swedish>
+		<english>science</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-06-07 06:12:01.230151</index>
+	</word>
+	<word>
+		<lemma>tehnologie</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<plural>tehnologii</plural>
+		<definite>tehnologia</definite>
+		<swedish>teknologi, teknik</swedish>
+		<english>technology</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-06-07 06:14:53.955881</index>
+	</word>
+	<word>
+		<lemma>deal</lemma>
+		<tag>NOUN</tag>
+		<gender>n</gender>
+		<plural>dealuri</plural>
+		<definite>dealul</definite>
+		<swedish>kulle</swedish>
+		<english>hill</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-06-07 06:18:06.406875</index>
+	</word>
+	<word>
+		<lemma>câmp</lemma>
+		<tag>NOUN</tag>
+		<gender>n</gender>
+		<plural>câmpuri</plural>
+		<definite>câmpul</definite>
+		<swedish>fält, åker</swedish>
+		<english>field</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-06-07 06:21:56.873541</index>
+	</word>
+	<word>
+		<lemma>câmpie</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<plural>câmpii</plural>
+		<definite>câmpia</definite>
+		<swedish>fält, slättmark</swedish>
+		<english>plain, field</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-06-07 06:23:56.489873</index>
+	</word>
+	<word>
+		<lemma>său</lemma>
+		<tag>DET</tag>
+		<swedish>hans, hennes</swedish>
+		<english>his, hers</english>
+		<explanation>även possesivt pronomen</explanation>
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-06-08 04:52:25.158425</index>
+	</word>
+	<word>
+		<lemma>biologie</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<plural />
+		<definite>biologia</definite>
+		<swedish>biologi</swedish>
+		<english>biology</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-06-08 04:54:28.135575</index>
+	</word>
+	<word>
+		<lemma>fizică</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<plural />
+		<definite>fizica</definite>
+		<swedish>fysik</swedish>
+		<english>physics</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-06-08 05:52:38.532213</index>
+	</word>
+	<word>
+		<lemma>geometrie</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<plural />
+		<definite>geometria</definite>
+		<swedish>geometri</swedish>
+		<english>geometry</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-06-08 05:54:57.333642</index>
+	</word>
+	<word>
+		<lemma>geografie</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<plural />
+		<definite>geografia</definite>
+		<swedish>geografi</swedish>
+		<english>geography</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-06-08 05:56:13.268077</index>
+	</word>
+	<word>
+		<lemma>geologie</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<plural />
+		<definite>geologia</definite>
+		<swedish>geologi</swedish>
+		<english>geology</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-06-08 05:57:22.687039</index>
 	</word>
 </dictionary>
