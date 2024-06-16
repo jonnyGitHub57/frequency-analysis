@@ -13872,4 +13872,187 @@
 		<spare />
 		<counter>1</counter>
 	</word>
+	<word>
+		<lemma>manoperă</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<plural>manopere</plural>
+		<definite>manopera</definite>
+		<swedish>manuellt arbete</swedish>
+		<english>manual labour</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-06-15 16:40:26.705443</index>
+	</word>
+	<word>
+		<tag>VERB</tag>
+		<rules>
+			</rules>
+		<lemma>grăi</lemma>
+		<swedish>tala</swedish>
+		<english>speak, say</english>
+		<sing_1>grăiesc</sing_1>
+		<sing_2>grăiești</sing_2>
+		<sing_3>grăiește</sing_3>
+		<plur_1>grăim</plur_1>
+		<plur_2>grăiți</plur_2>
+		<plur_3>grăiesc</plur_3>
+		<conjunctiv_sing1>grăiesc</conjunctiv_sing1>
+		<conjunctiv_sing2>grăiești</conjunctiv_sing2>
+		<conjunctiv_sing3>grăiască</conjunctiv_sing3>
+		<conjunctiv_plur1>grăim</conjunctiv_plur1>
+		<conjunctiv_plur2>grăiți</conjunctiv_plur2>
+		<conjunctiv_plur3>grăiască</conjunctiv_plur3>
+		<imperfekt_sing_1>grăiam</imperfekt_sing_1>
+		<imperfekt_sing_2>grăiai</imperfekt_sing_2>
+		<imperfekt_sing_3>grăia</imperfekt_sing_3>
+		<imperfekt_plur_1>grăiam</imperfekt_plur_1>
+		<imperfekt_plur_2>grăiați</imperfekt_plur_2>
+		<imperfekt_plur_3>grăiau</imperfekt_plur_3>
+		<perfekt>grăit</perfekt>
+		<gerunziu>grăind</gerunziu>
+		<imperativ_sing>grăiește</imperativ_sing>
+		<imperativ_plur>grăiți</imperativ_plur>
+		<cathegory>vt</cathegory>
+		<explanation />
+		<example_use />
+		<index>2024-06-15 16:51:20.967173</index>
+		<synonym>spune</synonym>
+		<opposite />
+		<spare />
+		<counter>1</counter>
+	</word>
+	<word>
+		<tag>ADJ</tag>
+		<lemma>persistent</lemma>
+		<komparativ />
+		<superlativ />
+		<cathegory />
+		<swedish>beständig</swedish>
+		<english>persistant</english>
+		<explanation />
+		<example_use />
+		<index>2024-06-15 16:55:47.550555</index>
+		<synonym />
+		<opposite />
+		<spare />
+		<counter>1</counter>
+	</word>
+	<word>
+		<tag>VERB</tag>
+		<rules>
+			</rules>
+		<lemma>petrece</lemma>
+		<swedish>glädjas, förnöjas</swedish>
+		<english>amuse oneself</english>
+		<sing_1>petrec</sing_1>
+		<sing_2>petreci</sing_2>
+		<sing_3>petrece</sing_3>
+		<plur_1>petrecem</plur_1>
+		<plur_2>petreceți</plur_2>
+		<plur_3>petrec</plur_3>
+		<conjunctiv_sing1>petrec</conjunctiv_sing1>
+		<conjunctiv_sing2>petreci</conjunctiv_sing2>
+		<conjunctiv_sing3>petreacă</conjunctiv_sing3>
+		<conjunctiv_plur1>petrecem</conjunctiv_plur1>
+		<conjunctiv_plur2>petreceți</conjunctiv_plur2>
+		<conjunctiv_plur3>petreacă</conjunctiv_plur3>
+		<imperfekt_sing_1>petreceam</imperfekt_sing_1>
+		<imperfekt_sing_2>petreceai</imperfekt_sing_2>
+		<imperfekt_sing_3>petrecea</imperfekt_sing_3>
+		<imperfekt_plur_1>petreceam</imperfekt_plur_1>
+		<imperfekt_plur_2>petreceați</imperfekt_plur_2>
+		<imperfekt_plur_3>petreceau</imperfekt_plur_3>
+		<perfekt>petrecut</perfekt>
+		<gerunziu>petrecând</gerunziu>
+		<imperativ_sing>petreci</imperativ_sing>
+		<imperativ_plur>petreceți</imperativ_plur>
+		<cathegory>vi</cathegory>
+		<explanation />
+		<example_use />
+		<index>2024-06-15 17:07:51.767068</index>
+		<synonym />
+		<opposite />
+		<spare />
+		<counter>1</counter>
+	</word>
+	<word>
+		<tag>VERB</tag>
+		<rules>
+			</rules>
+		<lemma>pierde</lemma>
+		<swedish>förlora</swedish>
+		<english>lose, miss</english>
+		<sing_1>pierd</sing_1>
+		<sing_2>pierzi</sing_2>
+		<sing_3>pierde</sing_3>
+		<plur_1>pierdem</plur_1>
+		<plur_2>pierdeți</plur_2>
+		<plur_3>pierd</plur_3>
+		<conjunctiv_sing1>perd</conjunctiv_sing1>
+		<conjunctiv_sing2>pierzi</conjunctiv_sing2>
+		<conjunctiv_sing3>piardă</conjunctiv_sing3>
+		<conjunctiv_plur1>pierdem</conjunctiv_plur1>
+		<conjunctiv_plur2>pierdeți</conjunctiv_plur2>
+		<conjunctiv_plur3>piardă</conjunctiv_plur3>
+		<imperfekt_sing_1>pierdeam</imperfekt_sing_1>
+		<imperfekt_sing_2>pierdeai</imperfekt_sing_2>
+		<imperfekt_sing_3>pierdea</imperfekt_sing_3>
+		<imperfekt_plur_1>pierdeam</imperfekt_plur_1>
+		<imperfekt_plur_2>pierdeați</imperfekt_plur_2>
+		<imperfekt_plur_3>pierdeau</imperfekt_plur_3>
+		<perfekt>pierdut</perfekt>
+		<gerunziu>pierzând</gerunziu>
+		<imperativ_sing>pierde</imperativ_sing>
+		<imperativ_plur>pierdeți</imperativ_plur>
+		<cathegory>vt</cathegory>
+		<explanation />
+		<example_use />
+		<index>2024-06-15 19:58:50.119006</index>
+		<synonym />
+		<opposite />
+		<spare />
+		<counter>1</counter>
+	</word>
+	<word>
+		<tag>VERB</tag>
+		<rules>
+			</rules>
+		<lemma>pica</lemma>
+		<swedish>falla</swedish>
+		<english>fall, fail</english>
+		<sing_1>pic</sing_1>
+		<sing_2>pici</sing_2>
+		<sing_3>pică</sing_3>
+		<plur_1>picăm</plur_1>
+		<plur_2>picați</plur_2>
+		<plur_3>pică</plur_3>
+		<conjunctiv_sing1>pic</conjunctiv_sing1>
+		<conjunctiv_sing2>pici</conjunctiv_sing2>
+		<conjunctiv_sing3>pice</conjunctiv_sing3>
+		<conjunctiv_plur1>picăm</conjunctiv_plur1>
+		<conjunctiv_plur2>picați</conjunctiv_plur2>
+		<conjunctiv_plur3>pice</conjunctiv_plur3>
+		<imperfekt_sing_1>picam</imperfekt_sing_1>
+		<imperfekt_sing_2>picai</imperfekt_sing_2>
+		<imperfekt_sing_3>pica</imperfekt_sing_3>
+		<imperfekt_plur_1>picam</imperfekt_plur_1>
+		<imperfekt_plur_2>picați</imperfekt_plur_2>
+		<imperfekt_plur_3>picau</imperfekt_plur_3>
+		<perfekt>picat</perfekt>
+		<gerunziu>picând</gerunziu>
+		<imperativ_sing>pică</imperativ_sing>
+		<imperativ_plur>picați</imperativ_plur>
+		<cathegory>vi</cathegory>
+		<explanation />
+		<example_use />
+		<index>2024-06-15 20:55:25.265403</index>
+		<synonym />
+		<opposite />
+		<spare />
+		<counter>1</counter>
+	</word>
 </dictionary>
