@@ -14070,4 +14070,34 @@
 		<counter>1</counter>
 		<index>2024-07-14 06:38:23.114998</index>
 	</word>
+	<word>
+		<lemma>dobândă</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<plural>dobânzi</plural>
+		<definite>dobânda</definite>
+		<swedish>ränta</swedish>
+		<english>interest (on a loan)</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-07-14 06:43:15.416945</index>
+	</word>
+	<word>
+		<lemma>împrumut</lemma>
+		<tag>NOUN</tag>
+		<gender>n</gender>
+		<plural>împrumuturi</plural>
+		<definite>împrumutul</definite>
+		<swedish>lån, kredit</swedish>
+		<english>loan, credit</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-07-14 06:47:23.607408</index>
+	</word>
 </dictionary>
