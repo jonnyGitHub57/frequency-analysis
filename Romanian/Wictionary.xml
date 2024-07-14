@@ -14055,4 +14055,19 @@
 		<spare />
 		<counter>1</counter>
 	</word>
+	<word>
+		<lemma>rând</lemma>
+		<tag>NOUN</tag>
+		<gender>n</gender>
+		<plural>rânduri</plural>
+		<definite>rândul</definite>
+		<swedish>rad</swedish>
+		<english>row, rank</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-07-14 06:38:23.114998</index>
+	</word>
 </dictionary>
