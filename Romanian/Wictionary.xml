@@ -14679,6 +14679,13 @@
 		<definite>pariul</definite>
 		<swedish>vad, åtagande</swedish>
 		<english>bet</english>
+		<lemma>rând</lemma>
+		<tag>NOUN</tag>
+		<gender>n</gender>
+		<plural>rânduri</plural>
+		<definite>rândul</definite>
+		<swedish>rad</swedish>
+		<english>row, rank</english>
 		<explanation />
 		<example_use />
 		<synonym />
@@ -14694,6 +14701,16 @@
 		<definite>câștigătorul</definite>
 		<swedish>vinnare</swedish>
 		<english />
+		<index>2024-07-14 06:38:23.114998</index>
+	</word>
+	<word>
+		<lemma>dobândă</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<plural>dobânzi</plural>
+		<definite>dobânda</definite>
+		<swedish>ränta</swedish>
+		<english>interest (on a loan)</english>
 		<explanation />
 		<example_use />
 		<synonym />
@@ -14709,6 +14726,16 @@
 		<definite>câștigul</definite>
 		<swedish>förstärkning, vinst</swedish>
 		<english>gain</english>
+		<index>2024-07-14 06:43:15.416945</index>
+	</word>
+	<word>
+		<lemma>împrumut</lemma>
+		<tag>NOUN</tag>
+		<gender>n</gender>
+		<plural>împrumuturi</plural>
+		<definite>împrumutul</definite>
+		<swedish>lån, kredit</swedish>
+		<english>loan, credit</english>
 		<explanation />
 		<example_use />
 		<synonym />
