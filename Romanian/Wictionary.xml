@@ -600,7 +600,7 @@
 	<word>
 		<lemma>înainte</lemma>
 		<tag>ADV</tag>
-		<swedish>framåt</swedish>
+		<swedish>framåt, före, innan</swedish>
 		<explanation />
 		<synonym />
 		<opposite />
@@ -3962,7 +3962,7 @@
 		<tag>NOUN</tag>
 		<gender>f</gender>
 		<definite>cultura</definite>
-		<swedish>kultur(en)</swedish>
+		<swedish>kultur</swedish>
 		<explanation />
 		<plural />
 		<synonym />
@@ -10101,7 +10101,7 @@
 	<word>
 		<lemma>apoi</lemma>
 		<tag>ADV</tag>
-		<swedish>sedan</swedish>
+		<swedish>sedan, därefter</swedish>
 		<english>then</english>
 		<explanation />
 		<example_use />
@@ -10274,7 +10274,7 @@
 	<word>
 		<lemma>altfel</lemma>
 		<tag>ADV</tag>
-		<swedish>annat</swedish>
+		<swedish>annorlunda, annat</swedish>
 		<english />
 		<explanation />
 		<example_use />
@@ -12671,7 +12671,7 @@
 	<word>
 		<lemma>separat</lemma>
 		<tag>ADV</tag>
-		<swedish>separerat</swedish>
+		<swedish>separat, åtskild</swedish>
 		<english>separately</english>
 		<explanation />
 		<example_use />
@@ -14066,5 +14066,1183 @@
 		<opposite />
 		<counter>1</counter>
 		<index>2024-08-26 09:35:53.786352</index>
+	</word>
+	<word>
+		<lemma>întrucât</lemma>
+		<tag>SCONJ</tag>
+		<swedish>eftersom, därför att</swedish>
+		<english>as, since</english>
+		<explanation />
+		<example_use />
+		<synonym>fiindcă, pentru că</synonym>
+		<opposite />
+		<counter>1</counter>
+		<index>2024-09-15 08:02:42.973383</index>
+	</word>
+	<word>
+		<lemma>așadar</lemma>
+		<tag>ADV</tag>
+		<swedish>så, därfär, följaktligen</swedish>
+		<english>so, hence</english>
+		<explanation />
+		<example_use />
+		<synonym>deci</synonym>
+		<opposite />
+		<counter>1</counter>
+		<index>2024-09-15 08:07:14.936590</index>
+	</word>
+	<word>
+		<tag>VERB</tag>
+		<rules>
+			</rules>
+		<lemma>ridica</lemma>
+		<swedish>upphöja</swedish>
+		<english>raise</english>
+		<sing_1>ridic</sing_1>
+		<sing_2>ridici</sing_2>
+		<sing_3>ridică</sing_3>
+		<plur_1>ridicăm</plur_1>
+		<plur_2>ridicați</plur_2>
+		<plur_3>ridică</plur_3>
+		<conjunctiv_sing1>ridic</conjunctiv_sing1>
+		<conjunctiv_sing2>ridici</conjunctiv_sing2>
+		<conjunctiv_sing3>ridice</conjunctiv_sing3>
+		<conjunctiv_plur1>ridicăm</conjunctiv_plur1>
+		<conjunctiv_plur2>ridicați</conjunctiv_plur2>
+		<conjunctiv_plur3>ridice</conjunctiv_plur3>
+		<imperfekt_sing_1>ridicam</imperfekt_sing_1>
+		<imperfekt_sing_2>ridicai</imperfekt_sing_2>
+		<imperfekt_sing_3>ridica</imperfekt_sing_3>
+		<imperfekt_plur_1>ridicam</imperfekt_plur_1>
+		<imperfekt_plur_2>ridicați</imperfekt_plur_2>
+		<imperfekt_plur_3>ridicau</imperfekt_plur_3>
+		<perfekt>ridicat</perfekt>
+		<gerunziu>ridicând</gerunziu>
+		<imperativ_sing>ridică</imperativ_sing>
+		<imperativ_plur>ridicați</imperativ_plur>
+		<cathegory>vt</cathegory>
+		<explanation />
+		<example_use />
+		<index>2024-09-28 06:48:13.639438</index>
+		<synonym />
+		<opposite />
+		<spare />
+		<counter>1</counter>
+	</word>
+	<word>
+		<tag>VERB</tag>
+		<rules>
+			</rules>
+		<lemma>certa</lemma>
+		<swedish>bråka, skälla ut någon</swedish>
+		<english>scold, tell off</english>
+		<sing_1>cert</sing_1>
+		<sing_2>ceräi</sing_2>
+		<sing_3>ceartă</sing_3>
+		<plur_1>certăm</plur_1>
+		<plur_2>certați</plur_2>
+		<plur_3>ceartă</plur_3>
+		<conjunctiv_sing1>cert</conjunctiv_sing1>
+		<conjunctiv_sing2>cerți</conjunctiv_sing2>
+		<conjunctiv_sing3>certe</conjunctiv_sing3>
+		<conjunctiv_plur1>certăm</conjunctiv_plur1>
+		<conjunctiv_plur2>certați</conjunctiv_plur2>
+		<conjunctiv_plur3>certe</conjunctiv_plur3>
+		<imperfekt_sing_1>certam</imperfekt_sing_1>
+		<imperfekt_sing_2>certai</imperfekt_sing_2>
+		<imperfekt_sing_3>certa</imperfekt_sing_3>
+		<imperfekt_plur_1>certam</imperfekt_plur_1>
+		<imperfekt_plur_2>certați</imperfekt_plur_2>
+		<imperfekt_plur_3>certau</imperfekt_plur_3>
+		<perfekt>certat</perfekt>
+		<gerunziu>certând</gerunziu>
+		<imperativ_sing>ceartă</imperativ_sing>
+		<imperativ_plur>certați</imperativ_plur>
+		<cathegory>vt</cathegory>
+		<explanation />
+		<example_use />
+		<index>2024-09-28 06:54:53.938709</index>
+		<synonym />
+		<opposite />
+		<spare />
+		<counter>1</counter>
+	</word>
+	<word>
+		<tag>VERB</tag>
+		<rules>
+			</rules>
+		<lemma>culca</lemma>
+		<swedish>lägga, lägga ner</swedish>
+		<english>put to bed, lay down</english>
+		<sing_1>culc</sing_1>
+		<sing_2>culci</sing_2>
+		<sing_3>culcă</sing_3>
+		<plur_1>culcăm</plur_1>
+		<plur_2>culcați</plur_2>
+		<plur_3>culcă</plur_3>
+		<conjunctiv_sing1>culc</conjunctiv_sing1>
+		<conjunctiv_sing2>culci</conjunctiv_sing2>
+		<conjunctiv_sing3>culce</conjunctiv_sing3>
+		<conjunctiv_plur1>culcăm</conjunctiv_plur1>
+		<conjunctiv_plur2>culcați</conjunctiv_plur2>
+		<conjunctiv_plur3>culce</conjunctiv_plur3>
+		<imperfekt_sing_1>culcam</imperfekt_sing_1>
+		<imperfekt_sing_2>culcai</imperfekt_sing_2>
+		<imperfekt_sing_3>culca</imperfekt_sing_3>
+		<imperfekt_plur_1>culcam</imperfekt_plur_1>
+		<imperfekt_plur_2>culcați</imperfekt_plur_2>
+		<imperfekt_plur_3>culcau</imperfekt_plur_3>
+		<perfekt>culcat</perfekt>
+		<gerunziu>culcând</gerunziu>
+		<imperativ_sing>culcă</imperativ_sing>
+		<imperativ_plur>culcați</imperativ_plur>
+		<cathegory>vt</cathegory>
+		<explanation />
+		<example_use />
+		<index>2024-09-28 07:59:43.161876</index>
+		<synonym />
+		<opposite />
+		<spare />
+		<counter>1</counter>
+	</word>
+	<word>
+		<tag>VERB</tag>
+		<rules>
+			</rules>
+		<lemma>închipui</lemma>
+		<swedish>tänka, föreställa (sig)</swedish>
+		<english>imagine</english>
+		<sing_1>închipui</sing_1>
+		<sing_2>închipui</sing_2>
+		<sing_3>închipuie</sing_3>
+		<plur_1>închipuiți</plur_1>
+		<plur_2>închipuiți</plur_2>
+		<plur_3>închipuie</plur_3>
+		<conjunctiv_sing1>închipui</conjunctiv_sing1>
+		<conjunctiv_sing2>închipui</conjunctiv_sing2>
+		<conjunctiv_sing3>închipuie</conjunctiv_sing3>
+		<conjunctiv_plur1>închipuim</conjunctiv_plur1>
+		<conjunctiv_plur2>închipuiți</conjunctiv_plur2>
+		<conjunctiv_plur3>închipuie</conjunctiv_plur3>
+		<imperfekt_sing_1>închipuiam</imperfekt_sing_1>
+		<imperfekt_sing_2>închipuiai</imperfekt_sing_2>
+		<imperfekt_sing_3>închipuia</imperfekt_sing_3>
+		<imperfekt_plur_1>închipuiam</imperfekt_plur_1>
+		<imperfekt_plur_2>închipuiați</imperfekt_plur_2>
+		<imperfekt_plur_3>închipuiau</imperfekt_plur_3>
+		<perfekt>închipuit</perfekt>
+		<gerunziu>închipuind</gerunziu>
+		<imperativ_sing>închipuie</imperativ_sing>
+		<imperativ_plur>închipuiți</imperativ_plur>
+		<cathegory>vt</cathegory>
+		<explanation />
+		<example_use />
+		<index>2024-09-28 08:38:03.370331</index>
+		<synonym />
+		<opposite />
+		<spare />
+		<counter>1</counter>
+	</word>
+	<word>
+		<tag>ADJ</tag>
+		<lemma>previzibil</lemma>
+		<komparativ />
+		<superlativ />
+		<cathegory />
+		<swedish>förutsebar</swedish>
+		<english>predictable, foreseable</english>
+		<explanation />
+		<example_use />
+		<index>2024-11-01 07:08:06.784177</index>
+		<synonym />
+		<opposite />
+		<spare />
+		<counter>1</counter>
+	</word>
+	<word>
+		<tag>ADJ</tag>
+		<lemma>imprevizibil</lemma>
+		<komparativ />
+		<superlativ />
+		<cathegory />
+		<swedish>oförutsägbar</swedish>
+		<english>unpredictable</english>
+		<explanation />
+		<example_use />
+		<index>2024-11-01 07:09:06.035386</index>
+		<synonym />
+		<opposite />
+		<spare />
+		<counter>1</counter>
+	</word>
+	<word>
+		<tag>VERB</tag>
+		<rules>
+			</rules>
+		<lemma>presupune</lemma>
+		<swedish>anta</swedish>
+		<english>presume, assume</english>
+		<sing_1>presupun</sing_1>
+		<sing_2>presupui</sing_2>
+		<sing_3>presupune</sing_3>
+		<plur_1>presupunem</plur_1>
+		<plur_2>presupuneți</plur_2>
+		<plur_3>presupun</plur_3>
+		<conjunctiv_sing1>presupun</conjunctiv_sing1>
+		<conjunctiv_sing2>presupui</conjunctiv_sing2>
+		<conjunctiv_sing3>presupună</conjunctiv_sing3>
+		<conjunctiv_plur1>presupunem</conjunctiv_plur1>
+		<conjunctiv_plur2>presupuneți</conjunctiv_plur2>
+		<conjunctiv_plur3>presupună</conjunctiv_plur3>
+		<imperfekt_sing_1>presupuneam</imperfekt_sing_1>
+		<imperfekt_sing_2>presupuneai</imperfekt_sing_2>
+		<imperfekt_sing_3>presupunea</imperfekt_sing_3>
+		<imperfekt_plur_1>presupuneam</imperfekt_plur_1>
+		<imperfekt_plur_2>presupuneați</imperfekt_plur_2>
+		<imperfekt_plur_3>presupuneau</imperfekt_plur_3>
+		<perfekt>presupus</perfekt>
+		<gerunziu>presupunând</gerunziu>
+		<imperativ_sing>presupune</imperativ_sing>
+		<imperativ_plur>presupuneți</imperativ_plur>
+		<cathegory>3a,vt</cathegory>
+		<explanation />
+		<example_use />
+		<index>2024-11-01 07:16:35.158234</index>
+		<synonym />
+		<opposite />
+		<spare />
+		<counter>1</counter>
+	</word>
+	<word>
+		<tag>VERB</tag>
+		<rules>
+			</rules>
+		<lemma>opri</lemma>
+		<swedish>stoppa, stanna</swedish>
+		<english>stop</english>
+		<sing_1>opresc</sing_1>
+		<sing_2>oprești</sing_2>
+		<sing_3>oprește</sing_3>
+		<plur_1>oprim</plur_1>
+		<plur_2>opriți</plur_2>
+		<plur_3>opresc</plur_3>
+		<conjunctiv_sing1>opresc</conjunctiv_sing1>
+		<conjunctiv_sing2>oprești</conjunctiv_sing2>
+		<conjunctiv_sing3>oprească</conjunctiv_sing3>
+		<conjunctiv_plur1>oprim</conjunctiv_plur1>
+		<conjunctiv_plur2>opriți</conjunctiv_plur2>
+		<conjunctiv_plur3>oprească</conjunctiv_plur3>
+		<imperfekt_sing_1>opream</imperfekt_sing_1>
+		<imperfekt_sing_2>opreai</imperfekt_sing_2>
+		<imperfekt_sing_3>oprea</imperfekt_sing_3>
+		<imperfekt_plur_1>opream</imperfekt_plur_1>
+		<imperfekt_plur_2>opreați</imperfekt_plur_2>
+		<imperfekt_plur_3>opreau</imperfekt_plur_3>
+		<perfekt>oprit</perfekt>
+		<gerunziu>oprind</gerunziu>
+		<imperativ_sing>oprește</imperativ_sing>
+		<imperativ_plur>opriți</imperativ_plur>
+		<cathegory>4a</cathegory>
+		<explanation />
+		<example_use />
+		<index>2024-11-01 07:21:57.815923</index>
+		<synonym />
+		<opposite />
+		<spare />
+		<counter>1</counter>
+	</word>
+	<word>
+		<tag>VERB</tag>
+		<rules>
+			</rules>
+		<lemma>dărui</lemma>
+		<swedish>ge (en gåva)</swedish>
+		<english>give (a gift)</english>
+		<sing_1>dăruiesc</sing_1>
+		<sing_2>dăruiești</sing_2>
+		<sing_3>dăruiește</sing_3>
+		<plur_1>dăruim</plur_1>
+		<plur_2>dăruiți</plur_2>
+		<plur_3>dăruiesc</plur_3>
+		<conjunctiv_sing1>dăruiesc</conjunctiv_sing1>
+		<conjunctiv_sing2>dăruiești</conjunctiv_sing2>
+		<conjunctiv_sing3>dăruiască</conjunctiv_sing3>
+		<conjunctiv_plur1>dăruim</conjunctiv_plur1>
+		<conjunctiv_plur2>dăruiți</conjunctiv_plur2>
+		<conjunctiv_plur3>dăruiască</conjunctiv_plur3>
+		<imperfekt_sing_1>dăruiam</imperfekt_sing_1>
+		<imperfekt_sing_2>dăruiai</imperfekt_sing_2>
+		<imperfekt_sing_3>dăruia</imperfekt_sing_3>
+		<imperfekt_plur_1>dăruiam</imperfekt_plur_1>
+		<imperfekt_plur_2>dăruiați</imperfekt_plur_2>
+		<imperfekt_plur_3>dăruiau</imperfekt_plur_3>
+		<perfekt>dăruit</perfekt>
+		<gerunziu>dăruind</gerunziu>
+		<imperativ_sing>dăruiește</imperativ_sing>
+		<imperativ_plur>dăruiți</imperativ_plur>
+		<cathegory>vt</cathegory>
+		<explanation />
+		<example_use />
+		<index>2024-11-03 09:03:28.134595</index>
+		<synonym />
+		<opposite />
+		<spare />
+		<counter>1</counter>
+	</word>
+	<word>
+		<tag>VERB</tag>
+		<rules>
+			</rules>
+		<lemma>muri</lemma>
+		<swedish>dö</swedish>
+		<english>die, pass away</english>
+		<sing_1>mor</sing_1>
+		<sing_2>mori</sing_2>
+		<sing_3>moare</sing_3>
+		<plur_1>murim</plur_1>
+		<plur_2>muriți</plur_2>
+		<plur_3>mor</plur_3>
+		<conjunctiv_sing1>mor</conjunctiv_sing1>
+		<conjunctiv_sing2>mori</conjunctiv_sing2>
+		<conjunctiv_sing3>moară</conjunctiv_sing3>
+		<conjunctiv_plur1>murim</conjunctiv_plur1>
+		<conjunctiv_plur2>muriți</conjunctiv_plur2>
+		<conjunctiv_plur3>moară</conjunctiv_plur3>
+		<imperfekt_sing_1>muream</imperfekt_sing_1>
+		<imperfekt_sing_2>mureai</imperfekt_sing_2>
+		<imperfekt_sing_3>murea</imperfekt_sing_3>
+		<imperfekt_plur_1>muream</imperfekt_plur_1>
+		<imperfekt_plur_2>mureați</imperfekt_plur_2>
+		<imperfekt_plur_3>mureau</imperfekt_plur_3>
+		<perfekt>murit</perfekt>
+		<gerunziu>murind</gerunziu>
+		<imperativ_sing>mori</imperativ_sing>
+		<imperativ_plur>muriți</imperativ_plur>
+		<cathegory />
+		<explanation />
+		<example_use />
+		<index>2024-11-03 16:08:59.759395</index>
+		<synonym />
+		<opposite>â</opposite>
+		<spare />
+		<counter>1</counter>
+	</word>
+	<word>
+		<tag>VERB</tag>
+		<rules>
+			</rules>
+		<lemma>iubi</lemma>
+		<swedish>älska</swedish>
+		<english>love</english>
+		<sing_1>iubesc</sing_1>
+		<sing_2>iubești</sing_2>
+		<sing_3>iubește</sing_3>
+		<plur_1>iubim</plur_1>
+		<plur_2>iubiți</plur_2>
+		<plur_3>iubesc</plur_3>
+		<conjunctiv_sing1>iubesc</conjunctiv_sing1>
+		<conjunctiv_sing2>iubești</conjunctiv_sing2>
+		<conjunctiv_sing3>iubească</conjunctiv_sing3>
+		<conjunctiv_plur1>iubim</conjunctiv_plur1>
+		<conjunctiv_plur2>iubiți</conjunctiv_plur2>
+		<conjunctiv_plur3>iubească</conjunctiv_plur3>
+		<imperfekt_sing_1>iubeam</imperfekt_sing_1>
+		<imperfekt_sing_2>iubeai</imperfekt_sing_2>
+		<imperfekt_sing_3>iubea</imperfekt_sing_3>
+		<imperfekt_plur_1>iubeam</imperfekt_plur_1>
+		<imperfekt_plur_2>iubeați</imperfekt_plur_2>
+		<imperfekt_plur_3>iubeau</imperfekt_plur_3>
+		<perfekt>iubit</perfekt>
+		<gerunziu>iubind</gerunziu>
+		<imperativ_sing>iubește</imperativ_sing>
+		<imperativ_plur>iubiți</imperativ_plur>
+		<cathegory />
+		<explanation />
+		<example_use />
+		<index>2024-11-03 16:17:00.027316</index>
+		<synonym />
+		<opposite />
+		<spare />
+		<counter>1</counter>
+	</word>
+	<word>
+		<tag>VERB</tag>
+		<rules>
+			</rules>
+		<lemma>porni</lemma>
+		<swedish>starta, börja</swedish>
+		<english>start</english>
+		<sing_1>pornesc</sing_1>
+		<sing_2>pornești</sing_2>
+		<sing_3>pornește</sing_3>
+		<plur_1>pornim</plur_1>
+		<plur_2>porniți</plur_2>
+		<plur_3>pornesc</plur_3>
+		<conjunctiv_sing1>pornesc</conjunctiv_sing1>
+		<conjunctiv_sing2>pornești</conjunctiv_sing2>
+		<conjunctiv_sing3>pornească</conjunctiv_sing3>
+		<conjunctiv_plur1>prnim</conjunctiv_plur1>
+		<conjunctiv_plur2>porniți</conjunctiv_plur2>
+		<conjunctiv_plur3>pornească</conjunctiv_plur3>
+		<imperfekt_sing_1>porneam</imperfekt_sing_1>
+		<imperfekt_sing_2>porneai</imperfekt_sing_2>
+		<imperfekt_sing_3>pornea</imperfekt_sing_3>
+		<imperfekt_plur_1>porneam</imperfekt_plur_1>
+		<imperfekt_plur_2>porneați</imperfekt_plur_2>
+		<imperfekt_plur_3>pornească</imperfekt_plur_3>
+		<perfekt>pornit</perfekt>
+		<gerunziu>pornind</gerunziu>
+		<imperativ_sing>pornește</imperativ_sing>
+		<imperativ_plur>porniți</imperativ_plur>
+		<cathegory />
+		<explanation />
+		<example_use />
+		<index>2024-11-03 16:34:00.280401</index>
+		<synonym />
+		<opposite />
+		<spare />
+		<counter>1</counter>
+	</word>
+	<word>
+		<lemma>vogă</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<plural />
+		<definite>voga</definite>
+		<swedish>mode</swedish>
+		<english>vogue, fashion</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-11-25 05:06:38.550034</index>
+	</word>
+	<word>
+		<tag>ADJ</tag>
+		<lemma>sălbatic</lemma>
+		<komparativ />
+		<superlativ />
+		<cathegory />
+		<swedish>vild</swedish>
+		<english>wild, savage</english>
+		<explanation />
+		<example_use />
+		<index>2024-11-25 05:08:10.711027</index>
+		<synonym />
+		<opposite />
+		<spare />
+		<counter>1</counter>
+	</word>
+	<word>
+		<lemma>exploatare</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<plural>exploatări</plural>
+		<definite>exploatoarea</definite>
+		<swedish>utnyttjande</swedish>
+		<english />
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-11-25 05:10:46.034990</index>
+	</word>
+	<word>
+		<tag>VERB</tag>
+		<rules>
+			</rules>
+		<lemma>exploata</lemma>
+		<swedish>utnyttja</swedish>
+		<english>use, exploit</english>
+		<sing_1>exploatez</sing_1>
+		<sing_2>exploatezi</sing_2>
+		<sing_3>exploatează</sing_3>
+		<plur_1>exploatăm</plur_1>
+		<plur_2>exploatați</plur_2>
+		<plur_3>exploatează</plur_3>
+		<conjunctiv_sing1>exploatez</conjunctiv_sing1>
+		<conjunctiv_sing2>exploatezi</conjunctiv_sing2>
+		<conjunctiv_sing3>exploateze</conjunctiv_sing3>
+		<conjunctiv_plur1>exploatăm</conjunctiv_plur1>
+		<conjunctiv_plur2>exploatați</conjunctiv_plur2>
+		<conjunctiv_plur3>exploateze</conjunctiv_plur3>
+		<imperfekt_sing_1>exploatam</imperfekt_sing_1>
+		<imperfekt_sing_2>exploatai</imperfekt_sing_2>
+		<imperfekt_sing_3>exploata</imperfekt_sing_3>
+		<imperfekt_plur_1>exploatam</imperfekt_plur_1>
+		<imperfekt_plur_2>exploatați</imperfekt_plur_2>
+		<imperfekt_plur_3>exploatau</imperfekt_plur_3>
+		<perfekt>exploatat</perfekt>
+		<gerunziu>exploatând</gerunziu>
+		<imperativ_sing>exploatează</imperativ_sing>
+		<imperativ_plur>exploatați</imperativ_plur>
+		<cathegory />
+		<explanation />
+		<example_use />
+		<index>2024-11-25 05:18:32.942839</index>
+		<synonym />
+		<opposite />
+		<spare />
+		<counter>1</counter>
+	</word>
+	<word>
+		<tag>VERB</tag>
+		<rules>
+			</rules>
+		<lemma>documenta</lemma>
+		<swedish>dokumentera</swedish>
+		<english>document</english>
+		<sing_1>documentez</sing_1>
+		<sing_2>documentezi</sing_2>
+		<sing_3>documentează</sing_3>
+		<plur_1>documentăm</plur_1>
+		<plur_2>documentați</plur_2>
+		<plur_3>documentează</plur_3>
+		<conjunctiv_sing1>documentez</conjunctiv_sing1>
+		<conjunctiv_sing2>documentezi</conjunctiv_sing2>
+		<conjunctiv_sing3>documenteze</conjunctiv_sing3>
+		<conjunctiv_plur1>documentăm</conjunctiv_plur1>
+		<conjunctiv_plur2>documentați</conjunctiv_plur2>
+		<conjunctiv_plur3>documenteze</conjunctiv_plur3>
+		<imperfekt_sing_1>documentam</imperfekt_sing_1>
+		<imperfekt_sing_2>documentai</imperfekt_sing_2>
+		<imperfekt_sing_3>documenta</imperfekt_sing_3>
+		<imperfekt_plur_1>documentam</imperfekt_plur_1>
+		<imperfekt_plur_2>documentați</imperfekt_plur_2>
+		<imperfekt_plur_3>documentau</imperfekt_plur_3>
+		<perfekt>documentat</perfekt>
+		<gerunziu>documentând</gerunziu>
+		<imperativ_sing>documentează</imperativ_sing>
+		<imperativ_plur>documentați</imperativ_plur>
+		<cathegory />
+		<explanation />
+		<example_use />
+		<index>2024-11-27 05:31:01.407143</index>
+		<synonym />
+		<opposite />
+		<spare />
+		<counter>1</counter>
+	</word>
+	<word>
+		<lemma>privire</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<plural>priviri</plural>
+		<definite>privirea</definite>
+		<swedish>titt, granskning</swedish>
+		<english />
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-11-30 16:12:03.099501</index>
+	</word>
+	<word>
+		<lemma>tărie</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<plural>tării</plural>
+		<definite>tăria</definite>
+		<swedish>styrka</swedish>
+		<english>strength</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-11-30 16:14:14.523988</index>
+	</word>
+	<word>
+		<tag>ADJ</tag>
+		<lemma>particular</lemma>
+		<komparativ />
+		<superlativ />
+		<cathegory />
+		<swedish>särskild, speciell</swedish>
+		<english />
+		<explanation />
+		<example_use />
+		<index>2024-11-30 16:30:31.421383</index>
+		<synonym />
+		<opposite />
+		<spare />
+		<counter>1</counter>
+	</word>
+	<word>
+		<lemma>pariu</lemma>
+		<tag>NOUN</tag>
+		<gender>n</gender>
+		<plural>pariuri</plural>
+		<definite>pariul</definite>
+		<swedish>vad, åtagande</swedish>
+		<english>bet</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-11-30 16:32:13.995997</index>
+	</word>
+	<word>
+		<lemma>câștigător</lemma>
+		<tag>NOUN</tag>
+		<gender>m</gender>
+		<plural>câștigătorii</plural>
+		<definite>câștigătorul</definite>
+		<swedish>vinnare</swedish>
+		<english />
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-11-30 16:36:06.896766</index>
+	</word>
+	<word>
+		<lemma>câștig</lemma>
+		<tag>NOUN</tag>
+		<gender>n</gender>
+		<plural>câștiguri</plural>
+		<definite>câștigul</definite>
+		<swedish>förstärkning, vinst</swedish>
+		<english>gain</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-11-30 16:44:07.319691</index>
+	</word>
+	<word>
+		<lemma>bineînțeles</lemma>
+		<tag>ADV</tag>
+		<swedish>naturligtvis</swedish>
+		<english>of course, naturally</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-11-30 16:46:51.493506</index>
+	</word>
+	<word>
+		<lemma>coș</lemma>
+		<tag>NOUN</tag>
+		<gender>n</gender>
+		<plural>coșuri</plural>
+		<definite>coșul</definite>
+		<swedish>korg</swedish>
+		<english />
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-11-30 16:48:24.222817</index>
+	</word>
+	<word>
+		<tag>VERB</tag>
+		<rules>
+			</rules>
+		<lemma>participa</lemma>
+		<swedish>delta</swedish>
+		<english>participate</english>
+		<sing_1>particip</sing_1>
+		<sing_2>participi</sing_2>
+		<sing_3>participă</sing_3>
+		<plur_1>participăm</plur_1>
+		<plur_2>participați</plur_2>
+		<plur_3>participă</plur_3>
+		<conjunctiv_sing1>particip</conjunctiv_sing1>
+		<conjunctiv_sing2>participi</conjunctiv_sing2>
+		<conjunctiv_sing3>participe</conjunctiv_sing3>
+		<conjunctiv_plur1>participăm</conjunctiv_plur1>
+		<conjunctiv_plur2>participați</conjunctiv_plur2>
+		<conjunctiv_plur3>partipipe</conjunctiv_plur3>
+		<imperfekt_sing_1>participam</imperfekt_sing_1>
+		<imperfekt_sing_2>participai</imperfekt_sing_2>
+		<imperfekt_sing_3>participa</imperfekt_sing_3>
+		<imperfekt_plur_1>participam</imperfekt_plur_1>
+		<imperfekt_plur_2>participați</imperfekt_plur_2>
+		<imperfekt_plur_3>participau</imperfekt_plur_3>
+		<perfekt>participat</perfekt>
+		<gerunziu>participând</gerunziu>
+		<imperativ_sing>participă</imperativ_sing>
+		<imperativ_plur>participați</imperativ_plur>
+		<cathegory />
+		<explanation />
+		<example_use />
+		<index>2024-11-30 16:56:55.164186</index>
+		<synonym />
+		<opposite />
+		<spare />
+		<counter>1</counter>
+	</word>
+	<word>
+		<tag>VERB</tag>
+		<rules>
+			</rules>
+		<lemma>câștiga</lemma>
+		<swedish>vinna</swedish>
+		<english>win</english>
+		<sing_1>câștig</sing_1>
+		<sing_2>căștigi</sing_2>
+		<sing_3>câștigă</sing_3>
+		<plur_1>căștigăm</plur_1>
+		<plur_2>câștigați</plur_2>
+		<plur_3>câștigă</plur_3>
+		<conjunctiv_sing1>câștig</conjunctiv_sing1>
+		<conjunctiv_sing2>câștigi</conjunctiv_sing2>
+		<conjunctiv_sing3>câștige</conjunctiv_sing3>
+		<conjunctiv_plur1>câștigăm</conjunctiv_plur1>
+		<conjunctiv_plur2>câștigați</conjunctiv_plur2>
+		<conjunctiv_plur3>câștige</conjunctiv_plur3>
+		<imperfekt_sing_1>câștigam</imperfekt_sing_1>
+		<imperfekt_sing_2>câștigai</imperfekt_sing_2>
+		<imperfekt_sing_3>câștiga</imperfekt_sing_3>
+		<imperfekt_plur_1>câștigam</imperfekt_plur_1>
+		<imperfekt_plur_2>câștigați</imperfekt_plur_2>
+		<imperfekt_plur_3>câstigau</imperfekt_plur_3>
+		<perfekt>câștigat</perfekt>
+		<gerunziu>câștigând</gerunziu>
+		<imperativ_sing>câștigă</imperativ_sing>
+		<imperativ_plur>câștigați</imperativ_plur>
+		<cathegory />
+		<explanation />
+		<example_use />
+		<index>2024-11-30 17:11:48.995720</index>
+		<synonym />
+		<opposite />
+		<spare />
+		<counter>1</counter>
+	</word>
+	<word>
+		<lemma>vânzătoare</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<plural>vânzătoare</plural>
+		<definite>vânzătoarea</definite>
+		<swedish>kvinnlig försäljare</swedish>
+		<english>female sales person</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-12-09 05:15:58.037517</index>
+	</word>
+	<word>
+		<lemma>vânzare</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<plural>vânzări</plural>
+		<definite>vânzarea</definite>
+		<swedish>försäljning</swedish>
+		<english>sales</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-12-09 05:17:40.472200</index>
+	</word>
+	<word>
+		<lemma>analogie</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<plural>analogii</plural>
+		<definite>analogia</definite>
+		<swedish>analogi</swedish>
+		<english>analogy</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-12-09 05:18:55.292650</index>
+	</word>
+	<word>
+		<tag>ADJ</tag>
+		<lemma>analog</lemma>
+		<komparativ />
+		<superlativ />
+		<cathegory />
+		<swedish>analog</swedish>
+		<english>analog</english>
+		<explanation />
+		<example_use />
+		<index>2024-12-09 05:20:18.072931</index>
+		<synonym />
+		<opposite />
+		<spare />
+		<counter>1</counter>
+	</word>
+	<word>
+		<tag>VERB</tag>
+		<rules>
+			</rules>
+		<lemma>scălda</lemma>
+		<swedish>bada någon/någonting</swedish>
+		<english>bathe something/someone</english>
+		<sing_1>scald</sing_1>
+		<sing_2>scalzi</sing_2>
+		<sing_3>scaldă</sing_3>
+		<plur_1>scaldăm</plur_1>
+		<plur_2>scaldați</plur_2>
+		<plur_3>scaldă</plur_3>
+		<conjunctiv_sing1>scald</conjunctiv_sing1>
+		<conjunctiv_sing2>scalzi</conjunctiv_sing2>
+		<conjunctiv_sing3>scalde</conjunctiv_sing3>
+		<conjunctiv_plur1>scaldăm</conjunctiv_plur1>
+		<conjunctiv_plur2>scaldați</conjunctiv_plur2>
+		<conjunctiv_plur3>scalde</conjunctiv_plur3>
+		<imperfekt_sing_1>scăldam</imperfekt_sing_1>
+		<imperfekt_sing_2>scăldai</imperfekt_sing_2>
+		<imperfekt_sing_3>scălda</imperfekt_sing_3>
+		<imperfekt_plur_1>scăldam</imperfekt_plur_1>
+		<imperfekt_plur_2>scăldati</imperfekt_plur_2>
+		<imperfekt_plur_3>scăldau</imperfekt_plur_3>
+		<perfekt>scăldat</perfekt>
+		<gerunziu>scăldând</gerunziu>
+		<imperativ_sing>scaldă</imperativ_sing>
+		<imperativ_plur>scăldați</imperativ_plur>
+		<cathegory>vt</cathegory>
+		<explanation />
+		<example_use />
+		<index>2024-12-09 05:29:32.675372</index>
+		<synonym />
+		<opposite />
+		<spare />
+		<counter>1</counter>
+	</word>
+	<word>
+		<tag>ADJ</tag>
+		<lemma>asemenea</lemma>
+		<komparativ />
+		<superlativ />
+		<cathegory />
+		<swedish>liknande, lik</swedish>
+		<english>alike, like</english>
+		<explanation />
+		<example_use>de asemenea</example_use>
+		<index>2024-12-09 05:35:00.722243</index>
+		<synonym />
+		<opposite />
+		<spare />
+		<counter>1</counter>
+	</word>
+	<word>
+		<lemma>de asemenea</lemma>
+		<tag>ADV</tag>
+		<swedish>också</swedish>
+		<english>also</english>
+		<explanation />
+		<example_use />
+		<synonym>și</synonym>
+		<opposite />
+		<counter>1</counter>
+		<index>2024-12-09 05:36:07.416939</index>
+	</word>
+	<word>
+		<lemma>aniversare</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<plural>aniversări</plural>
+		<definite>aniversarea</definite>
+		<swedish>årsdag, jubileum</swedish>
+		<english>jubilee</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2024-12-09 05:38:14.741141</index>
+	</word>
+	<word>
+		<tag>ADJ</tag>
+		<lemma>potrivit</lemma>
+		<komparativ />
+		<superlativ />
+		<cathegory />
+		<swedish>lämplig, korrekt</swedish>
+		<english>suitable, right</english>
+		<explanation />
+		<example_use />
+		<index>2025-01-02 05:04:42.709629</index>
+		<synonym />
+		<opposite />
+		<spare />
+		<counter>1</counter>
+	</word>
+	<word>
+		<tag>ADJ</tag>
+		<lemma>înnorat</lemma>
+		<komparativ />
+		<superlativ />
+		<cathegory />
+		<swedish>molnig</swedish>
+		<english />
+		<explanation />
+		<example_use />
+		<index>2025-01-02 05:09:06.430553</index>
+		<synonym />
+		<opposite />
+		<spare />
+		<counter>1</counter>
+	</word>
+	<word>
+		<lemma>paradox</lemma>
+		<tag>NOUN</tag>
+		<gender>n</gender>
+		<plural>paradoxuri</plural>
+		<definite>paradoxul</definite>
+		<swedish>paradox</swedish>
+		<english />
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2025-01-02 05:11:15.935283</index>
+	</word>
+	<word>
+		<tag>ADJ</tag>
+		<lemma>slab</lemma>
+		<komparativ />
+		<superlativ />
+		<cathegory />
+		<swedish>svag</swedish>
+		<english />
+		<explanation />
+		<example_use />
+		<index>2025-01-02 05:13:14.760324</index>
+		<synonym />
+		<opposite />
+		<spare />
+		<counter>1</counter>
+	</word>
+	<word>
+		<lemma>degeaba</lemma>
+		<tag>ADV</tag>
+		<swedish>gratis, utan anledning</swedish>
+		<english>free, for nothing</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2025-01-02 05:15:53.894139</index>
+	</word>
+	<word>
+		<lemma>des</lemma>
+		<tag>ADV</tag>
+		<swedish>ofta</swedish>
+		<english>often, frequently</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2025-01-02 05:16:59.385696</index>
+	</word>
+	<word>
+		<lemma>electronică</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<plural />
+		<definite />
+		<swedish>elektronik</swedish>
+		<english>electronics</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2025-01-02 05:21:33.601077</index>
+	</word>
+	<word>
+		<lemma>înapoi</lemma>
+		<tag>ADV</tag>
+		<swedish>tillbaka, bakåt</swedish>
+		<english>back, backwards</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2025-01-05 05:04:30.804991</index>
+	</word>
+	<word>
+		<lemma>înăuntru</lemma>
+		<tag>ADV</tag>
+		<swedish>in, inne, inuti</swedish>
+		<english />
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2025-01-05 05:09:23.570019</index>
+	</word>
+	<word>
+		<lemma>negreșit</lemma>
+		<tag>ADV</tag>
+		<swedish>säkert, med säkerhet</swedish>
+		<english>surely</english>
+		<explanation />
+		<example_use />
+		<synonym>sigur</synonym>
+		<opposite />
+		<counter>1</counter>
+		<index>2025-01-05 05:12:54.882774</index>
+	</word>
+	<word>
+		<lemma>firește</lemma>
+		<tag>ADV</tag>
+		<swedish>naturligtvis</swedish>
+		<english />
+		<explanation />
+		<example_use />
+		<synonym>bineînțeles</synonym>
+		<opposite />
+		<counter>1</counter>
+		<index>2025-01-05 05:16:26.298103</index>
+	</word>
+	<word>
+		<lemma>tocmai</lemma>
+		<tag>ADV</tag>
+		<swedish>just, precis</swedish>
+		<english>just, precisely</english>
+		<explanation />
+		<example_use>tocmai acum</example_use>
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2025-01-05 05:18:19.004822</index>
+	</word>
+	<word>
+		<tag>ADJ</tag>
+		<lemma>privat</lemma>
+		<komparativ />
+		<superlativ />
+		<cathegory />
+		<swedish>privat</swedish>
+		<english>private</english>
+		<explanation />
+		<example_use />
+		<index>2025-01-05 05:19:03.859004</index>
+		<synonym />
+		<opposite />
+		<spare />
+		<counter>1</counter>
+	</word>
+	<word>
+		<tag>ADJ</tag>
+		<lemma>public</lemma>
+		<komparativ />
+		<superlativ />
+		<cathegory />
+		<swedish>offentlig</swedish>
+		<english>public</english>
+		<explanation />
+		<example_use />
+		<index>2025-01-05 05:21:27.108961</index>
+		<synonym />
+		<opposite />
+		<spare />
+		<counter>1</counter>
+	</word>
+	<word>
+		<lemma>contract</lemma>
+		<tag>NOUN</tag>
+		<gender>n</gender>
+		<plural>contracte</plural>
+		<definite>contractul</definite>
+		<swedish>kontrakt</swedish>
+		<english>contract</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2025-01-07 05:08:51.063301</index>
+	</word>
+	<word>
+		<lemma>fundație</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<plural>fundații</plural>
+		<definite>fundația</definite>
+		<swedish>grund, fundament</swedish>
+		<english />
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2025-01-07 05:10:39.139228</index>
+	</word>
+	<word>
+		<lemma>populație</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<plural>populații</plural>
+		<definite>populația</definite>
+		<swedish>befolkning</swedish>
+		<english>population</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2025-01-07 05:12:30.714500</index>
+	</word>
+	<word>
+		<lemma>mulțime</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<plural>mulțimi</plural>
+		<definite>mulțimea</definite>
+		<swedish>ansamling, massa, folkmassa</swedish>
+		<english>crowd, mass</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2025-01-07 05:15:17.848626</index>
+	</word>
+	<word>
+		<lemma>ceremonie</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<plural>ceremonii</plural>
+		<definite>ceremnia</definite>
+		<swedish>ceremoni</swedish>
+		<english>ceremony</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2025-01-07 05:17:14.174447</index>
+	</word>
+	<word>
+		<lemma>ajun</lemma>
+		<tag>NOUN</tag>
+		<gender>n</gender>
+		<plural>ajunuri</plural>
+		<definite>ajunul</definite>
+		<swedish>afton, dag före</swedish>
+		<english>eve, day before</english>
+		<explanation>som 'julafton'</explanation>
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2025-01-07 05:19:43.590910</index>
 	</word>
 </dictionary>
