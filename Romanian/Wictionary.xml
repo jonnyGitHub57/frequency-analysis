@@ -15762,4 +15762,141 @@
 		<spare />
 		<counter>1</counter>
 	</word>
+	<word>
+		<lemma>pelerină</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<plural>pelerine</plural>
+		<definite>pelerina</definite>
+		<swedish>mantel, cape</swedish>
+		<english />
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2025-06-06 06:34:26.157621</index>
+	</word>
+	<word>
+		<lemma>umăr</lemma>
+		<tag>NOUN</tag>
+		<gender>n</gender>
+		<plural>umeri</plural>
+		<definite>umărul</definite>
+		<swedish>axel</swedish>
+		<english>shoulder</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2025-06-06 06:35:32.357226</index>
+	</word>
+	<word>
+		<lemma>șomer</lemma>
+		<tag>NOUN</tag>
+		<gender>m</gender>
+		<plural>șomeri</plural>
+		<definite>șomerul</definite>
+		<swedish>arbetslös</swedish>
+		<english>unemployed person</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2025-06-06 06:38:32.837173</index>
+	</word>
+	<word>
+		<lemma>interior</lemma>
+		<tag>NOUN</tag>
+		<gender>n</gender>
+		<plural>interioare</plural>
+		<definite>interiorul</definite>
+		<swedish>interiör, insida</swedish>
+		<english />
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2025-06-06 06:42:22.068716</index>
+	</word>
+	<word>
+		<tag>ADJ</tag>
+		<lemma>interior</lemma>
+		<komparativ />
+		<superlativ />
+		<cathegory />
+		<swedish>interör, invändig</swedish>
+		<english />
+		<explanation />
+		<example_use />
+		<index>2025-06-06 06:43:04.965428</index>
+		<synonym />
+		<opposite />
+		<spare />
+		<counter>1</counter>
+	</word>
+	<word>
+		<lemma>exterior</lemma>
+		<tag>NOUN</tag>
+		<gender>n</gender>
+		<plural>exterioare</plural>
+		<definite>exteriorul</definite>
+		<swedish>utsida, exteriör</swedish>
+		<english />
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2025-06-06 06:45:37.474070</index>
+	</word>
+	<word>
+		<tag>ADJ</tag>
+		<lemma>exterior</lemma>
+		<komparativ />
+		<superlativ />
+		<cathegory />
+		<swedish>utvändig, yttre</swedish>
+		<english />
+		<explanation />
+		<example_use />
+		<index>2025-06-06 06:46:37.293099</index>
+		<synonym />
+		<opposite />
+		<spare />
+		<counter>1</counter>
+	</word>
+	<word>
+		<lemma>minune</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<plural>minuni</plural>
+		<definite>minunea</definite>
+		<swedish>mirakel</swedish>
+		<english>miracle</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2025-06-06 07:55:47.721465</index>
+	</word>
+	<word>
+		<lemma>reclamă</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<plural>reclame</plural>
+		<definite>reclama</definite>
+		<swedish>reklam</swedish>
+		<english />
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2025-06-06 07:57:06.081264</index>
+	</word>
 </dictionary>
