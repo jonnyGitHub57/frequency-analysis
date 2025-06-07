@@ -15899,4 +15899,335 @@
 		<counter>1</counter>
 		<index>2025-06-06 07:57:06.081264</index>
 	</word>
+	<word>
+		<lemma>amândoi</lemma>
+		<tag>PRON</tag>
+		<swedish>båda, båda två</swedish>
+		<english />
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2025-06-07 06:31:11.364382</index>
+	</word>
+	<word>
+		<lemma>jurnal</lemma>
+		<tag>NOUN</tag>
+		<gender>n</gender>
+		<plural>jurnale</plural>
+		<definite>jurnalul</definite>
+		<swedish>nyheter, dagbok</swedish>
+		<english />
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2025-06-07 06:33:18.570079</index>
+	</word>
+	<word>
+		<lemma>biscuit</lemma>
+		<tag>NOUN</tag>
+		<gender>n</gender>
+		<plural>biscuiți</plural>
+		<definite>biscuitul</definite>
+		<swedish>kex</swedish>
+		<english>biscuit</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2025-06-07 06:34:47.989888</index>
+	</word>
+	<word>
+		<lemma>înec</lemma>
+		<tag>NOUN</tag>
+		<gender>n</gender>
+		<plural>înecuri</plural>
+		<definite>înecul</definite>
+		<swedish>drunkning</swedish>
+		<english>drowning</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2025-06-07 06:36:55.860070</index>
+	</word>
+	<word>
+		<lemma>bazin</lemma>
+		<tag>NOUN</tag>
+		<gender>n</gender>
+		<plural>bazine</plural>
+		<definite>bazinul</definite>
+		<swedish>bassäng, pool</swedish>
+		<english>pool</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2025-06-07 06:39:16.814764</index>
+	</word>
+	<word>
+		<tag>VERB</tag>
+		<rules>
+			</rules>
+		<lemma>îngrozi</lemma>
+		<swedish>skrämma, skrämmas</swedish>
+		<english>scair, frighten</english>
+		<sing_1>îngrozesc</sing_1>
+		<sing_2>îngrozești</sing_2>
+		<sing_3>îngrozește</sing_3>
+		<plur_1>îngrozim</plur_1>
+		<plur_2>îngroziți</plur_2>
+		<plur_3>îngrozesc</plur_3>
+		<conjunctiv_sing1>îngrozesc</conjunctiv_sing1>
+		<conjunctiv_sing2>îngrozești</conjunctiv_sing2>
+		<conjunctiv_sing3>îngrozească</conjunctiv_sing3>
+		<conjunctiv_plur1>îngrozim</conjunctiv_plur1>
+		<conjunctiv_plur2>îngroziți</conjunctiv_plur2>
+		<conjunctiv_plur3>îngrozească</conjunctiv_plur3>
+		<imperfekt_sing_1>îngrozeam</imperfekt_sing_1>
+		<imperfekt_sing_2>îngrozeai</imperfekt_sing_2>
+		<imperfekt_sing_3>îngrozea</imperfekt_sing_3>
+		<imperfekt_plur_1>îngrozeam</imperfekt_plur_1>
+		<imperfekt_plur_2>îngrozeați</imperfekt_plur_2>
+		<imperfekt_plur_3>îngrozeau</imperfekt_plur_3>
+		<perfekt>îngrozit</perfekt>
+		<gerunziu>îngrozind</gerunziu>
+		<imperativ_sing>îngrozește</imperativ_sing>
+		<imperativ_plur>îngroziți</imperativ_plur>
+		<cathegory />
+		<explanation />
+		<example_use />
+		<index>2025-06-07 06:47:07.205037</index>
+		<synonym />
+		<opposite />
+		<spare />
+		<counter>1</counter>
+	</word>
+	<word>
+		<lemma>piele</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<plural>piei</plural>
+		<definite>pielea</definite>
+		<swedish>hud, skinn</swedish>
+		<english>skin, hide</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2025-06-07 06:52:02.958888</index>
+	</word>
+	<word>
+		<tag>ADJ</tag>
+		<lemma>uscat</lemma>
+		<komparativ />
+		<superlativ />
+		<cathegory />
+		<swedish>torr</swedish>
+		<english>dry</english>
+		<explanation />
+		<example_use />
+		<index>2025-06-07 06:55:43.222822</index>
+		<synonym />
+		<opposite />
+		<spare />
+		<counter>1</counter>
+	</word>
+	<word>
+		<lemma>lipsă</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<plural>lipsuri</plural>
+		<definite>lipsa</definite>
+		<swedish>brist, avsaknad</swedish>
+		<english>deficit</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2025-06-07 06:58:26.644501</index>
+	</word>
+	<word>
+		<tag>VERB</tag>
+		<rules>
+			</rules>
+		<lemma>topi</lemma>
+		<swedish>smälta</swedish>
+		<english>melt</english>
+		<sing_1>topesc</sing_1>
+		<sing_2>topești</sing_2>
+		<sing_3>topește</sing_3>
+		<plur_1>topim</plur_1>
+		<plur_2>topiți</plur_2>
+		<plur_3>topesc</plur_3>
+		<conjunctiv_sing1>topesc</conjunctiv_sing1>
+		<conjunctiv_sing2>topești</conjunctiv_sing2>
+		<conjunctiv_sing3>topească</conjunctiv_sing3>
+		<conjunctiv_plur1>topim</conjunctiv_plur1>
+		<conjunctiv_plur2>topiți</conjunctiv_plur2>
+		<conjunctiv_plur3>topească</conjunctiv_plur3>
+		<imperfekt_sing_1>topeam</imperfekt_sing_1>
+		<imperfekt_sing_2>topeai</imperfekt_sing_2>
+		<imperfekt_sing_3>topea</imperfekt_sing_3>
+		<imperfekt_plur_1>topeam</imperfekt_plur_1>
+		<imperfekt_plur_2>topeați</imperfekt_plur_2>
+		<imperfekt_plur_3>topeau</imperfekt_plur_3>
+		<perfekt>topit</perfekt>
+		<gerunziu>topind</gerunziu>
+		<imperativ_sing>topește</imperativ_sing>
+		<imperativ_plur>topiți</imperativ_plur>
+		<cathegory />
+		<explanation />
+		<example_use />
+		<index>2025-06-07 07:05:00.143083</index>
+		<synonym />
+		<opposite />
+		<spare />
+		<counter>1</counter>
+	</word>
+	<word>
+		<lemma>jenă</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<plural>jene</plural>
+		<definite>jena</definite>
+		<swedish>förlägenhet</swedish>
+		<english />
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2025-06-07 07:08:32.500925</index>
+	</word>
+	<word>
+		<tag>ADJ</tag>
+		<lemma>penibil</lemma>
+		<komparativ />
+		<superlativ />
+		<cathegory />
+		<swedish>pinsam, genant</swedish>
+		<english />
+		<explanation />
+		<example_use />
+		<index>2025-06-07 07:09:56.759555</index>
+		<synonym />
+		<opposite />
+		<spare />
+		<counter>1</counter>
+	</word>
+	<word>
+		<lemma>tabletă</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<plural>tablete</plural>
+		<definite>tableta</definite>
+		<swedish>tablett, platta (om dator)</swedish>
+		<english>tablet</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2025-06-07 07:16:23.054413</index>
+	</word>
+	<word>
+		<lemma>ucigaș</lemma>
+		<tag>NOUN</tag>
+		<gender>m</gender>
+		<plural>ucigași</plural>
+		<definite>ucigașul</definite>
+		<swedish>mördare</swedish>
+		<english>murderer</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2025-06-07 07:19:30.159485</index>
+	</word>
+	<word>
+		<lemma>gen</lemma>
+		<tag>NOUN</tag>
+		<gender>n</gender>
+		<plural>genuri</plural>
+		<definite>genul</definite>
+		<swedish>sort, typ, kön (grammatik)</swedish>
+		<english />
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2025-06-07 07:24:25.680238</index>
+	</word>
+	<word>
+		<tag>ADJ</tag>
+		<lemma>conștiincios</lemma>
+		<komparativ />
+		<superlativ />
+		<cathegory />
+		<swedish>medveten, samvetsgrann</swedish>
+		<english />
+		<explanation />
+		<example_use />
+		<index>2025-06-07 07:26:40.744456</index>
+		<synonym />
+		<opposite />
+		<spare />
+		<counter>1</counter>
+	</word>
+	<word>
+		<lemma>înfrângere</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<plural>înfrângeri</plural>
+		<definite>înfrângerea</definite>
+		<swedish>nederlag</swedish>
+		<english />
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2025-06-07 07:29:18.094923</index>
+	</word>
+	<word>
+		<lemma>vis</lemma>
+		<tag>NOUN</tag>
+		<gender>n</gender>
+		<plural>vise</plural>
+		<definite>visul</definite>
+		<swedish>dröm</swedish>
+		<english />
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2025-06-07 07:31:51.364695</index>
+	</word>
+	<word>
+		<lemma>țigară</lemma>
+		<tag>NOUN</tag>
+		<gender>f</gender>
+		<plural>țigări</plural>
+		<definite>țigara</definite>
+		<swedish>cigarett</swedish>
+		<english>cigarett</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2025-06-07 08:37:22.349513</index>
+	</word>
 </dictionary>
