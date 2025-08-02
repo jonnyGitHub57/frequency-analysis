@@ -16230,4 +16230,57 @@
 		<counter>1</counter>
 		<index>2025-06-07 08:37:22.349513</index>
 	</word>
+	<word>
+		<lemma>cuprins</lemma>
+		<tag>NOUN</tag>
+		<gender>n</gender>
+		<plural>cuprinsuri</plural>
+		<definite>cuprinul</definite>
+		<swedish>innehåll</swedish>
+		<english>contents</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2025-07-21 19:26:23.156874</index>
+	</word>
+	<word>
+		<tag>VERB</tag>
+		<rules>
+			</rules>
+		<lemma>oprinde</lemma>
+		<swedish>tända eld på</swedish>
+		<english />
+		<sing_1>aprind</sing_1>
+		<sing_2>aprinzi</sing_2>
+		<sing_3>aprinde</sing_3>
+		<plur_1>aprindem</plur_1>
+		<plur_2>aprindeți</plur_2>
+		<plur_3>aprind</plur_3>
+		<conjunctiv_sing1>aprind</conjunctiv_sing1>
+		<conjunctiv_sing2>aprinzi</conjunctiv_sing2>
+		<conjunctiv_sing3>aprindă</conjunctiv_sing3>
+		<conjunctiv_plur1>aprindem</conjunctiv_plur1>
+		<conjunctiv_plur2>aprindeți</conjunctiv_plur2>
+		<conjunctiv_plur3>aprindă</conjunctiv_plur3>
+		<imperfekt_sing_1>aprindeam</imperfekt_sing_1>
+		<imperfekt_sing_2>aprindeai</imperfekt_sing_2>
+		<imperfekt_sing_3>aprindea</imperfekt_sing_3>
+		<imperfekt_plur_1>arpindeam</imperfekt_plur_1>
+		<imperfekt_plur_2>aprindeați</imperfekt_plur_2>
+		<imperfekt_plur_3>aprindeau</imperfekt_plur_3>
+		<perfekt>aprins</perfekt>
+		<gerunziu>aprinzând</gerunziu>
+		<imperativ_sing>aprinde</imperativ_sing>
+		<imperativ_plur>aprindeți</imperativ_plur>
+		<cathegory />
+		<explanation />
+		<example_use />
+		<index>2025-07-21 19:32:41.251909</index>
+		<synonym />
+		<opposite />
+		<spare />
+		<counter>1</counter>
+	</word>
 </dictionary>
