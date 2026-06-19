@@ -13,7 +13,7 @@ import sys
 sys.path.append('../Datorlingvistik/')
 
 # from datetime import datetime
-from Translate import User_translate
+# from Translate import User_translate
 from xml_test import XML_Wictionary
 import webbrowser
 from stanza_test import XML_statistics
@@ -38,7 +38,7 @@ class Wictionary(XML_Wictionary):
         self.debug = Debug
 
         super().__init__(self.language, self.debug)
-        self.translator = User_translate(self.language)        
+        # self.translator = User_translate(self.language)
         self.freq_analysis = XML_statistics(self.language, Debug=False)
         self.sorted_freq_data = self.freq_analysis.get_sorted_data()
         self.articles = self.find_gender_xref()
@@ -367,8 +367,8 @@ if __name__=='__main__':
                 if this_language.postfix_noun == True:
                     new_word[item] = input(str(item) + ': ')
             elif item == 'swedish':
-                google_suggest = this_language.translator.translate_to_swedish(input_word)
-                # google_suggest = 'nisse'
+                # google_suggest = this_language.translator.translate_to_swedish(input_word)
+                google_suggest = '--'
                 swedish = input(f'{item} ({google_suggest}): ')
                 new_word[item] = google_suggest if swedish == '' else swedish
             elif item == 'gender':
@@ -919,7 +919,8 @@ if __name__=='__main__':
                "l": ['List words', List_words],
                "s": ['Search word', Search_word],
                "e": ['Edit word', Update_word],
-               "o": ['Translate_submenu', Translate_submenu],
+               "o": ['Translate_submenu', Do_nothing],
+               # "o": ['Translate_submenu', Translate_submenu],
                "t": ['Take test', Word_test],
                "f": ['Frequency analysis', Frequency],
                "ff": ['Find word forms', Word_forms],

@@ -16283,4 +16283,19 @@
 		<spare />
 		<counter>1</counter>
 	</word>
+	<word>
+		<lemma>patrimoniu</lemma>
+		<tag>NOUN</tag>
+		<gender>n</gender>
+		<plural>patrimonii</plural>
+		<definite>patrimoniul</definite>
+		<swedish>arv, </swedish>
+		<english>heritage, legacy</english>
+		<explanation />
+		<example_use />
+		<synonym />
+		<opposite />
+		<counter>1</counter>
+		<index>2026-06-19 07:18:09.707566</index>
+	</word>
 </dictionary>
